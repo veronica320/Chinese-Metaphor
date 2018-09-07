@@ -1,4 +1,4 @@
-# Chinese-Metaphor-Recognition
+# Chinese-Metaphor
 CCL 2018 Shared Task - Classification and Sentiment Analysis of Metaphors in Chinese
 
 ## Task Description
