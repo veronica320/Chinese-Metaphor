@@ -34,6 +34,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
     1. 继续优化Embedding层
         1. 字词向量拼接
         2. 使用其他pre-trained embedding: e.g. 基于Penn State隐喻语料库训练的embedding, ELMo Embedding等
+        3. Universal Language Model Fine-tuning for Text Classification
     2. 将情感词库加入nn:
         1. 问题：如何将情感词汇对应的label信息加入进来？
     3. 动词、名词的subcategory
