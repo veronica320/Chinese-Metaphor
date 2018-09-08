@@ -26,7 +26,8 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
     1. 观察到overfitting严重，故尝试调整l2(↑), dropout(↑), smooth(↓)，但并未发现大的改变；同时发现同一模型表现不稳定（task2多次运行差距可达10%）
     2. Bad case其中有一部分是有转折的句子（e.g. 包含“怎么可能没”“无法”“既然”等词语）
     3. 发现数据中一部分标注存疑
-4. 获取Penn State中文隐喻语料库，可用于自训练word embedding
+4. 用macro F-score评测：task2最好表现33%
+5. 获取Penn State中文隐喻语料库，可用于自训练word embedding
 
 ## Todolist
 1. 基于NN baseline尝试更多feature:
@@ -39,7 +40,6 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
     4. Dependency relation
     5. 通过观察数据，考察虚词在两个子任务中起到的作用，再决定将虚词的哪些信息加入模型
     6. ...
-
 2. 尝试其他模型结构：
     1. 直接使用Embedding作为分类特征（参考'Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms'一文）
     2. 使用Transformer最为sentence encoder（参见'Attention Is All You Need'一文)
@@ -47,7 +47,6 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 4. task1/2分别调参
 5. 整理数据中的标注错误，联系组委询问
 6. 拉其他成员？
-7. Use F-score，macro F-score as eval metric
 
 ## Resources
 1. Penn State中文隐喻语料库(http://www.personal.psu.edu/xxl13/download.html)
