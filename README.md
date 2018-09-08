@@ -48,7 +48,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 3. Error analysis: 总结错误中的pattern, 分析模型误判的可能原因、各类隐喻的分布及语言学特征
 4. task1/2分别调参
 5. 整理数据中的标注错误，联系组委询问
-6. 拉其他成员？chengxinglun，wuchen
+6. 拉其他成员？
 
 ## Resources
 1. Penn State中文隐喻语料库(http://www.personal.psu.edu/xxl13/download.html)
