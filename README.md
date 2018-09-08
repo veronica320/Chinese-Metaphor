@@ -26,7 +26,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
         1. Google Translate 6种语言，实验了几种过滤方法，task2最好表现约53%
 3. 一点Error analysis：
     1. 观察到overfitting严重，故尝试调整l2(↑), dropout(↑), smooth(↓)，但并未发现大的改变；同时发现同一模型表现不稳定（task2多次运行差距可达10%）
-    2. Bad case其中有一大部分是有转折的句子（e.g. 包含“怎么可能没”“无法”“既然”等词语）
+    2. Bad case其中有一部分是有转折的句子（e.g. 包含“怎么可能没”“无法”“既然”等词语）
     3. 发现数据中一部分标注存疑
 4. 获取Penn State中文隐喻语料库，可用于自训练word embedding
 
