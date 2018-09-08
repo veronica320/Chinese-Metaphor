@@ -13,8 +13,6 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 * Email: 林鸿飞 irlab@dlut.edu.cn
 * QQ group: 604185567
 
-## Code Structure
-
 ## Done
 1. NN Baseline: 基于CGRU，最好表现(accuracy)task1约70%，task2约39%
     1. 对比：Majority Baseline，task2 37%
