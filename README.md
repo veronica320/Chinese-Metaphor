@@ -43,9 +43,8 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 2. 尝试其他模型结构：
     1. 直接使用Embedding作为分类特征（参考'Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms'一文）
     2. 使用Transformer最为sentence encoder（参见'Attention Is All You Need'一文)
-3. task1/2分别调参
-4. Error analysis: 总结错误中的pattern, 分析模型误判的可能原因、各类隐喻的分布及语言学特征
-3. task1/2分别调参
+3. Error analysis: 总结错误中的pattern, 分析模型误判的可能原因、各类隐喻的分布及语言学特征
+4. task1/2分别调参
 5. 整理数据中的标注错误，联系组委询问
 6. 拉其他成员？
 7. Use F-score，macro F-score as eval metric
