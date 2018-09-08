@@ -1,0 +1,45 @@
+CCL2018@Tsinghua 2018.07.19小结
+
+这周主要针对emo task的baseline系统做了初步的观察，以及试验了几个小的想法。
+
+一. Baseline表现分析
+	
+	初步观察Baseline的表现，发现：
+
+	1. overfitting问题比较严重（train acc早就达到.99+，然而val loss一直没有下降），可能是由于/模型结构/数据/训练参数的问题；
+	##### 增加数据量；加大conf.py里l2和dropout的值）#####
+	2. 对某个label（“好”）有很强的bias，可能是由于不同label本身的先验分布就很不均匀（“好”在训练数据中占了将近50%，而“惊”才2%..）
+	##### 减小conf.py里smooth的值 #####
+
+二. 实验
+	
+	在Baseline基础上，做了以下几个简单的尝试：
+
+	1. 提高learning rate：
+		由于overfitting问题，尝试将lr由0.001提高至0.1，发现训练出来的model只会predict“好”了。然而，acc比baseline提高了(0.385→0.388)，i.e. 简单predict by majority也是可以到0.38的...以baseline model似乎没有学到什么（QAQ）
+		##### 不建议提高lr，特别是一下子提高到0.1，这样真的能converge么...？ #####
+	2. 用pre-trained word embedding：
+		找了一下中文的隐喻语料库，发现大连理工（组织方）发了文章声称他们做的这个语料库就是史无前例的；不过另一个人似乎也做过（https://link.springer.com/article/10.1007/s10579-017-9392-9#Sec12），不知是否publicly available，我发邮件去问了；
+		于是目前试了三种不同的pre-trained embedding（https://github.com/Embedding/Chinese-Word-Vectors），都是char level：
+		1. Wiki：*0.482*
+		2. Baidubaike：0.397
+		3. 文学作品：Acc 0.377
+		Wiki还是很给力的！
+		##### 在训练语料较少的情况下，用pre-trained embedding一定可以提高准确率；可以尝试找一些跟训练语料更接近的corpus来做w2v的预训练 #####
+
+三. 待解决问题
+
+	1. 数据太少：某些label的instance太少了，感觉很难消除bias。
+	##### 通过多语种back-translation扩充训练集；在数据严重缺乏的情况下，人工的feature选取应该可以显著提高模型表现 #####
+	2. 问组委标注的问题：上次开会时提到的数据标注问题（根本不是比喻句/视角双标）等，需向组委确认。
+	##### 组委会联系方式：林鸿飞 <irlab@dlut.edu.cn>，很抱歉我还没整理好案例联系他们... #####
+	3. 进一步做Error analysis：这个任务感觉是可以群里的同学一起来做的，看看能不能从语言学的视角发现点什么。
+	##### 强烈建议有时间的同学多从这个角度提供自己的分析 #####
+	4. 继续试验别的feature：
+		POS，lexicon，back translation，dependency...
+		有个问题：我不太清楚这个lexicon（情感词汇本体库）要如何加到我们的模型中来？
+		##### 先通过字符串匹配，标记出句子中情感词；然后通过加权重、单独提取为一个特征向量（average/max pooling）等方式，加入现有模型中 #####
+	5. 实现F-score评测
+	##### 具体的评测公式在任务描述里有写，可以按照它的标准来计算衡量指标 #####
+
+
