@@ -36,12 +36,11 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
         2. 使用其他pre-trained embedding: e.g. 基于Penn State隐喻语料库训练的embedding, ELMo Embedding等
         3. Universal Language Model Fine-tuning for Text Classification
     2. 将情感词库加入nn:
-        1. 问题：如何将情感词汇对应的label信息加入进来？
+        1. 问题：如何将情感词汇对应的label信息加入进来？对label做embedding
     3. 动词、名词的subcategory
     4. Dependency relation
-    5. 通过观察数据，考察虚词在两个子任务中起到的作用，再决定将虚词的哪些信息加入模型
-    6. 虚词：什么样的信息有帮助？
-    7. ...
+    5. 通过观察数据，考察虚词在两个子任务中起到的作用，再决定将虚词的哪些信息加入模型。虚词：什么样的信息有帮助？
+    6. ...
 2. 尝试其他模型结构：
     1. 直接使用Embedding作为分类特征（参考'Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms'一文）
     2. 使用Transformer最为sentence encoder（参见'Attention Is All You Need'一文)
@@ -49,7 +48,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 3. Error analysis: 总结错误中的pattern, 分析模型误判的可能原因、各类隐喻的分布及语言学特征
 4. task1/2分别调参
 5. 整理数据中的标注错误，联系组委询问
-6. 拉其他成员？
+6. 拉其他成员？chengxinglun，wuchen
 
 ## Resources
 1. Penn State中文隐喻语料库(http://www.personal.psu.edu/xxl13/download.html)
