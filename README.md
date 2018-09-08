@@ -55,4 +55,4 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 2. 大连理工情感词汇本体库(http://ir.dlut.edu.cn/EmotionOntologyDownload)
 
 ## Problems
-* GPU?
+* GPU：宇潇学长公司有！
