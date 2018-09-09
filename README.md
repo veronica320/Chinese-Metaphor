@@ -18,6 +18,9 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 * /paper：相关文献
 * /pretrained_emb: 网上下载的预训练word embedding（基于wikipedia），已过滤好
 * /src：代码
+* /results: 模型评测结果和生成的测试标签
+* /models: 需要自己建一下这个路径，下面设/verb和/emo两个子路径，用于存放训练好的模型
+* /submission: 提交的结果文件，按日期存放
 
 # Code Structure
 1. 核心代码：
