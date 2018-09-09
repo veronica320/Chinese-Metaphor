@@ -9,7 +9,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 * 测试数据（无标签）: http://ir.dlut.edu.cn/File/Download?cid=3 《CCL 2018 中文隐喻识别与情感分析测试数据》
 * 提醒：按组织方要求，该数据集仅可为本次评测任务使用，其它情况下使用需与组织方联系。
 
-# Repo Structure
+## Repo Structure
 * /Corpus: 存储Penn StateUCMC中文隐喻语料库（暂时用不到）
 * /data: 训练和测试数据
 * /dicts: 两个子任务的关系词典，以及词汇表
@@ -22,7 +22,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 * /models: 需要自己建一下这个路径，下面设/verb和/emo两个子路径，用于存放训练好的模型
 * /submission: 提交的结果文件，按日期存放
 
-# Code Structure
+## Code Structure
 1. 核心代码：
       1. conf.py: 设置各种参数
       2. multi_cgru_keras.py: 模型结构
@@ -36,7 +36,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
       4. data_provider.py: 读取数据，为训练做准备
       5. filter_wordemb.py: 基于train和test data过滤预训练词向量，只保留data中出现的词（目前的wiki词向量已过滤好）
 
-# How to run code
+## How to run code
 1. 在conf.py中设置相关参数
 2. 运行train.py，训练模型
 3. 运行eva_model.py, 评估模型表现
