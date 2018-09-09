@@ -9,10 +9,35 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 * 测试数据（无标签）: http://ir.dlut.edu.cn/File/Download?cid=3 《CCL 2018 中文隐喻识别与情感分析测试数据》
 * 提醒：按组织方要求，该数据集仅可为本次评测任务使用，其它情况下使用需与组织方联系。
 
-## Organizor
-大连理工大学信息检索研究室
-* Email: 林鸿飞 irlab@dlut.edu.cn
-* QQ group: 604185567
+# Repo Structure
+* /Corpus: 存储Penn StateUCMC中文隐喻语料库（暂时用不到）
+* /data: 训练和测试数据
+* /dicts: 两个子任务的关系词典，以及词汇表
+* /memo: 会议记录
+* /model_structure: nn模型的结构图
+* /paper：相关文献
+* /pretrained_emb: 网上下载的预训练word embedding（基于wikipedia），已过滤好
+* /src：代码
+
+# Code Structure
+核心代码：
+* conf.py: 设置各种参数
+* multi_cgru_keras.py: 模型结构
+* train.py: 在90%的训练数据上训练模型
+* eva_model.py：在10%的训练数据上评测模型表现
+* generate_test_labels.py: 在测试集上预测标签
+辅助代码:
+* split_data.py: 把训练集分成90%（用于训练）和10%（用于评测模型表现）
+* back_translate.py: 用Google Translate API来增加训练数据
+* convert_data.py: 把数据从xml转换成txt，把数字标签转换为易理解的文字标签
+* data_provider.py: 读取数据，为训练做准备
+* filter_wordemb.py: 基于train和test data过滤预训练词向量，只保留data中出现的词（目前的wiki词向量已过滤好）
+
+# How to run code
+1. 在conf.py中设置相关参数
+2. 运行train.py，训练模型
+3. 运行eva_model.py, 评估模型表现
+4. 根据第三步中的评估结果，选出表现较好的模型用generate_test_labels生成测试数据标签
 
 ## Done
 1. NN Baseline: 基于CGRU，最好表现(accuracy)task1约70%，task2约39%
@@ -57,3 +82,8 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 
 ## Problems
 * GPU：宇潇学长公司有！
+
+## Organizor
+大连理工大学信息检索研究室
+* Email: 林鸿飞 irlab@dlut.edu.cn
+* QQ group: 604185567
