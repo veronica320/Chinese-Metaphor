@@ -3,6 +3,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 
 ## Task Description
 * 任务细节: http://ir.dlut.edu.cn/news/detail/508
+* Update: 子任务一为二分类任务，只需辨别是否是动词隐喻即可
 * 时间：9.30截止。每支队伍可于9月9日、9月16日、9月23日、9月30日，截止每周日晚上十点提交结果；每支队伍在每个星期最多仅可提交三次，并按照最后提交的结果计算排名。于9月10日、17日、24日、10月1日下午五点前公布在网址（http://ir.dlut.edu.cn/）。
 * 训练数据: http://ir.dlut.edu.cn/File/Download?cid=3 《CCL 2018 中文隐喻识别与情感分析评测数据》
 * 测试数据（无标签）: http://ir.dlut.edu.cn/File/Download?cid=3 《CCL 2018 中文隐喻识别与情感分析测试数据》
