@@ -1,0 +1,424 @@
+﻿<p>
+<s n="0003">
+<w POS="m">一</w>
+<c POS="w">、</c>
+<w POS="n">法律</w>
+<w POS="c">与</w>
+<w POS="n">科学技术</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">关系</seg></w>
+<w POS="c">及其</w>
+<w POS="vn">发展</w>
+</s>
+</p>
+<p>
+<s n="0004">
+<w POS="n">法律</w>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="n">国家</w>
+<w POS="n">权力</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机关</seg></w>
+<w POS="v">制定</w>
+<w POS="c">或</w>
+<w POS="v">认可</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">体现</w>
+<w POS="n">国家</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="pers">意志</seg></w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="c">并且</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="n">国家</w>
+<w POS="n">强制力</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">保证</seg></w>
+<w POS="r">其</w>
+<w POS="v">实施</w>
+<w POS="u">的</w>
+<w POS="n">行为</w>
+<w POS="n">规范</w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">人类</w>
+<w POS="n">历史</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<c POS="w">，</c>
+<w POS="n">法律</w>
+<w POS="c">和</w>
+<w POS="n">国家</w>
+<w POS="d">几乎</w>
+<w POS="d">同时</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">问世</seg></w>
+<c POS="w">，</c>
+<w POS="c">并且</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">随着</seg></w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="c">和</w>
+<w POS="v">交换</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">关系</seg></w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<w POS="c">而</w>
+<w POS="d">不断</w>
+<w POS="v">发展</w>
+<c POS="ew">。</c>
+</s>
+<s n="0006">
+<w POS="c">但</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">漫长</seg></w>
+<w POS="u">的</w>
+<w POS="n">岁月</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="n">法律</w>
+<w POS="c">与</w>
+<w POS="n">科学技术</w>
+<w POS="d">一直</w>
+<w POS="v">是</w>
+<w POS="m">两</w>
+<w POS="q">个</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">相隔</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">遥远</seg></w>
+<c POS="w">、</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="pers">彼此</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="pers">陌生</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">领域</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="v">体现</w>
+<w POS="a">反动</w>
+<w POS="l">统治阶级</w>
+<w POS="n">意志</w>
+<w POS="u">的</w>
+<w POS="n">法律</w>
+<c POS="w">，</c>
+<w POS="d">曾</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="pers">顽固</seg></w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">站</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">在</seg></w>
+<w POS="n">科学技术</w>
+<w POS="u">的</w>
+<w POS="n">对立面</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0008">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">公元</w>
+<w POS="m">５</w>
+<w POS="n">世纪</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="m">l５</w>
+<w POS="n">世纪</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="ns">欧洲</w>
+<w POS="t">中世纪</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">黑暗</seg></w>
+<w POS="n">岁月</w>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="n">宗教</w>
+<w POS="v">是</w>
+<w POS="n">国家</w>
+<w POS="u">的</w>
+<w POS="n">宗教</w>
+<c POS="w">，</c>
+<w POS="n">国家</w>
+<w POS="v">是</w>
+<w POS="n">宗教</w>
+<w POS="u">的</w>
+<w POS="n">国家</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="t">当时</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">僵死</seg></w>
+<w POS="u">的</w>
+<w POS="n">宗教</w>
+<w POS="n">信条</w>
+<w POS="v">成</w>
+<w POS="u">了</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">最高</seg></w>
+<w POS="u">的</w>
+<w POS="n">法律</w>
+<c POS="w">，</c>
+<w POS="n">科学</w>
+<w POS="d">不得不</w>
+<w POS="v">成为</w>
+<w POS="n">神学</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">婢女</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0011">
+<w POS="n">法条</w>
+<w POS="v">成</w>
+<w POS="u">了</w>
+<w POS="n">科学技术</w>
+<w POS="vn">发展</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">沉重</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">桎梏</seg></w>
+<c POS="ew">；</c>
+</s>
+<s n="0012">
+<w POS="r">我们</w>
+<w POS="d">不</w>
+<w POS="v">应当</w>
+<w POS="v">忘记</w>
+<w POS="n">历史</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">那</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="pers">悲惨</seg></w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="cont">页</seg></w>
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="r">多少</w>
+<w POS="n">科学家</w>
+<c POS="w">、</c>
+<w POS="n">发明家</w>
+<c POS="w">、</c>
+<w POS="n">思想家</w>
+<w POS="i">身陷囹圄</w>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="r">他们</w>
+<w POS="i">无所畏惧</w>
+<w POS="u">地</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">向</seg></w>
+<w POS="vn">迷信</w>
+<w POS="c">和</w>
+<w POS="an">愚昧</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">宣战</seg></w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">揭示</seg></w>
+<w POS="u">了</w>
+<w POS="l">自然科学</w>
+<w POS="u">的</w>
+<w POS="n">真理</w>
+<c POS="w">．</c>
+<w POS="r">自己</w>
+<w POS="d">却</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">在</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="pers">残酷</seg></w>
+<w POS="u">的</w>
+<w POS="n">法</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">剑</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">下</seg></w>
+<w POS="d">过早</w>
+<w POS="u">地</w>
+<w POS="v">结束</w>
+<w POS="u">了</w>
+<w POS="n">人生</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="v">提出</w>
+<w POS="n">地</w>
+<w POS="v">动</w>
+<w POS="n">说</w>
+<w POS="u">的</w>
+<w POS="ns">意大利</w>
+<w POS="n">科学家</w>
+<w POS="nr">布鲁诺</w>
+<c POS="w">，</c>
+<w POS="v">阐明</w>
+<w POS="n">日</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">心</seg></w>
+<w POS="n">说</w>
+<w POS="u">的</w>
+<w POS="ns">意大利</w>
+<w POS="n">物理学家</w>
+<w POS="nr">伽利略</w>
+<c POS="w">，</c>
+<w POS="v">开创</w>
+<w POS="t">现代</w>
+<w POS="n">解剖学</w>
+<w POS="u">的</w>
+<w POS="ns">比利时</w>
+<w POS="n">科学家</w>
+<w POS="nr">维萨里</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="d">曾</w>
+<w POS="p">被</w>
+<w POS="t">当时</w>
+<w POS="u">的</w>
+<w POS="n">宗教</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="cont">裁判</seg></w>
+<w POS="ng">所</w>
+<w POS="v">处以</w>
+<w POS="n">极刑</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="p">在</w>
+<w POS="s">东方</w>
+<w POS="n">国度</w>
+<w POS="f">里</w>
+<c POS="w">，</c>
+<w POS="a">类似</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">悲剧</seg></w>
+<w POS="d">也</w>
+<w POS="d">不断</w>
+<w POS="v">发生</w>
+<c POS="ew">。</c>
+</s>
+<s n="0016">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="ns">中国</w>
+<w POS="l">封建社会</w>
+<w POS="u">的</w>
+<w POS="n">法律</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="n">科学</w>
+<w POS="c">和</w>
+<w POS="n">技术</w>
+<w POS="n">成就</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">得不到</seg></w>
+<w POS="vn">保护</w>
+<c POS="ew">。</c>
+</s>
+<s n="0017">
+<w POS="a">新颖</w>
+<w POS="u">的</w>
+<w POS="n">技术</w>
+<w POS="n">创造</w>
+<w POS="p">被</w>
+<w POS="v">说</w>
+<w POS="v">成</w>
+<w POS="v">是</w>
+<w POS="ag">奇</w>
+<w POS="ng">技</w>
+<w POS="ag"><seg function="mrw" type="indir" subtype="conv">淫</seg></w>
+<w POS="ng">巧</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">自然</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="vn">解释</w>
+<w POS="p">被</w>
+<w POS="l">斥之为</w>
+<w POS="i">异端邪说</w>
+<c POS="ew">。</c>
+</s>
+<s n="0018">
+<w POS="u">连</w>
+<w POS="n">技艺</w>
+<w POS="a">出众</w>
+<w POS="u">的</w>
+<w POS="n">工匠</w>
+<w POS="d">也</w>
+<w POS="d">只不过</w>
+<w POS="v">是</w>
+<w POS="ng">巫</w>
+<w POS="n">工</w>
+<w POS="n">乐师</w>
+<c POS="w">，</c>
+<w POS="n">君子</w>
+<w POS="v">不齿</w>
+<c POS="ew">。</c>
+</s>
+<s n="0019">
+<w POS="ns">日本</w>
+<w POS="nz">享保</w>
+<w POS="m">６</w>
+<w POS="q">年</w>
+<w POS="v">发布</w>
+<w POS="u">的</w>
+<c POS="w">《</c>
+<w POS="a">新</w>
+<w POS="ng">规</w>
+<w POS="n">法度</w>
+<c POS="w">》</c>
+<w POS="c">则</w>
+<w POS="d">更为</w>
+<w POS="a">荒唐</w>
+<c POS="w">，</c>
+<w POS="d">竟然</w>
+<w POS="v">禁止</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">食品</w>
+<c POS="w">、</c>
+<w POS="n">服装</w>
+<w POS="u">的</w>
+<w POS="r">任何</w>
+<w POS="vn">改进</w>
+<c POS="w">，</c>
+<w POS="c">否则</w>
+<w POS="v">视为</w>
+<w POS="v">亵渎</w>
+<w POS="n">神明</w>
+<c POS="ew">。</c>
+</s>
+<s n="0020">
+<w POS="a">科学</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">幼芽</seg></w>
+<w POS="v">只能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">绕过</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">顽石</seg></w>
+<w POS="a">艰难</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">生长</seg></w>
+<c POS="w">，</c>
+<w POS="n">技术</w>
+<w POS="u">的</w>
+<w POS="vn">革新</w>
+<w POS="d">也</w>
+<w POS="v">只能</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">长夜</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="pers">困苦</seg></w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">爬行</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0021">
+<w POS="n">科学</w>
+<w POS="n">先驱</w>
+<w POS="u">的</w>
+<w POS="n">命运</w>
+<w POS="r">如此</w>
+<w POS="a">不幸</w>
+<c POS="w">，</c>
+<w POS="d">也许</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">就是</w>
+<w POS="r">为什么</w>
+<w POS="nr">马克思</w>
+<w POS="p">把</w>
+<w POS="n">科学</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">大门</seg></w>
+<w POS="v"><seg function="mflag">比喻</seg></w>
+<w POS="p">为</w>
+<w POS="n"><seg function="mrw" type="dir">地狱</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="dir">入口</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+

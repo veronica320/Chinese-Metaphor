@@ -1,0 +1,508 @@
+﻿<p>
+<s n="0022">
+<w POS="r">她</w>
+<w POS="v">努</w>
+<w POS="u">着</w>
+<w POS="n">嘴</w>
+<w POS="ad">用力</w>
+<w POS="v">吹</w>
+<w POS="v">灭</w>
+<w POS="u">了</w>
+<w POS="n">生日</w>
+<w POS="n">蛋糕</w>
+<w POS="f">上</w>
+<w POS="u">的</w>
+<w POS="m">９</w>
+<w POS="q">支</w>
+<w POS="n">蜡烛</w>
+<c POS="w">，</c>
+<w POS="f">周围</w>
+<w POS="u">的</w>
+<w POS="n">同学</w>
+<w POS="c">和</w>
+<w POS="n">老师</w>
+<w POS="d">都</w>
+<w POS="a">热烈</w>
+<w POS="u">地</w>
+<w POS="v">鼓</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<w POS="n">掌</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">来</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0023">
+<w POS="n">掌声</w>
+<w POS="t">过后</w>
+<c POS="w">，</c>
+<w POS="r">大家</w>
+<w POS="a">欣喜</w>
+<w POS="u">的</w>
+<w POS="s">脸上</w>
+<w POS="d"><seg function="mflag">似</seg></w>
+<w POS="v"><seg function="mrw" type="dir">有</seg></w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="cont">缕</seg></w>
+<w POS="an"><seg function="mrw" type="dir">忧愁</seg></w>
+<w POS="v"><seg function="mrw" type="dir">掠过</seg></w>
+<c POS="w">，</c>
+<w POS="s">眼里</w>
+<w POS="d">慢慢</w>
+<w POS="v">涌出</w>
+<w POS="u">了</w>
+<w POS="n">泪花</w>
+<c POS="ew">。</c>
+</s>
+<s n="0024">
+<w POS="r">他们</w>
+<w POS="a">深情</w>
+<w POS="u">地</w>
+<w POS="v">注视</w>
+<w POS="u">着</w>
+<w POS="r">她</w>
+<c POS="w">，</c>
+<w POS="d">仿佛</w>
+<w POS="u">在</w>
+<w POS="v">问</w>
+<c POS="w">：</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="t">明年</w>
+<w POS="u">的</w>
+<w POS="t">１２月</w>
+<w POS="t">１０日</w>
+<c POS="w">，</c>
+<w POS="r">她</w>
+<w POS="d">还</w>
+<w POS="v">能</w>
+<w POS="v">吹</w>
+<w POS="v">灭</w>
+<w POS="m">１０</w>
+<w POS="q">支</w>
+<w POS="n">生日</w>
+<w POS="n">蜡烛</w>
+<w POS="y">吗</w>
+<c POS="ew">？</c>
+</s>
+</p>
+<p>
+<s n="0025">
+<w POS="r">她</w>
+<w POS="u">的</w>
+<w POS="n">老师</w>
+<c POS="w">、</c>
+<w POS="ns">皇姑区</w>
+<w POS="ns">天山</w>
+<w POS="m">一</w>
+<w POS="ng">校</w>
+<w POS="m">２</w>
+<w POS="q">年</w>
+<w POS="m">４</w>
+<w POS="q">班</w>
+<w POS="n">班主任</w>
+<w POS="p">在</w>
+<w POS="f">一旁</w>
+<w POS="p">对</w>
+<w POS="r">我们</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">小</seg></w>
+<w POS="nr">邢</w>
+<w POS="nr">阳</w>
+<w POS="p">因</w>
+<w POS="v">患</w>
+<c POS="w">'</c>
+<w POS="n">淋巴细胞</w>
+<w POS="n">白血病</w>
+<c POS="w">'</c>
+<w POS="d">已</w>
+<w POS="v">离开</w>
+<w POS="n">学校</w>
+<w POS="m">半</w>
+<w POS="q">年</w>
+<w POS="m">多</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0026">
+<w POS="t">今天</w>
+<w POS="v">是</w>
+<w POS="r">她</w>
+<w POS="u">的</w>
+<w POS="n">生日</w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="p">把</w>
+<w POS="r">她</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接</seg></w>
+<w POS="v">回</w>
+<w POS="n">学校</w>
+<c POS="w">，</c>
+<w POS="p">为</w>
+<w POS="r">她</w>
+<w POS="v">举办</w>
+<w POS="u">了</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<c POS="w">'</c>
+<w POS="v">祝</w>
+<w POS="r">你</w>
+<w POS="d">悄悄</w>
+<w POS="v">长大</w>
+<c POS="w">'</c>
+<w POS="n">生日</w>
+<w POS="n">班会</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0027">
+<w POS="m">６４</w>
+<w POS="q">个</w>
+<w POS="n">小伙伴</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<c POS="w">＂</c>
+<w POS="v">祝</w>
+<w POS="r">你</w>
+<w POS="n">生日</w>
+<w POS="an">快乐</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="n">旋律</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="i">争先恐后</w>
+<w POS="u">地</w>
+<w POS="p">把</w>
+<w POS="vn">学习</w>
+<w POS="n">用品</w>
+<c POS="w">、</c>
+<w POS="a">小</w>
+<w POS="n">玩具</w>
+<w POS="u">等</w>
+<w POS="n">生日</w>
+<w POS="n">礼物</w>
+<w POS="v">递</w>
+<w POS="v">到</w>
+<w POS="r">她</w>
+<w POS="u">的</w>
+<w POS="s">手上</w>
+<c POS="ew">。</c>
+</s>
+<s n="0028">
+<w POS="r"><seg function="mrw" type="indir" subtype="widlii">这个</seg></w>
+<w POS="n">班</w>
+<w POS="c">和</w>
+<w POS="r">其他</w>
+<w POS="n">年级</w>
+<w POS="u">的</w>
+<w POS="n">孩子</w>
+<w POS="k">们</w>
+<w POS="d">还</w>
+<w POS="v">表演</w>
+<w POS="u">了</w>
+<w POS="ad">精心</w>
+<w POS="v">编排</w>
+<w POS="u">的</w>
+<w POS="n">文艺</w>
+<w POS="n">节目</w>
+<c POS="w">，</c>
+<w POS="c">以</w>
+<w POS="v">表达</w>
+<w POS="p">对</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">小</seg></w>
+<w POS="nr">邢</w>
+<w POS="nr">阳</w>
+<w POS="u">的</w>
+<w POS="vn">祝愿</w>
+<c POS="ew">。</c>
+</s>
+<s n="0029">
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">小</seg></w>
+<w POS="nr">邢</w>
+<w POS="nr">阳</w>
+<w POS="d">也</w>
+<w POS="a">高兴</w>
+<w POS="u">地</w>
+<w POS="p">和</w>
+<w POS="r">大家</w>
+<w POS="d">一起</w>
+<w POS="d">尽情</w>
+<w POS="u">地</w>
+<w POS="v">跳</w>
+<w POS="u">着</w>
+<w POS="v">唱</w>
+<w POS="u">着</w>
+<c POS="w">，</c>
+<w POS="a">小</w>
+<w POS="n">脸</w>
+<w POS="p">因</w>
+<w POS="a">激动</w>
+<w POS="c">而</w>
+<w POS="d">微微</w>
+<w POS="v">发红</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0030">
+<c POS="w">＂</c>
+<w POS="nr">阳阳</w>
+<w POS="r">这</w>
+<w POS="n">孩子</w>
+<w POS="d">真</w>
+<w POS="a">懂事</w>
+<c POS="w">，</c>
+<w POS="t">今天</w>
+<w POS="m">一</w>
+<w POS="tg">早</w>
+<w POS="d">就</w>
+<w POS="p">对</w>
+<w POS="r">我</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="n">妈妈</w>
+<c POS="w">，</c>
+<w POS="t">今天</w>
+<w POS="r">我</w>
+<w POS="d">不</w>
+<w POS="v">哭</w>
+<c POS="ew">。</c>
+</s>
+<s n="0031">
+<w POS="r">大家</w>
+<w POS="p">对</w>
+<w POS="r">我</w>
+<w POS="r">那么</w>
+<w POS="a">好</w>
+<c POS="w">，</c>
+<w POS="r">我</w>
+<w POS="m">一</w>
+<w POS="v">哭</w>
+<w POS="r">他们</w>
+<w POS="d">也</w>
+<w POS="v">流泪</w>
+<c POS="w">，</c>
+<w POS="ad">多</w>
+<w POS="v">对不住</w>
+<w POS="n">老师</w>
+<w POS="c">和</w>
+<w POS="n">同学</w>
+<w POS="e">啊</w>
+<c POS="ew">！</c>
+</s>
+<s n="0032">
+<w POS="p">据</w>
+<w POS="n">医生</w>
+<w POS="v">讲</w>
+<c POS="w">，</c>
+<w POS="nr">阳阳</w>
+<w POS="u">的</w>
+<w POS="n">病</w>
+<w POS="c">只有</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做</seg></w>
+<w POS="n">骨髓</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">移植</seg></w>
+<w POS="n">手术</w>
+<c POS="w">，</c>
+<w POS="d">或许</w>
+<w POS="v">有</w>
+<w POS="m">６０％</w>
+<w POS="u">的</w>
+<w POS="vn">希望</w>
+<c POS="w">，</c>
+<w POS="c">否则</w>
+<w POS="r">她</w>
+<w POS="v">只有</w>
+<w POS="m">１％</w>
+<w POS="u">的</w>
+<w POS="vn">生存</w>
+<w POS="n">机会</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="c">可</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做</seg></w>
+<w POS="n">骨髓</w>
+<w POS="vd"><seg function="mrw" type="indir" subtype="conv">移植</seg></w>
+<w POS="v">手术</w>
+<w POS="v">要</w>
+<w POS="v">花</w>
+<w POS="m">３万</w>
+<w POS="m">多</w>
+<w POS="q">元</w>
+<w POS="n">钱</w>
+<c POS="w">，</c>
+<w POS="nr">阳阳</w>
+<w POS="v">说</w>
+<w POS="r">什么</w>
+<w POS="d">也</w>
+<w POS="v">不肯</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0034">
+<w POS="r">她</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="p">为了</w>
+<w POS="p">给</w>
+<w POS="r">我</w>
+<w POS="v">治病</w>
+<c POS="w">，</c>
+<w POS="n">全校</w>
+<w POS="n">师生</w>
+<w POS="d">已经</w>
+<w POS="v">捐</w>
+<w POS="u">了</w>
+<w POS="m">１２００</w>
+<w POS="m">多</w>
+<w POS="q">元</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0035">
+<w POS="r">我</w>
+<w POS="d">不</w>
+<w POS="v">想</w>
+<w POS="d">再</w>
+<w POS="v">拖累</w>
+<w POS="n">家长</w>
+<c POS="w">、</c>
+<w POS="n">老师</w>
+<w POS="c">和</w>
+<w POS="n">同学</w>
+<w POS="k">们</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0036">
+<w POS="nr">邢</w>
+<w POS="nr">阳</w>
+<w POS="u">的</w>
+<w POS="n">妈妈</w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="a">普通</w>
+<w POS="u">的</w>
+<w POS="n">女工</w>
+<w POS="v">抹</w>
+<w POS="u">着</w>
+<w POS="n">眼泪</w>
+<w POS="z">悄悄地</w>
+<w POS="p">对</w>
+<w POS="v">坐</w>
+<w POS="p">在</w>
+<w POS="s">身旁</w>
+<w POS="u">的</w>
+<w POS="n">老师</w>
+<w POS="v">说</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0037">
+<w POS="n">班会</w>
+<w POS="v">结束</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">小</seg></w>
+<w POS="nr">邢</w>
+<w POS="nr">阳</w>
+<w POS="p">向</w>
+<w POS="r">大家</w>
+<w POS="d">深深地</w>
+<w POS="vg">鞠</w>
+<w POS="u">了</w>
+<w POS="m">一</w>
+<w POS="n">躬</w>
+<c POS="w">，</c>
+<w POS="n">眼圈</w>
+<w POS="a">红红</w>
+<w POS="u">地</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="d">也许</w>
+<w POS="r">我</w>
+<w POS="d">永远</w>
+<w POS="v">只有</w>
+<w POS="m">９</w>
+<w POS="q">岁</w>
+<w POS="y">了</w>
+<c POS="w">，</c>
+<w POS="c">但是</w>
+<w POS="r">我</w>
+<w POS="d">永远</w>
+<w POS="d">也</w>
+<w POS="v">忘不了</w>
+<w POS="n">老师</w>
+<c POS="w">、</c>
+<w POS="n">同学</w>
+<w POS="c">和</w>
+<w POS="f">周围</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">给</seg></w>
+<w POS="u">了</w>
+<w POS="r">我</w>
+<w POS="n">妈妈</w>
+<w POS="a">一样</w>
+<w POS="u">的</w>
+<w POS="vn">爱</w>
+<c POS="ew">。</c>
+</s>
+<s n="0038">
+<w POS="r">我</w>
+<w POS="p">给</w>
+<w POS="r">大家</w>
+<w POS="v">唱</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">支</seg></w>
+<w POS="n">歌</w>
+<w POS="y">吧</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0039">
+<c POS="w">＂</c>
+<w POS="s">世上</w>
+<w POS="v">只有</w>
+<w POS="n">妈妈</w>
+<w POS="a">好</w>
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="n">妈</w>
+<w POS="u">的</w>
+<w POS="n">孩子</w>
+<w POS="v"><seg function="mflag">像</seg></w>
+<w POS="q">块</w>
+<w POS="n"><seg function="mrw" type="dir">宝</seg></w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0040">
+<w POS="a">稚嫩</w>
+<w POS="u">的</w>
+<w POS="n">歌声</w>
+<w POS="p">在</w>
+<w POS="n">教室</w>
+<w POS="f">里</w>
+<w POS="v">萦绕</w>
+<c POS="w">，</c>
+<w POS="n">泪花</w>
+<w POS="p">在</w>
+<w POS="r">每个</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="s">脸上</w>
+<w POS="v">闪动</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

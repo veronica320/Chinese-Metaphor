@@ -1,0 +1,513 @@
+﻿<p>
+<s n="0049">
+<w POS="m">三</w>
+<c POS="w">、</c>
+<w POS="n">电脑</w>
+<w POS="n">语义</w>
+<w POS="n">知识</w>
+<w POS="u">的</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获取</seg></w>
+</s>
+</p>
+<p>
+<s n="0050">
+<w POS="v">要</w>
+<w POS="v">让</w>
+<w POS="n">电脑</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">理解</seg></w>
+<w POS="nz">汉语</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="d">必须</w>
+<w POS="d">首先</w>
+<w POS="v">让</w>
+<w POS="n">电脑</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获取</seg></w>
+<w POS="nz">汉语</w>
+<w POS="n">语义</w>
+<w POS="n">知识</w>
+<c POS="w">，</c>
+<w POS="l">也就是说</w>
+<w POS="v">要</w>
+<w POS="v">模拟</w>
+<w POS="n">人脑</w>
+<w POS="p">给</w>
+<w POS="n">电脑</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">建造</seg></w>
+<w POS="m">一个</w>
+<w POS="n">静态</w>
+<w POS="n">语义</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">网</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0051">
+<w POS="n">理论</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">信息</seg></w>
+<w POS="vn">处理</w>
+<w POS="v">用</w>
+<w POS="u">的</w>
+<w POS="nz">汉语</w>
+<w POS="u">的</w>
+<w POS="n">静态</w>
+<w POS="n">语义</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">网</seg></w>
+<c POS="w">，</c>
+<w POS="v">应当</w>
+<w POS="v">是</w>
+<w POS="nz">汉语</w>
+<w POS="n">语义</w>
+<w POS="n">知识</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">全集</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0052">
+<w POS="c">由于</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">全集</seg></w>
+<w POS="d">十分</w>
+<w POS="a">复杂</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">庞大</seg></w>
+<c POS="w">，</c>
+<w POS="c">且</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">充满</seg></w>
+<w POS="u">了</w>
+<w POS="l">各种各样</w>
+<w POS="u">的</w>
+<w POS="a">广泛</w>
+<w POS="u">的</w>
+<w POS="n">语义</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">关系</seg></w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">工程</w>
+<w POS="v">实施</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">角度</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出发</seg></w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="d">不</w>
+<w POS="v">可能</w>
+<w POS="d">一下子</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">建立</seg></w>
+<w POS="m">一个</w>
+<w POS="a">完善</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">网</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0053">
+<w POS="r">我们</w>
+<w POS="d">必须</w>
+<w POS="d">先</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">建立</seg></w>
+<w POS="m">一个</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">属于</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">全集</seg></w>
+<w POS="u">的</w>
+<w POS="m">一个</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">子集</seg></w>
+<c POS="w">，</c>
+<w POS="c">然后</w>
+<w POS="d">逐步</w>
+<w POS="v">扩充</w>
+<c POS="w">、</c>
+<w POS="v">完善</w>
+<c POS="w">、</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">迫近</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">全集</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0054">
+<w POS="n">个人</w>
+<w POS="n">头脑</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="n">语义</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">子集</seg></w>
+<w POS="d">已经</w>
+<w POS="v">证明</w>
+<w POS="v">可以</w>
+<w POS="v">进行</w>
+<w POS="vn">交际</w>
+<w POS="n">活动</w>
+<c POS="w">，</c>
+<w POS="c">只是</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">子集</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="u">的</w>
+<w POS="n">语义</w>
+<w POS="n">知识</w>
+<w POS="u">的</w>
+<w POS="n">多少</w>
+<w POS="v">决定</w>
+<w POS="u">着</w>
+<c POS="w">＂</c>
+<w POS="v">理解</w>
+<c POS="w">＂</c>
+<c POS="w">、</c>
+<c POS="w">＂</c>
+<w POS="d">不</w>
+<w POS="v">理解</w>
+<c POS="w">＂</c>
+<w POS="c">和</w>
+<c POS="w">＂</c>
+<w POS="n">误解</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="n">程度</w>
+<c POS="ew">。</c>
+</s>
+<s n="0055">
+<w POS="c">如果</w>
+<w POS="r">我们</w>
+<w POS="v">选择</w>
+<w POS="m">一个</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="v">必备</w>
+<c POS="w">－</c>
+<w POS="an">完备</w>
+<c POS="w">、</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="a">低级</w>
+<c POS="w">－</c>
+<w POS="a">高级</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="cont">建造</seg></w>
+<w POS="n">过程</w>
+<c POS="w">，</c>
+<w POS="v">可能</w>
+<w POS="v">是</w>
+<w POS="a">明智</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0056">
+<w POS="l">也就是说</w>
+<w POS="r">我们</w>
+<w POS="v">应该</w>
+<w POS="d">先</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">建造</seg></w>
+<w POS="m">一个</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">有限</seg></w>
+<c POS="w">（</c>
+<w POS="v">受限</w>
+<c POS="w">）</c>
+<w POS="u">的</w>
+<w POS="n">静态</w>
+<w POS="n">语义</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">网</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0057">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对于</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="n">静态</w>
+<w POS="n">语义</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">网</seg></w>
+<w POS="u">的</w>
+<w POS="vn">限制</w>
+<w POS="v">有</w>
+<w POS="v">如下</w>
+<w POS="m">一些</w>
+<w POS="n">方面</w>
+<c POS="w">：</c>
+</s>
+</p>
+<p>
+<s n="0058">
+<w POS="m">１．</w>
+<w POS="n">词</w>
+<w POS="n">量</w>
+<w POS="v">受限</w>
+</s>
+</p>
+<p>
+<s n="0059">
+<w POS="n">语义</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="d">最</w>
+<w POS="a">基本</w>
+<w POS="u">的</w>
+<w POS="v">是</w>
+<w POS="n">词汇</w>
+<w POS="ng">义</w>
+<c POS="w">（</c>
+<w POS="nz">汉语</w>
+<w POS="u">的</w>
+<w POS="n">词素</w>
+<w POS="ng">义</w>
+<w POS="n">问题</w>
+<w POS="d">将</w>
+<w POS="r">另</w>
+<w POS="n">文</w>
+<w POS="v">论述</w>
+<c POS="w">）</c>
+<c POS="w">，</c>
+<w POS="n">词汇</w>
+<w POS="ng">义</w>
+<w POS="d">总是</w>
+<w POS="p">通过</w>
+<w POS="n">单词</w>
+<w POS="v">来</w>
+<w POS="v">体现</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0060">
+<w POS="r">我们</w>
+<w POS="v">应</w>
+<w POS="d">首先</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">词频</w>
+<w POS="n">统计</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<w POS="v">确定</w>
+<w POS="m">一个</w>
+<w POS="v">描写</w>
+<w POS="n">词汇</w>
+<w POS="ng">义</w>
+<w POS="u">的</w>
+<w POS="n">词</w>
+<w POS="n">量</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">范围</seg></w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="n">词汇</w>
+<w POS="ng">义</w>
+<w POS="u">的</w>
+<w POS="vn">描写</w>
+<w POS="c">或</w>
+<w POS="vn">分析</w>
+<w POS="v">可以</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">覆盖</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="b">一定</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">流通</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">面</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0061">
+<w POS="v">例如</w>
+<c POS="w">：</c>
+<w POS="d">先</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做</seg></w>
+<w POS="m">８０００</w>
+<w POS="b">高频</w>
+<w POS="n">词</w>
+<c POS="w">，</c>
+<w POS="c">然后</w>
+<w POS="d">逐步</w>
+<w POS="v">推广</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">到</seg></w>
+<w POS="m">全部</w>
+<w POS="n">词</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0062">
+<w POS="m">２．</w>
+<w POS="n">义项</w>
+<w POS="v">受限</w>
+</s>
+</p>
+<p>
+<s n="0063">
+<w POS="r">任何</w>
+<w POS="n">词汇</w>
+<w POS="ng">义</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对着</seg></w>
+<w POS="n">词</w>
+<w POS="u">的</w>
+<w POS="n">义项</w>
+<w POS="u">而言</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0064">
+<w POS="v">例如</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前面</seg></w>
+<w POS="v">提到</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="ag">牛</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="m">两</w>
+<w POS="q">个</w>
+<w POS="n">义项</w>
+<c POS="ew">。</c>
+</s>
+<s n="0065">
+<w POS="b">高频</w>
+<w POS="n">词</w>
+<w POS="u">的</w>
+<w POS="a">常用</w>
+<w POS="u">与否</w>
+<w POS="v">是</w>
+<w POS="p">与</w>
+<w POS="n">义项</w>
+<w POS="v">联在</w>
+<w POS="s"><seg function="mrw" type="indir" subtype="conv">一起</seg></w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="r">任何</w>
+<w POS="m">一个</w>
+<w POS="b">高频</w>
+<w POS="n">词</w>
+<w POS="d">并</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="m">全部</w>
+<w POS="n">义项</w>
+<w POS="d">都</w>
+<w POS="a">常用</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="m">一个</w>
+<w POS="b">高频</w>
+<w POS="n">词</w>
+<w POS="v">可能</w>
+<w POS="r">有些</w>
+<w POS="n">义项</w>
+<w POS="v">是</w>
+<w POS="d">极为</w>
+<w POS="ad">罕</w>
+<w POS="v">用</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">如</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">人</w>
+<c POS="w">＂</c>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="a">常用</w>
+<w POS="n">词</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<c POS="w">《</c>
+<w POS="j">现</w>
+<w POS="j">汉</w>
+<c POS="w">》</c>
+<w POS="f">中</w>
+<w POS="n">义项</w>
+<w POS="m">３</w>
+<c POS="w">＂</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">指</seg></w>
+<w POS="n">成年人</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="v">只能</w>
+<w POS="v">用于</w>
+<c POS="w">＂</c>
+<w POS="l">长大成人</w>
+<c POS="w">＂</c>
+<w POS="u">等</w>
+<c POS="w">，</c>
+<w POS="n">频度</w>
+<w POS="d">并</w>
+<w POS="d">不</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">高</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0066">
+<c POS="w">《</c>
+<w POS="nz">汉语</w>
+<w POS="a">大</w>
+<w POS="n">字典</w>
+<c POS="w">》</c>
+<w POS="f">中</w>
+<w POS="n">义项</w>
+<w POS="m">１１</w>
+<c POS="w">＂</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">指</seg></w>
+<w POS="n">男女</w>
+<w POS="v">交合</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之中</seg></w>
+<c POS="w">＂</c>
+<w POS="t">今天</w>
+<w POS="d">已</w>
+<w POS="ad">完全</w>
+<w POS="v">不用</w>
+<c POS="ew">。</c>
+</s>
+<s n="0067">
+<w POS="c">因而</w>
+<w POS="v">可能</w>
+<w POS="v">有</w>
+<w POS="m">一些</w>
+<w POS="n">频度</w>
+<w POS="d">较</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">低</seg></w>
+<w POS="u">的</w>
+<w POS="n">词</w>
+<w POS="u">的</w>
+<w POS="a">常用</w>
+<w POS="n">义项</w>
+<w POS="d">实际上</w>
+<w POS="u">的</w>
+<w POS="v">使用</w>
+<w POS="n">频度</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">高于</seg></w>
+<w POS="r">另外</w>
+<w POS="m">一些</w>
+<w POS="b">高频</w>
+<w POS="n">词</w>
+<w POS="u">的</w>
+<w POS="a">罕见</w>
+<w POS="n">义项</w>
+<c POS="ew">。</c>
+</s>
+<s n="0068">
+<w POS="r">我们</w>
+<w POS="v">应该</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">词频</w>
+<w POS="n">统计</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<w POS="b">进一步</w>
+<w POS="v">细化</w>
+<c POS="w">，</c>
+<w POS="v">进行</w>
+<w POS="n">义项</w>
+<w POS="vn">使用</w>
+<w POS="n">频度</w>
+<w POS="u">的</w>
+<w POS="n">统计</w>
+<c POS="w">，</c>
+<w POS="c">进而</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">义项</w>
+<w POS="v">作出</w>
+<w POS="n">限量</w>
+<c POS="w">，</c>
+<w POS="d">首先</w>
+<w POS="v">描写</w>
+<c POS="w">、</c>
+<w POS="v">分析</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">那些</seg></w>
+<w POS="b">高频</w>
+<w POS="n">义项</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

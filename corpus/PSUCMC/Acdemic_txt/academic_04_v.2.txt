@@ -1,0 +1,417 @@
+﻿<p>
+<s n="0039">
+<c POS="w">（</c>
+<w POS="m">３</w>
+<c POS="w">）</c>
+<w POS="v">消减</w>
+<w POS="vn">污染</w>
+<c POS="w">，</c>
+<w POS="v">美化</w>
+<w POS="n">环境</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">伟大</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">清洁工</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0040">
+<w POS="n">我国</w>
+<w POS="n">科学家</w>
+<w POS="k">们</w>
+<w POS="d">还</w>
+<w POS="v">指出</w>
+<c POS="w">，</c>
+<w POS="n">森林</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">大气</w>
+<c POS="w">、</c>
+<w POS="n">水体</w>
+<w POS="c">和</w>
+<w POS="n">土壤</w>
+<w POS="vn">污染</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<w POS="b">一定</w>
+<w POS="u">的</w>
+<w POS="vn">净化</w>
+<w POS="n">作用</w>
+<c POS="ew">。</c>
+</s>
+<s n="0041">
+<w POS="v">形象化</w>
+<w POS="u">地</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="n">森林</w>
+<w POS="v"><seg function="mflag">好比</seg></w>
+<c POS="w">＂</c>
+<w POS="b">天然</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="dir">吸尘器</seg></w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="n">树叶</w>
+<c POS="w">，</c>
+<w POS="d">特别</w>
+<w POS="v">是</w>
+<w POS="a">多</w>
+<w POS="n">毛</w>
+<w POS="u">的</w>
+<w POS="n">树叶</w>
+<c POS="w">，</c>
+<w POS="v">具有</w>
+<w POS="d">很</w>
+<w POS="a">好</w>
+<w POS="u">的</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">吸</seg></w>
+<w POS="ng">尘</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="pers">能力</seg></w>
+<c POS="ew">；</c>
+</s>
+<s n="0042">
+<w POS="m">一</w>
+<w POS="q">平方米</w>
+<w POS="ns">榆树</w>
+<w POS="n">叶面</w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="n">昼夜</w>
+<w POS="v">能</w>
+<w POS="v">滞留</w>
+<w POS="m">３．３９</w>
+<w POS="q">克</w>
+<w POS="n">灰尘</w>
+<c POS="ew">。</c>
+</s>
+<s n="0043">
+<w POS="c">而且</w>
+<w POS="n">树木</w>
+<w POS="a">高大</w>
+<c POS="w">、</c>
+<w POS="n">林冠</w>
+<w POS="a">稠密</w>
+<c POS="w">，</c>
+<w POS="c">因而</w>
+<w POS="c">既</w>
+<w POS="v">能</w>
+<w POS="v">减小</w>
+<w POS="n">风速</w>
+<c POS="w">，</c>
+<w POS="d">又</w>
+<w POS="v">可</w>
+<w POS="v">使</w>
+<w POS="n">尘埃</w>
+<w POS="v">下降</w>
+<w POS="v">到</w>
+<w POS="n">森林</w>
+<w POS="f">中</w>
+<c POS="ew">。</c>
+</s>
+<s n="0044">
+<w POS="n">森林</w>
+<w POS="d">还是</w>
+<c POS="w">＂</c>
+<w POS="b">天然</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="dir">过滤器</seg></w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="v">能</w>
+<w POS="a">不同</w>
+<w POS="n">程度</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">过滤</seg></w>
+<w POS="n">空气</w>
+<w POS="f">中</w>
+<w POS="u">的</w>
+<w POS="a">有害</w>
+<w POS="n">气体</w>
+<c POS="ew">。</c>
+</s>
+<s n="0045">
+<w POS="v">例如</w>
+<w POS="ns">北京市</w>
+<w POS="f">内</w>
+<w POS="a">常见</w>
+<w POS="u">的</w>
+<w POS="n">国槐</w>
+<c POS="w">、</c>
+<w POS="n">桧柏</w>
+<c POS="w">、</c>
+<w POS="n">加杨</w>
+<w POS="u">等等</w>
+<w POS="n">树种</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">抗</seg></w>
+<w POS="n">烟</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">力</seg></w>
+<w POS="d">很</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强</seg></w>
+<w POS="u">的</w>
+<w POS="n">树种</w>
+<c POS="ew">。</c>
+</s>
+<s n="0046">
+<w POS="c">此外</w>
+<c POS="w">，</c>
+<w POS="n">森林</w>
+<w POS="d">还</w>
+<w POS="v">具有</w>
+<w POS="b">一定</w>
+<w POS="u">的</w>
+<w POS="v">杀菌</w>
+<w POS="n">作用</w>
+<c POS="w">，</c>
+<w POS="m">很多</w>
+<w POS="n">树种</w>
+<w POS="v">能</w>
+<w POS="v">分泌</w>
+<w POS="m">一些</w>
+<w POS="n">挥发性</w>
+<w POS="n">物质</w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="v">杀死</w>
+<w POS="m">多种</w>
+<w POS="n">病原菌</w>
+<c POS="ew">。</c>
+</s>
+<s n="0047">
+<w POS="p">据</w>
+<w POS="n">我国</w>
+<w POS="n">科学家</w>
+<w POS="vn">统计</w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">立方米</w>
+<w POS="n">空气</w>
+<w POS="f">中</w>
+<c POS="w">，</c>
+<w POS="ng">林</w>
+<w POS="f">外</w>
+<w POS="v">有</w>
+<w POS="m">３</w>
+<c POS="w">-</c>
+<w POS="m">４万</w>
+<w POS="n">个</w>
+<w POS="n">细菌</w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="ng">林</w>
+<w POS="f">内</w>
+<w POS="d">却</w>
+<w POS="v">只有</w>
+<w POS="m">３００</w>
+<c POS="w">-</c>
+<w POS="m">４００</w>
+<w POS="n">个</w>
+<c POS="ew">；</c>
+</s>
+<s n="0048">
+<w POS="n">闹市区</w>
+<w POS="r">每</w>
+<w POS="q">立方米</w>
+<w POS="n">空气</w>
+<w POS="f">中</w>
+<w POS="u">的</w>
+<w POS="n">细菌</w>
+<w POS="n">含量</w>
+<c POS="w">，</c>
+<w POS="p">比</w>
+<w POS="vn">绿化</w>
+<w POS="n">区</w>
+<w POS="d">甚至</w>
+<w POS="v">可以</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">高</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">出</seg></w>
+<w POS="m">７</w>
+<w POS="q">倍</w>
+<w POS="u">之</w>
+<w POS="a">多</w>
+<c POS="ew">。</c>
+</s>
+<s n="0049">
+<w POS="d">还</w>
+<w POS="v">应</w>
+<w POS="vd">强调</w>
+<w POS="v">指出</w>
+<c POS="w">，</c>
+<w POS="n">森林</w>
+<w POS="v">能</w>
+<w POS="v">改善</w>
+<w POS="n">水质</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">净化</w>
+<w POS="n">水源</w>
+<w POS="n">方面</w>
+<w POS="v">可以</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<w POS="a">重要</w>
+<w POS="n">作用</w>
+<c POS="w">，</c>
+<w POS="d">主要</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">表现</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="m">两</w>
+<w POS="q">个</w>
+<w POS="n">方面</w>
+<c POS="w">：</c>
+<c POS="w">（</c>
+<w POS="nx">A</w>
+<c POS="w">）</c>
+<w POS="v">可</w>
+<w POS="v">滞留</w>
+<w POS="c">或</w>
+<w POS="v">吸收</w>
+<w POS="s">水中</w>
+<w POS="u">的</w>
+<w POS="v">溶解</w>
+<w POS="n">物质</w>
+<c POS="ew">。</c>
+</s>
+<s n="0050">
+<w POS="p">据</w>
+<w POS="s">国外</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">资料</seg></w>
+<c POS="w">，</c>
+<w POS="p">从</w>
+<w POS="v">无</w>
+<w POS="ng">林</w>
+<w POS="n">山区</w>
+<w POS="v">流</w>
+<w POS="v">下来</w>
+<w POS="u">的</w>
+<w POS="n">水</w>
+<w POS="v">溶解</w>
+<w POS="u">的</w>
+<w POS="n">物质</w>
+<w POS="v">为</w>
+<w POS="r">每</w>
+<w POS="q">平方公里</w>
+<w POS="m">１６．９</w>
+<w POS="q">吨</w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="p">从</w>
+<w POS="v">有</w>
+<w POS="ng">林</w>
+<w POS="n">山区</w>
+<w POS="v">流下</w>
+<w POS="u">的</w>
+<w POS="n">水</w>
+<w POS="d">仅</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">含</seg></w>
+<w POS="m">６．４</w>
+<w POS="q">吨</w>
+<w POS="m">左右</w>
+<c POS="ew">。</c>
+<c POS="w">（</c>
+</s>
+<s n="0051">
+<w POS="nx">B</w>
+<c POS="w">）</c>
+<w POS="v">可</w>
+<w POS="d"><seg function="mrw" type="indir" subtype="conv">大量</seg></w>
+<w POS="v">减少</w>
+<w POS="s">水中</w>
+<w POS="n">细菌</w>
+<w POS="n">含量</w>
+<c POS="ew">。</c>
+</s>
+<s n="0052">
+<w POS="p">据</w>
+<w POS="vn">统计</w>
+<c POS="w">，</c>
+<w POS="v">通过</w>
+<w POS="m">５０</w>
+<w POS="q">米</w>
+<w POS="a">宽</w>
+<w POS="u">的</w>
+<w POS="m">３０</w>
+<w POS="q">年</w>
+<w POS="v">生</w>
+<w POS="u">的</w>
+<w POS="n">杨桦</w>
+<w POS="n">林</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之后</seg></w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">立升</w>
+<w POS="n">水</w>
+<w POS="f">中</w>
+<w POS="u">所</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">含</seg></w>
+<w POS="n">细菌</w>
+<w POS="v">可</w>
+<w POS="v">减少</w>
+<w POS="m">９０％</w>
+<c POS="w">，</c>
+<w POS="p">从</w>
+<w POS="n">松林</w>
+<w POS="v">流出</w>
+<w POS="u">的</w>
+<w POS="n">水</w>
+<w POS="f">中</w>
+<w POS="n">细菌</w>
+<w POS="n">含量</w>
+<w POS="d">仅</w>
+<w POS="v">有</w>
+<w POS="d">未经</w>
+<w POS="n">松林</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之前</seg></w>
+<w POS="u">的</w>
+<w POS="m">１/１0</w>
+<w POS="m">左右</w>
+<c POS="ew">。</c>
+</s>
+<s n="0053">
+<w POS="c">由此可见</w>
+<c POS="w">，</c>
+<w POS="n">大面积</w>
+<w POS="u">的</w>
+<w POS="n">森林</w>
+<c POS="w">，</c>
+<w POS="i">日复一日</w>
+<w POS="u">地</w>
+<w POS="u">在</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">执行</seg></w>
+<w POS="u">着</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">吸</seg></w>
+<w POS="ng">尘</w>
+<c POS="w">、</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">过滤</seg></w>
+<c POS="w">、</c>
+<w POS="v">杀菌</w>
+<c POS="w">、</c>
+<w POS="v">净化</w>
+<w POS="n">空气</w>
+<c POS="w">、</c>
+<w POS="v">净化</w>
+<w POS="n">水源</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">伟大</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">清洁工</seg></w>
+<w POS="u">的</w>
+<w POS="n">任务</w>
+<c POS="ew">；</c>
+</s>
+<s n="0054">
+<w POS="n">人类</w>
+<w POS="v">有</w>
+<w POS="r">什么</w>
+<w POS="n">理由</w>
+<w POS="d">不</w>
+<w POS="v">珍视</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="pers">她</seg></w>
+<w POS="c">和</w>
+<w POS="v">爱护</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="pers">她</seg></w>
+<w POS="y">呢</w>
+<c POS="ew">?</c>
+</s>
+</p>
+

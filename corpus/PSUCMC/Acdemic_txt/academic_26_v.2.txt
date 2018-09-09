@@ -1,0 +1,434 @@
+﻿<p>
+<s n="0002">
+<w POS="n">文化</w>
+<w POS="u">的</w>
+<w POS="n">语言</w>
+<w POS="n">模式</w>
+<c POS="w">，</c>
+<w POS="v">即</w>
+<w POS="n">文化</w>
+<w POS="u">的</w>
+<w POS="ng">语</w>
+<w POS="ng">符</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">载体</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">构成</seg></w>
+<w POS="n">方式</w>
+<w POS="c">与</w>
+<w POS="n">特征</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0003">
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">成熟</seg></w>
+<w POS="n">状态</w>
+<w POS="c">和</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">完整</seg></w>
+<w POS="n">意义</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="u">的</w>
+<w POS="n">语言</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="n">语音</w>
+<w POS="p">为</w>
+<w POS="n">物质</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">外壳</seg></w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="n">词汇</w>
+<w POS="p">为</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">建筑</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">材料</seg></w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="n">语法</w>
+<w POS="p">为</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">结构</seg></w>
+<w POS="n">规律</w>
+<w POS="c">而</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">构成</seg></w>
+<w POS="u">的</w>
+<w POS="n">体系</w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<w POS="v">有所</w>
+<w POS="vg">述</w>
+<c POS="w">，</c>
+<w POS="n">语言</w>
+<w POS="r">本身</w>
+<w POS="c">既</w>
+<w POS="v">是</w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="n">文化</w>
+<w POS="n">现象</w>
+<c POS="w">，</c>
+<w POS="d">又</w>
+<w POS="v">是</w>
+<w POS="n">表征</w>
+<w POS="c">和</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">负载</seg></w>
+<w POS="n">人类</w>
+<w POS="n">文化</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">符号</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="n">人类</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">借助</seg></w>
+<w POS="n">语言</w>
+<w POS="c">及其</w>
+<w POS="t">后来</w>
+<w POS="u">的</w>
+<w POS="n">文字</w>
+<c POS="w">，</c>
+<w POS="a">有效</w>
+<w POS="u">地</w>
+<w POS="v">进行</w>
+<w POS="u">着</w>
+<w POS="n">文化</w>
+<w POS="u">的</w>
+<w POS="vn">创造</w>
+<c POS="w">、</c>
+<w POS="vn">积累</w>
+<c POS="w">、</c>
+<w POS="vn">学习</w>
+<w POS="c">和</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="a">有效</w>
+<w POS="u">地</w>
+<w POS="v">维系</w>
+<w POS="r">自己</w>
+<w POS="u">的</w>
+<w POS="vn">生存</w>
+<w POS="c">和</w>
+<w POS="vn">发展</w>
+<c POS="ew">。</c>
+</s>
+<s n="0006">
+<w POS="d">也</w>
+<w POS="v">正是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">活动</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="n">人类</w>
+<w POS="u">的</w>
+<w POS="r">各个</w>
+<w POS="n">民族</w>
+<w POS="p">依据</w>
+<w POS="r">自己</w>
+<w POS="u">的</w>
+<w POS="a">特殊</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">环境</seg></w>
+<c POS="w">、</c>
+<w POS="a">特殊</w>
+<w POS="vn">实践</w>
+<w POS="n">方式</w>
+<w POS="c">和</w>
+<w POS="a">特殊</w>
+<w POS="vn">发展</w>
+<w POS="n">历程</w>
+<c POS="w">，</c>
+<w POS="v">赋予</w>
+<w POS="n">语言</w>
+<w POS="p">以</w>
+<w POS="a">独特</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">道路</seg></w>
+<w POS="c">和</w>
+<w POS="n">历史</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">形态</seg></w>
+<c POS="w">，</c>
+<w POS="v">造成</w>
+<w POS="u">了</w>
+<w POS="n">语言</w>
+<w POS="u">的</w>
+<w POS="n">民族性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="c">而</w>
+<w POS="n">语言</w>
+<w POS="d">则</w>
+<w POS="d">同时</w>
+<w POS="p">把</w>
+<w POS="n">民族</w>
+<w POS="u">的</w>
+<w POS="n">文化</w>
+<w POS="n">特征</w>
+<w POS="a">深刻</w>
+<w POS="c">而</w>
+<w POS="n">历史</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">记录</seg></w>
+<c POS="w">、</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">保存</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下来</seg></w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="v">具有</w>
+<w POS="a">独特</w>
+<w POS="n">习惯</w>
+<w POS="c">与</w>
+<w POS="n">方式</w>
+<w POS="u">的</w>
+<w POS="n">民族</w>
+<w POS="n">语言</w>
+<c POS="w">，</c>
+<w POS="v">成</w>
+<w POS="u">了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">维护</seg></w>
+<w POS="c">和</w>
+<w POS="v">巩固</w>
+<w POS="n">民族</w>
+<w POS="n">文化</w>
+<w POS="ad">独立</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">生存</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">屏障</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0008">
+<w POS="n">语言</w>
+<w POS="u">的</w>
+<w POS="n">民族</w>
+<w POS="n">差异</w>
+<w POS="d">便</w>
+<w POS="v">成为</w>
+<w POS="n">民族</w>
+<w POS="c">及其</w>
+<w POS="n">文化</w>
+<w POS="n">差异</w>
+<w POS="u">的</w>
+<w POS="a">重要</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">界标</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="n">研究者</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">发现</seg></w>
+<c POS="w">，</c>
+<w POS="r">某种</w>
+<w POS="b">特定</w>
+<w POS="u">的</w>
+<w POS="n">语言</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">维护</seg></w>
+<w POS="c">和</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">凝结</seg></w>
+<w POS="u">着</w>
+<w POS="v">相应</w>
+<w POS="u">的</w>
+<w POS="n">文化</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="n">体系</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="m">一个</w>
+<w POS="nz">日语</w>
+<w POS="v">调查</w>
+<w POS="k">者</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="b">同一</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">环境</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="p">对</w>
+<w POS="r">每个</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">操</seg></w>
+<w POS="n">双语</w>
+<c POS="w">（</c>
+<w POS="nz">日语</w>
+<w POS="c">和</w>
+<w POS="nz">英语</w>
+<c POS="w">）</c>
+<w POS="u">的</w>
+<w POS="n">妇女</w>
+<c POS="w">，</c>
+<w POS="d">分别</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="nz">日语</w>
+<w POS="c">和</w>
+<w POS="nz">英语</w>
+<w POS="v">进行</w>
+<w POS="m">两</w>
+<w POS="q">次</w>
+<w POS="b">同样</w>
+<w POS="n">内容</w>
+<w POS="u">的</w>
+<w POS="vn">对话</w>
+<c POS="w">，</c>
+<w POS="b">同一个</w>
+<w POS="n">人</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="a">不同</w>
+<w POS="n">语言</w>
+<w POS="v">答问</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="n">结论</w>
+<w POS="d">却</w>
+<w POS="ad">完全</w>
+<w POS="d">不</w>
+<w POS="a">一样</w>
+<c POS="ew">。</c>
+</s>
+<s n="0011">
+<w POS="v">如</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="v">谈到</w>
+<c POS="w">＂</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="r">我们</w>
+<w POS="u">的</w>
+<w POS="n">愿望</w>
+<w POS="c">和</w>
+<w POS="n">家庭</w>
+<w POS="v">有</w>
+<w POS="an">矛盾</w>
+<w POS="ng">时</w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="nz">日语</w>
+<w POS="v">回答</w>
+<w POS="v">是</w>
+<c POS="w">＂</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">是</w>
+<w POS="d">很</w>
+<w POS="d">不</w>
+<w POS="a">愉快</w>
+<w POS="u">的</w>
+<w POS="n">事</w>
+<c POS="w">＂</c>
+<c POS="ew">；</c>
+</s>
+<s n="0012">
+<w POS="c">而</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="nz">英语</w>
+<w POS="v">回答</w>
+<w POS="d">则</w>
+<w POS="v">是</w>
+<c POS="w">＂</c>
+<w POS="r">我</w>
+<w POS="p">按</w>
+<w POS="r">我</w>
+<w POS="u">的</w>
+<w POS="n">想法</w>
+<w POS="v">去</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做</seg></w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="v">谈到</w>
+<c POS="w">＂</c>
+<w POS="b">真正</w>
+<w POS="u">的</w>
+<w POS="n">朋友</w>
+<c POS="w">＂</c>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="nz">日语</w>
+<w POS="v">回答</w>
+<w POS="v">是</w>
+<c POS="w">＂</c>
+<w POS="d">互相</w>
+<w POS="v">帮助</w>
+<c POS="w">＂</c>
+<c POS="ew">；</c>
+</s>
+<s n="0014">
+<w POS="c">而</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="nz">英语</w>
+<w POS="v">回答</w>
+<w POS="d">则</w>
+<w POS="v">是</w>
+<c POS="w">＂</c>
+<w POS="d">很</w>
+<w POS="a">坦率</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="c">可见</w>
+<w POS="n">语言</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">文化</w>
+<w POS="u">的</w>
+<w POS="n">作用</w>
+<c POS="w">、</c>
+<w POS="v">影响</w>
+<w POS="u">之</w>
+<w POS="a">深刻</w>
+<c POS="ew">。</c>
+</s>
+<s n="0016">
+<w POS="c">以致</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">确立</w>
+<w POS="n">民族</w>
+<w POS="u">的</w>
+<w POS="n">范畴</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="d">不能不</w>
+<w POS="p">把</w>
+<w POS="n">民族</w>
+<w POS="n">语言</w>
+<w POS="v">作为</w>
+<w POS="m">一</w>
+<w POS="q">项</w>
+<w POS="a">重要</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">参数</seg></w>
+<w POS="v">考虑</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">进去</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0017">
+<w POS="p">通过</w>
+<w POS="n">民族</w>
+<w POS="n">语言</w>
+<w POS="u">的</w>
+<w POS="n">文化</w>
+<w POS="v">解析</w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="v">可以</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="m">一个</w>
+<w POS="d">十分</w>
+<w POS="a">重要</w>
+<w POS="u">的</w>
+<w POS="n">方面</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">揭示</seg></w>
+<w POS="n">民族</w>
+<w POS="n">文化</w>
+<w POS="vn">生活</w>
+<w POS="u">的</w>
+<w POS="n">内容</w>
+<w POS="c">和</w>
+<w POS="n">方式</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

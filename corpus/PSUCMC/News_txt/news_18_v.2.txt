@@ -1,0 +1,441 @@
+﻿<p>
+<s n="0034">
+<w POS="r">我</w>
+<w POS="n">选手</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获</seg></w>
+<w POS="nr">尤尼克斯</w>
+<w POS="q">羽</w>
+<w POS="n">球赛</w>
+<w POS="j">女单</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<w POS="m">三</w>
+<w POS="q">名</w>
+</s>
+</p>
+<p>
+<s n="0035">
+<w POS="m">第六</w>
+<w POS="q">届</w>
+<w POS="ns">日本</w>
+<w POS="nr">尤尼克斯</w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="conv">杯</seg></w>
+<w POS="n">羽毛球</w>
+<w POS="n">公开赛</w>
+<w POS="j">女单</w>
+<w POS="c">和</w>
+<w POS="j">男双</w>
+<w POS="u">的</w>
+<w POS="n">比赛</w>
+<w POS="t">今天</w>
+<w POS="v">结束</w>
+<c POS="w">，</c>
+<w POS="n">我国</w>
+<w POS="m">三</w>
+<w POS="q">名</w>
+<w POS="a">年轻</w>
+<w POS="n">运动员</w>
+<w POS="nr">黄</w>
+<w POS="nr">华</w>
+<c POS="w">、</c>
+<w POS="nr">周</w>
+<w POS="nr">雷</w>
+<w POS="c">和</w>
+<w POS="nr">唐</w>
+<w POS="nr">九红</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">分获</seg></w>
+<w POS="n">女子</w>
+<w POS="n">单打</w>
+<w POS="n">冠军</w>
+<c POS="w">、</c>
+<w POS="n">亚军</w>
+<w POS="c">和</w>
+<w POS="m">第三</w>
+<w POS="q">名</w>
+<c POS="w">，</c>
+<w POS="n">羽坛</w>
+<w POS="n">老将</w>
+<w POS="nr">李</w>
+<w POS="nr">永波</w>
+<w POS="c">和</w>
+<w POS="nr">田</w>
+<w POS="nr">秉毅</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获</seg></w>
+<w POS="n">男子</w>
+<w POS="n">双打</w>
+<w POS="n">亚军</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0036">
+<w POS="t">今天</w>
+<w POS="n">女子</w>
+<w POS="n">单打</w>
+<w POS="n">半决赛</w>
+<w POS="p">除了</w>
+<w POS="ns">中国</w>
+<w POS="m">三</w>
+<w POS="q">名</w>
+<w POS="n">运动员</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外</seg></w>
+<c POS="w">，</c>
+<w POS="v">还有</w>
+<w POS="ns">印度尼西亚</w>
+<w POS="u">的</w>
+<w POS="nr">王</w>
+<w POS="nr">莲香</w>
+<c POS="ew">。</c>
+</s>
+<s n="0037">
+<w POS="ns">中国</w>
+<w POS="u">的</w>
+<w POS="nr">周</w>
+<w POS="nr">雷</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">半决赛</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="p">对</w>
+<w POS="nr">王</w>
+<w POS="nr">莲香</w>
+<c POS="w">，</c>
+<w POS="p">以</w>
+<w POS="m">２</w>
+<c POS="w">：</c>
+<w POS="m">０</w>
+<c POS="w">（</c>
+<w POS="m">１２</w>
+<c POS="w">：</c>
+<w POS="m">９</w>
+<c POS="w">，</c>
+<w POS="m">１１</w>
+<c POS="w">：</c>
+<w POS="m">２</w>
+<c POS="w">）</c>
+<w POS="v">获胜</w>
+<c POS="ew">。</c>
+</s>
+<s n="0038">
+<w POS="r">另</w>
+<w POS="m">一</w>
+<w POS="q">场</w>
+<w POS="j">女单</w>
+<w POS="n">半决赛</w>
+<w POS="u">的</w>
+<w POS="n">结果</w>
+<w POS="v">是</w>
+<c POS="w">，</c>
+<w POS="nr">黄</w>
+<w POS="nr">华</w>
+<w POS="m">２</w>
+<c POS="w">：</c>
+<w POS="m">１</w>
+<c POS="w">（</c>
+<w POS="m">１１</w>
+<c POS="w">：</c>
+<w POS="m">１２</w>
+<c POS="w">，</c>
+<w POS="m">１２</w>
+<c POS="w">：</c>
+<w POS="m">１１</w>
+<c POS="w">、</c>
+<w POS="m">１１</w>
+<c POS="w">：</c>
+<w POS="m">４</w>
+<c POS="w">）</c>
+<w POS="v">胜</w>
+<w POS="n">队友</w>
+<w POS="nr">唐</w>
+<w POS="nr">九红</w>
+<c POS="ew">。</c>
+</s>
+<s n="0039">
+<w POS="nr">黄</w>
+<w POS="nr">华</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="vn">决赛</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="p">以</w>
+<w POS="m">２</w>
+<c POS="w">：</c>
+<w POS="m">０</w>
+<c POS="w">（</c>
+<w POS="m">１１</w>
+<c POS="w">：</c>
+<w POS="m">６</w>
+<c POS="w">，</c>
+<w POS="m">１１</w>
+<c POS="w">：</c>
+<w POS="m">９</w>
+<c POS="w">）</c>
+<w POS="v">胜</w>
+<w POS="nr">周</w>
+<w POS="nr">雷</w>
+<c POS="ew">。</c>
+</s>
+<s n="0040">
+<w POS="nr">黄</w>
+<w POS="nr">华</w>
+<w POS="c">和</w>
+<w POS="nr">周</w>
+<w POS="nr">雷</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">分获</seg></w>
+<w POS="j">女单</w>
+<w POS="j">冠亚军</w>
+<c POS="w">，</c>
+<w POS="nr">唐</w>
+<w POS="nr">九红</w>
+<w POS="c">和</w>
+<w POS="nr">王</w>
+<w POS="nr">莲香</w>
+<w POS="v">并列</w>
+<w POS="m">第三</w>
+<w POS="q">名</w>
+<c POS="ew">。</c>
+</s>
+<s n="0041">
+<w POS="m">２１</w>
+<w POS="q">岁</w>
+<w POS="u">的</w>
+<w POS="nr">黄</w>
+<w POS="nr">华</w>
+<w POS="v">是</w>
+<w POS="ns">广西</w>
+<w POS="n">人</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">是</w>
+<w POS="r">她</w>
+<w POS="m">首</w>
+<w POS="q">次</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">国际</w>
+<w POS="n">大赛</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v">夺魁</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0042">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">男子</w>
+<w POS="n">双打</w>
+<w POS="n">比赛</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="n">我国</w>
+<w POS="u">的</w>
+<w POS="nr">李</w>
+<w POS="nr">永波</w>
+<w POS="c">和</w>
+<w POS="nr">田</w>
+<w POS="nr">秉毅</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">半决赛</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="p">以</w>
+<w POS="m">２</w>
+<c POS="w">：</c>
+<w POS="m">０</w>
+<c POS="w">（</c>
+<w POS="m">１８</w>
+<c POS="w">：</c>
+<w POS="m">１３</w>
+<c POS="w">、</c>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">３</w>
+<c POS="w">）</c>
+<w POS="v">胜</w>
+<w POS="ns">日本</w>
+<w POS="u">的</w>
+<w POS="nr">松浦进二</w>
+<w POS="c">和</w>
+<w POS="nr">松野修二</w>
+<c POS="ew">。</c>
+</s>
+<s n="0043">
+<w POS="vn">决赛</w>
+<w POS="v">是</w>
+<w POS="nr">李</w>
+<w POS="nr">永波</w>
+<w POS="c">和</w>
+<w POS="nr">田</w>
+<w POS="nr">秉毅</w>
+<w POS="p">对</w>
+<w POS="ns">南朝鲜</w>
+<w POS="u">的</w>
+<w POS="nr">金</w>
+<w POS="nr">文秀</w>
+<w POS="c">和</w>
+<w POS="nr">朴</w>
+<w POS="nr">柱奉</w>
+<c POS="ew">。</c>
+</s>
+<s n="0044">
+<w POS="nr">李</w>
+<w POS="nr">永波</w>
+<w POS="c">和</w>
+<w POS="nr">田</w>
+<w POS="nr">秉毅</w>
+<w POS="p">以</w>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">３</w>
+<w POS="v">胜</w>
+<w POS="m">第一</w>
+<w POS="q">局</w>
+<c POS="w">，</c>
+<w POS="d">接着</w>
+<w POS="p">以</w>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">１７</w>
+<w POS="c">和</w>
+<w POS="m">１３</w>
+<c POS="w">：</c>
+<w POS="m">１８</w>
+<w POS="d">连</w>
+<w POS="v">负</w>
+<w POS="m">两</w>
+<w POS="q">局</w>
+<c POS="ew">。</c>
+</s>
+<s n="0045">
+<w POS="nr">金</w>
+<w POS="nr">文秀</w>
+<w POS="c">和</w>
+<w POS="nr">朴</w>
+<w POS="nr">柱奉</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获得</seg></w>
+<w POS="n">冠军</w>
+<c POS="w">，</c>
+<w POS="nr">李</w>
+<w POS="nr">永波</w>
+<w POS="c">和</w>
+<w POS="nr">田</w>
+<w POS="nr">秉毅</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获</seg></w>
+<w POS="n">亚军</w>
+<c POS="ew">。</c>
+</s>
+<s n="0046">
+<w POS="nr">金</w>
+<w POS="nr">文秀</w>
+<w POS="c">和</w>
+<w POS="nr">朴</w>
+<w POS="nr">柱奉</w>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="vn">半决赛</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="p">以</w>
+<w POS="m">２</w>
+<c POS="w">：</c>
+<w POS="m">１</w>
+<c POS="w">（</c>
+<w POS="m">１６</w>
+<c POS="w">：</c>
+<w POS="m">１７</w>
+<c POS="w">，</c>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">６</w>
+<c POS="w">，</c>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">１１</w>
+<c POS="w">）</c>
+<w POS="v">击败</w>
+<w POS="ns">印度尼西亚</w>
+<w POS="u">的</w>
+<w POS="nr">洪</w>
+<w POS="nr">忠中</w>
+<w POS="c">和</w>
+<w POS="nr">罗</w>
+<w POS="nr">天宁</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之后</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">进入</seg></w>
+<w POS="vn">决赛</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0047">
+<w POS="t">今天</w>
+<w POS="d">还</w>
+<w POS="v">进行</w>
+<w POS="u">了</w>
+<w POS="vn">混合</w>
+<w POS="n">双打</w>
+<w POS="vn">半决赛</w>
+<c POS="ew">。</c>
+</s>
+<s n="0048">
+<w POS="m">两</w>
+<w POS="q">场</w>
+<w POS="n">比赛</w>
+<w POS="u">的</w>
+<w POS="n">结果</w>
+<w POS="v">是</w>
+<c POS="w">，</c>
+<w POS="ns">南朝鲜</w>
+<w POS="u">的</w>
+<w POS="nr">朴</w>
+<w POS="nr">柱奉</w>
+<w POS="c">和</w>
+<w POS="nr">郑</w>
+<w POS="nr">明熙</w>
+<w POS="m">２</w>
+<c POS="w">：</c>
+<w POS="m">０</w>
+<c POS="w">（</c>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">３</w>
+<c POS="w">、</c>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">９</w>
+<c POS="w">）</c>
+<w POS="v">胜</w>
+<w POS="ns">丹麦</w>
+<w POS="u">的</w>
+<w POS="nr">耶·克努森</w>
+<w POS="c">和</w>
+<w POS="nr">内·尼尔森</w>
+<c POS="ew">。</c>
+</s>
+<s n="0049">
+<w POS="ns">丹麦</w>
+<w POS="u">的</w>
+<w POS="nr">托·伦德</w>
+<w POS="c">和</w>
+<w POS="nr">珀·杜蓬特</w>
+<w POS="m">２</w>
+<c POS="w">：</c>
+<w POS="m">１</w>
+<c POS="w">（</c>
+<w POS="m">１０</w>
+<c POS="w">：</c>
+<w POS="m">１５</w>
+<c POS="w">、</c>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">３</w>
+<c POS="w">、</c>
+<w POS="m">１５</w>
+<c POS="w">：</c>
+<w POS="m">１０</w>
+<c POS="w">）</c>
+<w POS="v">胜</w>
+<w POS="ns">瑞典</w>
+<w POS="u">的</w>
+<w POS="nr">扬·安通松</w>
+<w POS="c">和</w>
+<w POS="nr">玛·本特松</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

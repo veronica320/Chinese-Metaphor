@@ -1,0 +1,427 @@
+﻿<p>
+<s n="0082">
+<w POS="v">列举</w>
+<w POS="r">这么</w>
+<w POS="a">多</w>
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="n">定义</w>
+<c POS="w">，</c>
+<w POS="d">究竟</w>
+<w POS="v">能</w>
+<w POS="v">说明</w>
+<w POS="r">什么</w>
+<w POS="n">问题</w>
+<w POS="y">呢</w>
+<c POS="ew">？</c>
+</s>
+</p>
+<p>
+<s n="0083">
+<w POS="m">第一</w>
+<c POS="w">，</c>
+<w POS="n">舆论</w>
+<w POS="v">是</w>
+<w POS="a">多</w>
+<w POS="n">因素</w>
+<w POS="u">的</w>
+<w POS="vn">复合</w>
+<w POS="ng">体</w>
+<c POS="ew">。</c>
+</s>
+<s n="0084">
+<w POS="b">上述</w>
+<w POS="n">定义</w>
+<w POS="d">或者</w>
+<w POS="v">强调</w>
+<w POS="u">了</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">一</w>
+<w POS="n">因素</w>
+<w POS="c">或</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">那</seg></w>
+<w POS="m">一</w>
+<w POS="n">因素</w>
+<c POS="w">，</c>
+<w POS="c">或者</w>
+<w POS="v">强调</w>
+<w POS="u">了</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="n">一方面</w>
+<w POS="c">或</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">那</seg></w>
+<w POS="n">一方面</w>
+<c POS="w">，</c>
+<w POS="c">因而</w>
+<w POS="v">呈现</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出</seg></w>
+<w POS="n">多样性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0085">
+<w POS="c">如果</w>
+<w POS="p">把</w>
+<w POS="n">舆论</w>
+<w POS="u">的</w>
+<w POS="r">各个</w>
+<w POS="n">因素</w>
+<w POS="v">看作</w>
+<w POS="d">相互</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">联系</seg></w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<w POS="u">的</w>
+<w POS="vn">统一</w>
+<w POS="n">整体</w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="p">把</w>
+<w POS="n">舆论</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">置放</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="d">更</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="u">的</w>
+<w POS="n">社会</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<w POS="c">和</w>
+<w POS="n">意识</w>
+<w POS="n">体系</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v">去</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">考察</seg></w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="d">不难</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">发现</seg></w>
+<c POS="w">，</c>
+<w POS="b">上述</w>
+<w POS="r">种种</w>
+<w POS="n">说法</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="d">截然</w>
+<w POS="v">对立</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="d"><seg function="mrw" type="indir" subtype="conv">不过</seg></w>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">从</seg></w>
+<w POS="a">不同</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">侧面</seg></w>
+<c POS="w">、</c>
+<w POS="a">不同</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">环节</seg></w>
+<c POS="w">、</c>
+<w POS="a">不同</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">层次</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">反映</seg></w>
+<w POS="u">了</w>
+<w POS="n">舆论</w>
+<w POS="n">现象</w>
+<w POS="u">的</w>
+<w POS="r">各个</w>
+<w POS="n">特点</w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="c">而且</w>
+<w POS="v">应当</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">整体</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">统一</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0086">
+<w POS="m">第二</w>
+<c POS="w">，</c>
+<w POS="n">舆论</w>
+<w POS="v">有</w>
+<w POS="b">多重</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="pers">身份</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0087">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">给</seg></w>
+<w POS="n">舆论</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="n">定义</w>
+<w POS="ng">时</w>
+<w POS="c">如果</w>
+<w POS="u">所</w>
+<w POS="v">指谓</w>
+<w POS="u">的</w>
+<w POS="n">舆论</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="pers">身份</seg></w>
+<w POS="a">不同</w>
+<c POS="w">，</c>
+<w POS="d">即</w>
+<w POS="p">被</w>
+<w POS="n">定义</w>
+<w POS="ng">项</w>
+<w POS="a">不同</w>
+<c POS="w">，</c>
+<w POS="d">自然</w>
+<w POS="v">定义</w>
+<w POS="d">就</w>
+<w POS="i">大相径庭</w>
+<c POS="ew">。</c>
+</s>
+<s n="0088">
+<w POS="v">比如</w>
+<c POS="w">，</c>
+<w POS="v">发生</w>
+<w POS="u">了</w>
+<w POS="m">一</w>
+<w POS="q">场</w>
+<w POS="vn">议论</w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="v">有</w>
+<w POS="r">这样</w>
+<w POS="m">几</w>
+<w POS="q">种</w>
+<w POS="n">情况</w>
+<c POS="w">：</c>
+<w POS="ad">一致</w>
+<w POS="v">同意</w>
+<w POS="u">的</w>
+<w POS="n">意见</w>
+<c POS="w">，</c>
+<w POS="m">多数</w>
+<w POS="v">同意</w>
+<w POS="u">的</w>
+<w POS="n">意见</w>
+<c POS="w">，</c>
+<w POS="d">相当</w>
+<w POS="n">数量</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<w POS="v">同意</w>
+<w POS="u">的</w>
+<w POS="n">意见</w>
+<c POS="w">，</c>
+<w POS="m">少数</w>
+<w POS="v">同意</w>
+<w POS="u">的</w>
+<w POS="n">意见</w>
+<c POS="w">，</c>
+<w POS="a">个别</w>
+<w POS="n">意见</w>
+<c POS="w">，</c>
+<w POS="r">各种</w>
+<w POS="n">意见</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">总和</seg></w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="q">场</w>
+<w POS="v">议论</w>
+<w POS="r">本身</w>
+<c POS="w">，</c>
+<w POS="u">等等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0089">
+<w POS="d">究竟</w>
+<w POS="r">哪</w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="v">是</w>
+<w POS="n">舆论</w>
+<c POS="w">，</c>
+<w POS="r">哪</w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="n">舆论</w>
+<c POS="w">，</c>
+<w POS="n">人们</w>
+<w POS="u">的</w>
+<w POS="n">看法</w>
+<w POS="d">本来</w>
+<w POS="d">就</w>
+<w POS="d">不</w>
+<w POS="a">一致</w>
+<c POS="ew">。</c>
+</s>
+<s n="0090">
+<w POS="r">他们</w>
+<w POS="n">心目</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="u">的</w>
+<w POS="n">舆论</w>
+<w POS="vn">指谓</w>
+<w POS="i">相去甚远</w>
+<c POS="ew">。</c>
+</s>
+<s n="0091">
+<w POS="r">各自</w>
+<w POS="q">所</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="u">的</w>
+<w POS="n">定义</w>
+<w POS="d">当然</w>
+<w POS="d">也</w>
+<w POS="v">不能</w>
+<w POS="v">指望</w>
+<w POS="v">有</w>
+<w POS="n">同一性</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0092">
+<w POS="m">第三</w>
+<c POS="w">，</c>
+<w POS="n">术业</w>
+<w POS="v">有</w>
+<w POS="vn">专攻</w>
+<c POS="ew">。</c>
+</s>
+<s n="0093">
+<w POS="a">不同</w>
+<w POS="n">学科</w>
+<w POS="v">有</w>
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="n">概念</w>
+<w POS="n">体系</w>
+<w POS="c">和</w>
+<w POS="vn">研究</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">视野</seg></w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">定义</w>
+<w POS="n">舆论</w>
+<w POS="ng">时</w>
+<w POS="d">也</w>
+<w POS="d">就</w>
+<w POS="v">有</w>
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="vn">解释</w>
+<w POS="c">和</w>
+<w POS="vn">侧重</w>
+<c POS="ew">。</c>
+</s>
+<s n="0094">
+<w POS="v">比如</w>
+<w POS="n">社会心理学</w>
+<w POS="v">强调</w>
+<w POS="n">舆论</w>
+<w POS="u">的</w>
+<w POS="n">心理</w>
+<w POS="n">特征</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">认为</seg></w>
+<c POS="w">＂</c>
+<w POS="n">舆论</w>
+<w POS="v">是</w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="v">富于</w>
+<w POS="n">情绪</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">色彩</seg></w>
+<w POS="u">的</w>
+<w POS="n">语言</w>
+<w POS="v">发表</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">态度</seg></w>
+<c POS="w">、</c>
+<w POS="n">意见</w>
+<w POS="c">及其</w>
+<w POS="d">相</w>
+<w POS="v">伴随</w>
+<w POS="u">的</w>
+<w POS="n">意象</w>
+<w POS="c">与</w>
+<w POS="n">思想</w>
+<w POS="u">所</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">构成</seg></w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">显示</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出</seg></w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">心理</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">有</w>
+<w POS="vn">制约</w>
+<w POS="n">作用</w>
+<w POS="u">的</w>
+<w POS="b">共同</w>
+<w POS="n">意见</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0095">
+<w POS="n">传播学</w>
+<w POS="v">强调</w>
+<w POS="v">讨论</w>
+<w POS="c">和</w>
+<w POS="v">交流</w>
+<w POS="u">的</w>
+<w POS="n">过程</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">舆论</w>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="a">广泛</w>
+<w POS="u">的</w>
+<w POS="n">知识</w>
+<w POS="c">和</w>
+<w POS="n">经验</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<w POS="d">不断</w>
+<w POS="v">比较</w>
+<w POS="c">和</w>
+<w POS="v">对比</w>
+<w POS="m">一些</w>
+<w POS="n">意见</w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="v">持续</w>
+<w POS="u">的</w>
+<w POS="n">过程</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0096">
+<w POS="n">伦理学</w>
+<w POS="v">强调</w>
+<w POS="n">舆论</w>
+<w POS="v">是</w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="n">道德</w>
+<w POS="vn">评价</w>
+<w POS="n">手段</w>
+<c POS="w">，</c>
+<w POS="n">社会学</w>
+<w POS="c">则</w>
+<w POS="p">把</w>
+<w POS="n">社会</w>
+<w POS="vn">控制</w>
+<w POS="v">纳入</w>
+<w POS="n">舆论</w>
+<w POS="u">的</w>
+<w POS="n">定义</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之中</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+

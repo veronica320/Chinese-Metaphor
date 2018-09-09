@@ -1,0 +1,483 @@
+﻿<p>
+<s n="0010">
+<w POS="c">概而言之</w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="n">气功</w>
+<w POS="u">的</w>
+<w POS="a">主要</w>
+<w POS="vn">研究</w>
+<w POS="n">对象</w>
+<w POS="v">是</w>
+<w POS="n">人</w>
+<c POS="ew">；</c>
+</s>
+<s n="0011">
+<w POS="v">研究</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">范围</seg></w>
+<w POS="v">是</w>
+<w POS="a">广泛</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0012">
+<w POS="d">也</w>
+<w POS="v">正如</w>
+<w POS="ns">中国</w>
+<w POS="n">气功</w>
+<w POS="n">科学</w>
+<w POS="n">研究会</w>
+<w POS="n">理事长</w>
+<w POS="nr">张</w>
+<w POS="nr">震寰</w>
+<w POS="u">所</w>
+<w POS="v">指出</w>
+<w POS="u">的</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">人体</w>
+<w POS="n">科学</w>
+<w POS="v">就是</w>
+<w POS="v">研究</w>
+<w POS="n">人</w>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="n">人</w>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="ag"><seg function="mrw" type="indir" subtype="conv">巨</seg></w>
+<w POS="n">系统</w>
+<c POS="w">，</c>
+<w POS="v">包括</w>
+<w POS="m">很多</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">层次</seg></w>
+<c POS="w">，</c>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">最高</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">层次</seg></w>
+<w POS="v">是</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="n">整体</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="r">它</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">封闭</seg></w>
+<w POS="u">的</w>
+<w POS="n">系统</w>
+<c POS="w">、</c>
+<w POS="c">而是</w>
+<w POS="m">一个</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">开放</seg></w>
+<w POS="u">的</w>
+<w POS="n">系统</w>
+<c POS="w">，</c>
+<w POS="v">处于</w>
+<w POS="p">与</w>
+<w POS="n">整体</w>
+<w POS="n">宇宙</w>
+<w POS="r">彼此</w>
+<w POS="v">相通</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0015">
+<w POS="c">由此可见</w>
+<w POS="p">通过</w>
+<w POS="n">气功</w>
+<c POS="w">、</c>
+<w POS="n">特异功能</w>
+<c POS="w">、</c>
+<w POS="n">中医</w>
+<w POS="c">和</w>
+<w POS="n">科技</w>
+<w POS="n">手段</w>
+<w POS="v">进行</w>
+<w POS="n">人体</w>
+<w POS="n">科学</w>
+<w POS="v">研究</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">范围</seg></w>
+<w POS="v">是</w>
+<w POS="a">广泛</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="n">意义</w>
+<w POS="d">也</w>
+<w POS="v">是</w>
+<w POS="d">很</w>
+<w POS="a">深远</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0016">
+<w POS="c">而</w>
+<w POS="n">气功</w>
+<w POS="ad">主要</w>
+<w POS="v">研究</w>
+<w POS="n">人体</w>
+<w POS="u">的</w>
+<w POS="n">生命</w>
+<w POS="vn">活动</w>
+<w POS="c">和</w>
+<w POS="n">大自然</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之间</seg></w>
+<w POS="u">的</w>
+<w POS="b">相互</w>
+<w POS="n">关系</w>
+<c POS="ew">。</c>
+</s>
+<s n="0017">
+<w POS="v">研究</w>
+<w POS="u">的</w>
+<w POS="n">目的</w>
+<w POS="v">是</w>
+<c POS="w">：</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">提高</seg></w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="l">身心健康</w>
+<w POS="n">水平</w>
+<c POS="ew">；</c>
+</s>
+<s n="0018">
+<w POS="v">掌握</w>
+<w POS="n">人体</w>
+<w POS="n">生命</w>
+<w POS="n">规律</w>
+<c POS="ew">；</c>
+</s>
+<s n="0019">
+<w POS="c">从而</w>
+<w POS="v">使</w>
+<w POS="n">人体</w>
+<w POS="v">达到</w>
+<w POS="a">最佳</w>
+<w POS="n">功能</w>
+<w POS="ng">态</w>
+<c POS="ew">；</c>
+</s>
+<s n="0020">
+<w POS="v">使</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="n">生命</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">从</seg></w>
+<w POS="n">必然王国</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">走向</seg></w>
+<w POS="n">自由王国</w>
+<c POS="ew">。</c>
+</s>
+<s n="0021">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="n">意义</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">讲</w>
+<c POS="w">，</c>
+<w POS="v">不能</w>
+<w POS="p">把</w>
+<w POS="n">气功</w>
+<w POS="ad">单纯</w>
+<w POS="v">理解</w>
+<w POS="p">为</w>
+<w POS="a">一般</w>
+<w POS="u">的</w>
+<w POS="n">体育</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">锻炼</seg></w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="widlii">运动</seg></w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="v">应当</w>
+<w POS="p">把</w>
+<w POS="n">气功</w>
+<w POS="v">看成</w>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="i">大有可为</w>
+<w POS="u">的</w>
+<w POS="b">新兴</w>
+<w POS="n">科学</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0022">
+<w POS="v">著名</w>
+<w POS="u">的</w>
+<w POS="nr">冯</w>
+<w POS="nr">理达</w>
+<w POS="n">教授</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">气功</w>
+<w POS="n">协会</w>
+<w POS="m">七</w>
+<w POS="q">届</w>
+<w POS="m">五</w>
+<w POS="q">次</w>
+<w POS="n">会议</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="ad">积极</w>
+<w POS="v">宣传</w>
+<w POS="n">气功</w>
+<c POS="w">，</c>
+<w POS="r">她</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">气功</w>
+<w POS="v">是</w>
+<w POS="n">我国</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">自</seg></w>
+<w POS="t">古代</w>
+<w POS="v">流传</w>
+<w POS="d">至今</w>
+<w POS="a">兴旺</w>
+<w POS="v">不衰</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">瑰宝</seg></w>
+<c POS="w">，</c>
+<w POS="d">又</w>
+<w POS="v">是</w>
+<w POS="t">现代</w>
+<w POS="n">人体</w>
+<w POS="n">科学</w>
+<w POS="u">的</w>
+<w POS="a">重要</w>
+<w POS="l">组成部分</w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="v">是</w>
+<w POS="t">未来</w>
+<w POS="n">科学</w>
+<c POS="w">，</c>
+<w POS="d">又</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">属于</seg></w>
+<w POS="m">２１</w>
+<w POS="n">世纪</w>
+<w POS="u">的</w>
+<w POS="n">重点</w>
+<w POS="n">科学</w>
+<w POS="n">之一</w>
+<c POS="ew">。</c>
+</s>
+<s n="0023">
+<w POS="r">它</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">人民</w>
+<w POS="an">健康</w>
+<c POS="w">，</c>
+<w POS="v">防病</w>
+<w POS="v">治病</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">提高</seg></w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="n">智能</w>
+<c POS="w">、</c>
+<w POS="n">体能</w>
+<w POS="n">方面</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<w POS="u">着</w>
+<w POS="a">重要</w>
+<w POS="u">的</w>
+<w POS="n">作用</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0024">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">明确</w>
+<w POS="u">了</w>
+<w POS="n">气功</w>
+<w POS="n">概念</w>
+<c POS="w">、</c>
+<w POS="n">气功</w>
+<w POS="u">的</w>
+<w POS="vn">研究</w>
+<w POS="n">对象</w>
+<w POS="c">和</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">范围</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之后</seg></w>
+<c POS="w">，</c>
+<w POS="d">还</w>
+<w POS="d">必须</w>
+<w POS="v">明了</w>
+<w POS="n">气功</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="pers">服务</seg></w>
+<w POS="n">宗旨</w>
+<c POS="ew">。</c>
+</s>
+<s n="0025">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">是</w>
+<w POS="v">关系</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="n">气功</w>
+<w POS="an">健康</w>
+<w POS="vn">发展</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">方向</seg></w>
+<w POS="u">的</w>
+<w POS="n">大前提</w>
+<c POS="ew">。</c>
+</s>
+<s n="0026">
+<w POS="d">必须</w>
+<w POS="a">严肃</w>
+<c POS="w">、</c>
+<w POS="a">认真</w>
+<w POS="u">地</w>
+<w POS="v">解决</w>
+<w POS="a">好</w>
+<c POS="ew">。</c>
+</s>
+<s n="0027">
+<w POS="r">我们</w>
+<w POS="v">遵循</w>
+<w POS="n">古今</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">各家</seg></w>
+<w POS="n">气功</w>
+<w POS="n">始祖</w>
+<c POS="w">、</c>
+<w POS="n">名家</w>
+<w POS="u">的</w>
+<w POS="vn">教诲</w>
+<w POS="c">和</w>
+<w POS="rg">诸</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">家</seg></w>
+<w POS="n">气功</w>
+<w POS="a">真实</w>
+<w POS="u">地</w>
+<w POS="v">实践</w>
+<c POS="w">，</c>
+<w POS="v">结合</w>
+<w POS="t">近代</w>
+<w POS="n">社会</w>
+<w POS="b">共同</w>
+<w POS="u">的</w>
+<w POS="a">迫切</w>
+<w POS="n">需要</w>
+<c POS="ew">。</c>
+</s>
+<s n="0028">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">经过</seg></w>
+<w POS="d">反复</w>
+<w POS="u">地</w>
+<w POS="v">研究</w>
+<w POS="v">推敲</w>
+<c POS="w">，</c>
+<w POS="n">笔者</w>
+<w POS="vd">着重</w>
+<w POS="v">提出</w>
+<w POS="v">如下</w>
+<w POS="u">的</w>
+<w POS="n">气功</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="pers">服务</seg></w>
+<w POS="n">宗旨</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">就是</w>
+<c POS="w">：</c>
+<w POS="n">功德</w>
+<w POS="v">至上</w>
+<c POS="w">、</c>
+<w POS="i">救死扶伤</w>
+<c POS="w">、</c>
+<w POS="i">治病救人</w>
+<c POS="w">、</c>
+<w POS="v">不争</w>
+<w POS="n">名利</w>
+<c POS="w">、</c>
+<w POS="i">实事求是</w>
+<c POS="w">、</c>
+<w POS="ad">科学</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">传</seg></w>
+<w POS="n">功</w>
+<c POS="w">、</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">面向</seg></w>
+<w POS="n">群众</w>
+<c POS="w">、</c>
+<w POS="ad">热心</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">服务</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0029">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">３２</w>
+<w POS="q">个</w>
+<w POS="n">字</w>
+<w POS="u">的</w>
+<w POS="n">气功</w>
+<w POS="n">宗旨</w>
+<c POS="w">，</c>
+<w POS="v">应</w>
+<w POS="v">是</w>
+<w POS="r">我们</w>
+<w POS="n">气功</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">探索</seg></w>
+<w POS="k">者</w>
+<c POS="w">、</c>
+<w POS="v">爱好</w>
+<w POS="k">者</w>
+<c POS="w">、</c>
+<w POS="v">练功</w>
+<w POS="k">者</w>
+<w POS="c">和</w>
+<w POS="n">气功师</w>
+<c POS="w">、</c>
+<w POS="n">辅导员</w>
+<w POS="d">必须</w>
+<w POS="d">始终</w>
+<w POS="d">共同</w>
+<w POS="v">遵守</w>
+<w POS="u">的</w>
+<w POS="a">根本</w>
+<w POS="n">宗旨</w>
+<c POS="w">，</c>
+<w POS="c">同时</w>
+<w POS="d">也</w>
+<w POS="v">是</w>
+<w POS="v">体现</w>
+<w POS="n">功德</w>
+<w POS="n">准则</w>
+<w POS="u">的</w>
+<w POS="a">重要</w>
+<w POS="n">内容</w>
+<c POS="ew">。</c>
+</s>
+<s n="0030">
+<w POS="c">如果</w>
+<w POS="r">我们</w>
+<w POS="u">的</w>
+<w POS="n">言行</w>
+<w POS="v">违背</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="n">宗旨</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="v">会</w>
+<w POS="p">把</w>
+<w POS="n">气功</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">引入</seg></w>
+<w POS="n">歧途</w>
+<c POS="w">，</c>
+<w POS="c">因此</w>
+<w POS="d">必须</w>
+<w POS="a">慎重</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">对待</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="a">重要</w>
+<w POS="n">问题</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

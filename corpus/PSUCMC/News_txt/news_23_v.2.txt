@@ -1,0 +1,497 @@
+﻿<p>
+<s n="0083">
+<w POS="t">９月</w>
+<w POS="t">５日</w>
+<w POS="tg">晚</w>
+<w POS="t">８时</w>
+<c POS="w">，</c>
+<w POS="n">暴雨</w>
+<w POS="t">过后</w>
+<w POS="u">的</w>
+<w POS="nr">沈家门</w>
+<w POS="n">渔港</w>
+<w POS="v">显得</w>
+<w POS="d">格外</w>
+<w POS="a">清新</w>
+<c POS="w">、</c>
+<w POS="a">美丽</w>
+<c POS="ew">。</c>
+</s>
+<s n="0084">
+<w POS="b">整个</w>
+<w POS="nr">沈家门</w>
+<w POS="n">镇</w>
+<w POS="d">几乎</w>
+<w POS="i">万人空巷</w>
+<c POS="w">，</c>
+<w POS="n">人们</w>
+<w POS="i">成群结队</w>
+<w POS="d">纷纷</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">涌</seg></w>
+<w POS="p">向</w>
+<w POS="n">港滨</w>
+<w POS="u">的</w>
+<w POS="nz">滨江</w>
+<w POS="n">大道</w>
+<c POS="w">，</c>
+<w POS="a">急切</w>
+<w POS="u">地</w>
+<w POS="v">等待</w>
+<w POS="u">着</w>
+<w POS="j">亚运</w>
+<w POS="n">圣火</w>
+<w POS="u">的</w>
+<w POS="vn">到来</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0085">
+<w POS="t">晚上</w>
+<w POS="m">９</w>
+<c POS="w">：</c>
+<w POS="m">３５</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">随着</seg></w>
+<w POS="a">红</w>
+<c POS="w">、</c>
+<w POS="a">白</w>
+<c POS="w">、</c>
+<w POS="a">绿</w>
+<w POS="m">３</w>
+<w POS="q">颗</w>
+<w POS="n">信号弹</w>
+<w POS="l">腾空而起</w>
+<c POS="w">，</c>
+<w POS="n">渔民</w>
+<w POS="v">出身</w>
+<w POS="u">的</w>
+<w POS="b">省级</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">明星</seg></w>
+<w POS="n">企业家</w>
+<c POS="w">、</c>
+<w POS="nr">沈家门</w>
+<w POS="n">海洋</w>
+<w POS="n">渔业</w>
+<w POS="n">公司</w>
+<w POS="n">经理</w>
+<w POS="nr">张</w>
+<w POS="nr">金康</w>
+<w POS="n">手</w>
+<w POS="v">擎</w>
+<w POS="n">火炬</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="m">３００</w>
+<w POS="n">人</w>
+<w POS="v">陪</w>
+<w POS="v">跑</w>
+<w POS="n">队伍</w>
+<w POS="u">的</w>
+<w POS="vn">护送</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<c POS="w">，</c>
+<w POS="v">跑</w>
+<w POS="v">入</w>
+<w POS="ns">滨江路</w>
+<c POS="ew">。</c>
+</s>
+<s n="0086">
+<w POS="d">顿时</w>
+<w POS="v">停泊</w>
+<w POS="p">在</w>
+<w POS="n">渔港</w>
+<w POS="v">挂</w>
+<w POS="a">满</w>
+<w POS="n">彩旗</w>
+<w POS="u">的</w>
+<w POS="m">千</w>
+<w POS="q">艘</w>
+<w POS="n">渔船</w>
+<w POS="d">一齐</w>
+<w POS="v">拉</w>
+<w POS="v">响</w>
+<w POS="u">了</w>
+<w POS="n">汽笛</w>
+<c POS="w">，</c>
+<w POS="s">船上</w>
+<w POS="r">各式</w>
+<w POS="n">桅灯</w>
+<c POS="w">、</c>
+<w POS="n">信号灯</w>
+<c POS="w">、</c>
+<w POS="n">探照灯</w>
+<w POS="u">等</w>
+<w POS="v">组成</w>
+<w POS="u">的</w>
+<w POS="m">万</w>
+<w POS="q">家</w>
+<w POS="n">渔火</w>
+<w POS="c">与</w>
+<w POS="v">临</w>
+<w POS="n">港</w>
+<w POS="n">高层</w>
+<w POS="n">建筑</w>
+<w POS="f">上</w>
+<w POS="u">的</w>
+<w POS="n">节日</w>
+<w POS="n">彩灯</w>
+<c POS="w">、</c>
+<w POS="n">商场</w>
+<w POS="n">饭店</w>
+<w POS="s">门前</w>
+<w POS="u">的</w>
+<w POS="n">霓虹灯</w>
+<w POS="v">映照</w>
+<w POS="p">在</w>
+<w POS="n">波光</w>
+<w POS="z">盈盈</w>
+<w POS="u">的</w>
+<w POS="n">海面</w>
+<w POS="f">上</w>
+<c POS="ew">。</c>
+</s>
+<s n="0087">
+<w POS="r">此时</w>
+<w POS="n">渔港</w>
+<w POS="v"><seg function="mflag">如同</seg></w>
+<w POS="v"><seg function="mrw" type="dir">披</seg></w>
+<w POS="v"><seg function="mrw" type="dir">上</seg></w>
+<w POS="n"><seg function="mrw" type="dir">彩霞</seg></w>
+<w POS="n">满目</w>
+<w POS="a">光辉</w>
+<c POS="ew">。</c>
+</s>
+<s n="0088">
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="a">老</w>
+<w POS="n">渔民</w>
+<w POS="p">对</w>
+<w POS="n">记者</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="vg">鸣</w>
+<w POS="n">汽笛</w>
+<c POS="w">、</c>
+<w POS="v">挂</w>
+<w POS="a">满</w>
+<w POS="n">旗</w>
+<c POS="w">、</c>
+<w POS="v">亮</w>
+<w POS="n">彩灯</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">是</w>
+<w POS="n">渔家</w>
+<w POS="d">最</w>
+<w POS="a">隆重</w>
+<w POS="u">的</w>
+<w POS="n">礼节</w>
+<c POS="w">，</c>
+<w POS="t">今晚</w>
+<w POS="d">全</w>
+<w POS="v">用</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="u">了</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0089">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">为</seg></w>
+<w POS="vn">传递</w>
+<w POS="n">活动</w>
+<w POS="v">助兴</w>
+<w POS="u">的</w>
+<w POS="m">７</w>
+<w POS="q">辆</w>
+<w POS="a">大</w>
+<w POS="n">彩车</w>
+<w POS="d">缓缓</w>
+<w POS="v">驶过</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">迎来</seg></w>
+<w POS="u">了</w>
+<w POS="q">阵阵</w>
+<w POS="vn">喝彩</w>
+<c POS="ew">。</c>
+</s>
+<s n="0090">
+<w POS="v">体现</w>
+<w POS="n">海岛</w>
+<w POS="n">人</w>
+<w POS="vg">欢</w>
+<w POS="n">鱼</w>
+<w POS="vg">跃</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n">大黄鱼</w>
+<c POS="w">＂</c>
+<w POS="n">彩车</w>
+<w POS="i">别出心裁</w>
+<c POS="w">，</c>
+<w POS="p">用</w>
+<w POS="n">车身</w>
+<w POS="v">组合</w>
+<w POS="v">成</w>
+<w POS="n">鱼</w>
+<w POS="ng">体</w>
+<c POS="w">，</c>
+<w POS="r">这</w>
+<w POS="q">条</w>
+<w POS="a">高</w>
+<w POS="m">２．４</w>
+<w POS="q">米</w>
+<c POS="w">、</c>
+<w POS="a">长</w>
+<w POS="m">７．４</w>
+<w POS="q">米</w>
+<w POS="u">的</w>
+<w POS="i">庞然大物</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">身披</seg></w>
+<w POS="a">金</w>
+<w POS="ng">甲</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="m">３５０</w>
+<w POS="q">颗</w>
+<w POS="a">小</w>
+<w POS="n">彩灯</w>
+<w POS="u">的</w>
+<w POS="vn">映照</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="i">栩栩如生</w>
+<c POS="ew">。</c>
+</s>
+<s n="0091">
+<w POS="v">据悉</w>
+<c POS="w">，</c>
+<w POS="v">做</w>
+<w POS="r">这</w>
+<w POS="q">条</w>
+<c POS="w">＂</c>
+<w POS="n">大黄鱼</w>
+<c POS="w">＂</c>
+<w POS="v">花</w>
+<w POS="u">了</w>
+<w POS="m">半</w>
+<w POS="q">方</w>
+<w POS="n">木材</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0092">
+<w POS="t">昨晚</w>
+<w POS="d">最</w>
+<w POS="i">引人注目</w>
+<w POS="u">的</w>
+<w POS="vn">欢迎</w>
+<w POS="n">队伍</w>
+<w POS="v">是</w>
+<w POS="v">来自</w>
+<w POS="ns">台湾</w>
+<w POS="ns">基隆</w>
+<w POS="nr">苏澳</w>
+<w POS="m">７</w>
+<w POS="q">艘</w>
+<w POS="n">渔船</w>
+<w POS="f">上</w>
+<w POS="u">的</w>
+<w POS="n">渔民</w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="v">是</w>
+<w POS="p">因</w>
+<w POS="v">受</w>
+<w POS="m">１５</w>
+<w POS="q">号</w>
+<w POS="n">台风</w>
+<w POS="u">的</w>
+<w POS="vn">影响</w>
+<w POS="t">前不久</w>
+<w POS="v">进入</w>
+<w POS="nr">沈家门</w>
+<w POS="n">渔港</w>
+<w POS="v">避风</w>
+<w POS="b">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0093">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="r">他们</w>
+<w POS="v">听说</w>
+<w POS="j">亚运</w>
+<w POS="n">火炬</w>
+<w POS="v">要</w>
+<w POS="v">到</w>
+<w POS="nr">沈家门</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="d">十分</w>
+<w POS="a">激动</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">征得</seg></w>
+<w POS="vn">有关</w>
+<w POS="n">部门</w>
+<w POS="u">的</w>
+<w POS="vn">同意</w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">推</seg></w>
+<w POS="v">派</w>
+<w POS="u">了</w>
+<w POS="m">２０</w>
+<w POS="q">名</w>
+<w POS="n">代表</w>
+<w POS="v">上岸</w>
+<c POS="w">，</c>
+<w POS="p">与</w>
+<w POS="n">大陆</w>
+<w POS="n">渔民</w>
+<w POS="d">一起</w>
+<w POS="v">迎候</w>
+<c POS="w">＂</c>
+<w POS="j">亚运</w>
+<w POS="n">圣火</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="v">委托</w>
+<w POS="vn">有关</w>
+<w POS="n">部门</w>
+<w POS="v">做</w>
+<w POS="u">了</w>
+<c POS="w">＂</c>
+<w POS="j">亚运</w>
+<w POS="u">之</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">光</seg></w>
+<w POS="ns">台湾</w>
+<w POS="n">遗民</w>
+<w POS="v">欢迎</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="pers">您</seg></w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="a">大</w>
+<w POS="q">幅</w>
+<w POS="n">标语</w>
+<c POS="ew">。</c>
+</s>
+<s n="0094">
+<w POS="t">晚上</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">圣火</w>
+<w POS="v">到达</w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="n">小时</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="d">就</w>
+<w POS="d">已</w>
+<w POS="v">手持</w>
+<w POS="n">亚运会</w>
+<w POS="ng">徽</w>
+<w POS="n">旗</w>
+<c POS="w">，</c>
+<w POS="v">静候</w>
+<w POS="p">在</w>
+<w POS="ns">滨江路</w>
+<w POS="k">边</w>
+<c POS="ew">。</c>
+</s>
+<s n="0095">
+<w POS="r">某</w>
+<w POS="n">船</w>
+<w POS="n">船长</w>
+<w POS="nr">黄</w>
+<w POS="n">先生</w>
+<w POS="p">向</w>
+<w POS="n">记者</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v">有</w>
+<w POS="m">两</w>
+<w POS="q">艘</w>
+<w POS="n">渔船</w>
+<w POS="b">原</w>
+<w POS="n">计划</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="t">今天</w>
+<w POS="t">上午</w>
+<w POS="v">离开</w>
+<w POS="nr">沈家门</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="v">听说</w>
+<w POS="t">今晚</w>
+<c POS="w">'</c>
+<w POS="j">亚运</w>
+<w POS="n">圣火</w>
+<c POS="w">'</c>
+<w POS="v">要</w>
+<w POS="v">来</w>
+<c POS="w">，</c>
+<w POS="d">便</w>
+<w POS="v">决定</w>
+<w POS="v">推迟</w>
+<w POS="m">一</w>
+<w POS="q">天</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">开拔</seg></w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0096">
+<w POS="v">据说</w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">艘</w>
+<w POS="n">渔船</w>
+<w POS="v">耽搁</w>
+<w POS="m">一</w>
+<w POS="q">天</w>
+<w POS="v">要</w>
+<w POS="v">损失</w>
+<w POS="m">９万</w>
+<w POS="n">台币</w>
+<c POS="ew">。</c>
+</s>
+<s n="0097">
+<w POS="r">那些</w>
+<w POS="d">没</w>
+<w POS="v">能</w>
+<w POS="v">上岸</w>
+<w POS="v">迎</w>
+<c POS="w">＂</c>
+<w POS="n">圣火</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="ns">台湾</w>
+<w POS="n">渔民</w>
+<c POS="w">，</c>
+<w POS="p">在</w>
+<w POS="s">船上</w>
+<w POS="v">点</w>
+<w POS="v">亮</w>
+<w POS="u">了</w>
+<w POS="b">所有</w>
+<w POS="u">的</w>
+<w POS="n">信号灯</w>
+<c POS="w">、</c>
+<w POS="v">标志</w>
+<w POS="n">灯</w>
+<c POS="w">、</c>
+<w POS="n">探照灯</w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+</s>
+</p>
+

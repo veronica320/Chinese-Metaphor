@@ -1,0 +1,655 @@
+﻿<p>
+<s n="0003">
+<w POS="t">１１日</w>
+<w POS="t">下午</w>
+<w POS="t">３时</w>
+<w POS="u">许</w>
+<c POS="w">，</c>
+<w POS="ns">黄岩长潭</w>
+<w POS="n">水库</w>
+<w POS="n">坝</w>
+<w POS="ng">顶</w>
+<w POS="f">尽头</w>
+<w POS="u">的</w>
+<w POS="n">山</w>
+<w POS="ng">弯</w>
+<w POS="f">上</w>
+<c POS="w">，</c>
+<w POS="m">几十</w>
+<w POS="q">名</w>
+<w POS="n">灾民</w>
+<w POS="p">向</w>
+<w POS="u">正在</w>
+<w POS="r">这里</w>
+<w POS="v">慰问</w>
+<w POS="u">的</w>
+<w POS="b">副</w>
+<w POS="n">省长</w>
+<w POS="nr">许</w>
+<w POS="nr">行贯</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">拥</seg></w>
+<w POS="v">来</w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="n">头</w>
+<w POS="v">戴</w>
+<w POS="ng">箬</w>
+<w POS="ng">帽</w>
+<c POS="w">、</c>
+<w POS="v">拄</w>
+<w POS="u">着</w>
+<w POS="n">竹竿</w>
+<w POS="u">的</w>
+<w POS="n">老汉</w>
+<c POS="w">，</c>
+<w POS="v">噙</w>
+<w POS="u">着</w>
+<w POS="n">热泪</w>
+<w POS="ad">紧</w>
+<w POS="v">握</w>
+<w POS="b">副</w>
+<w POS="n">省长</w>
+<w POS="u">的</w>
+<w POS="n">手</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">乡村</w>
+<w POS="n">干部</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">冒</seg></w>
+<w POS="v">着</w>
+<w POS="v">齐胸</w>
+<w POS="a">深</w>
+<w POS="u">的</w>
+<w POS="n">洪水</w>
+<w POS="p">把</w>
+<w POS="r">我</w>
+<w POS="v">救</w>
+<w POS="v">出来</w>
+<c POS="w">，</c>
+<w POS="c">不然</w>
+<w POS="r">我</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">条</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">老</seg></w>
+<w POS="n">命</w>
+<w POS="ad">早</w>
+<w POS="v">没有</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0005">
+<w POS="v">说</w>
+<w POS="u">着</w>
+<w POS="v">说</w>
+<w POS="u">着</w>
+<c POS="w">，</c>
+<w POS="i">泣不成声</w>
+<c POS="w">，</c>
+<w POS="n">泪水</w>
+<w POS="v">滴</w>
+<w POS="a">湿</w>
+<w POS="u">了</w>
+<w POS="n">前襟</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0006">
+<w POS="n">老汉</w>
+<w POS="v">叫</w>
+<w POS="nr">杨</w>
+<w POS="nr">老章</w>
+<c POS="w">，</c>
+<w POS="m">８１</w>
+<w POS="q">岁</w>
+<c POS="w">，</c>
+<w POS="v">家住</w>
+<w POS="ns">头陀区</w>
+<w POS="ns">北洋镇</w>
+<w POS="ns">新建村</w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="t">９日</w>
+<w POS="tg">晚</w>
+<c POS="w">，</c>
+<w POS="n">暴雨</w>
+<w POS="d">再次</w>
+<w POS="v"><seg function="mflag">如</seg></w>
+<w POS="vg"><seg function="mrw" type="dir">注</seg></w>
+<c POS="w">，</c>
+<w POS="n">洪水</w>
+<w POS="v">淹</w>
+<w POS="v">到</w>
+<w POS="r">他家</w>
+<w POS="n">住房</w>
+<w POS="m">二</w>
+<w POS="n">楼</w>
+<c POS="w">，</c>
+<w POS="m">几</w>
+<w POS="q">位</w>
+<w POS="n">乡村</w>
+<w POS="n">干部</w>
+<w POS="v">冲进</w>
+<w POS="n">屋</w>
+<w POS="v">来</w>
+<c POS="w">，</c>
+<w POS="i">不容分说</w>
+<w POS="v">扶</w>
+<w POS="n">他</w>
+<w POS="v">离开</w>
+<w POS="n">危房</w>
+<c POS="w">，</c>
+<w POS="v">安顿</w>
+<w POS="p">在</w>
+<w POS="n">灯泡</w>
+<w POS="n">厂</w>
+<c POS="w">，</c>
+<w POS="d">还</w>
+<w POS="p">给</w>
+<w POS="r">他</w>
+<w POS="v">送</w>
+<w POS="v">去</w>
+<w POS="n">面包</w>
+<c POS="w">、</c>
+<w POS="n">饼干</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0008">
+<w POS="n">记者</w>
+<w POS="v">乘坐</w>
+<w POS="n">橡皮艇</w>
+<w POS="p">在</w>
+<w POS="ns">头陀区</w>
+<w POS="v">采访</w>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="p">由于</w>
+<w POS="m">１０</w>
+<w POS="m">余</w>
+<w POS="n">天</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">里</seg></w>
+<w POS="ad">连续</w>
+<w POS="v">遭受</w>
+<w POS="m">１５</w>
+<w POS="q">号</w>
+<c POS="w">、</c>
+<w POS="m">１７</w>
+<w POS="q">号</w>
+<w POS="c">和</w>
+<w POS="m">１８</w>
+<w POS="q">号</w>
+<w POS="n">台风</w>
+<w POS="d">相</w>
+<w POS="n">热带</w>
+<w POS="n">风暴</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">侵袭</seg></w>
+<c POS="w">，</c>
+<w POS="m">三</w>
+<w POS="q">度</w>
+<w POS="n">暴雨</w>
+<w POS="v">成灾</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="b">原先</w>
+<w POS="u">的</w>
+<w POS="n">沃野</w>
+<w POS="t">如今</w>
+<w POS="v">变成</w>
+<w POS="u">了</w>
+<w POS="n">汪洋</w>
+<c POS="w">，</c>
+<w POS="n">街道</w>
+<c POS="w">、</c>
+<w POS="n">公路</w>
+<w POS="v">成</w>
+<w POS="u">了</w>
+<w POS="s">水上</w>
+<w POS="n">航道</w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">片片</w>
+<w POS="vn">植树</w>
+<w POS="d">只</w>
+<w POS="v">露出</w>
+<w POS="n">树梢</w>
+<c POS="w">，</c>
+<w POS="m">３０</w>
+<w POS="m">多</w>
+<w POS="q">平方公里</w>
+<w POS="u">的</w>
+<w POS="n">低洼</w>
+<w POS="n">地带</w>
+<w POS="v">积存</w>
+<w POS="u">着</w>
+<w POS="m">５０００</w>
+<w POS="m">多</w>
+<w POS="m">万</w>
+<w POS="q">立方米</w>
+<w POS="u">的</w>
+<w POS="n">洪水</w>
+<c POS="w">，</c>
+<w POS="v">相当于</w>
+<w POS="m">一个</w>
+<w POS="b">中型</w>
+<w POS="n">水库</w>
+<w POS="u">的</w>
+<w POS="v">容</w>
+<w POS="n">水量</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0011">
+<w POS="p">在</w>
+<w POS="n">区</w>
+<w POS="vn">防汛</w>
+<w POS="b">临时</w>
+<w POS="n">指挥部</w>
+<c POS="w">，</c>
+<w POS="n">面色</w>
+<w POS="a">困倦</w>
+<w POS="u">的</w>
+<w POS="n">区长</w>
+<w POS="nr">翁</w>
+<w POS="nr">鹤龄</w>
+<c POS="w">，</c>
+<w POS="d">正</w>
+<w POS="v">握</w>
+<w POS="u">着</w>
+<w POS="n">对讲机</w>
+<c POS="w">，</c>
+<w POS="v">指挥</w>
+<w POS="p">向</w>
+<w POS="ns">潮济乡</w>
+<w POS="v">调运</w>
+<w POS="n">食品</w>
+<c POS="ew">。</c>
+</s>
+<s n="0012">
+<w POS="r">他</w>
+<w POS="v">告诉</w>
+<w POS="n">记者</w>
+<c POS="w">，</c>
+<w POS="n">全区</w>
+<w POS="m">１０万</w>
+<w POS="n">灾民</w>
+<w POS="p">被</w>
+<w POS="n">洪水</w>
+<w POS="v">围困</w>
+<w POS="m">１２</w>
+<w POS="q">个</w>
+<w POS="n">昼夜</w>
+<w POS="y">了</w>
+<c POS="w">，</c>
+<w POS="c">尽管</w>
+<w POS="r">大家</w>
+<w POS="n">生活</w>
+<w POS="d">非常</w>
+<w POS="a">艰辛</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="d">都</w>
+<w POS="v">能</w>
+<w POS="v">吃</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="n">食品</w>
+<c POS="w">，</c>
+<w POS="t">现在</w>
+<w POS="d">还</w>
+<w POS="d">没有</w>
+<w POS="v">发现</w>
+<w POS="m">一个</w>
+<w POS="n">人</w>
+<w POS="v">挨饿</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0013">
+<w POS="i">接二连三</w>
+<w POS="u">的</w>
+<w POS="n">洪灾</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="r">这里</w>
+<w POS="n">群众</w>
+<w POS="v">有</w>
+<w POS="ng">谷</w>
+<w POS="v">打</w>
+<w POS="d">不</w>
+<w POS="v">成</w>
+<w POS="n">米</w>
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="n">米</w>
+<w POS="v">无</w>
+<w POS="n">柴</w>
+<w POS="v">烧</w>
+<w POS="d">不</w>
+<w POS="v">成</w>
+<w POS="n">饭</w>
+<c POS="w">，</c>
+<w POS="m">不少</w>
+<w POS="n">农家</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">陷入</seg></w>
+<w POS="v">断炊</w>
+<w POS="n">困境</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="m">一</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">方</seg></w>
+<w POS="v">有</w>
+<w POS="n">难</w>
+<c POS="w">，</c>
+<w POS="l">八方支援</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="n">部队</w>
+<w POS="v">派</w>
+<w POS="v">来</w>
+<w POS="n">汽艇</w>
+<c POS="w">，</c>
+<w POS="ns">黄岩市</w>
+<w POS="c">和</w>
+<w POS="ns">兄弟县市</w>
+<w POS="v">调</w>
+<w POS="v">来</w>
+<w POS="n">食品</w>
+<c POS="ew">。</c>
+</s>
+<s n="0016">
+<w POS="n">记者</w>
+<w POS="p">在</w>
+<w POS="z">白茫茫</w>
+<w POS="u">的</w>
+<w POS="n">水面</w>
+<w POS="f">上</w>
+<c POS="w">，</c>
+<w POS="v">看到</w>
+<w POS="m">一艘艘</w>
+<w POS="n">橡皮艇</w>
+<c POS="w">、</c>
+<w POS="n">玻璃钢</w>
+<w POS="n">船</w>
+<c POS="w">，</c>
+<w POS="c">以及</w>
+<w POS="m">几百</w>
+<w POS="v">只用</w>
+<w POS="n">油桶</w>
+<c POS="w">、</c>
+<w POS="n">木板</w>
+<c POS="w">、</c>
+<w POS="n">毛竹</w>
+<w POS="u">等</w>
+<w POS="v">制成</w>
+<w POS="u">的</w>
+<w POS="n">水</w>
+<w POS="ng">筏</w>
+<c POS="w">，</c>
+<w POS="d">正</w>
+<w POS="v">运载</w>
+<w POS="n">食品</w>
+<c POS="w">、</c>
+<w POS="n">柴油</w>
+<c POS="w">，</c>
+<w POS="p">向</w>
+<w POS="m">一</w>
+<w POS="q">个个</w>
+<w POS="n"><seg function="mrw" type="dir">孤岛</w>
+<w POS="u"><seg function="mflag">似的</seg></w>
+<w POS="n">村庄</w>
+<w POS="v">驶去</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0017">
+<w POS="t">８日</w>
+<c POS="w">，</c>
+<w POS="p">被</w>
+<w POS="n">洪水</w>
+<w POS="v">包围</w>
+<w POS="u">的</w>
+<w POS="ns">灵石</w>
+<w POS="n">中学</w>
+<w POS="d">曾</w>
+<w POS="v">有</w>
+<w POS="m">８７０</w>
+<w POS="n">人</w>
+<w POS="v">断粮</w>
+<c POS="ew">。</c>
+</s>
+<s n="0018">
+<w POS="n">区</w>
+<w POS="f">里</w>
+<w POS="p">用</w>
+<w POS="n">小船</w>
+<w POS="v">送</w>
+<w POS="v">去</w>
+<w POS="m">２</w>
+<w POS="q">坛</w>
+<w POS="n">什锦</w>
+<w POS="n">菜</w>
+<c POS="w">、</c>
+<w POS="m">２</w>
+<w POS="q">坛</w>
+<w POS="n">榨菜</w>
+<c POS="w">、</c>
+<w POS="m">２</w>
+<w POS="q">桶</w>
+<w POS="n">柴油</w>
+<w POS="c">和</w>
+<w POS="m">７．５</w>
+<w POS="q">公斤</w>
+<w POS="n">机油</w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="p">给</w>
+<w POS="n">师生</w>
+<w POS="k">们</w>
+<w POS="v">送</w>
+<w POS="v">去</w>
+<w POS="n">大米</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="r">这个</w>
+<w POS="n">学校</w>
+<w POS="d">又</w>
+<w POS="v">响起</w>
+<w POS="u">了</w>
+<w POS="n">读书声</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0019">
+<w POS="p">在</w>
+<w POS="ns">头陀镇</w>
+<w POS="u">的</w>
+<w POS="a">小</w>
+<w POS="n">山顶</w>
+<w POS="f">上</w>
+<c POS="w">，</c>
+<w POS="v">设立</w>
+<w POS="u">着</w>
+<w POS="vn">空投</w>
+<w POS="n">指示</w>
+<w POS="n">标记</w>
+<c POS="w">，</c>
+<w POS="n">航空兵</w>
+<w POS="r">某部</w>
+<w POS="n">官兵</wb>
+<w POS="v">驾驶</w>
+<w POS="n">直升飞机</w>
+<c POS="w">，</c>
+<w POS="v">投入</w>
+<w POS="n">罐头</w>
+<w POS="p">与</w>
+<w POS="n">食品</w>
+<c POS="ew">。</c>
+</s>
+<s n="0020">
+<w POS="n">村民</w>
+<w POS="n">小组</w>
+<w POS="p">按</w>
+<w POS="vn">急需</w>
+<w POS="v">分</w>
+<w POS="p">给</w>
+<w POS="n">灾民</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0021">
+<w POS="v">负责</w>
+<w POS="n">灾区</w>
+<w POS="n">后勤</w>
+<w POS="vn">保障</w>
+<w POS="u">的</w>
+<w POS="n">干部</w>
+<w POS="u">的</w>
+<w POS="n">本子</w>
+<w POS="f">上</w>
+<c POS="w">，</c>
+<w POS="v">记</w>
+<w POS="u">着</w>
+<w POS="r">各方</w>
+<w POS="v">捐赠</w>
+<w POS="u">的</w>
+<w POS="n">食品</w>
+<c POS="w">，</c>
+<w POS="n">全区</w>
+<w POS="n">灾民</w>
+<w POS="d">已</w>
+<w POS="v">收到</w>
+<w POS="n">面包</w>
+<c POS="w">、</c>
+<w POS="n">粽子</w>
+<c POS="w">、</c>
+<w POS="n">饼干</w>
+<w POS="u">等</w>
+<w POS="m">４万</w>
+<w POS="m">多</w>
+<w POS="q">公斤</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0022">
+<w POS="n">灾区</w>
+<w POS="n">群众</w>
+<w POS="d">互</w>
+<w POS="v">帮</w>
+<w POS="d">互</w>
+<w POS="v">谅</w>
+<w POS="d">共</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">渡</seg></w>
+<w POS="n">危难</w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">碗</w>
+<w POS="n">面条</w>
+<w POS="v">分</w>
+<w POS="u">着</w>
+<w POS="v">吃</w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">只</w>
+<w POS="n">粽子</w>
+<w POS="v">掰</w>
+<w POS="m">两</w>
+<w POS="m">半</w>
+<c POS="ew">。</c>
+</s>
+<s n="0023">
+<w POS="ns">朝前村</w>
+<w POS="m">２００</w>
+<w POS="m">多</w>
+<w POS="q">户</w>
+<w POS="n">人家</w>
+<c POS="w">，</c>
+<w POS="v">只有</w>
+<w POS="m">３</w>
+<w POS="q">户</w>
+<w POS="p">在</w>
+<w POS="s">高处</w>
+<c POS="w">，</c>
+<w POS="r">这</w>
+<w POS="m">３</w>
+<w POS="q">户</w>
+<w POS="n">农家</w>
+<w POS="ad">主动</w>
+<w POS="v">给</w>
+<w POS="n">洪水</w>
+<w POS="v">围困</w>
+<w POS="u">的</w>
+<w POS="n">村民</w>
+<w POS="v">烧</w>
+<w POS="n">饭</w>
+<c POS="w">、</c>
+<w POS="v">送</w>
+<w POS="n">饭</w>
+<c POS="ew">。</c>
+</s>
+<s n="0024">
+<w POS="n">全区</w>
+<w POS="v">有</w>
+<w POS="m">４万</w>
+<w POS="m">多</w>
+<w POS="n">灾民</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">靠</seg></w>
+<w POS="n">邻里</w>
+<w POS="v">互助</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">渡</seg></w>
+<w POS="n">难关</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0025">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="n">记者</w>
+<w POS="t">昨晚</w>
+<w POS="v">发稿</w>
+<w POS="ng">时</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">止</seg></w>
+<c POS="w">，</c>
+<w POS="r">这个</w>
+<w POS="n">区</w>
+<w POS="u">的</w>
+<w POS="n">水位</w>
+<w POS="d">已</w>
+<w POS="p">从</w>
+<w POS="a">最高</w>
+<w POS="ng">时</w>
+<w POS="u">的</w>
+<w POS="m">６．８１</w>
+<w POS="q">米</w>
+<w POS="v">下降</w>
+<w POS="v">到</w>
+<w POS="m">４．９</w>
+<w POS="q">米</w>
+<c POS="w">，</c>
+<w POS="d">尚</w>
+<w POS="v">超出</w>
+<w POS="vn">警戒</w>
+<w POS="n">水位</w>
+<w POS="m">１．１</w>
+<w POS="q">米</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

@@ -1,0 +1,419 @@
+﻿<p>
+<s n="0019">
+<w POS="n">电脑</w>
+<w POS="b">自动</w>
+<w POS="vn">出纳</w>
+</s>
+</p>
+<p>
+<s n="0020">
+<w POS="n">银行</w>
+<w POS="n">电脑</w>
+<w POS="k">化</w>
+<w POS="p">给</w>
+<w POS="n">顾客</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">带来</seg></w>
+<w POS="u">了</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">极大</seg></w>
+<w POS="an">方便</w>
+<c POS="ew">。</c>
+</s>
+<s n="0021">
+<w POS="p">在</w>
+<w POS="m">一些</w>
+<w POS="n">工业</w>
+<w POS="l">发达国家</w>
+<w POS="u">的</w>
+<w POS="n">大都市</w>
+<w POS="f">里</w>
+<c POS="w">，</c>
+<w POS="p">在</w>
+<w POS="n">支行</w>
+<w POS="c">或</w>
+<w POS="a">繁华</w>
+<w POS="u">的</w>
+<w POS="n">商业</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">中心</seg></w>
+<c POS="w">、</c>
+<w POS="n">机场</w>
+<c POS="w">、</c>
+<w POS="n">车站</w>
+<c POS="w">、</c>
+<w POS="n">码头</w>
+<w POS="u">等</w>
+<w POS="b">公共</w>
+<w POS="n">场所</w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="v">看到</w>
+<w POS="n">电脑</w>
+<w POS="b">自动</w>
+<w POS="n">出纳</w>
+<w POS="ng">机</w>
+<c POS="ew">。</c>
+</s>
+<s n="0022">
+<w POS="n">出纳</w>
+<w POS="ng">机</w>
+<w POS="v">嵌</w>
+<w POS="p">在</w>
+<w POS="n">墙壁</w>
+<w POS="f">里</w>
+<c POS="w">，</c>
+<w POS="s">墙上</w>
+<w POS="v">有</w>
+<w POS="m">两</w>
+<w POS="q">个</w>
+<w POS="ag">狭</w>
+<w POS="n">缝</w>
+<w POS="c">和</w>
+<w POS="m">一</w>
+<w POS="q">排</w>
+<w POS="n">数字</w>
+<w POS="n">按键</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0023">
+<w POS="n">人们</w>
+<w POS="v">上街</w>
+<w POS="l">用不着</w>
+<w POS="v">带</w>
+<w POS="n">现钱</w>
+<c POS="w">，</c>
+<w POS="c">只要</w>
+<w POS="v">带</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<w POS="n">银行</w>
+<w POS="v">发给</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n">磁性</w>
+<w POS="n">卡片</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0024">
+<w POS="n">卡片</w>
+<w POS="f">上</w>
+<w POS="v">有</w>
+<w POS="n">银行</w>
+<w POS="n">账户</w>
+<w POS="n">号码</w>
+<w POS="c">及</w>
+<w POS="r">本人</w>
+<w POS="u">的</w>
+<w POS="vn">签字</w>
+<c POS="ew">。</c>
+</s>
+<s n="0025">
+<w POS="p">在</w>
+<w POS="n">商店</w>
+<w POS="f">里</w>
+<w POS="v">买</w>
+<w POS="n">东西</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="c">只要</w>
+<w POS="p">将</w>
+<w POS="n">卡片</w>
+<w POS="v">交给</w>
+<w POS="n">店主</w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="p">在</w>
+<w POS="n">账单</w>
+<w POS="f">上</w>
+<w POS="v">签字</w>
+<c POS="w">，</c>
+<w POS="n">店家</w>
+<w POS="v">记下</w>
+<w POS="n">账户</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="v">能</w>
+<w POS="p">通过</w>
+<w POS="n">银行</w>
+<w POS="v">结账</w>
+<c POS="ew">。</c>
+</s>
+<s n="0026">
+<w POS="c">要是</w>
+<w POS="v">需要</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">提</seg></w>
+<w POS="n">现款</w>
+<c POS="w">，</c>
+<w POS="c">只要</w>
+<w POS="p">把</w>
+<c POS="w">＂</c>
+<w POS="n">磁性</w>
+<w POS="n">卡片</w>
+<c POS="w">＂</c>
+<w POS="v">插入</w>
+<w POS="n">电脑</w>
+<w POS="b">自动</w>
+<w POS="n">出纳</w>
+<w POS="ng">机</w>
+<w POS="u">的</w>
+<w POS="f">上面</w>
+<w POS="ag">狭</w>
+<w POS="n">缝</w>
+<c POS="w">，</c>
+<w POS="c">然后</w>
+<w POS="p">通过</w>
+<w POS="n">按键</w>
+<w POS="p">将</w>
+<w POS="r">本人</w>
+<w POS="n">身份</w>
+<w POS="n">代码</w>
+<w POS="c">和</w>
+<w POS="vn">取款</w>
+<w POS="n">数额</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">输入</seg></w>
+<w POS="n">电脑</w>
+<c POS="w">，</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">信息</seg></w>
+<w POS="d">就</w>
+<w POS="v">会</w>
+<w POS="d">很快</w>
+<w POS="v">传到</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">中央</seg></w>
+<w POS="n">电脑</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">经过</seg></w>
+<w POS="v">核对</w>
+<w POS="v">确认</w>
+<w POS="u">了</w>
+<w POS="n">顾客</w>
+<w POS="vn">要求</w>
+<w POS="u">的</w>
+<w POS="n">合法性</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<c POS="w">，</c>
+<w POS="f">下面</w>
+<w POS="ag">狭</w>
+<w POS="n">缝</w>
+<w POS="d">就</w>
+<w POS="v">会</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<w POS="v">接</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">送</seg></w>
+<w POS="v">出</w>
+<w POS="n">钞票</w>
+<w POS="f">来</w>
+<c POS="ew">。</c>
+</s>
+<s n="0027">
+<w POS="v">等到</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">送</seg></w>
+<w POS="a">足</w>
+<w POS="u">了</w>
+<w POS="n">数目</w>
+<c POS="w">，</c>
+<w POS="f">上面</w>
+<w POS="u">的</w>
+<w POS="ag">狭</w>
+<w POS="n">缝</w>
+<w POS="v">会</w>
+<w POS="p">将</w>
+<w POS="n">卡片</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">交还</seg></w>
+<w POS="p">给</w>
+<w POS="n">顾客</w>
+<c POS="ew">。</c>
+</s>
+<s n="0028">
+<w POS="n">电脑</w>
+<w POS="v">会</w>
+<w POS="b">自动</w>
+<w POS="u">地</w>
+<w POS="p">把</w>
+<w POS="vn">付款</w>
+<w POS="n">数目</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">顾客</w>
+<w POS="n">存款</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">扣除</seg></w>
+<c POS="w">，</c>
+<w POS="c">要是</w>
+<w POS="n">顾客</w>
+<w POS="v">要</w>
+<w POS="u">的</w>
+<w POS="n">钱</w>
+<w POS="ng">数</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">超过</seg></w>
+<w POS="u">了</w>
+<w POS="n">存款</w>
+<c POS="w">，</c>
+<w POS="n">电脑</w>
+<w POS="n">出纳</w>
+<w POS="ng">机</w>
+<w POS="v">会</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">拒绝</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">付款</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0029">
+<w POS="b">整个</w>
+<w POS="n">过程</w>
+<w POS="d">只</w>
+<w POS="v">需</w>
+<w POS="m">一</w>
+<w POS="q">分钟</w>
+<c POS="w">，</c>
+<w POS="vn">服务</w>
+<w POS="c">既</w>
+<w POS="a">准确</w>
+<w POS="d">又</w>
+<w POS="a">迅速</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0030">
+<w POS="n">电脑</w>
+<w POS="b">自动</w>
+<w POS="vn">转账</w>
+</s>
+</p>
+<p>
+<s n="0031">
+<w POS="n">银行</w>
+<w POS="n">电脑</w>
+<w POS="k">化</w>
+<w POS="v">发展</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">到</seg></w>
+<w POS="a">高级</w>
+<w POS="n">阶段</w>
+<c POS="w">，</c>
+<w POS="d">将</w>
+<w POS="v">是</w>
+<w POS="v">实现</w>
+<w POS="n">电脑</w>
+<w POS="vn">转账</w>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="d">大大</w>
+<w POS="v">便利</w>
+<w POS="u">了</w>
+<w POS="n">顾客</w>
+<c POS="ew">。</c>
+</s>
+<s n="0032">
+<w POS="n">电脑</w>
+<w POS="vn">转账</w>
+<w POS="d">实际上</w>
+<w POS="v">就是</w>
+<w POS="p">通过</w>
+<w POS="n">全国性</w>
+<w POS="u">的</w>
+<w POS="n">银行</w>
+<w POS="n">电脑</w>
+<w POS="n">网络</w>
+<c POS="w">，</c>
+<w POS="p">将</w>
+<w POS="n">社会</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="u">的</w>
+<w POS="b">所有</w>
+<w POS="n">家庭</w>
+<c POS="w">、</c>
+<w POS="n">银行</w>
+<c POS="w">、</c>
+<w POS="n">工厂</w>
+<c POS="w">、</c>
+<w POS="n">商店</w>
+<c POS="w">、</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机关</seg></w>
+<w POS="d">都</w>
+<w POS="v">联成</w>
+<w POS="n">一体</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="v">有</w>
+<w POS="u">了</w>
+<w POS="n">电脑</w>
+<w POS="vn">转账</w>
+<c POS="w">，</c>
+<w POS="v">发</w>
+<w POS="n">工资</w>
+<w POS="ng">时</w>
+<w POS="v">无需</w>
+<w POS="p">将</w>
+<w POS="n">现金</w>
+<w POS="v">装入</w>
+<w POS="n">工资袋</w>
+<c POS="w">，</c>
+<w POS="c">而是</w>
+<w POS="p">通过</w>
+<w POS="n">电脑</w>
+<w POS="p">将</w>
+<w POS="r">每</w>
+<w POS="q">位</w>
+<w POS="n">职工</w>
+<w POS="u">的</w>
+<w POS="n">工资</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">转入</seg></w>
+<w POS="n">所在</w>
+<w POS="n">银行</w>
+<w POS="u">的</w>
+<w POS="n">账户</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">里</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0034">
+<w POS="b">日常</w>
+<w POS="u">的</w>
+<w POS="r">各项</w>
+<w POS="n">开支</w>
+<c POS="w">，</c>
+<w POS="v">如</w>
+<w POS="n">房租</w>
+<c POS="w">、</c>
+<w POS="n">水电费</w>
+<c POS="w">、</c>
+<w POS="n">奶</w>
+<w POS="n">费</w>
+<c POS="w">、</c>
+<w POS="u">等</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">可以</w>
+<w POS="p">通过</w>
+<w POS="n">电脑</w>
+<w POS="vn">转账</w>
+<w POS="v">支付</w>
+<c POS="w">、</c>
+<w POS="d">不必</w>
+<w POS="d">亲自</w>
+<w POS="v">去</w>
+<w POS="v">交款</w>
+<c POS="w">，</c>
+<w POS="c">只要</w>
+<w POS="v">在家</w>
+<w POS="p">通过</w>
+<w POS="n">终端</w>
+<w POS="ng">机</w>
+<w POS="c">或</w>
+<w POS="n">电话</w>
+<w POS="d">就</w>
+<w POS="v">可</w>
+<w POS="p">把</w>
+<w POS="r">一切</w>
+<w POS="n">账目</w>
+<w POS="v">结算</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">清楚</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+

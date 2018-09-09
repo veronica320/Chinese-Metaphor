@@ -1,0 +1,414 @@
+﻿<p>
+<s n="0032">
+<w POS="c">但是</w>
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">等于</seg></w>
+<w POS="n">语言学</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="a">不同</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="n">语言学</w>
+<w POS="n">教学</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<w POS="p">同</w>
+<w POS="n">语言学</w>
+<w POS="n">教学</w>
+<w POS="u">的</w>
+<w POS="b">主要</w>
+<w POS="n">区别</w>
+<w POS="v">是</w>
+<c POS="w">：</c>
+</s>
+</p>
+<p>
+<s n="0034">
+<c POS="w">（</c>
+<w POS="m">１</w>
+<c POS="w">）</c>
+<w POS="n">教学</w>
+<w POS="n">目的</w>
+<w POS="a">不同</w>
+</s>
+</p>
+<p>
+<s n="0035">
+<w POS="n">语言学</w>
+<w POS="n">教学</w>
+<w POS="p">对</w>
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="n">教学</w>
+<w POS="n">对象</w>
+<w POS="v">可以</w>
+<w POS="v">有</w>
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="n">教学</w>
+<w POS="n">目的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0036">
+<w POS="v">例如</w>
+<c POS="w">，</c>
+<w POS="p">为了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">提高</seg></w>
+<w POS="n">学生</w>
+<w POS="u">的</w>
+<w POS="n">文化</w>
+<w POS="n">素养</w>
+<w POS="c">和</w>
+<w POS="l">逻辑思维</w>
+<w POS="n">能力</w>
+<c POS="w">，</c>
+<w POS="p">为了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">学生</w>
+<w POS="v">从事</w>
+<w POS="n">语言</w>
+<w POS="vn">研究</w>
+<w POS="c">和</w>
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<w POS="u">的</w>
+<w POS="n">能力</w>
+<w POS="c">以及</w>
+<w POS="vn">应用</w>
+<w POS="n">语言</w>
+<w POS="n">文学</w>
+<w POS="u">的</w>
+<w POS="n">能力</w>
+<w POS="u">等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0037">
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<w POS="c">虽然</w>
+<w POS="d">也</w>
+<w POS="v">有</w>
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="n">目的</w>
+<c POS="w">，</c>
+<w POS="c">但是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">根本</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">说</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="p">为了</w>
+<w POS="v">使</w>
+<w POS="n">学生</w>
+<w POS="v">学会</w>
+<w POS="n">语言</w>
+<c POS="w">，</c>
+<w POS="d">即</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">学生</w>
+<w POS="u">的</w>
+<w POS="n">语言</w>
+<w POS="n">能力</w>
+<w POS="c">和</w>
+<w POS="n">语言</w>
+<w POS="vn">交际</w>
+<w POS="n">能力</w>
+<c POS="ew">。</c>
+</s>
+<s n="0038">
+<w POS="c">无论是</w>
+<w POS="m"><seg function="mrw" type="indir" subtype="cont">第一</seg></w>
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<w POS="c">还是</w>
+<w POS="m"><seg function="mrw" type="indir" subtype="cont">第二</seg></w>
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出于</seg></w>
+<w POS="r">这样</w>
+<w POS="u">的</w>
+<w POS="n">目的</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0039">
+<c POS="w">（</c>
+<w POS="m">２</w>
+<c POS="w">）</c>
+<w POS="n">教学</w>
+<w POS="n">内容</w>
+<w POS="a">不同</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0040">
+<w POS="n">教学</w>
+<w POS="n">内容</w>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="n">教学</w>
+<w POS="n">目的</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">决定</seg></w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="c">由于</w>
+<w POS="n">教学</w>
+<w POS="n">目的</w>
+<w POS="a">不同</w>
+<c POS="w">，</c>
+<w POS="n">教学</w>
+<w POS="n">内容</w>
+<w POS="d">自然</w>
+<w POS="d">也</w>
+<w POS="a">不同</w>
+<c POS="ew">。</c>
+</s>
+<s n="0041">
+<w POS="n">语言学</w>
+<w POS="n">教学</w>
+<w POS="u">的</w>
+<w POS="n">内容</w>
+<w POS="v">是</w>
+<w POS="n">语言</w>
+<w POS="n">理论</w>
+<w POS="c">和</w>
+<w POS="n">语言</w>
+<w POS="n">知识</w>
+<w POS="c">以及</w>
+<w POS="n">语言</w>
+<w POS="vn">研究</w>
+<w POS="n">方法</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">教学</w>
+<w POS="n">内容</w>
+<w POS="v">有</w>
+<w POS="b">一定</w>
+<w POS="u">的</w>
+<w POS="n">系统性</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="n">系统性</w>
+<w POS="v">体现</w>
+<w POS="n">语言</w>
+<w POS="n">科学</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0042">
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<w POS="u">的</w>
+<w POS="n">教学</w>
+<w POS="n">内容</w>
+<w POS="v">是</w>
+<w POS="n">语言</w>
+<w POS="r">本身</w>
+<w POS="c">以及</w>
+<w POS="p">跟</w>
+<w POS="n">语言</w>
+<w POS="vn">理解</w>
+<w POS="c">和</w>
+<w POS="n">语言</w>
+<w POS="vn">使用</w>
+<w POS="v">有关</w>
+<w POS="u">的</w>
+<w POS="n">文化</w>
+<w POS="n">知识</w>
+<c POS="ew">。</c>
+</s>
+<s n="0043">
+<w POS="n">语言</w>
+<w POS="r">本身</w>
+<w POS="c">不但</w>
+<w POS="v">包括</w>
+<w POS="n">语音</w>
+<c POS="w">、</c>
+<w POS="n">词汇</w>
+<c POS="w">、</c>
+<w POS="n">句型</w>
+<c POS="w">、</c>
+<w POS="n">语法</w>
+<w POS="n">规则</w>
+<w POS="c">以及</w>
+<w POS="b">书面</w>
+<w POS="n">语言</w>
+<w POS="u">的</w>
+<w POS="n">文字</w>
+<w POS="u">等</w>
+<w POS="q">项</w>
+<w POS="n">语言</w>
+<w POS="n">内容</w>
+<c POS="w">，</c>
+<w POS="c">而且</w>
+<w POS="d">还</w>
+<w POS="v">包括</w>
+<w POS="v">听</w>
+<c POS="w">、</c>
+<w POS="v">说</w>
+<c POS="w">、</c>
+<w POS="v">读</w>
+<c POS="w">、</c>
+<w POS="v">写</w>
+<w POS="u">等</w>
+<w POS="q">项</w>
+<w POS="n">言语</w>
+<w POS="n">技能</w>
+<w POS="c">和</w>
+<w POS="v">用于</w>
+<w POS="a">实际</w>
+<w POS="v">交际</w>
+<w POS="n">活动</w>
+<w POS="u">的</w>
+<w POS="n">言语</w>
+<w POS="vn">交际</w>
+<w POS="n">技能</w>
+<c POS="ew">。</c>
+</s>
+<s n="0044">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">教学</w>
+<w POS="n">内容</w>
+<w POS="d">都</w>
+<w POS="v">要</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="n">言语</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">材料</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">形式</seg></w>
+<w POS="v">加以</w>
+<w POS="v">展示</w>
+<c POS="w">，</c>
+<w POS="n">言语</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">材料</seg></w>
+<w POS="v">要</w>
+<w POS="p">根据</w>
+<w POS="n">学生</w>
+<w POS="u">的</w>
+<w POS="n">水平</w>
+<w POS="c">和</w>
+<w POS="a">实际</w>
+<w POS="n">需要</w>
+<w POS="v">加以</w>
+<w POS="v">选择</w>
+<w POS="c">和</w>
+<w POS="v">编排</w>
+<c POS="ew">。</c>
+</s>
+<s n="0045">
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<w POS="u">的</w>
+<w POS="n">教学</w>
+<w POS="n">内容</w>
+<w POS="d">也</w>
+<w POS="v">有</w>
+<w POS="b">一定</w>
+<w POS="u">的</w>
+<w POS="n">系统性</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="n">系统性</w>
+<w POS="d">主要</w>
+<w POS="v">体现</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="a">易</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="a">难</w>
+<c POS="w">、</c>
+<w POS="l">由浅入深</w>
+<c POS="w">、</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="a">具体</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="a">抽象</w>
+<c POS="w">、</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="a">简单</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="a">复杂</w>
+<w POS="u">的</w>
+<w POS="vn">言语</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<c POS="w">，</c>
+<w POS="d">不</w>
+<w POS="ad">完全</w>
+<w POS="v">体现</w>
+<w POS="n">语言</w>
+<w POS="n">科学</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0046">
+<w POS="n">语言</w>
+<w POS="n">教学</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="d">也</w>
+<w POS="v">要</w>
+<w POS="p">根据</w>
+<w POS="n">需要</w>
+<w POS="ad">适当</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">介绍</seg></w>
+<w POS="n">语言</w>
+<w POS="n">知识</w>
+<c POS="w">，</c>
+<w POS="c">但是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">介绍</seg></w>
+<w POS="n">语言</w>
+<w POS="n">知识</w>
+<w POS="u">的</w>
+<w POS="n">目的</w>
+<w POS="d">主要</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="p">为了</w>
+<w POS="v">让</w>
+<w POS="n">学生</w>
+<w POS="v">掌握</w>
+<w POS="n">语言</w>
+<w POS="n">知识</w>
+<w POS="r">本身</w>
+<c POS="w">，</c>
+<w POS="c">而是</w>
+<w POS="p">为了</w>
+<w POS="v">使</w>
+<w POS="r">他们</w>
+<w POS="v">理解</w>
+<c POS="w">、</c>
+<w POS="v">掌握</w>
+<w POS="c">和</w>
+<w POS="ad">正确</w>
+<w POS="v">使用</w>
+<w POS="u">所</w>
+<w POS="v">学</w>
+<w POS="u">的</w>
+<w POS="n">语言</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="p">跟</w>
+<w POS="n">语言学</w>
+<w POS="n">教学</w>
+<w POS="v">有</w>
+<w POS="n">本质</w>
+<w POS="u">的</w>
+<w POS="n">区别</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

@@ -1,0 +1,514 @@
+﻿<p>
+<s n="0003">
+<w POS="t">１０月</w>
+<w POS="t">１４日</w>
+<w POS="t">清早</w>
+<c POS="w">，</c>
+<w POS="n">笔者</w>
+<w POS="p">在</w>
+<w POS="ns">沈阳</w>
+<w POS="s">郊区</w>
+<w POS="m">一个</w>
+<w POS="v">卸</w>
+<w POS="n">垃圾</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">点</seg></w>
+<c POS="w">，</c>
+<w POS="v">看见</w>
+<w POS="m">三四十</w>
+<w POS="q">名</w>
+<w POS="v">捡破烂</w>
+<w POS="k">儿</w>
+<w POS="u">的</w>
+<w POS="n">男女</w>
+<w POS="p">把</w>
+<w POS="m">一</w>
+<w POS="q">台</w>
+<w POS="v">卸</w>
+<w POS="n">垃圾</w>
+<w POS="n">汽车</w>
+<w POS="v">围</w>
+<w POS="q">个</w>
+<w POS="i"><seg function="mrw" type="indir" subtype="widlii">水泄不通</seg></w>
+<c POS="w">，</c>
+<w POS="s">车上</w>
+<w POS="n">车</w>
+<w POS="f">下</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="n">人</w>
+<c POS="w">，</c>
+<w POS="n">司机</w>
+<w POS="d">连</w>
+<w POS="vg">鸣</w>
+<w POS="n">喇叭</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">带</seg></w>
+<w POS="v">吆喝</w>
+<w POS="d">才</w>
+<w POS="ad">勉强</w>
+<w POS="p">把</w>
+<w POS="n">车</w>
+<w POS="v">开走</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0004">
+<w POS="p">在</w>
+<w POS="ad">新</w>
+<w POS="v">到</w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="q">辆</w>
+<w POS="v">运</w>
+<w POS="n">垃圾</w>
+<w POS="n">车</w>
+<w POS="f">上</w>
+<c POS="w">，</c>
+<w POS="m">几十</w>
+<w POS="n">人</w>
+<w POS="p">用</w>
+<w POS="m">四</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">齿</seg></w>
+<w POS="vn">刨</w>
+<w POS="n">钩</w>
+<w POS="d">飞速</w>
+<w POS="u">地</w>
+<w POS="v">扒</w>
+<w POS="u">着</w>
+<w POS="n">垃圾</w>
+<c POS="w">，</c>
+<w POS="p">向</w>
+<w POS="n">麻袋</w>
+<c POS="w">、</c>
+<w POS="n">编织袋</w>
+<w POS="c">或</w>
+<w POS="n">筐</w>
+<w POS="f">里</w>
+<w POS="v">装</w>
+<w POS="m">一</w>
+<w POS="q">块块</w>
+<w POS="v">叮叮</w>
+<w POS="v">当当</w>
+<w POS="u">的</w>
+<w POS="n">东西</w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="n">笔者</w>
+<w POS="v">问</w>
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="p">被</w>
+<w POS="v">挤</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="cont">阵</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">来</seg></w>
+<w POS="u">的</w>
+<w POS="t">中年</w>
+<w POS="n">妇女</w>
+<w POS="v">抢</w>
+<w POS="r">什么</w>
+<c POS="ew">？</c>
+</s>
+<s n="0006">
+<w POS="r">她</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">破铜烂铁</w>
+<w POS="y">呗</w>
+<c POS="w">，</c>
+<w POS="c">只要</w>
+<w POS="v">能</w>
+<w POS="v">卖</w>
+<w POS="n">钱</w>
+<w POS="u">的</w>
+<w POS="d">都</w>
+<w POS="v">要</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0007">
+<w POS="m">两</w>
+<w POS="q">位</w>
+<w POS="p">被</w>
+<w POS="v">挤</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="cont">阵</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">来</seg></w>
+<w POS="u">的</w>
+<w POS="m">５０</w>
+<w POS="q">岁</w>
+<w POS="n">左右</w>
+<w POS="u">的</w>
+<w POS="n">男人</w>
+<w POS="v">发牢骚</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v">像</w>
+<w POS="r">我们</w>
+<w POS="r">这样</w>
+<w POS="d">不</w>
+<w POS="v">认识</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="r">每天</w>
+<w POS="d">就</w>
+<w POS="v">对付</w>
+<w POS="q">个</w>
+<w POS="n">工钱</w>
+<c POS="ew">。</c>
+</s>
+<s n="0008">
+<w POS="r">你</w>
+<w POS="v">看</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="widlii">那</seg></w>
+<c POS="w">，</c>
+<w POS="v">给</w>
+<w POS="q">个</w>
+<w POS="n">局长</w>
+<w POS="d">都</w>
+<w POS="d">不</w>
+<w POS="v">干</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0009">
+<w POS="r">我</w>
+<w POS="p">朝</w>
+<w POS="r">他们</w>
+<w POS="n">手</w>
+<w POS="v">指</w>
+<w POS="u">的</w>
+<w POS="n">方向</w>
+<w POS="v">望去</w>
+<c POS="w">，</c>
+<w POS="v">见</w>
+<w POS="v">不足</w>
+<w POS="m">３０</w>
+<w POS="q">米</w>
+<w POS="a">远</w>
+<w POS="u">的</w>
+<w POS="n">地方</w>
+<w POS="v">只有</w>
+<w POS="m">一</w>
+<w POS="n">人</w>
+<w POS="v">蹲</w>
+<w POS="p">在</w>
+<w POS="r">那里</w>
+<w POS="a">仔细</w>
+<w POS="u">地</w>
+<w POS="v">翻动</w>
+<w POS="u">着</w>
+<w POS="m">一</w>
+<w POS="q">车</w>
+<w POS="d">刚</w>
+<w POS="v">卸下</w>
+<w POS="u">的</w>
+<w POS="n">垃圾</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="r">我</w>
+<w POS="v">走</w>
+<w POS="v">到</w>
+<w POS="a">近</w>
+<w POS="f">前</w>
+<c POS="w">，</c>
+<w POS="v">见</w>
+<w POS="v">是</w>
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="n">工人</w>
+<w POS="n">模样</w>
+<w POS="u">的</w>
+<w POS="t">中年</w>
+<w POS="n">妇女</w>
+<c POS="ew">。</c>
+</s>
+<s n="0011">
+<w POS="d">还</w>
+<w POS="v">没</w>
+<w POS="v">等</w>
+<w POS="r">我</w>
+<w POS="v">开口</w>
+<c POS="w">，</c>
+<w POS="r">她</w>
+<w POS="d">便</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="r">这</w>
+<w POS="n">车</w>
+<w POS="n">垃圾</w>
+<w POS="v">是</w>
+<w POS="r">我</w>
+<w POS="v">托人</w>
+<w POS="v">花</w>
+<w POS="m">１５</w>
+<w POS="q">元</w>
+<w POS="n">钱</w>
+<w POS="p">向</w>
+<w POS="n">司机</w>
+<w POS="v">买</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0012">
+<w POS="r">你</w>
+<w POS="v">到</w>
+<w POS="r">别处</w>
+<w POS="v">去</w>
+<w POS="v">拣</w>
+<w POS="y">吧</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0013">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="r">她</w>
+<w POS="v">见</w>
+<w POS="r">我</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="v">来</w>
+<w POS="v">捡破烂</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="d">便</w>
+<w POS="d">没有</w>
+<w POS="v">戒备</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="r">我</w>
+<w POS="v">问</w>
+<w POS="r">她</w>
+<w POS="v">花</w>
+<w POS="m">１５</w>
+<w POS="q">元</w>
+<w POS="n">钱</w>
+<w POS="v">买</w>
+<w POS="r">这</w>
+<w POS="n">车</w>
+<w POS="n">垃圾</w>
+<w POS="a">合算</w>
+<w POS="y">吗</w>
+<c POS="w">，</c>
+<w POS="r">她</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="d">还</w>
+<w POS="a">可以</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">油水</seg></w>
+<w POS="d">不</w><seg function="mrw" type="indir" subtype="conv">
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="w">，</c>
+<w POS="v">剩</w>
+<w POS="q">个</w>
+<w POS="m">１０</w>
+<w POS="q">元</w>
+<w POS="m">８</w>
+<w POS="q">元</w>
+<w POS="u">的</w>
+<w POS="d">总</w>
+<w POS="p">比</w>
+<w POS="v">呆</w>
+<w POS="u">着</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="t">最近</w>
+<w POS="p">往</w>
+<w POS="r">这</w>
+<w POS="v">卸</w>
+<w POS="u">的</w>
+<w POS="n">垃圾</w>
+<w POS="d">都</w>
+<w POS="a">不好</w>
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="m">几</w>
+<w POS="q">个</w>
+<w POS="n">厂子</w>
+<w POS="u">的</w>
+<w POS="n">垃圾</w>
+<w POS="a">好</w>
+<c POS="w">，</c>
+<w POS="v">可</w>
+<w POS="r">咱们</w>
+<w POS="d">也</w>
+<w POS="v">抢</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<c POS="w">，</c>
+<w POS="a">早</w>
+<w POS="p">被</w>
+<w POS="n">熟人</w>
+<w POS="u">给</w>
+<w POS="v">买</w>
+<w POS="v">走</w>
+<w POS="y">了</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0016">
+<w POS="p">在</w>
+<w POS="r">这</w>
+<w POS="m">１５</w>
+<w POS="q">元</w>
+<w POS="n">钱</w>
+<w POS="v">买</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="q">车</w>
+<w POS="n">垃圾</w>
+<w POS="f">里</w>
+<c POS="w">，</c>
+<w POS="r">这</w>
+<w POS="q">位</w>
+<w POS="n">妇女</w>
+<w POS="v">捡</w>
+<w POS="v">出来</w>
+<w POS="u">的</w>
+<w POS="n">东西</w>
+<w POS="v">有</w>
+<w POS="n">铜钱</w>
+<c POS="w">、</c>
+<w POS="n">铜</w>
+<w POS="ng">棒</w>
+<c POS="w">、</c>
+<w POS="a">小</w>
+<w POS="q">块</w>
+<w POS="n">铝</w>
+<w POS="ng">板</w>
+<c POS="w">、</c>
+<w POS="n">铁块</w>
+<c POS="w">、</c>
+<w POS="m">１０</w>
+<w POS="m">多</w>
+<w POS="q">个</w>
+<w POS="b">崭新</w>
+<w POS="u">的</w>
+<w POS="n">暖气</w>
+<w POS="n">丝</w>
+<w POS="vn">堵</w>
+<c POS="w">、</c>
+<w POS="a">完好</w>
+<w POS="u">的</w>
+<w POS="v">成</w>
+<w POS="q">扎</w>
+<w POS="n">漆包线</w>
+<c POS="w">、</c>
+<w POS="m">５</w>
+<w POS="q">根</w>
+<w POS="m">１</w>
+<w POS="q">米</w>
+<w POS="m">多</w>
+<w POS="a">长</w>
+<w POS="ad">新</w>
+<w POS="v">套</w>
+<w POS="a">好</w>
+<w POS="n">丝</w>
+<w POS="ng">扣</w>
+<w POS="u">的</w>
+<w POS="n">暖气</w>
+<w POS="n">管</w>
+<c POS="w">、</c>
+<w POS="m">１</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="widlii">盘</seg></w>
+<w POS="m">１０</w>
+<w POS="m">多</w>
+<w POS="q">公斤</w>
+<w POS="a">重</w>
+<w POS="u">的</w>
+<w POS="n">钢丝绳</w>
+<c POS="w">、</c>
+<w POS="m">３０</w>
+<w POS="m">多</w>
+<w POS="q">个</w>
+<w POS="n">铁路</w>
+<w POS="n">专用</w>
+<w POS="ng">道</w>
+<w POS="n">钉</w>
+<c POS="w">、</c>
+<w POS="m">一个</w>
+<w POS="d">约</w>
+<w POS="m">１２</w>
+<w POS="q">千瓦</w>
+<w POS="a">旧</w>
+<w POS="n">电机</w>
+<w POS="u">的</w>
+<w POS="n">转子</w>
+<c POS="w">，</c>
+<w POS="v">还有</w>
+<w POS="n">钢筋</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">头</seg></w>
+<c POS="w">、</c>
+<w POS="n">螺钉</w>
+<c POS="w">、</c>
+<w POS="n">螺母</w>
+<c POS="w">、</c>
+<w POS="a">旧</w>
+<w POS="n">车刀</w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+<w POS="c">虽然</w>
+<w POS="r">这</w>
+<w POS="q">车</w>
+<w POS="n">垃圾</w>
+<w POS="d">只</w>
+<w POS="v">捡</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">完</seg></w>
+<w POS="m">一半</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="r">我</w>
+<w POS="v">看</w>
+<w POS="v">捡</w>
+<w POS="v">出来</w>
+<w POS="u">的</w>
+<w POS="r">这</w>
+<w POS="q">堆</w>
+<w POS="n">东西</w>
+<w POS="v">足以</w>
+<w POS="v">卖</w>
+<w POS="q">个</w>
+<w POS="m">二三十</w>
+<w POS="q">元</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0017">
+<w POS="r">我</w>
+<w POS="v">想</w>
+<c POS="w">，</c>
+<w POS="r">这些</w>
+<w POS="n">垃圾</w>
+<w POS="f">中</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">肥水</seg></w>
+<c POS="w">＂</c>
+<w POS="v">能</w>
+<w POS="v">不能</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">流出</seg></w>
+<w POS="n">工厂</w>
+<w POS="n">大门</w>
+<w POS="y">呢</w>
+<c POS="ew">？</c>
+</s>
+</p>
+

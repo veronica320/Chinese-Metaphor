@@ -1,0 +1,447 @@
+﻿<p>
+<s n="0049">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">我国</w>
+<w POS="m">一些</w>
+<w POS="v">信奉</w> 
+<w POS="nz">伊斯兰教</w>
+<w POS="u">的</w>
+<w POS="n">少数民族</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">流传</w>
+<w POS="u">着</w>
+<w POS="m">众多</w>
+<w POS="ns">印度</w>
+<w POS="n">故事</w>
+<c POS="ew">。</c>
+</s>
+<s n="0050">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">其中</seg></w>
+<c POS="w">，</c>
+<w POS="p">以</w>
+<w POS="nz">维吾尔族</w>
+<w POS="d">尤为</w>
+<w POS="a">突出</w>
+<c POS="ew">。</c>
+</s>
+<s n="0051">
+<w POS="v">例如</w>
+<c POS="w">：</c>
+<w POS="nz">维吾尔族</w>
+<w POS="n">民间</w>
+<w POS="n">故事</w>
+<c POS="w">《</c>
+<w POS="ng">石</w>
+<w POS="n">鸡</w>
+<c POS="w">》</c>
+<c POS="w">、</c>
+<c POS="w">《</c>
+<w POS="v">能</w>
+<w POS="v">吃</w>
+<w POS="n">铁</w>
+<w POS="u">的</w>
+<w POS="n">老鼠</w>
+<c POS="w">》</c>
+<c POS="w">、</c>
+<c POS="w">《</c>
+<w POS="b">五彩</w>
+<w POS="ng">兽</w>
+<c POS="w">》</c>
+<c POS="w">，</c>
+<w POS="d">分别</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">源于</seg></w>
+<w POS="ns">印度</w>
+<c POS="w">《</c>
+<w POS="m">五</w>
+<w POS="q">卷</w>
+<w POS="n">书</w>
+<c POS="w">》</c>
+<w POS="u">的</w>
+<c POS="w">《</c>
+<w POS="ng">鸽</w>
+<w POS="n">王</w>
+<c POS="w">》</c>
+<c POS="w">、</c>
+<c POS="w">《</c>
+<w POS="n">老鼠</w>
+<w POS="v">吃</w>
+<w POS="n">秤</w>
+<c POS="w">》</c>
+<w POS="c">和</w>
+<c POS="w">《</c>
+<w POS="n">豺狼</w>
+<w POS="v">为</w>
+<w POS="n">王</w>
+<c POS="w">》</c>
+<w POS="u">等等</w>
+<c POS="w">，</c>
+<w POS="n">数量</w>
+<w POS="d">很</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0052">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w><seg function="mrw" type="indir" subtype="conv">
+<w POS="n">情形</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">出现</seg></w>
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="m">两</w>
+<w POS="q">个</w>
+<w POS="n">原因</w>
+<c POS="ew">。</c>
+</s>
+<s n="0053">
+<w POS="m">第一</w>
+<w POS="q">个</w>
+<w POS="n">原因</w>
+<c POS="w">，</c>
+<w POS="p">作为</w>
+<c POS="w">＂</c>
+<w POS="n">王子</w>
+<w POS="n">教科书</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<c POS="w">《</c>
+<w POS="m">五</w>
+<w POS="q">卷</w>
+<w POS="n">书</w>
+<c POS="w">》</c>
+<c POS="w">，</c>
+<w POS="d">约</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="n">公元</w>
+<w POS="t">５７０年</w>
+<w POS="d">终于</w>
+<w POS="v">外传</w>
+<c POS="w">，</c>
+<w POS="p">被</w>
+<w POS="v">译</w>
+<w POS="v">成</w>
+<w POS="nz">波斯巴列维语</w>
+<c POS="w">，</c>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<w POS="d">又</w>
+<w POS="v">译</w>
+<w POS="v">成</w>
+<w POS="nz">阿拉伯语</w>
+<c POS="w">，</c>
+<w POS="c">进而</w>
+<w POS="v">改写</w>
+<w POS="v">成</w>
+<c POS="w">《</c>
+<w POS="nr">卡里莱</w>
+<w POS="c">与</w>
+<w POS="nr">笛木乃</w>
+<c POS="w">》</c>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="ns">阿拉伯</w>
+<w POS="n">人民</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="ad">广泛</w>
+<w POS="v">流传</w>
+<c POS="ew">。</c>
+</s>
+<s n="0054">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">创作</w>
+<w POS="a">著名</w>
+<w POS="n">故事</w>
+<w POS="ng">集</w>
+<c POS="w">《</c>
+<w POS="m">一千零一</w>
+<w POS="n">夜</w>
+<c POS="w">》</c>
+<w POS="u">的</w>
+<w POS="n">过程</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="ns">阿拉伯</w>
+<w POS="n">人</w>
+<w POS="d">又</w>
+<w POS="d">将</w>
+<c POS="w">《</c>
+<w POS="m">五</w>
+<w POS="q">卷</w>
+<w POS="n">书</w>
+<c POS="w">》</c>
+<w POS="f"><seg function="mrw" type="indir" subtype="widlii">中</seg></w>
+<w POS="u">的</w>
+<w POS="m">许多</w>
+<w POS="n">故事</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">融</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">入</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">其中</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0055">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">随着</seg></w>
+<w POS="nz">伊斯兰教</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<c POS="w">，</c>
+<w POS="ns">印度</w>
+<w POS="n">故事</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">我国</w>
+<w POS="nz">维吾尔族</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">扎</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="u">了</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">根</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0056">
+<w POS="m">第二</w>
+<w POS="q">个</w>
+<w POS="n">原因</w>
+<c POS="w">，</c>
+<w POS="nz">维吾尔族</w>
+<w POS="v">聚居</w>
+<w POS="n">地区</w>
+<c POS="w">，</c>
+<w POS="d">曾</w>
+<w POS="v">是</w>
+<w POS="l">丝绸之路</w>
+<w POS="u">的</w>
+<w POS="f">中段</w>
+<c POS="w">，</c>
+<w POS="j">中外</w>
+<w POS="n">文化</w>
+<w POS="vn">交流</w>
+<w POS="v">荟萃</w>
+<w POS="u">之</w>
+<w POS="n">地</w>
+<c POS="w">，</c>
+<w POS="ns">罗马</w>
+<w POS="n">文化</w>
+<c POS="w">、</c>
+<w POS="ns">波斯</w>
+<w POS="n">文化</w>
+<c POS="w">，</c>
+<w POS="ns">印度</w>
+<w POS="n">文化</w>
+<w POS="c">和</w>
+<w POS="ns">中原</w>
+<w POS="n">文化</w>
+<w POS="p">在</w>
+<w POS="r">这里</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">交汇</seg></w>
+<c POS="w">，</c>
+<w POS="l">异彩纷呈</w>
+<c POS="ew">。</c>
+</s>
+<s n="0057">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">其中</seg></w>
+<w POS="ns">高昌</w>
+<w POS="ns">回鹘汗国</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="nz">汉文</w>
+<c POS="w">、</c>
+<w POS="nz">梵文</w>
+<c POS="w">、</c>
+<w POS="nz">藏文</w>
+<w POS="v">翻译</w>
+<w POS="c">或</w>
+<w POS="v">改写</w>
+<w POS="u">了</w>
+<w POS="m">大量</w>
+<w POS="n">佛经</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">其中</seg></w>
+<w POS="v">包括</w>
+<w POS="m">大量</w>
+<w POS="n">文学</w>
+<w POS="n">故事</w>
+<c POS="w">，</c>
+<w POS="a">著名</w>
+<w POS="u">的</w>
+<w POS="n">佛</w>
+<w POS="nz">本生</w>
+<w POS="n">故事</w>
+<w POS="d">就</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">其中</seg></w>
+<c POS="w">，</c>
+<w POS="t">现在</w>
+<w POS="v">有案可稽</w>
+<w POS="u">的</w>
+<w POS="v">有</w>
+<c POS="w">《</c>
+<w POS="nr">恰希塔尼·伊力克伯克</w>
+<c POS="w">》</c>
+<c POS="w">、</c>
+<c POS="w">《</c>
+<w POS="nr">哈勒亚木哈拉</w>
+<w POS="c">和</w>
+<w POS="nr">帕帕木哈拉</w>
+<c POS="w">》</c>
+<c POS="w">、</c>
+<c POS="w">《</c>
+<w POS="m">两</w>
+<w POS="n">王子</w>
+<w POS="u">的</w>
+<w POS="n">故事</w>
+<c POS="w">》</c>
+<c POS="w">、</c>
+<c POS="w">《</c>
+<w POS="n">神</w>
+<w POS="ng">猴</w>
+<w POS="c">和</w>
+<w POS="nr">帕德摩瓦提</w>
+<w POS="n">姑娘</w>
+<c POS="w">》</c>
+<c POS="w">、</c>
+<c POS="w">《</c>
+<w POS="nr">达尼提·帕拉</w>
+<c POS="w">》</c>
+<w POS="u">等等</w>
+<c POS="w">，</c>
+<w POS="c">此外</w>
+<w POS="d">尚</w>
+<w POS="v">有</w>
+<c POS="w">《</c>
+<w POS="nz">佛教</w>
+<w POS="n">诗歌</w>
+<w POS="ng">集</w>
+<c POS="w">》</c>
+<c POS="w">、</c>
+<c POS="w">《</c>
+<w POS="nr">玄奘</w>
+<w POS="ng">传</w>
+<c POS="w">》</c>
+<w POS="u">等</w>
+<w POS="n">作品</w>
+<w POS="v">流传</w>
+<c POS="ew">。</c>
+</s>
+<s n="0058">
+<w POS="m">许多</w>
+<w POS="n">故事</w>
+<w POS="vn">民族化</w>
+<w POS="n">程度</w>
+<w POS="d">很</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">高</seg></w>
+<c POS="w">，</c>
+<w POS="v">如</w>
+<c POS="w">《</c>
+<w POS="ns">恰希塔尼·力克伯克</w>
+<c POS="w">》</c>
+<c POS="w">，</c>
+<w POS="v">说</w>
+<w POS="n">主人公</w>
+<w POS="v">是</w>
+<w POS="n">菩萨</w>
+<w POS="v">转世</w>
+<c POS="w">，</c>
+<w POS="a">英勇</w>
+<w POS="v">无畏</w>
+<c POS="w">，</c>
+<w POS="p">为</w>
+<w POS="n">民</w>
+<w POS="v">除</w>
+<w POS="ng">妖</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">反映</seg></w>
+<w POS="u">了</w>
+<w POS="nz">维吾尔族</w>
+<w POS="n">人民</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">战胜</seg></w>
+<w POS="an">邪恶</w>
+<c POS="w">、</c>
+<w POS="v">渴望</w>
+<w POS="an"><seg function="mrw" type="indir" subtype="conv">光明</seg></w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强烈</seg></w>
+<w POS="n">愿望</w>
+<c POS="ew">。</c>
+</s>
+<s n="0059">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="d">相当</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">长</seg></w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">段</seg></w>
+<w POS="n">时期</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">内</seg></w>
+<c POS="w">，</c>
+<w POS="ns">高昌</w>
+<w POS="v">是</w>
+<w POS="nz">佛教</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">天地</seg></w>
+<c POS="w">，</c>
+<w POS="nz">佛教</w>
+<w POS="n">文学</w>
+<w POS="c">不仅</w>
+<w POS="p">在</w>
+<w POS="r">本地</w>
+<w POS="d">十分</w>
+<w POS="a">繁荣</w>
+<c POS="w">，</c>
+<w POS="c">而且</w>
+<w POS="p">对</w>
+<w POS="ns">中原</w>
+<w POS="n">地区</w>
+<w POS="d">也</w>
+<w POS="v">有所</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">辐射</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0060">
+<w POS="t">后来</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">随着</seg></w>
+<w POS="nz">伊斯兰教</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传入</seg></w>
+<w POS="c">并</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">取得</seg></w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">统治</seg></w>
+<w POS="n">地位</w>
+<c POS="w">，</c>
+<w POS="nz">佛教</w>
+<w POS="d">就</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">衰落</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下去</seg></w>
+<w POS="u">了</w>
+<c POS="w">，</c>
+<w POS="c">但是</w>
+<c POS="w">，</c>
+<w POS="nz">佛教</w>
+<w POS="n">故事</w>
+<w POS="d">已</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">人民</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="d">深深</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">扎根</seg></w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">经过</seg></w>
+<w POS="b">一定</w>
+<w POS="u">的</w>
+<w POS="i">改头换面</w>
+<c POS="w">，</c>
+<w POS="c">与</w>
+<w POS="p">通过</w>
+<w POS="nz">伊斯兰教</w>
+<w POS="p">从</w>
+<w POS="ns">阿拉伯</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">传来</seg></w>
+<w POS="u">的</w>
+<w POS="ns">印度</w>
+<w POS="n">故事</w>
+<w POS="d">一道</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">保留</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下来</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+

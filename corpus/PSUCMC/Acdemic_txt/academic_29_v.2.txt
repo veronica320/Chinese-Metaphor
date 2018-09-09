@@ -1,0 +1,473 @@
+﻿<p>
+<s n="0064">
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上面</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">介绍</seg></w>
+<w POS="u">的</w>
+<w POS="n">公司</w>
+<w POS="n">类型</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="c">由于</w>
+<w POS="n">无限公司</w>
+<w POS="ag">和</w>
+<w POS="n">两合公司</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="n">股东</w>
+<w POS="v">要</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">负</seg></w>
+<w POS="a">无限</w>
+<w POS="n">责任</w>
+<c POS="w">，</c>
+<w POS="c">因而</w>
+<w POS="t">现代</w>
+<w POS="n">公司</w>
+<w POS="n">企业</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v">为数</w>
+<w POS="d">极</w>
+<w POS="a">少</w>
+<c POS="w">，</c>
+<w POS="c">因此</w>
+<w POS="a">有限</w>
+<w POS="n">责任</w>
+<w POS="n">公司</w>
+<w POS="c">和</w>
+<w POS="n">股份</w>
+<w POS="n">有限公司</w>
+<w POS="v">是</w>
+<w POS="n">公司</w>
+<w POS="u">的</w>
+<w POS="m">两</w>
+<w POS="q">种</w>
+<w POS="b">主要</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">形式</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0065">
+<w POS="c">由于</w>
+<w POS="a">有限</w>
+<w POS="n">责任</w>
+<w POS="n">公司</w>
+<w POS="c">和</w>
+<w POS="n">股份</w>
+<w POS="n">有限公司</w>
+<w POS="d">都</w>
+<w POS="v">应用</w>
+<w POS="n">股份制</w>
+<w POS="v">来</w>
+<w POS="v">组织</w>
+<w POS="n">公司</w>
+<c POS="w">，</c>
+<w POS="c">因此</w>
+<w POS="v">可以</w>
+<w POS="v">统称</w>
+<w POS="p">为</w>
+<w POS="n">股份制</w>
+<w POS="n">公司</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0066">
+<w POS="a">有限</w>
+<w POS="n">责任</w>
+<w POS="n">公司</w>
+<w POS="v">具有</w>
+<w POS="v">如下</w>
+<w POS="n">特征</w>
+<c POS="w">：</c>
+</s>
+</p>
+<p>
+<s n="0067">
+<w POS="m">１．</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">股东</w>
+<w POS="n">数量</w>
+<w POS="v">有</w>
+<w POS="a">严格</w>
+<w POS="u">的</w>
+<w POS="n">规定</w>
+<c POS="w">，</c>
+<w POS="v">如</w>
+<w POS="j">英</w>
+<c POS="w">、</c>
+<w POS="j">法</w>
+<c POS="w">、</c>
+<w POS="j">日</w>
+<w POS="u">等</w>
+<w POS="n">国</w>
+<w POS="d">都</w>
+<w POS="v">规定</w>
+<w POS="a">有限</w>
+<w POS="n">责任</w>
+<w POS="n">公司</w>
+<w POS="n">股东</w>
+<w POS="n">人数</w>
+<w POS="d">必须</w>
+<w POS="p">在</w>
+<w POS="m">２</w>
+<c POS="w">－</c>
+<w POS="m">５０</w>
+<w POS="n">人</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之间</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0068">
+<w POS="m">２．</w>
+<w POS="v">不得</w>
+<w POS="ad">公开</w>
+<w POS="v">发行</w>
+<w POS="n">股票</w>
+<c POS="ew">。</c>
+</s>
+<s n="0069">
+<w POS="n">股东</w>
+<w POS="c">虽</w>
+<w POS="v">有</w>
+<w POS="r">各自</w>
+<w POS="u">的</w>
+<w POS="n">资产</w>
+<w POS="n">份额</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="n">公司</w>
+<w POS="n">资本</w>
+<w POS="d">通常</w>
+<w POS="d">不</w>
+<w POS="v">划分</w>
+<w POS="p">为</w>
+<w POS="n">等额</w>
+<w POS="n">股份</w>
+<c POS="w">，</c>
+<w POS="n">股东</w>
+<w POS="s"><seg function="mrw" type="indir" subtype="cont">手中</seg></w>
+<w POS="u">的</w>
+<w POS="n">股权</w>
+<w POS="n">证书</w>
+<w POS="v">不能</w>
+<w POS="v">像</w>
+<w POS="n">股票</w>
+<w POS="r">那样</w>
+<w POS="v">可</w>
+<w POS="ad">自由</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">流通</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0070">
+<w POS="n">出资人</w>
+<w POS="c">如</w>
+<w POS="v">欲</w>
+<w POS="v">转让</w>
+<c POS="w">，</c>
+<w POS="v">需</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">经</seg></w>
+<w POS="r">其他</w>
+<w POS="n">股东</w>
+<w POS="v">同意</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<w POS="d">方</w>
+<w POS="v">可</w>
+<w POS="v">进行</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0071">
+<w POS="m">３．</w>
+<w POS="a">有限</w>
+<w POS="n">责任</w>
+<w POS="n">公司</w>
+<w POS="u">的</w>
+<w POS="vn">设立</w>
+<w POS="n">程序</w>
+<w POS="d">比较</w>
+<w POS="a">简单</w>
+<c POS="w">，</c>
+<w POS="d">不必</w>
+<w POS="vd">对外</w>
+<w POS="v">公布</w>
+<w POS="n">财务</w>
+<w POS="n">帐目</w>
+<w POS="c">及</w>
+<w POS="vn">营业</w>
+<w POS="n">报告</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0072">
+<w POS="m">４．</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">内部</seg></w>
+<w POS="n">机构</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">设置</seg></w>
+<w POS="d">比较</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">灵活</seg></w>
+<c POS="w">，</c>
+<w POS="c">由于</w>
+<w POS="n">股东</w>
+<w POS="n">人数</w>
+<w POS="a">少</w>
+<c POS="w">，</c>
+<w POS="d">通常</w>
+<w POS="l">可不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">设</seg></w>
+<w POS="n">股东会</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0073">
+<w POS="m">５．</w>
+<w POS="n">股东</w>
+<w POS="d">都</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">负</seg></w>
+<w POS="a">有限</w>
+<w POS="n">责任</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0074">
+<w POS="n">股份</w>
+<w POS="n">有限公司</w>
+<w POS="a">不同</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="a">有限</w>
+<w POS="n">责任</w>
+<w POS="n">公司</w>
+<c POS="w">，</c>
+<w POS="r">其</w>
+<w POS="v">相应</w>
+<w POS="u">的</w>
+<w POS="n">特征</w>
+<w POS="v">有</w>
+<c POS="w">：</c>
+</s>
+</p>
+<p>
+<s n="0075">
+<w POS="m">１．</w>
+<w POS="n">股东</w>
+<w POS="n">人数</w>
+<w POS="a">多</w>
+<c POS="w">，</c>
+<w POS="c">且</w>
+<w POS="d">不</w>
+<w POS="v">规定</w>
+<w POS="n">上限</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0076">
+<w POS="m">２．</w>
+<w POS="n">公司</w>
+<w POS="n">资本</w>
+<w POS="n">总额</w>
+<w POS="p">被</w>
+<w POS="v">平分</w>
+<w POS="p">为</w>
+<w POS="n">金额</w>
+<w POS="v">相等</w>
+<w POS="u">的</w>
+<w POS="n">股份</w>
+<c POS="w">，</c>
+<w POS="v">称为</w>
+<w POS="n">股票</w>
+<c POS="w">，</c>
+<w POS="d">以便</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="v">计算</w>
+<w POS="r">每个</w>
+<w POS="n">股东</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">拥有</seg></w>
+<w POS="u">的</w>
+<w POS="n">权力</w>
+<w POS="c">和</w>
+<w POS="n">利益</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0077">
+<w POS="m">３．</w>
+<w POS="n">股票</w>
+<w POS="v">可</w>
+<w POS="ad">自由</w>
+<w POS="v">转让</w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">社会</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="p">通过</w>
+<w POS="n">证券</w>
+<w POS="n">交易所</w>
+<w POS="ad">公开</w>
+<w POS="v">交易</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="v">不能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">退</seg></w>
+<w POS="n">股</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0078">
+<w POS="m">４．</w>
+<w POS="n">股份</w>
+<w POS="n">有限公司</w>
+<w POS="u">的</w>
+<w POS="n">帐目</w>
+<w POS="v">要</w>
+<w POS="v">公开</w>
+<c POS="w">，</c>
+<w POS="c">以</w>
+<w POS="v">供</w>
+<w POS="m">众多</w>
+<w POS="n">股东</w>
+<w POS="v">查阅</w>
+<c POS="w">，</c>
+<w POS="v">了解</w>
+<w POS="n">公司</w>
+<w POS="u">的</w>
+<w POS="vn">经营</w>
+<w POS="n">状况</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0079">
+<w POS="c">可见</w>
+<c POS="w">，</c>
+<w POS="n">股份</w>
+<w POS="n">有限公司</w>
+<w POS="u">的</w>
+<w POS="n">优点</w>
+<w POS="v">是</w>
+<c POS="w">：</c>
+<w POS="v">可以</w>
+<w POS="ad">广泛</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">吸收</seg></w>
+<w POS="n">社会</w>
+<w POS="a">闲散</w>
+<w POS="n">资金</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">汇集</seg></w>
+<w POS="v">成</w>
+<w POS="b">巨额</w>
+<w POS="n">资本</w>
+<c POS="ew">；</c>
+</s>
+<s n="0080">
+<w POS="n">股东</w>
+<w POS="n">人数</w>
+<w POS="a">多</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">分散</seg></w>
+<w POS="u">了</w>
+<w POS="n">企业</w>
+<w POS="u">的</w>
+<w POS="vn">经营</w>
+<w POS="n">风险</w>
+<c POS="w">，</c>
+<w POS="n">股东</w>
+<w POS="v">有</w>
+<w POS="vn">选择</w>
+<w POS="n">权</w>
+<c POS="w">，</c>
+<w POS="v">看到</w>
+<w POS="l">经营不善</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="v">可</w>
+<w POS="d">立即</w>
+<w POS="v">抛售</w>
+<w POS="r">其</w>
+<w POS="n">股票</w>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="d">再</w>
+<w POS="v">可</w>
+<w POS="vg">购</w>
+<w POS="v">经营</w>
+<w POS="a">好</w>
+<w POS="u">的</w>
+<w POS="n">企业</w>
+<w POS="u">的</w>
+<w POS="n">股票</w>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="u">了</w>
+<w POS="v">调整</w>
+<w POS="n">经济</w>
+<w POS="n">结构</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机制</seg></w>
+<c POS="ew">；</c>
+</s>
+<s n="0081">
+<w POS="n">公司</w>
+<w POS="n">制度</w>
+<w POS="a">完善</w>
+<c POS="w">，</c>
+<w POS="p">通过</w>
+<w POS="n">股东会</w>
+<c POS="w">、</c>
+<w POS="n">董事会</w>
+<w POS="c">和</w>
+<w POS="n">监事会</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">建立</seg></w>
+<w POS="u">了</w>
+<w POS="vn">制衡</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机制</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0082">
+<w POS="n">股份</w>
+<w POS="n">有限公司</w>
+<w POS="u">的</w>
+<w POS="n">缺点</w>
+<w POS="v">是</w>
+<c POS="w">：</c>
+<w POS="n">公司</w>
+<w POS="v">设立</w>
+<w POS="u">的</w>
+<w POS="n">程序</w>
+<w POS="a">复杂</w>
+<c POS="ew">；</c>
+</s>
+<s n="0083">
+<w POS="v">要</w>
+<w POS="v">公布</w>
+<w POS="n">财务</w>
+<w POS="n">状况</w>
+<c POS="w">，</c>
+<w POS="n">公司</w>
+<w POS="u">的</w>
+<w POS="n">保密性</w>
+<w POS="a">差</w>
+<c POS="ew">；</c>
+</s>
+<s n="0084">
+<w POS="n">股东</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">流动性</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="w">，</c>
+<w POS="p">对</w>
+<w POS="n">公司</w>
+<w POS="v">缺乏</w>
+<w POS="n">责任感</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

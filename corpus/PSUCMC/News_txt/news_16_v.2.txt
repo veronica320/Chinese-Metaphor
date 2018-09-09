@@ -1,0 +1,375 @@
+﻿<p>
+<s n="0025">
+<w POS="ns">黑龙江省</w>
+<w POS="v">有</w>
+<w POS="m">１３６</w>
+<w POS="q">家</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">骨干</seg></w>
+<w POS="n">企业</w>
+<w POS="t">最近</w>
+<w POS="d">分别</w>
+<w POS="p">同</w>
+<w POS="r">各级</w>
+<w POS="n">政府</w>
+<w POS="v">确立</w>
+<w POS="u">了</w>
+<c POS="w">＂</c>
+<w POS="n">国家</w>
+<w POS="v">保</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外部</seg></w>
+<w POS="n">条件</w>
+<c POS="w">，</c>
+<w POS="n">企业</w>
+<w POS="v">保</w>
+<w POS="v">完成</w>
+<w POS="n">计划</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="m">双</w>
+<w POS="v">保</w>
+<c POS="w">＂</c>
+<w POS="n">责任</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0026">
+<w POS="ns">黑龙江省</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">１３６</w>
+<w POS="q">家</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">骨干</seg></w>
+<w POS="n">企业</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">全省</w>
+<w POS="m">３７２</w>
+<w POS="q">家</w>
+<w POS="b">大中型</w>
+<w POS="n">企业</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">筛选</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出来</seg></w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="n">国家</w>
+<w POS="n">计划</w>
+<w POS="n">比例</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="w">、</c>
+<w POS="q">年</w>
+<w POS="v">实现</w>
+<w POS="n">利税</w>
+<w POS="m">５００万</w>
+<w POS="q">元</w>
+<w POS="f">以上</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="n">原材料</w>
+<c POS="w">、</c>
+<w POS="vn">出口</w>
+<w POS="vn">创汇</w>
+<c POS="w">、</c>
+<w POS="vn">支农</w>
+<w POS="c">和</w>
+<w POS="n">人民</w>
+<w POS="n">生活</w>
+<w POS="n">必需品</w>
+<w POS="u">的</w>
+<w POS="n">企业</w>
+<c POS="ew">。</c>
+</s>
+<s n="0027">
+<w POS="r">它们</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">发展</w>
+<w POS="n">国民经济</w>
+<w POS="c">和</w>
+<w POS="v">保障</w>
+<w POS="n">人民</w>
+<w POS="n">生活</w>
+<w POS="n">方面</w>
+<w POS="v">有</w>
+<w POS="u">着</w>
+<w POS="a">重要</w>
+<w POS="n">作用</w>
+<c POS="ew">。</c>
+</s>
+<s n="0028">
+<w POS="t">去年</w>
+<c POS="w">，</c>
+<w POS="ns">黑龙江省</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">煤</w>
+<c POS="w">、</c>
+<w POS="n">电</w>
+<c POS="w">、</c>
+<w POS="vn">运</w>
+<c POS="w">、</c>
+<w POS="n">资金</w>
+<w POS="c">和</w>
+<w POS="n">原材料</w>
+<w POS="vn">供应</w>
+<w POS="n">方面</w>
+<c POS="w">，</c>
+<w POS="p">对</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">企业</w>
+<w POS="v">提供</w>
+<w POS="n">保证</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="r">它们</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="ad">稳定</w>
+<w POS="v">发展</w>
+<c POS="ew">。</c>
+</s>
+<s n="0029">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">企业</w>
+<w POS="u">的</w>
+<w POS="n">产值</w>
+<w POS="t">去年</w>
+<w POS="p">比</w>
+<w POS="t">上年</w>
+<w POS="v">增长</w>
+<w POS="m">百分之五点七九</w>
+<c POS="w">，</c>
+<w POS="vn">销售</w>
+<w POS="n">收入</w>
+<w POS="v">增长</w>
+<w POS="m">百分之八点九六</w>
+<c POS="w">，</c>
+<w POS="n">利税</w>
+<w POS="v">增长</w>
+<w POS="m">百分之十五点五</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0030">
+<w POS="t">今年</w>
+<c POS="w">，</c>
+<w POS="ns">黑龙江省</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">从</seg></w>
+<w POS="n">省政府</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">到</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">企业</w>
+<w POS="n">所在</w>
+<w POS="n">地区</w>
+<w POS="u">的</w>
+<w POS="n">政府</w>
+<c POS="w">，</c>
+<w POS="d">进一步</w>
+<w POS="v">完善</w>
+<w POS="c">和</w>
+<w POS="v">强化</w>
+<w POS="u">了</w>
+<w POS="n">保证</w>
+<w POS="n">政策</w>
+<c POS="w">，</c>
+<w POS="n">政府</w>
+<w POS="d">专门</w>
+<w POS="p">为</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">企业</w>
+<w POS="v">建立</w>
+<w POS="n">档案</w>
+<c POS="w">，</c>
+<w POS="v">实行</w>
+<w POS="d">单独</w>
+<w POS="v">统计</w>
+<c POS="w">，</c>
+<w POS="d">单独</w>
+<w POS="v">考核</w>
+<c POS="w">，</c>
+<w POS="n">重点</w>
+<w POS="vn">调度</w>
+<c POS="ew">；</c>
+</s>
+<s n="0031">
+<w POS="n">行业</w>
+<w POS="vn">主管</w>
+<w POS="n">部门</w>
+<w POS="c">和</w>
+<w POS="n">物资</w>
+<c POS="w">、</c>
+<w POS="n">电力</w>
+<c POS="w">、</c>
+<w POS="vn">运输</w>
+<c POS="w">、</c>
+<w POS="n">银行</w>
+<w POS="u">等</w>
+<w POS="n">部门</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="n">物资</w>
+<w POS="vn">供应</w>
+<w POS="n">方面</w>
+<w POS="m">全部</w>
+<w POS="v">单列</w>
+<c POS="w">，</c>
+<w POS="d">直</w>
+<w POS="v">供</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="n">企业</w>
+<c POS="w">，</c>
+<w POS="v">确保</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="ad">正常</w>
+<w POS="v">进行</w>
+<c POS="ew">。</c>
+</s>
+<s n="0032">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="n">同时</w>
+<c POS="w">，</c>
+<w POS="n">政府</w>
+<w POS="v">要求</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">企业</w>
+<w POS="d">必须</w>
+<w POS="p">按照</w>
+<w POS="n">国家</w>
+<w POS="vn">下达</w>
+<w POS="n">计划</w>
+<w POS="u">的</w>
+<w POS="n">品种</w>
+<w POS="c">和</w>
+<w POS="n">数量</w>
+<w POS="v">进行</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="v">保证</w>
+<w POS="n">产品</w>
+<w POS="n">质量</w>
+<c POS="w">，</c>
+<w POS="v">力求</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">降低</seg></w>
+<w POS="n">成本</w>
+<c POS="w">，</c>
+<w POS="v">保证</w>
+<w POS="v">完成</w>
+<w POS="v">上交</w>
+<w POS="n">利税</w>
+<c POS="ew">；</c>
+</s>
+<s n="0033">
+<w POS="d">必须</w>
+<w POS="p">按</w>
+<w POS="n">需要</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接受</seg></w>
+<w POS="vn">订货</w>
+<c POS="w">，</c>
+<w POS="v">订货</w>
+<w POS="v">不许</w>
+<w POS="v">附加</w>
+<w POS="d">不</w>
+<w POS="a">合理</w>
+<w POS="n">条款</w>
+<c POS="w">，</c>
+<w POS="p">按</w>
+<w POS="n">合同</w>
+<w POS="d">如期</w>
+<w POS="v">交货</w>
+<c POS="ew">；</c>
+</s>
+<s n="0034">
+<w POS="n">计划</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">内</seg></w>
+<w POS="n">产品</w>
+<w POS="n">价格</w>
+<w POS="d">必须</w>
+<w POS="ad">严格</w>
+<w POS="v">执行</w>
+<w POS="n">国家</w>
+<w POS="vn">定价</w>
+<c POS="w">，</c>
+<w POS="v">不得</w>
+<w POS="d">擅自</w>
+<w POS="v">加价</w>
+<w POS="c">或</w>
+<w POS="vd">变相</w>
+<w POS="v">涨价</w>
+<c POS="w">，</c>
+<w POS="u">等等</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0035">
+<c POS="w">＂</c>
+<w POS="m">双</w>
+<w POS="v">保</w>
+<c POS="w">＂</c>
+<w POS="n">责任</w>
+<w POS="p">给</w>
+<w POS="r">各级</w>
+<w POS="n">政府</w>
+<w POS="c">和</w>
+<w POS="n">经济</w>
+<w POS="n">部门</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">增加</seg></w>
+<w POS="u">了</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">压力</seg></w>
+<c POS="w">，</c>
+<w POS="v">促使</w>
+<w POS="r">它们</w>
+<w POS="v">急</w>
+<w POS="n">企业</w>
+<w POS="u">所</w>
+<w POS="v">急</w>
+<c POS="w">，</c>
+<w POS="i">千方百计</w>
+<w POS="p">为</w>
+<w POS="n">企业</w>
+<w POS="v">创造</w>
+<w POS="a">良好</w>
+<w POS="u">的</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外部</seg></w>
+<w POS="n">条件</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0036">
+<w POS="m">双</w>
+<w POS="v">保</w>
+<c POS="w">＂</c>
+<w POS="n">责任</w>
+<w POS="d">也</w>
+<w POS="d">进一步</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">增强</seg></w>
+<w POS="u">了</w>
+<w POS="n">企业</w>
+<w POS="u">的</w>
+<w POS="n">全局</w>
+<w POS="n">观念</w>
+<c POS="w">，</c>
+<w POS="r">它们</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">发动</seg></w>
+<w POS="n">职工</w>
+<w POS="l">献计献策</w>
+<c POS="w">，</c>
+<w POS="v">制订</w>
+<w POS="u">了</w>
+<w POS="v">保证</w>
+<w POS="v">完成</w>
+<w POS="t">今年</w>
+<w POS="r">各项</w>
+<w POS="n">任务</w>
+<w POS="u">的</w>
+<w POS="n">措施</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

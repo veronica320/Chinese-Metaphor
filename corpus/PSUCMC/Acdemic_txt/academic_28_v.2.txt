@@ -1,0 +1,367 @@
+﻿<p>
+<s n="0015">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="u">了</w>
+<w POS="n">机器</w>
+<w POS="n">时代</w>
+<w POS="d">则</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出现</seg></w>
+<w POS="u">了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">相反</seg></w>
+<w POS="u">的</w>
+<w POS="n">情况</w>
+<c POS="w">，</c>
+<w POS="n">机器</w>
+<w POS="u">的</w>
+<w POS="n">发明</w>
+<w POS="v">是</w>
+<w POS="n">人类</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">探索</seg></w>
+<w POS="c">和</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">改造</seg></w>
+<w POS="n">自然</w>
+<w POS="u">所</w>
+<w POS="d">长期</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">积累</seg></w>
+<w POS="u">的</w>
+<w POS="n">智慧</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">结晶</seg></w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="u">的</w>
+<w POS="n">结构</w>
+<w POS="a">复杂</w>
+<c POS="w">、</c>
+<w POS="n">功效</w>
+<w POS="a">神奇</w>
+<c POS="w">，</c>
+<w POS="c">和</w>
+<w POS="n">自然物</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">相距</seg></w>
+<w POS="d">很</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="c">和</w>
+<w POS="vn">劳动</w>
+<w POS="n">主体</w>
+<w POS="r">自身</w>
+<w POS="d">却</w>
+<w POS="v">有</w>
+<w POS="m">很多</w>
+<w POS="v">可</w>
+<w POS="v">类比</w>
+<w POS="u">之</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">处</seg></w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="v">代替</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="m">很多</w>
+<w POS="n">工作</w>
+<c POS="w">，</c>
+<w POS="c">因此</w>
+<w POS="c">和</w>
+<w POS="n">劳动者</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">距离</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">缩小</seg></w>
+<w POS="u">了</w>
+<c POS="w">，</c>
+<w POS="c">于是</w>
+<w POS="n">劳动者</w>
+<w POS="t">过去</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">那种</seg></w>
+<w POS="p">对</w>
+<w POS="n">手工</w>
+<w POS="n">工具</w>
+<w POS="u">的</w>
+<w POS="a">绝对</w>
+<c POS="w">＂</c>
+<w POS="v">超越</w>
+<w POS="ng">感</w>
+<c POS="w">＂</c>
+<w POS="d">也</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">在</seg></w>
+<w POS="n">机器</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">面前</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">缩小</seg></w>
+<w POS="u">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0016">
+<w POS="n">机器</w>
+<w POS="u">的</w>
+<w POS="vn">制作</w>
+<w POS="v">需要</w>
+<w POS="d">很</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="u">的</w>
+<w POS="n">工作量</w>
+<w POS="c">和</w>
+<w POS="m">很多</w>
+<w POS="u">的</w>
+<w POS="n">工序</w>
+<c POS="w">，</c>
+<w POS="m">一个</w>
+<w POS="n">人</w>
+<w POS="c">或</w>
+<w POS="m">少数</w>
+<w POS="m">几</w>
+<w POS="q">个</w>
+<w POS="n">人</w>
+<w POS="vd">无法</w>
+<w POS="v">完成</w>
+<w POS="v">制作</w>
+<w POS="n">机器</w>
+<w POS="u">的</w>
+<w POS="n">全过程</w>
+<c POS="w">，</c>
+<w POS="c">而是</w>
+<w POS="v">只能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">参加</seg></w>
+<w POS="n">部分</w>
+<w POS="u">的</w>
+<w POS="n">过程</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<w POS="n">局部</w>
+<w POS="u">的</w>
+<w POS="n">作用</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="n">劳动者</w>
+<w POS="v">感到</w>
+<w POS="d">似乎</w>
+<w POS="v">不能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">把握</seg></w>
+<w POS="n">机器</w>
+<w POS="u">的</w>
+<w POS="m">全部</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="pers">命脉</seg></w>
+<c POS="w">，</c>
+<w POS="n">机器</w>
+<w POS="ad">一般</w>
+<w POS="d">都</w>
+<w POS="n">体积</w>
+<w POS="an">庞大</w>
+<w POS="c">而</w>
+<w POS="a">沉重</w>
+<c POS="w">，</c>
+<w POS="v">不能</w>
+<w POS="v">像</w>
+<w POS="n">手工</w>
+<w POS="n">工具</w>
+<w POS="r">那样</w>
+<w POS="p">为</w>
+<w POS="n">人</w>
+<w POS="u">所</w>
+<w POS="ad">随意</w>
+<w POS="v">搬弄</w>
+<w POS="c">和</w>
+<w POS="v">摆布</w>
+<c POS="w">，</c>
+<w POS="c">而是</w>
+<w POS="v">固定</w>
+<w POS="p">在</w>
+<w POS="r">某</w>
+<w POS="m">一</w>
+<w POS="n">空间</w>
+<w POS="n">位置</w>
+<c POS="w">，</c>
+<w POS="c">于是</w>
+<w POS="n">空间</w>
+<w POS="n">机器</w>
+<w POS="d">便</w>
+<w POS="p">与</w>
+<w POS="n">人手</w>
+<w POS="v">分离</w>
+<c POS="w">，</c>
+<w POS="v">成为</w>
+<w POS="p">与</w>
+<w POS="n">劳动者</w>
+<w POS="d">相</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">对峙</seg></w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="c">而且</w>
+<c POS="w">，</c>
+<w POS="n">机器</w>
+<w POS="d">一旦</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">运转</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<c POS="w">，</c>
+<w POS="n">人</w>
+<w POS="d">就</w>
+<w POS="v">不能</w>
+<w POS="ad">随意</w>
+<w POS="v">改变</w>
+<w POS="r">它</w>
+<c POS="w">，</c>
+<w POS="d">特别</w>
+<w POS="v">是</w>
+<w POS="p">在</w>
+<w POS="l">流水作业</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">线</seg></w>
+<w POS="f">旁边</w>
+<c POS="w">，</c>
+<w POS="n">劳动者</w>
+<w POS="d">必须</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">跟随</seg></w>
+<w POS="n">机器</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="widlii">运转</seg></w>
+<w POS="c">而</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">运转</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0017">
+<w POS="n">机器</w>
+<w POS="d">似乎</w>
+<w POS="v">成</w>
+<w POS="u">了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">强制</seg></w>
+<w POS="n">人们</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">行动</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">力量</seg></w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="n">人</w>
+<w POS="d">则</w>
+<w POS="d">必须</w>
+<w POS="v">从属</w>
+<w POS="p">于</w>
+<w POS="n">机器</w>
+<c POS="ew">。</c>
+</s>
+<s n="0018">
+<w POS="n">机器</w>
+<w POS="p">较之</w>
+<w POS="n">手工</w>
+<w POS="n">工具</w>
+<w POS="u">的</w>
+<w POS="n">优越性</w>
+<w POS="d">本来</w>
+<w POS="v">是</w>
+<w POS="n">技术</w>
+<w POS="u">的</w>
+<w POS="vn">进步</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="c">由于</w>
+<w POS="n">劳动者</w>
+<w POS="d">已</w>
+<w POS="v">习惯</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="p">把</w>
+<w POS="r">自己</w>
+<w POS="c">和</w>
+<w POS="n">手工</w>
+<w POS="n">工具</w>
+<w POS="v">看作</w>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="n">统一体</w>
+<c POS="w">，</c>
+<w POS="p">把</w>
+<w POS="n">手工</w>
+<w POS="n">工具</w>
+<w POS="v">看作</w>
+<w POS="v">是</w>
+<w POS="r">自己</w>
+<w POS="u">的</w>
+<w POS="m">一个</w>
+<w POS="b">内在</w>
+<w POS="n">部分</w>
+<c POS="w">，</c>
+<w POS="c">于是</w>
+<w POS="d">很</w>
+<w POS="ad">容易</w>
+<w POS="v">认为</w>
+<w POS="b">外在</w>
+<w POS="u">的</w>
+<w POS="n">机器</w>
+<w POS="p">较之</w>
+<w POS="n">手工</w>
+<w POS="n">工具</w>
+<w POS="u">的</w>
+<w POS="n">优越性</w>
+<c POS="w">，</c>
+<w POS="v">就是</w>
+<w POS="p">较之</w>
+<w POS="r">自己</w>
+<w POS="u">的</w>
+<w POS="n">优越性</w>
+<c POS="w">，</c>
+<w POS="p">把</w>
+<w POS="n">技术</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">自然</w>
+<w POS="u">的</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">征服</seg></w>
+<w POS="d">也</w>
+<w POS="v">看作</w>
+<w POS="v">是</w>
+<w POS="p">对</w>
+<w POS="r">自己</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">征服</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0019">
+<w POS="c">无论</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">力</w>
+<w POS="u">的</w>
+<w POS="vn">较量</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<c POS="w">，</c>
+<w POS="c">还是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">效能</w>
+<w POS="u">的</w>
+<w POS="vn">较量</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<c POS="w">，</c>
+<w POS="n">劳动者</w>
+<w POS="d">似乎</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="n">机器</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">对手</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0020">
+<w POS="d">凡</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">此</seg></w>
+<w POS="r">种种</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="n">劳动者</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">失去</seg></w>
+<w POS="u">了</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对于</seg></w>
+<w POS="n">技术</w>
+<w POS="u">的</w>
+<w POS="n">优越感</w>
+<w POS="c">和</w>
+<w POS="v">支配</w>
+<w POS="ng">感</w>
+<c POS="w">，</c>
+<w POS="v">造成</w>
+<w POS="n">劳动者</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="p">被</w>
+<w POS="n">技术</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">支配</seg></w>
+<w POS="u">的</w>
+<w POS="n">心理</w>
+<w POS="n">状态</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

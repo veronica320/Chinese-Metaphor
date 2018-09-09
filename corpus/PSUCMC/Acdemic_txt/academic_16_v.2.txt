@@ -1,0 +1,429 @@
+﻿<p>
+<s n="0032">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="a">直接</w>
+<w POS="vn">观察</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="r">各种</w>
+<w POS="n">感觉</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">形式</seg></w>
+<w POS="d">基本上</w>
+<w POS="v">是</w>
+<w POS="d">互相</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">独立</seg></w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="v">例如</w>
+<w POS="n">眼睛</w>
+<w POS="v">不能</w>
+<w POS="v">感受</w>
+<w POS="n">声音</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">不能</w>
+<w POS="v">感受</w>
+<w POS="n">冷热</w>
+<w POS="u">等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0034">
+<w POS="p">通过</w>
+<w POS="vn">观察</w>
+<w POS="n">仪器</w>
+<w POS="u">的</w>
+<w POS="n">作用</w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="v">使</w>
+<w POS="r">某种</w>
+<w POS="n">感官</w>
+<w POS="v">感知</w>
+<w POS="u">的</w>
+<w POS="n">现象</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">转换</seg></w>
+<w POS="p">为</w>
+<w POS="r">另</w>
+<w POS="m">一</w>
+<w POS="n">感官</w>
+<w POS="v">能够</w>
+<w POS="v">感知</w>
+<w POS="u">的</w>
+<w POS="n">对象</w>
+<c POS="w">，</c>
+<w POS="c">而且</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">转换</seg></w>
+<w POS="d">通常</w>
+<w POS="v">有助</w>
+<w POS="v">观察</w>
+<w POS="k">者</w>
+<w POS="d">更加</w>
+<w POS="a">有效</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">反映</seg></w>
+<w POS="vn">观察</w>
+<w POS="n">对象</w>
+<c POS="ew">。</c>
+</s>
+<s n="0035">
+<w POS="v">例如</w>
+<c POS="w">，</c>
+<w POS="p">对</w>
+<w POS="n">物体</w>
+<w POS="u">的</w>
+<w POS="an">冷</w>
+<w POS="c">和</w>
+<w POS="an">热</w>
+<w POS="u">的</w>
+<w POS="vn">感知</w>
+<w POS="ad">一般</w>
+<w POS="v">是</w>
+<w POS="n">皮肤</w>
+<w POS="u">的</w>
+<w POS="n">功能</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="n">皮肤</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">冷热</w>
+<w POS="u">的</w>
+<w POS="vn">感知</w>
+<w POS="d">通常</w>
+<w POS="a">不够</w>
+<w POS="a">准确</w>
+<c POS="w">，</c>
+<w POS="d">有时</w>
+<w POS="d">甚至</w>
+<w POS="v">会</w>
+<w POS="v">发生</w>
+<w POS="n">错觉</w>
+<c POS="ew">。</c>
+</s>
+<s n="0036">
+<w POS="v">借助</w>
+<w POS="n">温度计</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="v">能</w>
+<w POS="p">把</w>
+<w POS="n">物体</w>
+<w POS="u">的</w>
+<w POS="n">冷热</w>
+<w POS="n">现象</w>
+<w POS="v">转化</w>
+<w POS="p">为</w>
+<w POS="v">可</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="n">视觉</w>
+<w POS="n">器官</w>
+<w POS="v">来</w>
+<w POS="v">观察</w>
+<w POS="u">的</w>
+<w POS="n">对象</w>
+<w POS="y">了</w>
+<c POS="ew">；</c>
+</s>
+<s n="0037">
+<w POS="ad">显然</w>
+<c POS="w">，</c>
+<w POS="n">温度计</w>
+<w POS="v">能</w>
+<w POS="p">比</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="n">皮肤</w>
+<w POS="d">更</w>
+<w POS="a">准确</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">反映</seg></w>
+<w POS="n">物体</w>
+<w POS="u">的</w>
+<w POS="a">实际</w>
+<w POS="n">温度</w>
+<c POS="ew">。</c>
+</s>
+<s n="0038">
+<w POS="c">如果</w>
+<w POS="v">说</w>
+<w POS="n">声纳</w>
+<w POS="ng">仪</w>
+<w POS="v">是</w>
+<w POS="p">以</w>
+<w POS="ng">声</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">助</seg></w>
+<w POS="vg">视</w>
+<w POS="u">的</w>
+<w POS="n">工具</w>
+<c POS="w">，</c>
+<w POS="c">那么</w>
+<w POS="n">电视机</w>
+<w POS="c">则</w>
+<w POS="p">把</w>
+<w POS="n">人类</w>
+<w POS="u">的</w>
+<w POS="n">视觉</w>
+<w POS="n">功能</w>
+<w POS="c">和</w>
+<w POS="n">听觉</w>
+<w POS="n">功能</w>
+<w POS="a">紧密</w>
+<w POS="u">地</w>
+<w POS="v">结合</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">在</seg></w>
+<w POS="s"><seg function="mrw" type="indir" subtype="conv">一起</seg></w>
+<c POS="w">，</c>
+<w POS="d">几乎</w>
+<w POS="v">达到</w>
+<w POS="vd">同步</w>
+<w POS="v">感知</w>
+<w POS="u">的</w>
+<w POS="n">程度</w>
+<c POS="ew">。</c>
+</s>
+<s n="0039">
+<w POS="n">科学</w>
+<w POS="n">仪器</w>
+<w POS="u">的</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="vn">转化</w>
+<w POS="n">功能</w>
+<w POS="c">和</w>
+<w POS="l">大脑皮层</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="a">不同</w>
+<w POS="n">感官</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">接受</seg></w>
+<w POS="u">的</w>
+<w POS="a">不同</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">信息</seg></w>
+<w POS="u">的</w>
+<w POS="vn">综合</w>
+<w POS="n">功能</w>
+<w POS="d">相</w>
+<w POS="v">结合</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">提高</seg></w>
+<w POS="u">了</w>
+<w POS="v">观察</w>
+<w POS="k">者</w>
+<w POS="u">的</w>
+<w POS="vn">综合</w>
+<w POS="vn">反应</w>
+<w POS="n">能力</w>
+<w POS="c">和</w>
+<w POS="v">观察</w>
+<w POS="u">的</w>
+<w POS="n">效果</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0040">
+<w POS="c">虽然</w>
+<w POS="p">对于</w>
+<w POS="r">每</w>
+<w POS="m">一个</w>
+<w POS="a">具体</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="n">时代</w>
+<w POS="u">的</w>
+<w POS="a">具体</w>
+<w POS="v">观察</w>
+<w POS="k">者</w>
+<w POS="u">来说</w>
+<c POS="w">，</c>
+<w POS="r">他</w>
+<w POS="v">只能</w>
+<w POS="v">使用</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="t">当时</w>
+<w POS="u">的</w>
+<w POS="n">社会</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="n">技术</w>
+<w POS="n">条件</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="u">所</w>
+<w POS="v">制作</w>
+<w POS="u">的</w>
+<w POS="vn">观察</w>
+<w POS="n">仪器</w>
+<c POS="w">，</c>
+<w POS="c">因而</w>
+<w POS="r">他</w>
+<w POS="v">进行</w>
+<w POS="v">观察</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">范围</seg></w>
+<c POS="w">、</c>
+<w POS="n">精确度</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">有限</seg></w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="c">但是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">人类</w>
+<w POS="n">社会</w>
+<w POS="n">生产力</w>
+<w POS="vn">发展</w>
+<c POS="w">，</c>
+<w POS="d">尤其</w>
+<w POS="v">是</w>
+<w POS="n">科学</w>
+<c POS="w">、</c>
+<w POS="n">技术</w>
+<w POS="vn">发展</w>
+<w POS="u">的</w>
+<w POS="b">总</w>
+<w POS="n">趋势</w>
+<w POS="v">来看</w>
+<c POS="w">，</c>
+<w POS="r">每</w>
+<w POS="m">一个</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">后继</seg></w>
+<w POS="u">的</w>
+<w POS="n">时代</w>
+<w POS="d">都</w>
+<w POS="v">能</w>
+<w POS="p">比</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<w POS="m">一</w>
+<w POS="n">时代</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">提供</seg></w>
+<w POS="d">更</w>
+<w POS="a">多</w>
+<c POS="w">、</c>
+<w POS="d">更</w>
+<w POS="a">精良</w>
+<w POS="u">的</w>
+<w POS="n">仪器</w>
+<w POS="c">和</w>
+<w POS="n">工具</w>
+<c POS="ew">。</c>
+</s>
+<s n="0041">
+<w POS="v">借助</w>
+<w POS="r">它们</w>
+<c POS="w">，</c>
+<w POS="vn"><seg function="mrw" type="indir" subtype="cont">后继</seg></w>
+<w POS="n">时代</w>
+<w POS="u">的</w>
+<w POS="v">观察</w>
+<w POS="k">者</w>
+<w POS="v">能够</w>
+<w POS="p">比</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<w POS="m">一</w>
+<w POS="n">时代</w>
+<w POS="u">的</w>
+<w POS="v">观察</w>
+<w POS="k">者</w>
+<w POS="v">观察</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="d">更</w>
+<w POS="a">多</w>
+<c POS="w">、</c>
+<w POS="d">更</w>
+<w POS="a">远</w>
+<c POS="w">、</c>
+<w POS="d">更</w>
+<w POS="a">大</w>
+<w POS="c">或</w>
+<w POS="d">更</w>
+<w POS="a">小</w>
+<w POS="u">的</w>
+<w POS="n">对象</w>
+<c POS="w">，</c>
+<w POS="d">更</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">弱</seg></w>
+<w POS="c">或</w>
+<w POS="d">更</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强</seg></w>
+<w POS="u">的</w>
+<w POS="vn">反应</w>
+<c POS="w">，</c>
+<w POS="d">更</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">深</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">层次</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0042">
+<w POS="c">无论</w>
+<w POS="v">是</w>
+<w POS="n">人类</w>
+<w POS="n">感官</w>
+<w POS="u">的</w>
+<w POS="n">生理</w>
+<w POS="n">功能</w>
+<c POS="w">，</c>
+<w POS="c">还是</w>
+<w POS="d">已</w>
+<w POS="p">被</w>
+<w POS="vn">应用</w>
+<w POS="u">的</w>
+<w POS="vn">观察</w>
+<w POS="n">仪器</w>
+<w POS="u">的</w>
+<w POS="n">性能</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">不能</w>
+<w POS="b">永久</w>
+<w POS="n">地</w>
+<c POS="w">、</c>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">固定</seg></w>
+<w POS="u">地</w>
+<w POS="v">限制</w>
+<w POS="n">人们</w>
+<w POS="u">的</w>
+<w POS="v">可</w>
+<w POS="v">观察</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">范围</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0043">
+<w POS="n">原则</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="d">凡是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">显示</seg></w>
+<w POS="v">存在</w>
+<w POS="u">的</w>
+<w POS="c">而</w>
+<w POS="t">现时</w>
+<w POS="d">尚未</w>
+<w POS="v">观察</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="u">的</w>
+<w POS="n">事物</w>
+<w POS="n">现象</w>
+<c POS="w">，</c>
+<w POS="c">如果</w>
+<w POS="r">它们</w>
+<w POS="v">继续</w>
+<w POS="v">存在</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下去</seg></w>
+<c POS="w">，</c>
+<w POS="c">那么</w>
+<w POS="r">它们</w>
+<w POS="d">都</w>
+<w POS="d">将</w>
+<w POS="v">能够</w>
+<w POS="v">转化</w>
+<w POS="p">为</w>
+<w POS="v">可</w>
+<w POS="v">观察</w>
+<w POS="u">的</w>
+<w POS="n">对象</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

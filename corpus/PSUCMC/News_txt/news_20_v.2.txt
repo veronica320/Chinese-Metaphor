@@ -1,0 +1,614 @@
+﻿<p>
+<s n="0020">
+<w POS="ng">时</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">至</seg></w>
+<w POS="m">三九</w>
+<c POS="w">，</c>
+<w POS="n">寒气</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">袭</seg></w>
+<w POS="n">人</w>
+<c POS="w">，</c>
+<w POS="n">边城</w>
+<w POS="ns">黑河</w>
+<w POS="u">的</w>
+<w POS="n">气温</w>
+<w POS="d">已</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">降</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="m">-３０</w>
+<w POS="q">℃</w>
+<c POS="ew">。</c>
+</s>
+<s n="0021">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="i">滴水成冰</w>
+<c POS="w">、</c>
+<w POS="s">路上</w>
+<w POS="n">车</w>
+<w POS="a">少</w>
+<w POS="n">人</w>
+<w POS="a">稀</w>
+<w POS="u">的</w>
+<w POS="n">季节</w>
+<c POS="w">、</c>
+<w POS="v">冰封</w>
+<w POS="u">的</w>
+<w POS="ns">黑龙江</w>
+<w POS="n">江面</w>
+<w POS="f">上</w>
+<w POS="d">却</w>
+<w POS="a">热闹</w>
+<w POS="u">了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<c POS="ew">。</c>
+<s n="0022">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="m">几百</w>
+<w POS="q">台</w>
+<c POS="w">＂</c>
+<w POS="nz">东风</w>
+<c POS="w">＂</c>
+<w POS="c">和</w>
+<c POS="w">＂</c>
+<w POS="nz">卡码兹</w>
+<c POS="w">＂</c>
+<w POS="n">汽车</w>
+<w POS="v">组成</w>
+<w POS="u">的</w>
+<w POS="j">中</w>
+<w POS="j">苏</w>
+<w POS="j">边贸</w>
+<w POS="n">运输队</w>
+<c POS="w">，</c>
+<w POS="v">满载</w>
+<w POS="n">货物</w>
+<c POS="w">，</c>
+<w POS="d">分别</w>
+<w POS="v">驶向</w>
+<w POS="nr">布拉戈维申斯克</w>
+<w POS="c">和</w>
+<w POS="ns">黑河</w>
+<w POS="m">两</w>
+<w POS="q">个</w>
+<w POS="v">隔</w>
+<w POS="ng">岸</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">相望</seg></w>
+<w POS="u">的</w>
+<w POS="n">口岸</w>
+<c POS="w">，</c>
+<w POS="l">你来我往</w>
+<c POS="w">，</c>
+<w POS="i">川流不息</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0023">
+<w POS="t">１月</w>
+<w POS="t">１０日</w>
+<w POS="tg">早</w>
+<w POS="ng">时</w>
+<w POS="m">半</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">离</seg></w>
+<w POS="v">开关</w>
+<w POS="v">还有</w>
+<w POS="m">半</w>
+<w POS="n">小时</w>
+<c POS="w">，</c>
+<w POS="v">来自</w>
+<w POS="ns">苏联</w>
+<w POS="u">的</w>
+<w POS="m">十</w>
+<w POS="m">多</w>
+<w POS="q">台</w>
+<w POS="v">装满</w>
+<w POS="n">化肥</w>
+<w POS="u">的</w>
+<w POS="n">汽车</w>
+<w POS="d">就</w>
+<w POS="v">开</w>
+<w POS="v">到</w>
+<w POS="u">了</w>
+<w POS="ns">黑河</w>
+<w POS="n">口岸</w>
+<w POS="j">联检</w>
+<w POS="n">场地</w>
+<w POS="u">的</w>
+<w POS="s">大门口</w>
+<c POS="ew">。</c>
+</s>
+<s n="0024">
+<w POS="m">几</w>
+<w POS="q">位</w>
+<w POS="n">司机</w>
+<w POS="c">和</w>
+<w POS="n">记者</w>
+<w POS="v">交谈</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0025">
+<w POS="a">年老</w>
+<w POS="u">的</w>
+<w POS="ns">符拉基米尔·甘恰尔金</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="r">我</w>
+<w POS="ad">连续</w>
+<w POS="m">３</w>
+<w POS="q">年</w>
+<w POS="v">来</w>
+<w POS="ns">黑河</w>
+<w POS="v">运</w>
+<w POS="n">货</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0026">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">是</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">件</seg></w>
+<w POS="d">非常</w>
+<w POS="v">有</w>
+<w POS="n">意义</w>
+<w POS="u">的</w>
+<w POS="n">事</w>
+<c POS="w">，</c>
+<w POS="c">不仅</w>
+<w POS="i">互通有无</w>
+<c POS="w">，</c>
+<w POS="c">而且</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">加深</seg></w>
+<w POS="m">两</w>
+<w POS="n">国</w>
+<w POS="n">人民</w>
+<w POS="u">的</w>
+<w POS="n">友谊</w>
+<c POS="ew">。</c>
+</s>
+<s n="0027">
+<w POS="r">我</w>
+<w POS="u">的</w>
+<w POS="n">任务</w>
+<w POS="v">就是</w>
+<w POS="ad">多</w>
+<w POS="v">拉</w>
+<w POS="d">快</w>
+<w POS="v">跑</w>
+<c POS="w">，</c>
+<w POS="c">所以</w>
+<w POS="r">每天</w>
+<w POS="d">都</w>
+<w POS="vd">抢先</w>
+<w POS="v">出发</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0028">
+<w POS="v">穿</w>
+<w POS="u">着</w>
+<w POS="n">半截</w>
+<w POS="n">羊皮袄</w>
+<w POS="u">的</w>
+<w POS="nr">尼古拉·彼德罗夫</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="d">亲眼</w>
+<w POS="v">看到</w>
+<w POS="u">了</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">邻居</seg></w>
+<w POS="ns">中国</w>
+<w POS="n">人</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">过</seg></w>
+<w POS="u">得</w>
+<w POS="d">很</w>
+<w POS="a">好</w>
+<c POS="w">，</c>
+<w POS="v">看到</w>
+<w POS="n">商店</w>
+<w POS="a">丰富</w>
+<w POS="u">的</w>
+<w POS="n">货物</w>
+<c POS="w">，</c>
+<w POS="v">吃</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="a">鲜美</w>
+<w POS="u">的</w>
+<w POS="ns">中国</w>
+<w POS="n">饺子</w>
+<c POS="w">，</c>
+<w POS="d">真是</w>
+<w POS="d">太</w>
+<w POS="l">令人羡慕</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0029">
+<w POS="t">８时</w>
+<w POS="a">整</w>
+<c POS="w">，</c>
+<w POS="ns">黑河</w>
+<w POS="n">口岸</w>
+<w POS="j">联检</w>
+<w POS="n">大厅</w>
+<w POS="c">和</w>
+<w POS="n">停车场</w>
+<w POS="v">活跃</w>
+<w POS="u">了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0030">
+<w POS="m">两</w>
+<w POS="n">国</w>
+<w POS="j">进出境</w>
+<w POS="u">的</w>
+<w POS="n">司机</w>
+<c POS="w">、</c>
+<w POS="n">理货员</w>
+<c POS="w">、</c>
+<w POS="n">车辆</w>
+<w POS="c">和</w>
+<w POS="n">货物</w>
+<w POS="d">依次</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接受</seg></w>
+<w POS="vn">查验</w>
+<c POS="ew">。</c>
+</s>
+<s n="0031">
+<w POS="n">人流</w>
+<w POS="v"><seg function="mflag">如</seg></w><seg function="mflag">
+<w POS="n"><seg function="mrw" type="dir">梭</seg></w>
+<c POS="w">，</c>
+<w POS="n">车轮</w>
+<w POS="z">滚滚</w>
+<c POS="ew">。</c>
+</s>
+<s n="0032">
+<w POS="ns">黑河</w>
+<w POS="vn">外运</w>
+<w POS="n">公司</w>
+<w POS="n">司机</w>
+<w POS="nr">吕</w>
+<w POS="nr">荣吉</w>
+<w POS="tg">早</w>
+<w POS="t">４时</w>
+<w POS="d">就</w>
+<w POS="v">赶来</w>
+<w POS="v">排队</w>
+<w POS="v">等候</w>
+<w POS="v">运</w>
+<w POS="n">货</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="r">他</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="t">现在</w>
+<w POS="v">进口</w>
+<w POS="u">的</w>
+<w POS="m">多</w>
+<w POS="v">是</w>
+<w POS="n">农业</w>
+<w POS="n">生产资料</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="t">今年</w>
+<w POS="v">春耕</w>
+<w POS="u">所</w>
+<w POS="v">需要</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">耽误</w>
+<w POS="u">不得</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0034">
+<w POS="v">前来</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">理</seg></w>
+<w POS="n">货</w>
+<w POS="u">的</w>
+<w POS="ns">苏联</w>
+<w POS="ns">阿穆尔州</w>
+<w POS="j">农工委</w>
+<w POS="n">主任</w>
+<w POS="n">工程师</w>
+<w POS="nr">亚历山大</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">操</seg></w>
+<w POS="u">着</w>
+<w POS="a">流利</w>
+<w POS="u">的</w>
+<w POS="nz">汉语</w>
+<w POS="p">对</w>
+<w POS="n">记者</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="r">我们</w>
+<w POS="m">两</w>
+<w POS="n">国</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之间</seg></w>
+<w POS="u">的</w>
+<w POS="s">边境</w>
+<w POS="vn">贸易</w>
+<w POS="v">是</w>
+<w POS="i">取长补短</w>
+<c POS="w">，</c>
+<w POS="d">互相</w>
+<w POS="a">有利</w>
+<c POS="ew">。</c>
+</s>
+<s n="0035">
+<w POS="l">近年来</w>
+<w POS="s">边境</w>
+<w POS="vn">贸易</w>
+<w POS="v">使</w>
+<w POS="ns">黑河</w>
+<w POS="p">与</w>
+<w POS="ns">阿穆尔州</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">建立</seg></w>
+<w POS="u">了</w>
+<w POS="n">友谊</w>
+<c POS="w">，</c>
+<w POS="t">今后</w>
+<w POS="r">它</w>
+<w POS="d">也</w>
+<w POS="v">会</w>
+<w POS="v">使</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="n">友谊</w>
+<w POS="d">更加</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">巩固</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0036">
+<w POS="t">现在</w>
+<w POS="d">仅仅</w>
+<w POS="v">是</w>
+<w POS="q">个</w>
+<w POS="a">良好</w>
+<w POS="u">的</w>
+<w POS="n">开端</w>
+<c POS="w">，</c>
+<w POS="t">今年</w>
+<w POS="v">会</w>
+<w POS="p">比</w>
+<w POS="t">去年</w>
+<w POS="v">进步</w>
+<c POS="w">，</c>
+<w POS="t">今后</w>
+<w POS="v">会</w>
+<w POS="p">比</w>
+<w POS="t">现在</w>
+<w POS="d">更</w>
+<w POS="v">有</w>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0037">
+<w POS="t">下午</w>
+<c POS="w">，</c>
+<w POS="n">记者</w>
+<w POS="v">来到</w>
+<w POS="ns">黑河</w>
+<w POS="n">边贸</w>
+<w POS="n">公司</w>
+<w POS="u">的</w>
+<w POS="m">一个</w>
+<w POS="n">货场</w>
+<c POS="ew">。</c>
+</s>
+<s n="0038">
+<w POS="v">只见</w>
+<w POS="a">诺大</w>
+<w POS="u">的</w>
+<w POS="n">场地</w>
+<w POS="v">堆放</w>
+<w POS="u">着</w>
+<w POS="d">刚</w>
+<w POS="p">从</w>
+<w POS="ns">苏联</w>
+<w POS="v">进口</w>
+<w POS="u">的</w>
+<w POS="m">几千</w>
+<w POS="q">吨</w>
+<w POS="n">化肥</w>
+<c POS="w">、</c>
+<w POS="m">３０</w>
+<w POS="m">多</w>
+<w POS="q">台</w>
+<w POS="m">１３０</w>
+<w POS="q">马力</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">带</seg></w>
+<w POS="n">全套</w>
+<w POS="n">农具</w>
+<w POS="c">和</w>
+<w POS="v">悬挂</w>
+<w POS="n">装置</w>
+<w POS="u">的</w>
+<w POS="n">拖拉机</w>
+<c POS="w">、</c>
+<w POS="m">５</w>
+<w POS="q">台</w>
+<w POS="b">农用</w>
+<c POS="w">＂</c>
+<w POS="nz">卡码兹</w>
+<c POS="w">＂</c>
+<w POS="n">汽车</w>
+<c POS="w">，</c>
+<w POS="v">还有</w>
+<w POS="v">制造</w>
+<w POS="n">农膜</w>
+<w POS="v">用</w>
+<w POS="u">的</w>
+<w POS="n">化工</w>
+<w POS="n">原料</w>
+<c POS="w">、</c>
+<w POS="n">木材</w>
+<w POS="c">和</w>
+<w POS="n">钢材</w>
+<w POS="u">等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0039">
+<w POS="u">正在</w>
+<w POS="n">库房</w>
+<w POS="p">同</w>
+<w POS="n">苏方</w>
+<w POS="n">人员</w>
+<w POS="v">会</w>
+<w POS="vg">检</w>
+<w POS="u">的</w>
+<w POS="ns">黑河</w>
+<w POS="j">动植物</w>
+<w POS="vn">检疫</w>
+<w POS="n">所长</w>
+<w POS="nr">徐</w>
+<w POS="nr">景寿</w>
+<w POS="v">指</w>
+<w POS="u">着</w>
+<w POS="m">一箱箱</w>
+<w POS="n">牛肉</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">苏方</w>
+<w POS="c">不仅</w>
+<w POS="v">欢迎</w>
+<w POS="ns">中国</w>
+<w POS="u">的</w>
+<w POS="j">轻纺</w>
+<c POS="w">、</c>
+<w POS="n">电子</w>
+<w POS="c">和</w>
+<w POS="n">建材</w>
+<w POS="u">等</w>
+<w POS="n">产品</w>
+<c POS="w">，</c>
+<w POS="d">还</w>
+<w POS="d">十分</w>
+<w POS="v">需要</w>
+<w POS="r">我们</w>
+<w POS="u">的</w>
+<w POS="n">肉类</w>
+<w POS="c">和</w>
+<w POS="r">其它</w>
+<w POS="n">食品</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0040">
+<w POS="tg">晚</w>
+<w POS="t">９时</w>
+<c POS="w">，</c>
+<w POS="ad">连续</w>
+<w POS="p">在</w>
+<w POS="s">现场</w>
+<w POS="v">工作</w>
+<w POS="m">１３</w>
+<w POS="q">个</w>
+<w POS="n">小时</w>
+<w POS="u">的</w>
+<w POS="j">联检</w>
+<w POS="n">人员</w>
+<c POS="w">，</c>
+<w POS="p">在</w>
+<w POS="n">口岸</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">送</seg></w>
+<w POS="v">走</w>
+<w POS="u">了</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">最后</seg></w>
+<w POS="m">一</w>
+<w POS="q">台</w>
+<w POS="n">苏方</w>
+<w POS="vn">出境</w>
+<w POS="n">汽车</w>
+<c POS="w">，</c>
+<w POS="v">验</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">过</seg></w>
+<w POS="u">了</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">最后</seg></w>
+<w POS="m">一</w>
+<w POS="q">台</w>
+<w POS="n">中方</w>
+<w POS="v">回</w>
+<w POS="ng">境</w>
+<w POS="u">的</w>
+<w POS="n">汽车</w>
+<c POS="w">，</c>
+<w POS="v">闭</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="u">了</w>
+<w POS="n">海关</w>
+<w POS="n">大门</w>
+<c POS="ew">。</c>
+</s>
+<s n="0041">
+<w POS="ns">黑河</w>
+<w POS="n">海关</w>
+<w POS="s">现场</w>
+<w POS="n">员</w>
+<w POS="nr">姜</w>
+<w POS="nr">伦</w>
+<w POS="p">把</w>
+<w POS="m">一</w>
+<w POS="q">份</w>
+<w POS="n">统计表</w>
+<w POS="v">交给</w>
+<w POS="u">了</w>
+<w POS="n">记者</w>
+<c POS="w">：</c>
+<w POS="r">这天</w>
+<c POS="w">，</c>
+<w POS="j">进出境</w>
+<w POS="n">货车</w>
+<w POS="m">３４２</w>
+<w POS="q">台次</w>
+<c POS="w">，</c>
+<w POS="vn">进出口</w>
+<w POS="n">货物</w>
+<w POS="m">１５００．４２</w>
+<w POS="q">吨</w>
+<c POS="ew">；</c>
+</s>
+<s n="0042">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="t">去年</w>
+<w POS="t">１２月</w>
+<w POS="t">２８日</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="t">今天</w>
+<w POS="v">开关</w>
+<w POS="m">１０</w>
+<w POS="q">天</w>
+<c POS="w">，</c>
+<w POS="j">进出境</w>
+<w POS="n">货车</w>
+<w POS="m">２７７４</w>
+<w POS="q">台次</w>
+<c POS="w">，</c>
+<w POS="vn">进出口</w>
+<w POS="n">货物</w>
+<w POS="m">１１４３３．１１</w>
+<w POS="q">吨</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

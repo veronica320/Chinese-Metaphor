@@ -1,0 +1,509 @@
+﻿<p>
+<s n="0045">
+<w POS="d">必须</w>
+<w POS="v">采取</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">行动</seg></w>
+<w POS="n">计划</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">分为</seg></w>
+<w POS="m">四</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="n">类</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0046">
+<w POS="m">第一</w>
+<c POS="w">，</c>
+<w POS="d">必须</w>
+<w POS="v">预防</w>
+<w POS="vn">污染</w>
+<c POS="ew">。</c>
+</s>
+<s n="0047">
+<w POS="b">所有</w>
+<w POS="n">政府</w>
+<w POS="d">都</w>
+<w POS="v">应</w>
+<w POS="v">采取</w>
+<w POS="v">预防</w>
+<w POS="u">的</w>
+<w POS="n">原则</w>
+<c POS="ew">。</c>
+</s>
+<s n="0048">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">处</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">指</seg></w>
+<w POS="d">最</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="n">限度</w>
+<w POS="u">地</w>
+<w POS="v">减少</w>
+<c POS="w">（</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">可能</w>
+<w POS="u">的</w>
+<w POS="n">情况</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="v">预防</w>
+<c POS="w">）</c>
+<w POS="a">有害</w>
+<w POS="n">物质</w>
+<w POS="u">的</w>
+<w POS="vn">排放</w>
+<c POS="ew">。</c>
+</s>
+<s n="0049">
+<w POS="a">最好</w>
+<w POS="u">的</w>
+<w POS="n">办法</w>
+<w POS="v">是</w>
+<w POS="v">使</w>
+<w POS="v">保护</w>
+<w POS="n">土地</w>
+<c POS="w">、</c>
+<w POS="n">大气</w>
+<c POS="w">、</c>
+<w POS="n">河流</w>
+<w POS="c">和</w>
+<w POS="n">海洋</w>
+<w POS="n">工作</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="m">一个</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机构</seg></w>
+<w POS="v">来</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0050">
+<w POS="n">经济</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">刺激</seg></w>
+<w POS="c">和</w>
+<w POS="n">法规</w>
+<w POS="v">应</w>
+<w POS="r"><seg function="mrw" type="imp">两者</seg></w>
+<w POS="d">并</w>
+<w POS="v">用</w>
+<c POS="ew">。</c>
+</s>
+<s n="0051">
+<w POS="n">市政府</w>
+<c POS="w">、</c>
+<w POS="vn">公用</w>
+<w POS="c">和</w>
+<w POS="n">工业</w>
+<w POS="n">部门</w>
+<w POS="c">及</w>
+<w POS="n">农业</w>
+<w POS="ng">部</w>
+<w POS="d">必须</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做</seg></w>
+<w POS="n">贡献</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0052">
+<w POS="p">在</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">高</seg></w>
+<w POS="n">收入</w>
+<w POS="n">国家</w>
+<c POS="w">、</c>
+<w POS="d">必须</w>
+<w POS="d">大幅度</w>
+<w POS="v">减少</w>
+<w POS="n">二氧化硫</w>
+<c POS="w">、</c>
+<w POS="n">氮氧化物</w>
+<c POS="w">、</c>
+<w POS="n">一氧化碳</w>
+<w POS="c">和</w>
+<w POS="n">烃</w>
+<w POS="n">类</w>
+<w POS="u">的</w>
+<w POS="vn">排放</w>
+<c POS="ew">。</c>
+</s>
+<s n="0053">
+<w POS="r">这些</w>
+<w POS="n">物质</w>
+<w POS="v">形成</w>
+<w POS="u">了</w>
+<w POS="n">酸雨</w>
+<w POS="c">和</w>
+<w POS="n">光化学</w>
+<w POS="n">烟雾</w>
+<c POS="ew">。</c>
+</s>
+<s n="0054">
+<w POS="p">在</w>
+<w POS="u">正在</w>
+<w POS="v">工业化</w>
+<w POS="u">的</w>
+<w POS="n">国家</w>
+<c POS="w">，</c>
+<w POS="d">必须</w>
+<w POS="v">防止</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">问题</w>
+<w POS="u">的</w>
+<w POS="vn">发生</w>
+<c POS="ew">。</c>
+</s>
+<s n="0055">
+<w POS="d">必须</w>
+<w POS="v">减少</w>
+<w POS="n">温室气体</w>
+<w POS="u">的</w>
+<w POS="vn">排放</w>
+<c POS="w">，</c>
+<w POS="d">必须</w>
+<w POS="v">帮助</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">低</seg></w>
+<w POS="n">收入</w>
+<w POS="n">国家</w>
+<w POS="d">最</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="n">限度</w>
+<w POS="u">地</w>
+<w POS="v">减少</w>
+<w POS="a">新</w>
+<w POS="n">污染源</w>
+<w POS="vn">排放</w>
+<c POS="ew">。</c>
+</s>
+<s n="0056">
+<w POS="c">因为</w>
+<w POS="m">一些</w>
+<w POS="n">气候</w>
+<w POS="vn">变化</w>
+<w POS="l">不可避免</w>
+<c POS="w">，</c>
+<w POS="c">所以</w>
+<w POS="b">所有</w>
+<w POS="n">国家</w>
+<w POS="d">都</w>
+<w POS="v">应</w>
+<w POS="v">评价</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">会</w>
+<w POS="r">怎样</w>
+<w POS="v">影响</w>
+<w POS="r">它们</w>
+<w POS="c">以及</w>
+<w POS="v">制订</w>
+<w POS="r">如何</w>
+<w POS="d">最</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="n">程度</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">减少</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="v">影响</w>
+<w POS="u">的</w>
+<w POS="n">计划</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0057">
+<w POS="m">第二</w>
+<w POS="q">个</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">行动</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">领域</seg></w>
+<w POS="v">是</w>
+<w POS="v">保持</w>
+<w POS="n">地球</w>
+<w POS="n">生态</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<w POS="u">的</w>
+<w POS="n">完整性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0058">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">需要</w>
+<w POS="v">采取</w>
+<w POS="vn">综合</w>
+<w POS="u">的</w>
+<w POS="n">措施</w>
+<c POS="ew">。</c>
+</s>
+<s n="0059">
+<w POS="d">往往</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="n">河流</w>
+<w POS="n">流域</w>
+<w POS="p">为</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">单位</seg></w>
+<w POS="v">进行</w>
+<w POS="n">土地</w>
+<w POS="vn">使用</w>
+<w POS="n">规划</w>
+<w POS="c">和</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0060">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">可能</w>
+<w POS="u">的</w>
+<w POS="n">情况</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="v">应</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">保留</seg></w>
+<w POS="n">自然</w>
+<w POS="n">生态</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<c POS="ew">；</c>
+</s>
+<s n="0061">
+<w POS="d">已</w>
+<w POS="v">改变</w>
+<w POS="u">的</w>
+<w POS="n">生态</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<w POS="v">应</w>
+<w POS="vd">持续</w>
+<w POS="v">使用</w>
+<c POS="ew">。</c>
+</s>
+<s n="0062">
+<w POS="p">通过</w>
+<w POS="v">保护</w>
+<w POS="d">最</w>
+<w POS="a">优良</w>
+<w POS="u">的</w>
+<w POS="n">农田</w>
+<w POS="c">并</w>
+<w POS="v">加以</w>
+<w POS="a">有效</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<c POS="w">，</c>
+<w POS="v">可</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">减少</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">自然</w>
+<w POS="n">生态</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">压力</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0063">
+<w POS="p">在</w>
+<w POS="r">某些</w>
+<w POS="n">地区</w>
+<c POS="w">，</c>
+<w POS="b">一定</w>
+<w POS="u">的</w>
+<w POS="n">森林</w>
+<w POS="vn">砍伐</w>
+<w POS="v">是</w>
+<w POS="l">不可避免</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="c">因此</w>
+<w POS="v">要</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">靠</seg></w>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="n">人工</w>
+<w POS="ng">林</w>
+<w POS="c">或</w>
+<w POS="ad">自然</w>
+<w POS="d">再</w>
+<w POS="v">生长</w>
+<w POS="v">来</w>
+<w POS="v">补充</w>
+<c POS="w">，</c>
+<w POS="c">以</w>
+<w POS="v">使</w>
+<w POS="n">世界</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="widlii">上</seg></w>
+<w POS="n">森林</w>
+<w POS="u">的</w>
+<w POS="n">总面积</w>
+<w POS="v">保持</w>
+<w POS="d">不</w>
+<w POS="v">变</w>
+<c POS="ew">。</c>
+</s>
+<s n="0064">
+<w POS="a">原始</w>
+<w POS="n">森林</w>
+<w POS="d">特别</w>
+<w POS="a">宝贵</w>
+<c POS="w">，</c>
+<w POS="v">应</w>
+<w POS="v">加以</w>
+<w POS="vn">保护</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0065">
+<w POS="m">第三</w>
+<w POS="q">个</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">行动</seg></w>
+<w POS="v">是</w>
+<w POS="v">保护</w>
+<w POS="n">生物</w>
+<w POS="n">多样性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0066">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="d">就要</w>
+<w POS="p">在</w>
+<w POS="a">广大</w>
+<w POS="n">地区</w>
+<w POS="v">建立</w>
+<w POS="c">和</w>
+<w POS="v">维护</w>
+<w POS="n">保护区</w>
+<c POS="ew">。</c>
+</s>
+<s n="0067">
+<w POS="v">保护</w>
+<w POS="n">物种</w>
+<w POS="c">和</w>
+<w POS="vn">遗传</w>
+<w POS="n">资源</w>
+<c POS="w">，</c>
+<w POS="c">以及</w>
+<w POS="p">在</w>
+<w POS="a">广大</w>
+<w POS="n">地区</w>
+<w POS="p">把</w>
+<w POS="n">经济</w>
+<w POS="vn">利用</w>
+<w POS="c">和</w>
+<w POS="vn">保护</w>
+<w POS="v">结合</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">战略</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0068">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="vn">现有</w>
+<w POS="n">保护区</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<w POS="v">需要</w>
+<w POS="v">改善</w>
+<c POS="w">，</c>
+<w POS="d">必须</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">加强</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">物种</w>
+<w POS="c">和</w>
+<w POS="n">生态</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">系统</seg></w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="vn">了解</w>
+<c POS="w">，</c>
+<w POS="v">应</w>
+<w POS="p">把</w>
+<w POS="s">野外</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="n">动物园</w>
+<w POS="c">和</w>
+<w POS="n">植物园</w>
+<w POS="f">内</w>
+<w POS="u">的</w>
+<w POS="n">工作</w>
+<w POS="v">结合</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0069">
+<w POS="v">放</w>
+<w POS="v">归</w>
+<w POS="v">到</w>
+<w POS="s">野外</w>
+<w POS="v">应</w>
+<w POS="v">是</w>
+<w POS="b">所有</w>
+<w POS="b">人工</w>
+<w POS="vn">饲养</w>
+<w POS="n">计划</w>
+<w POS="u">的</w>
+<w POS="b">最终</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">目标</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0070">
+<w POS="m">第四</w>
+<w POS="q">个</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">行动</seg></w>
+<w POS="v">是</w>
+<w POS="v">持续</w>
+<w POS="u">地</w>
+<w POS="v">利用</w>
+<w POS="n">生物</w>
+<w POS="n">资源</w>
+<c POS="ew">。</c>
+</s>
+<s n="0071">
+<w POS="v">应</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="vn">有关</w>
+<w POS="n">品种</w>
+<w POS="u">的</w>
+<w POS="ad">精心</w>
+<w POS="v">研究</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">收获</w>
+<w POS="v">加以</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="v">进行</w>
+<w POS="vn">监测</w>
+<c POS="w">，</c>
+<w POS="d">以便</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="r">任何</w>
+<w POS="d">过度</w>
+<w POS="v">利用</w>
+<w POS="v">能</w>
+<w POS="ad">及时</w>
+<w POS="v">纠正</w>
+<c POS="ew">。</c>
+</s>
+<s n="0072">
+<w POS="n">地方</w>
+<w POS="n">社区</w>
+<w POS="d">必须</w>
+<w POS="v">参与</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<w POS="r">其</w>
+<w POS="n">地区</w>
+<w POS="u">的</w>
+<w POS="b">野生</w>
+<w POS="n">资源</w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="v">应</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">经济</w>
+<w POS="n">收入</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v">受益</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

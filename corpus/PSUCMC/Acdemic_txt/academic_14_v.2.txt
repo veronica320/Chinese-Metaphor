@@ -1,0 +1,516 @@
+﻿<p>
+<s n="0024">
+<w POS="m">二</w>
+<c POS="w">、</c>
+<w POS="n">自然科学</w>
+<w POS="ng">史</w>
+<w POS="a">不同</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="a">正统</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+</s>
+</p>
+<p>
+<s n="0025">
+<w POS="n">广义</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="v">泛指</w>
+<w POS="r">一切</w>
+<w POS="n">事物</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<w POS="n">过程</w>
+<c POS="w">，</c>
+<w POS="v">包括</w>
+<w POS="v">有</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<c POS="w">（</c>
+<w POS="n">社会史</w>
+<c POS="w">）</c>
+<w POS="c">和</w>
+<w POS="v">无</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<c POS="w">（</c>
+<w POS="n">自然</w>
+<w POS="ng">史</w>
+<c POS="w">）</c>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="a">正统</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="d">通常</w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">指</seg></w>
+<w POS="n">人类</w>
+<w POS="n">社会</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<w POS="n">过程</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="n">意义</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">讲</w>
+<c POS="w">，</c>
+<w POS="n">自然科学</w>
+<w POS="ng">史</w>
+<w POS="d">无疑</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">属于</seg></w>
+<w POS="n">历史</w>
+<w POS="u">的</w>
+<w POS="n">一部分</w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="p">同</w>
+<w POS="n">历史</w>
+<w POS="v">共有</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">根</seg></w>
+<w POS="b"><seg function="mrw" type="indir" subtype="conv">单向</seg></w>
+<w POS="u">的</w>
+<w POS="n">时间</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">轴</seg></w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="n">历史</w>
+<w POS="v">作为</w>
+<w POS="r">它</w>
+<w POS="u">的</w>
+<w POS="b"><seg function="mrw" type="indir" subtype="conv">广大</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">背景</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0026">
+<w POS="p">同</w>
+<w POS="n">历史</w>
+<w POS="u">一样</w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="d">也</w>
+<w POS="v">要</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="n">史实</w>
+<w POS="p">为</w>
+<w POS="n">本体</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">要</w>
+<w POS="v">包含</w>
+<w POS="n">时间</w>
+<c POS="w">、</c>
+<w POS="n">地点</w>
+<c POS="w">、</c>
+<w POS="n">人物</w>
+<c POS="w">、</c>
+<w POS="n">事件</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">几</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="w">＂</c>
+<w POS="n">要素</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0027">
+<w POS="c">但</w>
+<w POS="n">自然科学</w>
+<w POS="ng">史</w>
+<w POS="p">与</w>
+<w POS="a">正统</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="v">有</w>
+<w POS="m">两</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">点</seg></w>
+<w POS="n">区别</w>
+<w POS="v">是</w>
+<w POS="d">十分</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">明显</seg></w>
+<w POS="u">的</w>
+<c POS="w">：</c>
+<w POS="m">一</w>
+<w POS="v">是</w>
+<w POS="n">人物</w>
+<w POS="a">不同</w>
+<c POS="w">，</c>
+<w POS="m">二</w>
+<w POS="v">是</w>
+<w POS="n">事件</w>
+<w POS="a">不同</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0028">
+<w POS="c">尽管</w>
+<w POS="n">历史</w>
+<w POS="v">是</w>
+<w POS="n">人民</w>
+<w POS="v">创造</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<c POS="w">＂</c>
+<w POS="n">人民</w>
+<w POS="v">是</w>
+<w POS="n">历史</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">主人</seg></w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="p">作为</w>
+<w POS="n">历史</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">音符</seg></w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="l">一般来说</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="a">正统</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="r">其</w>
+<w POS="n">人物</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="a">显要</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="n">当权者</w>
+<w POS="c">和</w>
+<w POS="n">领袖</w>
+<w POS="k">们</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="i">帝王将相</w>
+<c POS="w">、</c>
+<w POS="l">民族英雄</w>
+<c POS="w">、</c>
+<w POS="vn">起义</w>
+<w POS="n">首领</w>
+<w POS="r">之类</w>
+<c POS="ew">；</c>
+</s>
+<s n="0029">
+<w POS="c">而</w>
+<w POS="n">自然科学</w>
+<w POS="ng">史</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="u">的</w>
+<w POS="n">人物</w>
+<w POS="d">却</w>
+<w POS="ad">多</w>
+<w POS="v">为</w>
+<w POS="l">名不见经传</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n">布衣</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="v">追求</w>
+<w POS="u">的</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="n">权力</w>
+<w POS="c">而是</w>
+<w POS="n">真理</w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<c POS="w">＂</c>
+<w POS="v">苦</w>
+<w POS="r">其</w>
+<w POS="n">心志</w>
+<c POS="w">、</c>
+<w POS="v">劳</w>
+<w POS="r">其</w>
+<w POS="n">筋骨</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="v">献身</w>
+<w POS="n">科学</w>
+<c POS="w">，</c>
+<w POS="i">荜路蓝缕</w>
+<w POS="c">而</w>
+<w POS="i">自得其乐</w>
+<c POS="w">，</c>
+<c POS="w">＂</c>
+<w POS="dg">宁</w>
+<w POS="v">死</w>
+<w POS="d">也</w>
+<w POS="d">不</w>
+<w POS="v">愿</w>
+<w POS="p">与</w>
+<w POS="ns">波斯</w>
+<w POS="n">王</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">易位</seg></w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="r">其</w>
+<w POS="n">智慧</w>
+<w POS="c">和</w>
+<w POS="ad">勤奋</w>
+<w POS="v">使</w>
+<w POS="n">全人类</w>
+<w POS="v">深受</w>
+<w POS="r">其</w>
+<w POS="n">惠</w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="v">是</w>
+<w POS="n">人间</w>
+<w POS="u">的</w>
+<w POS="nr"><seg function="mrw" type="dir">普罗米修斯</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0030">
+<w POS="a">正统</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="d">往往</w>
+<w POS="v">忽视</w>
+<w POS="u">了</w>
+<w POS="r">这些</w>
+<w POS="v">造福</w>
+<w POS="n">人类</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n">历史</w>
+<w POS="n">人物</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="v">造成</w>
+<w POS="a">正统</w>
+<w POS="n">历史</w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">大</seg></w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">盲区</seg></w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0031">
+<w POS="c">尽管</w>
+<w POS="n">历史</w>
+<w POS="v">是</w>
+<w POS="n">人类</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="t">过去</w>
+<w POS="u">的</w>
+<w POS="vn">回忆</w>
+<w POS="c">和</w>
+<w POS="vn">思考</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="a">正统</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="v">回忆</w>
+<w POS="u">的</w>
+<w POS="n">事件</w>
+<w POS="d">通常</w>
+<w POS="v">是</w>
+<w POS="a">宏大</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="d">主要</w>
+<w POS="v">是</w>
+<w POS="n">政治</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="n">军事</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="n">社会</w>
+<w POS="u">的</w>
+<w POS="n">大事</w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="d">最</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">关注</seg></w>
+<w POS="u">的</w>
+<w POS="v">是</w>
+<w POS="n">国家</w>
+<w POS="u">的</w>
+<w POS="n">兴衰</w>
+<c POS="w">、</c>
+<w POS="n">朝代</w>
+<w POS="u">的</w>
+<w POS="vn">更替</w>
+<c POS="w">、</c>
+<w POS="n">社会</w>
+<w POS="u">的</w>
+<w POS="an">动荡</w>
+<c POS="w">、</c>
+<w POS="n">沙场</w>
+<w POS="u">的</w>
+<w POS="vn">争战</w>
+<c POS="w">、</c>
+<w POS="n">疆域</w>
+<w POS="u">的</w>
+<w POS="vn">变迁</w>
+<w POS="u">等等</w>
+<c POS="w">，</c>
+<w POS="d">却</w>
+<w POS="d">不</w>
+<w POS="d">十分</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">关注</seg></w>
+<w POS="c">与此同时</w>
+<w POS="r">谁</w>
+<w POS="u">在</w>
+<w POS="v">称</w>
+<w POS="v">量</w>
+<w POS="n">地球</w>
+<w POS="u">的</w>
+<w POS="n">质量</w>
+<c POS="w">、</c>
+<w POS="r">谁</w>
+<w POS="u">在</w>
+<w POS="v">计算</w>
+<w POS="n">行星</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">轨道</seg></w>
+<c POS="w">、</c>
+<w POS="r">谁</w>
+<w POS="u">在</w>
+<w POS="v">测定</w>
+<w POS="n">光速</w>
+<c POS="w">、</c>
+<w POS="r">谁</w>
+<w POS="u">在</w>
+<w POS="v">分析</w>
+<w POS="n">太阳</w>
+<w POS="u">的</w>
+<w POS="n">化学</w>
+<w POS="n">成份</w>
+<w POS="r">之类</w>
+<w POS="d">更</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">值得</seg></w>
+<c POS="w">＂</c>
+<w POS="v">载入</w>
+<w POS="n">史册</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n">活动</w>
+<c POS="ew">。</c>
+</s>
+<s n="0032">
+<w POS="c">尽管</w>
+<w POS="a">正统</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="d">也</w>
+<w POS="v">包括</w>
+<w POS="n">人类</w>
+<w POS="n">文明史</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">其中</seg></w>
+<w POS="d">也</w>
+<w POS="v">有</w>
+<w POS="n">自然科学</w>
+<w POS="ng">史</w>
+<w POS="u">的</w>
+<w POS="n">部分</w>
+<w POS="n">内容</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="d">往往</w>
+<w POS="v">是</w>
+<w POS="i">轻描淡写</w>
+<c POS="w">，</c>
+<w POS="v">重</w>
+<w POS="n">成果</w>
+<w POS="c">而</w>
+<w POS="d">不</w>
+<w POS="v">重</w>
+<w POS="n">过程</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="c">总之</w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">忽视</seg></w>
+<w POS="u">了</w>
+<w POS="v">在野</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="v">身为</w>
+<c POS="w">＂</c>
+<w POS="n">布衣</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="n">科学家</w>
+<w POS="u">在</w>
+<w POS="v">想</w>
+<w POS="r">什么</w>
+<w POS="c">和</w>
+<w POS="v">做</w>
+<w POS="r">什么</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="d">就</w>
+<w POS="v">造成</w>
+<w POS="u">了</w>
+<w POS="a">正统</w>
+<w POS="n">历史</w>
+<w POS="u">的</w>
+<w POS="r">另</w>
+<w POS="m">一个</w>
+<w POS="d">也</w>
+<w POS="v">是</w>
+<w POS="d">更</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">大</seg></w>
+<w POS="u">的</w>
+<w POS="m">一个</w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">盲区</seg></w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0034">
+<w POS="c">而</w>
+<w POS="n">自然科学</w>
+<w POS="ng">史</w>
+<w POS="d">恰好</w>
+<w POS="p">把</w>
+<w POS="r">它</w>
+<w POS="u">的</w>
+<w POS="vn">回忆</w>
+<w POS="c">和</w>
+<w POS="vn">思考</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">聚焦</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">在</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">盲区</seg></w>
+<c POS="w">＂</c>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+

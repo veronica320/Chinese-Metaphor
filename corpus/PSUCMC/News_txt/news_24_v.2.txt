@@ -1,0 +1,517 @@
+﻿<p>
+<s n="0074">
+<w POS="v">欣闻</w>
+<w POS="ns">柳州</w>
+<w POS="n">铁路局</w>
+<w POS="p">在</w>
+<w POS="ns">海口</w>
+<w POS="v">开办</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="b">无轨</w>
+<w POS="n">火车站</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="v">定于</w>
+<w POS="t">８月</w>
+<w POS="t">１５日</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">开通</seg></w>
+<w POS="v">售票</w>
+<c POS="w">，</c>
+<w POS="n">记者</w>
+<w POS="i">兴致勃勃</w>
+<w POS="u">地</w>
+<w POS="v">赶到</w>
+<w POS="r">那里</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0075">
+<w POS="n">售票处</w>
+<w POS="v">设在</w>
+<w POS="ns">海口</w>
+<w POS="n">港</w>
+<w POS="n">客运站</w>
+<c POS="w">，</c>
+<w POS="t">一清早</w>
+<c POS="w">，</c>
+<w POS="r">这里</w>
+<w POS="d">便</w>
+<w POS="v">挤满</w>
+<w POS="u">了</w>
+<w POS="n">人</w>
+<c POS="ew">。</c>
+</s>
+<s n="0076">
+<w POS="n">记者</w>
+<w POS="v">到</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="d">已</w>
+<w POS="v">有</w>
+<w POS="m">二三十</w>
+<w POS="n">人</w>
+<w POS="u">在</w>
+<w POS="v">排队</w>
+<w POS="v">候</w>
+<w POS="n">票</w>
+<c POS="ew">。</c>
+</s>
+<s n="0077">
+<w POS="n">旅客</w>
+<w POS="n">问讯处</w>
+<w POS="d">被</w>
+<w POS="n">人们</w>
+<w POS="d">团团</w>
+<w POS="v">围住</w>
+<c POS="w">，</c>
+<c POS="w">＂</c>
+<w POS="p">到</w>
+<w POS="ns">上海</w>
+<w POS="v">有</w>
+<w POS="n">卧铺票</w>
+<w POS="y">吗</w>
+<c POS="ew">？</c>
+<c POS="w">＂</c>
+</s>
+<s n="0078">
+<w POS="v">有</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0079">
+<c POS="w">＂</c>
+<w POS="ns">湛江</w>
+<w POS="v">到</w>
+<w POS="ns">北京</w>
+<w POS="r">多少</w>
+<w POS="n">钱</w>
+<c POS="ew">？</c>
+<c POS="w">＂</c>
+</s>
+<s n="0080">
+<c POS="w">＂</c>
+<w POS="m">１９３</w>
+<w POS="q">元</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0081">
+<w POS="n">旅客</w>
+<w POS="i">七嘴八舌</w>
+<w POS="u">地</w>
+<w POS="v">问</w>
+<c POS="ew">。</c>
+</s>
+<s n="0082">
+<w POS="n">服务员</w>
+<w POS="i">有条有理</w>
+<w POS="u">地</w>
+<w POS="v">答</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0083">
+<w POS="n">省</w>
+<w POS="n">工商</w>
+<w POS="n">银行</w>
+<w POS="nr">林</w>
+<w POS="n">小姐</w>
+<w POS="v">担心</w>
+<w POS="v">中转</w>
+<w POS="ng">时</w>
+<w POS="v">有</w>
+<w POS="an">困难</w>
+<c POS="w">，</c>
+<w POS="d">连声</w>
+<w POS="v">问</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="ns">湛江</w>
+<w POS="v">上车</w>
+<c POS="w">、</c>
+<w POS="ns">柳州</w>
+<w POS="v">中转</w>
+<w POS="d">都</w>
+<w POS="v">能</w>
+<w POS="v">保证</w>
+<w POS="n">卧铺票</w>
+<w POS="y">吗</w>
+<c POS="ew">？</c>
+<c POS="w">＂</c>
+</s>
+<s n="0084">
+<w POS="n">售票员</w>
+<w POS="v">答</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="d">一定</w>
+<w POS="v">保证</w>
+<w POS="n">卧铺票</w>
+<c POS="w">，</c>
+<w POS="d">事先</w>
+<w POS="d">已</w>
+<w POS="v">留</w>
+<w POS="a">好</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0085">
+<w POS="r">她</w>
+<w POS="d">还</w>
+<w POS="v">告诉</w>
+<w POS="nr">林</w>
+<w POS="n">小姐</w>
+<c POS="w">，</c>
+<w POS="ns">柳州</w>
+<w POS="n">站</w>
+<w POS="v">有</w>
+<w POS="n">专人</w>
+<w POS="n">专车</w>
+<w POS="v">接送</w>
+<w POS="ns">海南</w>
+<w POS="n">旅客</w>
+<c POS="ew">。</c>
+</s>
+<s n="0086">
+<w POS="nr">林</w>
+<w POS="n">小姐</w>
+<w POS="a">高兴</w>
+<w POS="u">地</w>
+<w POS="v">订</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="u">了</w>
+<w POS="t">１６日</w>
+<w POS="p">从</w>
+<w POS="ns">柳州</w>
+<w POS="v">转</w>
+<w POS="ns">郑州</w>
+<w POS="u">的</w>
+<w POS="n">车票</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0087">
+<w POS="ns">海口</w>
+<w POS="b">无轨</w>
+<w POS="n">火车站</w>
+<w POS="u">的</w>
+<w POS="m">第一</w>
+<w POS="q">张</w>
+<w POS="n">车票</w>
+<c POS="w">，</c>
+<w POS="v">卖</w>
+<w POS="p">给</w>
+<w POS="u">了</w>
+<w POS="ns">海口</w>
+<w POS="nz">宏祥</w>
+<w POS="n">实业</w>
+<w POS="n">有限公司</w>
+<w POS="u">的</w>
+<w POS="nr">刘</w>
+<w POS="nr">洪</w>
+<c POS="ew">。</c>
+</s>
+<s n="0088">
+<w POS="r">他</w>
+<w POS="v">是</w>
+<w POS="tg">今</w>
+<w POS="tg">早</w>
+<w POS="m">７</w>
+<w POS="t">点</w>
+<w POS="m">半</w>
+<w POS="n">钟</w>
+<w POS="v">拎</w>
+<w POS="u">着</w>
+<w POS="a">小</w>
+<w POS="n">板凳</w>
+<w POS="v">来</w>
+<w POS="v">排队</w>
+<c POS="w">，</c>
+<w POS="v">买</w>
+<w POS="n">票</w>
+<w POS="v">让</w>
+<w POS="n">爱人</w>
+<w POS="v">回</w>
+<w POS="ns">南京</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0089">
+<w POS="r">他</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">大陆</w>
+<w POS="n">人</w>
+<w POS="v">来</w>
+<w POS="ns">海南</w>
+<c POS="w">，</c>
+<w POS="d">最</w>
+<w POS="v">担心</w>
+<w POS="u">的</w>
+<w POS="v">是</w>
+<w POS="n">交通</w>
+<w POS="n">问题</w>
+<c POS="ew">。</c>
+</s>
+<s n="0090">
+<w POS="v">乘</w>
+<w POS="n">飞机</w>
+<w POS="v">花钱</w>
+<w POS="d">太</w>
+<w POS="a">多</w>
+<c POS="w">，</c>
+<w POS="v">负担</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0091">
+<w POS="t">现在</w>
+<w POS="v">有</w>
+<w POS="u">了</w>
+<w POS="b">无轨</w>
+<w POS="n">火车站</w>
+<c POS="w">，</c>
+<w POS="a">方便</w>
+<w POS="a">多</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0092">
+<w POS="v">坐</w>
+<w POS="n">火车</w>
+<w POS="n">卧铺</w>
+<w POS="v">到</w>
+<w POS="ns">南京</w>
+<w POS="v">往返</w>
+<w POS="m">一</w>
+<w POS="q">趟</w>
+<w POS="d">才</w>
+<w POS="m">３４０</w>
+<w POS="m">多</w>
+<w POS="q">元</w>
+<c POS="w">，</c>
+<w POS="an">经济</w>
+<w POS="an">实惠</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0093">
+<w POS="v">佩戴</w>
+<c POS="w">＂</c>
+<w POS="n">站长</w>
+<c POS="w">＂</c>
+<w POS="n">臂章</w>
+<w POS="u">的</w>
+<w POS="nr">黄</w>
+<w POS="nr">献山</w>
+<w POS="v">告诉</w>
+<w POS="n">记者</w>
+<c POS="w">，</c>
+<w POS="b">无轨</w>
+<w POS="n">火车站</w>
+<w POS="v">就是</w>
+<w POS="n">铁路</w>
+<w POS="n">部门</w>
+<w POS="p">在</w>
+<w POS="v">不通</w>
+<w POS="n">火车</w>
+<w POS="u">的</w>
+<w POS="n">地方</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">设</seg></w>
+<w POS="n">站</w>
+<w POS="v">办理</w>
+<w POS="n">铁路</w>
+<w POS="vn">运输</w>
+<w POS="n">业务</w>
+<c POS="w">，</c>
+<w POS="v">如</w>
+<w POS="v">出售</w>
+<w POS="n">火车票</w>
+<c POS="w">、</c>
+<w POS="vn">托运</w>
+<w POS="n">行李</w>
+<w POS="u">等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0094">
+<w POS="ns">海口</w>
+<w POS="b">无轨</w>
+<w POS="n">火车站</w>
+<w POS="v">是</w>
+<w POS="t">目前</w>
+<w POS="n">全国</w>
+<w POS="n">规模</w>
+<w POS="d">最</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="w">、</c>
+<w POS="n">票额</w>
+<w POS="d">最</w>
+<w POS="a">多</w>
+<w POS="u">的</w>
+<w POS="b">无轨</w>
+<w POS="n">车站</w>
+<c POS="ew">。</c>
+</s>
+<s n="0095">
+<w POS="t">现在</w>
+<w POS="r">每天</w>
+<w POS="v">发售</w>
+<w POS="ns">湛江</w>
+<w POS="p">经</w>
+<w POS="ns">柳州</w>
+<w POS="v">中转</w>
+<w POS="n">全国</w>
+<w POS="r">各地</w>
+<w POS="u">的</w>
+<w POS="n">客票</w>
+<w POS="c">及</w>
+<w POS="ns">湛江</w>
+<w POS="p">经</w>
+<w POS="ns">柳州</w>
+<w POS="p">往</w>
+<w POS="ns">北京</w>
+<c POS="w">、</c>
+<w POS="ns">上海</w>
+<c POS="w">、</c>
+<w POS="ns">重庆</w>
+<c POS="w">、</c>
+<w POS="ns">西安</w>
+<c POS="w">、</c>
+<w POS="ns">襄樊</w>
+<c POS="w">、</c>
+<w POS="ns">武昌</w>
+<c POS="w">、</c>
+<w POS="ns">贵阳</w>
+<c POS="w">、</c>
+<w POS="ns">长沙</w>
+<c POS="w">、</c>
+<w POS="ns">南宁</w>
+<w POS="u">等</w>
+<w POS="n">地</w>
+<w POS="u">的</w>
+<w POS="n">客票</w>
+<w POS="m">５７０</w>
+<w POS="q">张</w>
+<c POS="w">，</c>
+<w POS="r">其中</w>
+<w POS="n">卧铺票</w>
+<w POS="m">１６０</w>
+<w POS="q">张</w>
+<c POS="ew">。</c>
+</s>
+<s n="0096">
+<w POS="b"><seg function="mrw" type="indir" subtype="conv">大型</seg></w>
+<w POS="u">的</w>
+<w POS="n">团体</w>
+<w POS="n">旅客</w>
+<w POS="d">还</w>
+<w POS="v">可以</w>
+<w POS="d">特别</w>
+<w POS="v">安排</w>
+<c POS="ew">。</c>
+</s>
+<s n="0097">
+<w POS="n">旅客</w>
+<w POS="p">在</w>
+<w POS="ns">海口</w>
+<w POS="n">车站</w>
+<w POS="v">买</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="p">经</w>
+<w POS="ns">柳州</w>
+<w POS="vn">中转</w>
+<w POS="u">的</w>
+<w POS="n">火车票</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<c POS="w">，</c>
+<w POS="p">到</w>
+<w POS="ns">湛江</w>
+<w POS="n">火车站</w>
+<w POS="v">乘</w>
+<w POS="m">２９２</w>
+<w POS="q">次</w>
+<w POS="n">列车</w>
+<c POS="w">，</c>
+<w POS="t">次日</w>
+<w POS="tg">晨</w>
+<w POS="p">到</w>
+<w POS="ns">柳州</w>
+<w POS="v">中转</w>
+<c POS="ew">。</c>
+</s>
+<s n="0098">
+<w POS="ns">柳州</w>
+<w POS="n">火车站</w>
+<w POS="p">除</w>
+<w POS="v">有</w>
+<w POS="n">专人</w>
+<w POS="n">专车</w>
+<w POS="v">接送</w>
+<w POS="ns">海南</w>
+<w POS="vn">联运</w>
+<w POS="n">旅客</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外</seg></w>
+<c POS="w">，</c>
+<w POS="d">还</w>
+<w POS="v">设有</w>
+<w POS="ns">海南</w>
+<w POS="n">旅客</w>
+<w POS="vn">候车</w>
+<w POS="n">公寓</w>
+<c POS="w">，</c>
+<w POS="v">包办</w>
+<w POS="r">一切</w>
+<w POS="vn">转</w>
+<w POS="vn">乘</w>
+<w POS="n">手续</w>
+<c POS="ew">。</c>
+</s>
+<s n="0099">
+<w POS="p">为</w>
+<w POS="v">方便</w>
+<w POS="n">旅客</w>
+<w POS="m">一</w>
+<w POS="q">票</w>
+<w POS="v">到</w>
+<w POS="n">家</w>
+<c POS="w">，</c>
+<w POS="b">无轨</w>
+<w POS="n">火车站</w>
+<w POS="d">还</w>
+<w POS="d">将</w>
+<w POS="v">开办</w>
+<w POS="n">公路</w>
+<c POS="w">、</c>
+<w POS="vn">水运</w>
+<c POS="w">、</c>
+<w POS="n">铁路</w>
+<w POS="vn">联运</w>
+<w POS="n">业务</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0100">
+<w POS="t">晚间</w>
+<c POS="w">，</c>
+<w POS="n">记者</w>
+<w POS="v">打电话</w>
+<w POS="v">询问</w>
+<w POS="t">今天</w>
+<w POS="v">预订</w>
+<w POS="n">火车票</w>
+<w POS="u">的</w>
+<w POS="n">情况</w>
+<c POS="ew">。</c>
+</s>
+</p>
+
+

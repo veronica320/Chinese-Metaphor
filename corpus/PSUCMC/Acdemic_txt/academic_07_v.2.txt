@@ -1,0 +1,365 @@
+﻿<p>
+<s n="0003">
+<w POS="n">工程</w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">服务</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="r">某个</w>
+<w POS="b">特定</w>
+<w POS="n">目的</w>
+<w POS="u">的</w>
+<w POS="r">各项</w>
+<w POS="n">技术</w>
+<w POS="n">工作</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">总和</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="r">它</w>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="m">一</w>
+<w POS="q">系列</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n">知识</w>
+<w POS="p">为</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">依托</seg></w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">应用</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">科学</w>
+<w POS="n">知识</w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="v">结合</w>
+<w POS="n">经验</w>
+<w POS="u">的</w>
+<w POS="vn">判断</w>
+<c POS="w">，</c>
+<w POS="a">经济</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">利用</seg></w>
+<w POS="l">自然资源</w>
+<w POS="p">为</w>
+<w POS="n">人类</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">服务</seg></w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="b">专门</w>
+<w POS="n">技术</w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">此</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">处</seg></w>
+<w POS="u">所</w>
+<w POS="v">说</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n">知识</w>
+<c POS="w">，</c>
+<w POS="v">包括</w>
+<w POS="u">了</w>
+<w POS="n">数学</w>
+<c POS="w">、</c>
+<w POS="n">物理学</w>
+<c POS="w">、</c>
+<w POS="n">化学</w>
+<w POS="u">等</w>
+<w POS="n">基础科学</w>
+<w POS="u">的</w>
+<w POS="n">知识</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">包括</w>
+<w POS="u">了</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="n">基础科学</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">衍生</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出来</seg></w>
+<w POS="u">的</w>
+<w POS="n">材料力学</w>
+<c POS="w">、</c>
+<w POS="n">固体力学</w>
+<c POS="w">、</c>
+<w POS="n">流体力学</w>
+<c POS="w">、</c>
+<w POS="n">热力学</w>
+<w POS="c">及</w>
+<w POS="n">系统</w>
+<w POS="vn">分析</w>
+<w POS="u">等</w>
+<w POS="n">技术</w>
+<w POS="n">科学</w>
+<w POS="u">的</w>
+<w POS="n">知识</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0006">
+<w POS="n">工程</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">强调</seg></w>
+<w POS="u">的</w>
+<w POS="v">是</w>
+<w POS="v">解决</w>
+<w POS="a">实际</w>
+<w POS="n">需要</w>
+<w POS="u">的</w>
+<w POS="n">问题</w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="c">所以</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">应用</w>
+<w POS="r">各种</w>
+<w POS="n">科学</w>
+<w POS="n">知识</w>
+<w POS="v">去</w>
+<w POS="v">处理</w>
+<w POS="n">工程</w>
+<w POS="n">问题</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="v">应</w>
+<w POS="v">考虑</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="r">各种</w>
+<w POS="a">实际</w>
+<w POS="n">因素</w>
+<c POS="w">，</c>
+<w POS="v">选取</w>
+<w POS="d">最</w>
+<w POS="a">可取</w>
+<w POS="c">和</w>
+<w POS="d">最</w>
+<w POS="a">经济</w>
+<w POS="u">的</w>
+<w POS="n">途径</w>
+<w POS="v">求得</w>
+<w POS="a">最佳</w>
+<w POS="u">的</w>
+<w POS="vn">解决</w>
+<w POS="n">方案</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0008">
+<w POS="n">工程</w>
+<w POS="v">有</w>
+<w POS="u">着</w>
+<w POS="d">十分</w>
+<w POS="a">广泛</w>
+<w POS="u">的</w>
+<w POS="n">内容</w>
+<c POS="w">，</c>
+<w POS="v">涉及</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="r">各种</w>
+<w POS="a">复杂</w>
+<w POS="u">的</w>
+<w POS="c">而</w>
+<w POS="d">又</w>
+<w POS="d">极</w>
+<w POS="d">不</w>
+<w POS="a">相同</w>
+<w POS="u">的</w>
+<w POS="n">活动</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">领域</seg></w>
+<c POS="w">，</c>
+<w POS="v">要</w>
+<w POS="v">用</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="l">多种多样</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n">知识</w>
+<w POS="c">和</w>
+<w POS="n">技能</w>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="n">工程</w>
+<w POS="p">作为</w>
+<w POS="m">一</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="q">类</w>
+<w POS="n">专业</w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="v">应当</w>
+<w POS="d">首先</w>
+<w POS="v">满足</w>
+<w POS="b">一定</w>
+<w POS="u">的</w>
+<w POS="n">社会</w>
+<w POS="n">需求</w>
+<c POS="w">，</c>
+<w POS="v">需要</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">掌握</w>
+<w POS="n">知识</w>
+<w POS="c">和</w>
+<w POS="n">技能</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<c POS="w">，</c>
+<w POS="p">按</w>
+<w POS="ad">高度</w>
+<w POS="v">有</w>
+<w POS="n">条理</w>
+<w POS="u">的</w>
+<w POS="n">计划</w>
+<w POS="v">进行</w>
+<w POS="vn">工作</w>
+<c POS="ew">；</c>
+</s>
+<s n="0010">
+<w POS="r">它</w>
+<w POS="v">需要</w>
+<w POS="i">集思广益</w>
+<w POS="c">以便</w>
+<w POS="d">将</w>
+<w POS="d">更</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">高</seg></w>
+<w POS="n">水平</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n">知识</w>
+<w POS="c">和</w>
+<w POS="n">专业</w>
+<w POS="n">思想</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">投入</seg></w>
+<w POS="n">社会性</w>
+<w POS="vn">服务</w>
+<c POS="w">，</c>
+<w POS="c">因而</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">要求</seg></w>
+<w POS="v">从事</w>
+<w POS="n">专业</w>
+<w POS="n">工作</w>
+<w POS="u">的</w>
+<w POS="n">人员</w>
+<c POS="w">（</c>
+<w POS="n">工程师</w>
+<w POS="c">及</w>
+<w POS="r">其它</w>
+<w POS="n">工程</w>
+<w POS="n">技术</w>
+<w POS="n">人员</w>
+<c POS="w">）</c>
+<w POS="v">具备</w>
+<w POS="a">基本</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n">知识</w>
+<w POS="c">及</w>
+<w POS="d">逐步</w>
+<w POS="v">积累</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="a">丰富</w>
+<w POS="u">的</w>
+<w POS="n">专业</w>
+<w POS="vn">实践</w>
+<w POS="n">经验</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0011">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">回顾</seg></w>
+<w POS="n">工程</w>
+<w POS="vn">发展</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">从</seg></w>
+<w POS="t">古代</w>
+<w POS="u">的</w>
+<w POS="a">伟大</w>
+<w POS="n">建筑</w>
+<w POS="n">工程</w>
+<w POS="c">和</w>
+<w POS="n">水利</w>
+<w POS="n">设施</w>
+<w POS="n">工程</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">到</seg></w>
+<w POS="t">近代</w>
+<w POS="u">的</w>
+<w POS="n">蒸汽机</w>
+<w POS="c">和</w>
+<w POS="n">电力</w>
+<w POS="u">的</w>
+<w POS="vn">发明</w>
+<w POS="c">与</w>
+<w POS="vn">应用</w>
+<c POS="w">，</c>
+<w POS="d">再</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">到</seg></w>
+<w POS="t">今天</w>
+<w POS="u">的</w>
+<w POS="n">核能</w>
+<w POS="vn">开发</w>
+<c POS="w">、</c>
+<w POS="n">电子</w>
+<w POS="n">技术</w>
+<w POS="u">的</w>
+<w POS="a">广泛</w>
+<w POS="vn">应用</w>
+<w POS="c">以及</w>
+<w POS="n">航空</w>
+<w POS="p">与</w>
+<w POS="n">航天</w>
+<w POS="n">技术</w>
+<w POS="u">的</w>
+<w POS="vd"><seg function="mrw" type="indir" subtype="conv">飞跃</seg></w>
+<w POS="vn">发展</w>
+<c POS="w">，</c>
+<w POS="v">无</w>
+<w POS="m">一</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">表明</seg></w>
+<w POS="n">工程</w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">推动</seg></w>
+<w POS="n">社会</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">前进</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">动力</seg></w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">推动</seg></w>
+<w POS="n">社会</w>
+<w POS="d">不断</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">前进</seg></w>
+<w POS="u">的</w>
+<w POS="n">过程</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="n">工程</w>
+<w POS="r">本身</w>
+<w POS="d">也</w>
+<w POS="d">随之</w>
+<w POS="d">不断</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">得到</seg></w>
+<w POS="n">发展</w>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="u">了</w>
+<w POS="t">现代</w>
+<w POS="n">工程</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

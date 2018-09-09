@@ -1,0 +1,319 @@
+﻿<p>
+<s n="0024">
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">近</seg></w>
+<w POS="m">两万</w>
+<w POS="q">名</w>
+<w POS="u">正在</w>
+<w POS="v">欢度</w>
+<w POS="t">新春</w>
+<w POS="n">佳节</w>
+<w POS="u">的</w>
+<w POS="ns">香港</w>
+<w POS="n">球迷</w>
+<c POS="w">，</c>
+<w POS="t">今天</w>
+<w POS="t">下午</w>
+<w POS="p">在</w>
+<w POS="r">这里</w>
+<w POS="u">的</w>
+<w POS="n">政府</w>
+<w POS="a">大</w>
+<w POS="n">球场</w>
+<w POS="i">兴致勃勃</w>
+<w POS="u">地</w>
+<w POS="v">观看</w>
+<w POS="u">了</w>
+<w POS="nz">万宝路</w>
+<w POS="vn">贺岁</w>
+<w POS="ng">杯</w>
+<w POS="n">足球赛</w>
+<w POS="m">第一</w>
+<w POS="q">天</w>
+<w POS="u">的</w>
+<w POS="m">两</w>
+<w POS="q">场</w>
+<w POS="n">比赛</w>
+<c POS="ew">。</c>
+</s>
+<s n="0025">
+<w POS="n">比赛</w>
+<w POS="n">结果</w>
+<c POS="w">，</c>
+<w POS="ns">中国</w>
+<w POS="n">国家队</w>
+<w POS="c">和</w>
+<w POS="ns">捷克斯洛伐克
+</w>
+<w POS="nt">布拉格斯巴达队</w>
+<w POS="p">同</w>
+<w POS="p">以</w>
+<w POS="m">１</w>
+<c POS="w">：</c>
+<w POS="m">０</w>
+<w POS="u">的</w>
+<w POS="n">比分</w>
+<c POS="w">，</c>
+<w POS="d">分别</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">战胜</seg></w>
+<w POS="u">了</w>
+<w POS="ns">香港</w>
+<w POS="nt">钻禧队</w>
+<w POS="c">和</w>
+<w POS="ns">苏联</w>
+<w POS="ns">莫斯科</w>
+<w POS="nt">斯巴达队</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0026">
+<w POS="ns">香港</w>
+<w POS="nt">钻禧队</w>
+<w POS="a">是</w>
+<w POS="d"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="ns">香港</w>
+<w POS="m">五</w>
+<w POS="j">支</w>
+<w POS="b">甲级</w>
+<w POS="n">队</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v">挑选</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出</seg></w>
+<w POS="u">的</w>
+<w POS="a">优秀</w>
+<w POS="n">队员</w>
+<w POS="n">组成</w>
+<c POS="w">，</c>
+<w POS="r">其中</w>
+<w POS="v">有</w>
+<w POS="m">多</w>
+<w POS="q">名</w>
+<w POS="n">外籍</w>
+<w POS="n">球员</w>
+<c POS="ew">。</c>
+</s>
+<s n="0027">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">面对</seg></w>
+<w POS="r">这样</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">支</seg></w>
+<w POS="p">被</w>
+<w POS="v">认为</w>
+<w POS="v">是</w>
+<w POS="ns">香港</w>
+<w POS="d">历来</w>
+<w POS="n">实力</w>
+<w POS="d">最</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强</seg></w>
+<w POS="u">的</w>
+<w POS="n">队伍</w>
+<c POS="w">，</c>
+<w POS="nt">中国队</w>
+<w POS="v">利用</w>
+<w POS="n">对方</w>
+<w POS="v">组队</w>
+<w POS="a">不久</w>
+<c POS="w">，</c>
+<w POS="v">配合</w>
+<w POS="d">尚</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">欠</seg></w>
+<w POS="a">默契</w>
+<w POS="u">的</w>
+<w POS="n">弱点</w>
+<c POS="w">，</c>
+<w POS="c">一方面</w>
+<w POS="d"><seg function="mrw" type="indir" subtype="conv">紧</seg></w>
+<w POS="v">盯</w>
+<w POS="n">对方</w>
+<w POS="n">锋线</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="u">的</w>
+<w POS="m">几</w>
+<w POS="q">名</w>
+<w POS="n">外籍</w>
+<w POS="n">球员</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="r">他们</w>
+<c POS="w">＂</c>
+<w POS="i">孤掌难鸣</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="c">另一方面</w>
+<w POS="d">不时</w>
+<w POS="p">从</w>
+<w POS="n">边线</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">发动</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">攻势</seg></w>
+<c POS="w">，</c>
+<w POS="d">终于</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">上半场</w>
+<w POS="m">３０</w>
+<w POS="q">分钟</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="n">前锋</w>
+<w POS="nr">马林</w>
+<w POS="p">在</w>
+<w POS="n">对方</w>
+<w POS="n">禁区</w>
+<w POS="f">内</w>
+<w POS="v">接到</w>
+<w POS="n">传中球</w>
+<w POS="v">劲射</w>
+<w POS="v">入网</w>
+<c POS="w">，</c>
+<w POS="v">奠定</w>
+<w POS="u">了</w>
+<w POS="n">胜局</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0028">
+<w POS="j">捷</w>
+<c POS="w">、</c>
+<w POS="j">苏</w>
+<w POS="m">两</w>
+<w POS="q">队</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="r">本国</w>
+<w POS="n">联赛</w>
+<w POS="m">多次</w>
+<w POS="n">冠军</w>
+<w POS="n">获得者</w>
+<c POS="ew">。</c>
+</s>
+<s n="0029">
+<w POS="r">他们</w>
+<w POS="d">全</w>
+<w POS="v">攻</w>
+<w POS="d">全</w>
+<w POS="v">守</w>
+<w POS="u">的</w>
+<w POS="v">踢</w>
+<w POS="n">法</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="n">攻守</w>
+<w POS="vn">转换</w>
+<w POS="n">速度</w>
+<w POS="d">大大</w>
+<w POS="v">加快</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">使</w>
+<w POS="s">场上</w>
+<w POS="a">精采</w>
+<w POS="n">场面</w>
+<w POS="v">纷呈</w>
+<c POS="ew">。</c>
+</s>
+<s n="0030">
+<w POS="d">特别</w>
+<w POS="v">是</w>
+<w POS="j">捷</w>
+<w POS="n">队</w>
+<w POS="n">上半场</w>
+<w POS="p">在</w>
+<w POS="v">距</w>
+<w POS="nt">苏联队</w>
+<w POS="n">球门</w>
+<w POS="m">３０</w>
+<w POS="q">米</w>
+<w POS="f">外</w>
+<w POS="v">罚</w>
+<w POS="n">任意球</w>
+<w POS="v">破网</w>
+<w POS="f">以后</w>
+<c POS="w">，</c>
+<w POS="nt">苏联队</w>
+<w POS="m">十</w>
+<w POS="m">多</w>
+<w POS="q">次</w>
+<w POS="n">全军</w>
+<w POS="v">压</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<w POS="v">发起</w>
+<w POS="vn">猛攻</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="j">捷</w>
+<w POS="n">队</w>
+<w POS="s">门前</w>
+<w POS="l"><seg function="mrw" type="indir" subtype="cont">险象环生</seg></w>
+<c POS="w">，</c>
+<w POS="n">观众</w>
+<w POS="an">惊讶</w>
+<w POS="ng">声</w>
+<c POS="w">、</c>
+<w POS="n">欢呼声</w>
+<c POS="w">、</c>
+<w POS="n">掌声</w>
+<w POS="v">不断</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0031">
+<w POS="p">根据</w>
+<w POS="n">比赛</w>
+<w POS="n">规程</w>
+<c POS="w">，</c>
+<w POS="t">１月</w>
+<w POS="t">３０日</w>
+<w POS="t">年初四</w>
+<c POS="w">，</c>
+<w POS="f">中</w>
+<c POS="w">、</c>
+<w POS="j">捷</w>
+<w POS="m">两</w>
+<w POS="q">队</w>
+<w POS="d">将</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">对阵</seg></w>
+<w POS="v">决出</w>
+<w POS="r">这次</w>
+<w POS="ng">杯</w>
+<w POS="n">赛</w>
+<w POS="u">的</w>
+<w POS="ng">冠</w>
+<c POS="w">、</c>
+<w POS="n">亚军</w>
+<c POS="ew">；</c>
+</s>
+<s n="0032">
+<w POS="ns">香港</w>
+<w POS="c">和</w>
+<w POS="ns">苏联</w>
+<w POS="m">两</w>
+<w POS="q">队</w>
+<w POS="d">将</w>
+<w POS="v">争夺</w>
+<w POS="m">第三</w>
+<w POS="q">名</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="ns">捷克斯洛伐克</w>
+<w POS="nt">布拉格斯巴达队</w>
+<w POS="d">还</w>
+<w POS="v">应邀</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="t">２月</w>
+<w POS="t">１日</w>
+<w POS="p">在</w>
+<w POS="ns">广州</w>
+<w POS="p">同</w>
+<w POS="ns">广州</w>
+<w POS="nz">白云</w>
+<w POS="n">足球队</w>
+<w POS="v">进行</w>
+<w POS="m">一</w>
+<w POS="q">场</w>
+<w POS="n">友谊赛</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

@@ -1,0 +1,479 @@
+﻿<p>
+<s n="0036">
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="u">的</w>
+<w POS="n">素质</w>
+<w POS="v">是</w>
+<w POS="n">新闻</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="u">的</w>
+<w POS="b">潜在</w>
+<w POS="n">形式</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0037">
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="u">的</w>
+<w POS="n">素质</w>
+<w POS="d">通常</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="f">以下</w>
+<w POS="m">七</w>
+<w POS="q">个</w>
+<w POS="n">方面</w>
+<w POS="v">来</w>
+<w POS="v">分析</w>
+<w POS="v">判断</w>
+<c POS="w">：</c>
+</s>
+</p>
+<p>
+<s n="0038">
+<c POS="w">（</c>
+<w POS="m">一</w>
+<c POS="w">）</c>
+<w POS="n">时</w>
+<w POS="an">新</w>
+<w POS="ng">性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0039">
+<w POS="v">即</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">新鲜</seg></w>
+<w POS="n">程度</w>
+<c POS="w">，</c>
+<w POS="n">事实</w>
+<w POS="d">越</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">新鲜</seg></w>
+<c POS="w">，</c>
+<w POS="u">所</w>
+<w POS="v">包含</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="d">越</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0040">
+<w POS="n">事实</w>
+<w POS="u">的</w>
+<w POS="n">时</w>
+<w POS="an">新</w>
+<w POS="ng">性</w>
+<w POS="ad">主要</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">表现</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">是</w>
+<w POS="m">首</w>
+<w POS="q">次</w>
+<w POS="v">发生</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="v">有</w>
+<w POS="n">新意</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="v">包含</w>
+<w POS="u">着</w>
+<w POS="vn">创新</w>
+<w POS="n">精神</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">揭示</seg></w>
+<w POS="r">某种</w>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="n">思想</w>
+<c POS="w">、</c>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="n">观点</w>
+<w POS="u">的</w>
+<w POS="u">等等</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0041">
+<c POS="w">（</c>
+<w POS="m">二</w>
+<c POS="w">）</c>
+<w POS="vn">变化</w>
+<w POS="ng">性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0042">
+<w POS="v">即</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="vn">变化</w>
+<w POS="u">的</w>
+<w POS="n">程度</w>
+<c POS="ew">。</c>
+</s>
+<s n="0043">
+<w POS="l">一般说来</w>
+<w POS="n">事物</w>
+<w POS="v">变化</w>
+<w POS="u">得</w>
+<w POS="d">愈</w>
+<w POS="a">激烈</w>
+<c POS="w">，</c>
+<w POS="n">受众</w>
+<w POS="d">愈</w>
+<w POS="v">急于</w>
+<w POS="v">了解</w>
+<w POS="n">事物</w>
+<w POS="vn">变化</w>
+<w POS="u">的</w>
+<w POS="n">情况</w>
+<c POS="w">，</c>
+<w POS="u">所</w>
+<w POS="v">包含</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="d">也</w>
+<w POS="d">越</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0044">
+<c POS="w">（</c>
+<w POS="m">三</w>
+<c POS="w">）</c>
+<w POS="vn">影响</w>
+<w POS="ng">性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0045">
+<w POS="v">即</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">社会</w>
+<c POS="w">、</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">受众</w>
+<w POS="v">影响</w>
+<w POS="u">的</w>
+<w POS="n">程度</w>
+<c POS="w">，</c>
+<w POS="v">影响</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="u">所</w>
+<w POS="v">包含</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="d">也</w>
+<w POS="d">越</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0046">
+<c POS="w">（</c>
+<w POS="m">四</w>
+<c POS="w">）</c>
+<w POS="n">悬念</w>
+<w POS="ng">性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0047">
+<w POS="n">受众</w>
+<w POS="u">所</w>
+<w POS="v">关心</w>
+<w POS="c">和</w>
+<w POS="v">期待</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="c">和</w>
+<w POS="n">新闻</w>
+<w POS="n">人物</w>
+<w POS="p">比</w>
+<w POS="a">一般</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="c">和</w>
+<w POS="n">新闻</w>
+<w POS="n">人物</w>
+<w POS="u">所</w>
+<w POS="v">包含</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0048">
+<w POS="v">要</w>
+<w POS="v">选择</w>
+<w POS="v">消除</w>
+<w POS="n">悬念</w>
+<c POS="w">、</c>
+<w POS="v">解释</w>
+<w POS="n">疑团</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="c">和</w>
+<w POS="n">新闻</w>
+<w POS="n">人物</w>
+<w POS="v">进行</w>
+<w POS="v">报道</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0049">
+<c POS="w">（</c>
+<w POS="m">五</w>
+<c POS="w">）</c>
+<w POS="an">显著</w>
+<w POS="ng">性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0050">
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">指</seg></w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<c POS="w">、</c>
+<w POS="n">新闻</w>
+<w POS="n">人物</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">社会</w>
+<w POS="u">的</w>
+<w POS="a">显著</w>
+<w POS="n">程度</w>
+<c POS="ew">。</c>
+</s>
+<s n="0051">
+<w POS="v">处于</w>
+<w POS="a">显著</w>
+<w POS="n">地位</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n">人物</w>
+<w POS="c">和</w>
+<w POS="n">社会</w>
+<w POS="v">影响</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<w POS="u">所</w>
+<w POS="v">包含</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0052">
+<c POS="w">（</c>
+<w POS="m">六</w>
+<c POS="w">）</c>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">接近</seg></w>
+<w POS="ng">性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0053">
+<w POS="n">新闻</w>
+<w POS="n">人物</w>
+<w POS="c">和</w>
+<w POS="n">新闻</w>
+<w POS="n">事件</w>
+<w POS="v">发生</w>
+<w POS="u">的</w>
+<w POS="l">自然环境</w>
+<c POS="w">、</c>
+<w POS="n">社会</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">环境</seg></w>
+<w POS="c">与</w>
+<w POS="n">受众</w>
+<w POS="u">的</w>
+<w POS="vn">相关</w>
+<w POS="n">程度</w>
+<c POS="w">，</c>
+<w POS="vn">相关</w>
+<w POS="n">程度</w>
+<w POS="d">愈</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="w">，</c>
+<w POS="n">思想</w>
+<w POS="n">感情</w>
+<w POS="d">愈</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接近</seg></w>
+<c POS="w">，</c>
+<w POS="n">受众</w>
+<w POS="d">愈</w>
+<w POS="v">关注</w>
+<c POS="w">，</c>
+<w POS="v">包含</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="d">愈</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0054">
+<w POS="n">洪水</w>
+<w POS="vn">成灾</w>
+<c POS="w">、</c>
+<w POS="n">台风</w>
+<w POS="vn">经过</w>
+<c POS="w">、</c>
+<w POS="n">森林</w>
+<w POS="vn">失火</w>
+<c POS="w">、</c>
+<w POS="n">地震</w>
+<w POS="vn">发生</w>
+<c POS="w">，</c>
+<w POS="c">以及</w>
+<w POS="n">飞机</w>
+<w POS="vn">失事</w>
+<c POS="w">、</c>
+<w POS="n">火车</w>
+<w POS="vn">相撞</w>
+<c POS="w">、</c>
+<w POS="n">政权</w>
+<w POS="vn">变动</w>
+<w POS="u">等等</w>
+<c POS="w">，</c>
+<w POS="s">当地</w>
+<w POS="n">人民</w>
+<w POS="n">群众</w>
+<w POS="c">及</w>
+<w POS="p">与</w>
+<w POS="n">事件</w>
+<w POS="v">有关</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="vn">关注</w>
+<w POS="n">程度</w>
+<c POS="w">，</c>
+<w POS="v">要</w>
+<w POS="d"><seg function="mrw" type="indir" subtype="conv">远远</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">超过</seg></w>
+<w POS="n">局外人</w>
+<w POS="u">的</w>
+<w POS="vn">关注</w>
+<w POS="n">程度</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0055">
+<c POS="w">（</c>
+<w POS="m">七</w>
+<c POS="w">）</c>
+<w POS="n">趣味性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0056">
+<w POS="n">新闻</w>
+<w POS="v">可</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">涉猎</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">领域</seg></w>
+<w POS="d">非常</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">广阔</seg></w>
+<c POS="w">，</c>
+<w POS="f">上</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">自</seg></w>
+<w POS="n">天体</w>
+<w POS="vn">变化</w>
+<c POS="w">，</c>
+<w POS="f">下</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">至</seg></w>
+<w POS="n">地壳</w>
+<w POS="n">地貌</w>
+<w POS="vn">运动</w>
+<c POS="w">，</c>
+<w POS="n">人类</w>
+<w POS="n">社会</w>
+<w POS="n">物质</w>
+<c POS="w">、</c>
+<w POS="n">文化</w>
+<w POS="n">生活</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<w POS="c">和</w>
+<w POS="d">不断</w>
+<w POS="vn">丰富</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">包含</w>
+<w POS="u">着</w>
+<w POS="a">广泛</w>
+<w POS="u">的</w>
+<w POS="a">有益</w>
+<w POS="n">兴趣</w>
+<w POS="u">的</w>
+<w POS="n">事情</w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="p">给</w>
+<w POS="n">人</w>
+<w POS="p">以</w>
+<w POS="n">智慧</w>
+<w POS="c">和</w>
+<w POS="vn">启迪</w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="v">开阔</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">视野</seg></w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">陶冶</seg></w>
+<w POS="n">情趣</w>
+<c POS="ew">。</c>
+</s>
+<s n="0057">
+<w POS="c">因此</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">受众</w>
+<w POS="c">和</w>
+<w POS="n">社会</w>
+<w POS="a">有益</w>
+<w POS="u">的</w>
+<w POS="v">有</w>
+<w POS="n">趣味</w>
+<w POS="u">的</w>
+<w POS="n">新闻</w>
+<w POS="n">事实</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">有</w>
+<w POS="b">一定</w>
+<w POS="n">新闻</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+

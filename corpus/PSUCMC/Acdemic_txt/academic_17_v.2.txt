@@ -1,0 +1,380 @@
+﻿<p>
+<s n="0061">
+<w POS="r">我國</w>
+<w POS="t">早期</w>
+<w POS="u">的</w>
+<w POS="n">纸</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="t">中古</w>
+<w POS="n">时期</w>
+<c POS="w">，</c>
+<w POS="d">曾经</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="n">商人</w>
+<w POS="p">从</w>
+<w POS="n">陆路</w>
+<w POS="d">逐渐</w>
+<w POS="v">经过</w>
+<w POS="ns">新疆</w>
+<w POS="n">一带</w>
+<c POS="w">（</c>
+<w POS="n">公元</w>
+<w POS="t">４５０年</w>
+<w POS="m">左右</w>
+<c POS="w">）</c>
+<c POS="w">、</c>
+<w POS="nz">中亚细亚</w>
+<c POS="w">（</c>
+<w POS="n">公元</w>
+<w POS="t">６５０年</w>
+<w POS="m">左右</w>
+<c POS="w">）</c>
+<c POS="w">、</c>
+<w POS="ns">阿拉伯</w>
+<c POS="w">（</c>
+<w POS="n">公元</w>
+<w POS="t">７０７年</w>
+<c POS="w">）</c>
+<c POS="w">、</c>
+<w POS="ns">埃及</w>
+<c POS="w">（</c>
+<w POS="n">公元</w>
+<w POS="t">８００年</w>
+<c POS="w">）</c>
+<c POS="w">、</c>
+<w POS="ns">西班牙</w>
+<c POS="w">（</c>
+<w POS="n">公元</w>
+<w POS="m">９５０</w>
+<w POS="q">年</w>
+<c POS="w">）</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">传到</seg></w>
+<w POS="u">了</w>
+<w POS="ns">欧洲</w>
+<c POS="ew">。</c>
+</s>
+<s n="0062">
+<w POS="p">据</w>
+<w POS="a">可靠</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="vn">记载</w>
+<c POS="w">：</c>
+<w POS="ns">意大利</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１１５４年</w>
+<c POS="w">、</c>
+<w POS="ns">德国</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１２２８年</w>
+<c POS="w">、</c>
+<w POS="ns">英国</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１３０９年</w>
+<w POS="d">才</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">晓得</seg></w>
+<w POS="v">有</w>
+<w POS="n">纸</w>
+<c POS="ew">。</c>
+</s>
+<s n="0063">
+<w POS="p">至于</w>
+<w POS="ns">欧洲</w>
+<w POS="r">各国</w>
+<w POS="r">自己</w>
+<w POS="v">造纸</w>
+<w POS="u">的</w>
+<w POS="n">时期</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">那</seg></w>
+<w POS="d">就</w>
+<w POS="d">更</w>
+<w POS="a">晚</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0064">
+<w POS="ns">西班牙</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１１５０年</w>
+<c POS="w">、</c>
+<w POS="ns">日本</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１１８９年</w>
+<c POS="w">、</c>
+<w POS="ns">意大利</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１２７６年</w>
+<c POS="w">、</c>
+<w POS="ns">德国</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１３９１年</w>
+<c POS="w">、</c>
+<w POS="ns">英国</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１４９４年</w>
+<w POS="d">才</w>
+<w POS="v">开始</w>
+<w POS="v">造纸</w>
+<c POS="ew">；</c>
+</s>
+<s n="0065">
+<w POS="ns">北美</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">直到</seg></w>
+<w POS="n">公元</w>
+<w POS="t">１６９０年</w>
+<w POS="d">才</w>
+<w POS="v">有</w>
+<w POS="n">造纸厂</w>
+<c POS="ew">。</c>
+</s>
+<s n="0066">
+<w POS="c">而且</w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="r">那时</w>
+<w POS="u">所</w>
+<w POS="v">用</w>
+<w POS="u">的</w>
+<w POS="a">厚</w>
+<w POS="n">纸</w>
+<w POS="c">和</w>
+<w POS="r">它</w>
+<w POS="u">的</w>
+<w POS="n">质地</w>
+<c POS="w">，</c>
+<w POS="d">却</w>
+<w POS="p">和</w>
+<w POS="r">我们</w>
+<w POS="n">祖先</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="m">四五</w>
+<w POS="n">世纪</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">间</seg></w>
+<w POS="u">所</w>
+<w POS="v">造</w>
+<w POS="u">的</w>
+<w POS="v">相仿</w>
+<c POS="ew">。</c>
+</s>
+<s n="0067">
+<w POS="r">他们</w>
+<w POS="v">开始</w>
+<w POS="v">造纸</w>
+<c POS="w">，</c>
+<w POS="d">已</w>
+<w POS="v">是</w>
+<w POS="r">我们</w>
+<w POS="n">祖先</w>
+<w POS="v">发明</w>
+<w POS="n">造纸术</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<w POS="m">１０００</w>
+<w POS="m">多</w>
+<w POS="q">年</w>
+<w POS="u">的</w>
+<w POS="n">事</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0068">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">我国</w>
+<w POS="u">的</w>
+<w POS="n">造纸术</w>
+<w POS="d">没有</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">传到</seg></w>
+<w POS="ns">欧洲</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之前</seg></w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="v">用</w>
+<w POS="u">的</w>
+<w POS="n">代用品</w>
+<w POS="v">是</w>
+<w POS="ns">埃及</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n">草纸</w>
+<c POS="w">＂</c>
+<w POS="c">和</w>
+<c POS="w">＂</c>
+<w POS="n">羊皮纸</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0069">
+<w POS="n">草纸</w>
+<w POS="v">是</w>
+<w POS="v">用</w>
+<w POS="c">从</w>
+<w POS="ns">尼罗河</w>
+<w POS="f">畔</w>
+<w POS="b">野生</w>
+<w POS="u">的</w>
+<w POS="n">纸</w>
+<w POS="n">草</w>
+<w POS="u">的</w>
+<w POS="n">茎</w>
+<w POS="f">上</w>
+<w POS="v">剥</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="u">的</w>
+<w POS="n">薄膜</w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">层层</w>
+<w POS="u">地</w>
+<w POS="v">贴</w>
+<w POS="v">上</w>
+<c POS="w">，</c>
+<w POS="v">压</w>
+<w POS="a">平</w>
+<w POS="v">晒</w>
+<w POS="a">干</w>
+<w POS="c">而</w>
+<w POS="v">成</w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="a">薄</w>
+<w POS="a">脆</w>
+<w POS="a">易碎</w>
+<c POS="w">，</c>
+<w POS="ns">中国</w>
+<w POS="n">纸</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">流入</seg></w>
+<w POS="ns">欧洲</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">市场</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<c POS="w">，</c>
+<c POS="w">＂</c>
+<w POS="n">草纸</w>
+<c POS="w">＂</c>
+<w POS="d">很快</w>
+<w POS="d">就</w>
+<w POS="p">被</w>
+<w POS="v">淘汰</w>
+<w POS="u">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0070">
+<c POS="w">＂</c>
+<w POS="n">羊皮纸</w>
+<c POS="w">＂</c>
+<w POS="v">就是</w>
+<w POS="v">去</w>
+<w POS="u">了</w>
+<w POS="n">毛</w>
+<w POS="u">的</w>
+<w POS="a">光滑</w>
+<w POS="u">的</w>
+<w POS="n">羊皮</w>
+<c POS="ew">。</c>
+</s>
+<s n="0071">
+<w POS="v">据说</w>
+<w POS="v">抄</w>
+<w POS="m">一</w>
+<w POS="q">部</w>
+<w POS="n">圣经</w>
+<w POS="v">要</w>
+<w POS="v">用</w>
+<w POS="m">３００</w>
+<w POS="m">多</w>
+<w POS="q">只</w>
+<w POS="n">羊</w>
+<w POS="u">的</w>
+<w POS="n">皮</w>
+<c POS="w">，</c>
+<w POS="n">价值</w>
+<w POS="a">昂贵</w>
+<c POS="ew">。</c>
+</s>
+<s n="0072">
+<w POS="c">所以</w>
+<c POS="w">，</c>
+<w POS="r">那时</w>
+<w POS="ns">欧洲</w>
+<w POS="u">的</w>
+<w POS="n">图书馆</w>
+<c POS="w">，</c>
+<w POS="p">用</w>
+<w POS="n">铁</w>
+<w POS="n">链子</w>
+<w POS="p">把</w>
+<w POS="n">书</w>
+<w POS="v">锁</w>
+<w POS="p">在</w>
+<w POS="n">桌子</w>
+<w POS="f">上</w>
+<c POS="w">，</c>
+<w POS="c">以免</w>
+<w POS="v">丢失</w>
+<c POS="ew">；</c>
+</s>
+<s n="0073">
+<w POS="n">学生</w>
+<w POS="p">在</w>
+<w POS="n">学校</w>
+<w POS="f">里</w>
+<w POS="d">也</w>
+<w POS="v">买不起</w>
+<w POS="n">书</w>
+<c POS="ew">。</c>
+</s>
+<s n="0074">
+<w POS="n">我国</w>
+<w POS="n">纸</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传入</seg></w>
+<w POS="c">和</w>
+<w POS="vn">普及</w>
+<c POS="w">，</c>
+<w POS="v">解决</w>
+<w POS="u">了</w>
+<w POS="r">他们</w>
+<w POS="a">严重</w>
+<w POS="u">的</w>
+<w POS="vn">读书</w>
+<w POS="n">问题</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">推动</seg></w>
+<w POS="u">了</w>
+<w POS="n">文化</w>
+<w POS="u">的</w>
+<w POS="vn">交流</w>
+<c POS="w">、</c>
+<w POS="vn">教育</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<c POS="w">，</c>
+<w POS="c">可见</w>
+<w POS="ns">中国</w>
+<w POS="n">造纸术</w>
+<w POS="u">的</w>
+<w POS="f">西</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">传</seg></w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="ns">欧洲</w>
+<w POS="u">的</w>
+<w POS="vn">影响</w>
+<w POS="u">之</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">深</seg></w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

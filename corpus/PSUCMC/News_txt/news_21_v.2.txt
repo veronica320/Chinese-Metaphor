@@ -1,0 +1,444 @@
+﻿<p>
+<s n="0003">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">过</seg></w>
+<w POS="t">春节</w>
+<c POS="w">，</c>
+<w POS="a">好</w>
+<w POS="v">拜年</w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="n">白雪</w>
+<w POS="v">覆盖</w>
+<w POS="f">下</w>
+<w POS="u">的</w>
+<w POS="n">北京城</w>
+<c POS="w">，</c>
+<w POS="d">到处</w>
+<w POS="v">奔走</w>
+<w POS="u">着</w>
+<w POS="i">喜气洋洋</w>
+<w POS="d">相互</w>
+<w POS="v">拜年</w>
+<w POS="u">的</w>
+<w POS="n">人们</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0005">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="n">记者</w>
+<w POS="v">来到</w>
+<w POS="v">位于</w>
+<w POS="ns">京西</w>
+<w POS="m">八一</w>
+<w POS="n">湖畔</w>
+<w POS="u">的</w>
+<w POS="n">中央电视台</w>
+<w POS="n">发射塔</w>
+<w POS="n">工地</w>
+<w POS="d">时</w>
+<c POS="w">，</c>
+<w POS="r">这里</w>
+<w POS="d">却</w>
+<w POS="v">是</w>
+<w POS="r">另</w>
+<w POS="m">一番</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">光景</seg></w>
+<c POS="w">：</c>
+<w POS="m">一</w>
+<w POS="q">群</w>
+<w POS="n">建筑</w>
+<w POS="n">工人</w>
+<w POS="u">正在</w>
+<w POS="v">距</w>
+<w POS="n">地面</w>
+<w POS="m">２００</w>
+<w POS="m">多</w>
+<w POS="q">米</w>
+<w POS="u">的</w>
+<w POS="s">高空</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">冒</seg></w>
+<w POS="u">着</w>
+<w POS="z">刺骨</w>
+<w POS="u">的</w>
+<w POS="n">寒风</w>
+<c POS="w">，</c>
+<w POS="ad">精心</w>
+<w POS="v">养护</w>
+<w POS="d">刚刚</w>
+<w POS="v">打</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">完</seg></w>
+<w POS="u">的</w>
+<w POS="n">钢筋</w>
+<w POS="n">混凝土</w>
+<c POS="w">，</c>
+<w POS="v">安装</w>
+<w POS="n">钢</w>
+<w POS="n">结构</w>
+<w POS="u">的</w>
+<w POS="n">预埋件</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0006">
+<w POS="b">副</w>
+<w POS="n">总工程师</w>
+<w POS="nr">陈</w>
+<w POS="nr">桂棋</w>
+<w POS="c">和</w>
+<w POS="vn">值班</w>
+<w POS="n">工长</w>
+<w POS="v">告诉</w>
+<w POS="n">记者</w>
+<c POS="w">，</c>
+<w POS="n">大年</w>
+<w POS="m">三十</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="n">人们</w>
+<w POS="z">热热闹闹</w>
+<c POS="w">，</c>
+<w POS="i">阖家团圆</w>
+<w POS="u">的</w>
+<w POS="n">时候</w>
+<c POS="w">，</c>
+<w POS="v">担负</w>
+<w POS="n">电视塔</w>
+<w POS="vn">施工</w>
+<w POS="n">任务</w>
+<w POS="u">的</w>
+<w POS="ns">北京</w>
+<w POS="n">建筑</w>
+<w POS="n">工程</w>
+<w POS="n">总公司</w>
+<w POS="m">第六</w>
+<w POS="n">公司</w>
+<w POS="u">的</w>
+<w POS="n">干部</w>
+<w POS="n">工人</w>
+<c POS="w">，</c>
+<w POS="d">却</w>
+<w POS="p">在</w>
+<w POS="n">工地</w>
+<w POS="f">上</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">送</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">走</seg></w>
+<w POS="t">蛇年</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">迎来</seg></w>
+<w POS="u">了</w>
+<w POS="t">马年</w>
+<c POS="ew">；</c>
+</s>
+<s n="0007">
+<w POS="t">正月</w>
+<w POS="t">初一</w>
+<w POS="c">和</w>
+<w POS="t">初二</w>
+<c POS="w">，</c>
+<w POS="n">工人</w>
+<w POS="k">们</w>
+<w POS="d">又</w>
+<w POS="p">从</w>
+<w POS="ns">京城</w>
+<w POS="u">的</w>
+<w POS="r">各个</w>
+<w POS="n">角落</w>
+<w POS="d">早早</w>
+<w POS="u">地</w>
+<w POS="v">赶到</w>
+<w POS="u">了</w>
+<w POS="n">工地</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0008">
+<w POS="p">在</w>
+<w POS="r">我们</w>
+<w POS="r">这个</w>
+<w POS="n">工地</w>
+<c POS="w">，</c>
+<w POS="v">没有</w>
+<w POS="t">年节</w>
+<c POS="w">，</c>
+<w POS="n">工程</w>
+<w POS="m">一</w>
+<w POS="v">开始</w>
+<w POS="d">就</w>
+<w POS="d">没</w>
+<w POS="v">停</w>
+<w POS="u">过</w>
+<w POS="n">工</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="r">这话</w>
+<w POS="m">一点</w>
+<w POS="d">不</w>
+<w POS="a">假</w>
+<c POS="w">，</c>
+<w POS="v">就是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="t">去年</w>
+<w POS="ns">北京</w>
+<w POS="d">最</w>
+<w POS="a">乱</w>
+<w POS="u">的</w>
+<w POS="n">日子</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">里</seg></w>
+<c POS="w">，</c>
+<w POS="n">电视塔</w>
+<w POS="n">工地</w>
+<w POS="d">依旧</w>
+<w POS="v">干</w>
+<w POS="u">得</w>
+<w POS="i">热火朝天</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0010">
+<w POS="n">中央电视台</w>
+<w POS="n">发射塔</w>
+<w POS="v">是</w>
+<w POS="p">为</w>
+<w POS="v">转播</w>
+<w POS="n">北京</w>
+<w POS="m">第</w>
+<w POS="j">十一届</w>
+<w POS="n">亚运会</w>
+<w POS="c">而</w>
+<w POS="v">兴建</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="n">建筑</w>
+<w POS="n">高度</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">达</seg></w>
+<w POS="m">４０５</w>
+<w POS="q">米</w>
+<c POS="w">，</c>
+<w POS="n">人</w>
+<w POS="v">称</w>
+<c POS="w">＂</c>
+<w POS="s">国内</w>
+<w POS="m">第一</w>
+<w POS="n">塔</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0011">
+<w POS="p">除</w>
+<w POS="v">设有</w>
+<w POS="v">供</w>
+<w POS="n">电视</w>
+<w POS="vn">转播</w>
+<w POS="u">的</w>
+<w POS="n">微波</w>
+<w POS="n">平台</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外</seg></w>
+<c POS="w">，</c>
+<w POS="v">还有</w>
+<w POS="vn">旅游</w>
+<w POS="vn">观光</w>
+<w POS="vn">旋转</w>
+<w POS="n">平台</w>
+<w POS="u">等</w>
+<w POS="r">其它</w>
+<w POS="n">设施</w>
+<c POS="w">，</c>
+<w POS="vn">设计</w>
+<w POS="c">和</w>
+<w POS="vn">施工</w>
+<w POS="n">技术</w>
+<w POS="d">十分</w>
+<w POS="a">复杂</w>
+<c POS="w">，</c>
+<w POS="v">列为</w>
+<w POS="n">国家</w>
+<w POS="c">和</w>
+<w POS="ns">北京市</w>
+<w POS="n">科技</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">攻关</seg></w>
+<w POS="n">项目</w>
+<w POS="u">的</w>
+<w POS="n">技术</w>
+<w POS="n">难题</w>
+<w POS="d">就</w>
+<w POS="v">有</w>
+<w POS="m">１０</w>
+<w POS="m">多</w>
+<w POS="q">个</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0012">
+<w POS="t">过去</w>
+<c POS="w">，</c>
+<w POS="r">这个</w>
+<w POS="n">工地</w>
+<w POS="d">十分</w>
+<w POS="a">热闹</w>
+<c POS="w">，</c>
+<w POS="t">今天</w>
+<w POS="r">这里</w>
+<w POS="d">却</w>
+<w POS="d">多少</w>
+<w POS="d">有点</w>
+<w POS="a">冷清</w>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="nr">陈</w>
+<w POS="nr">总</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">介绍</seg></w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="n">电视塔</w>
+<w POS="d">越</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">长</seg></w>
+<w POS="n">个儿</w>
+<c POS="w">，</c>
+<w POS="n">工作面</w>
+<w POS="d">就</w>
+<w POS="d">越</w>
+<w POS="a">小</w>
+<c POS="w">，</c>
+<w POS="v">上</w>
+<w POS="n">塔</w>
+<w POS="v">干活</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<w POS="d">也</w>
+<w POS="d">就</w>
+<w POS="d">越</w>
+<w POS="a">少</w>
+<c POS="w">，</c>
+<w POS="v">施工</w>
+<w POS="u">的</w>
+<w POS="n">难度</w>
+<w POS="d">却</w>
+<w POS="d">越</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">步</seg></w>
+<w POS="v">是</w>
+<w POS="n">钢</w>
+<w POS="n">结构</w>
+<w POS="vn">施工</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="t">今年</w>
+<w POS="t">８月</w>
+<c POS="w">，</c>
+<w POS="b">整个</w>
+<w POS="n">电视塔</w>
+<w POS="d">将</w>
+<w POS="p">向</w>
+<w POS="n">世人</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">亮相</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0016">
+<w POS="v">说话</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">间</seg></w>
+<c POS="w">，</c>
+<w POS="d">已</w>
+<w POS="v">是</w>
+<w POS="t">正午</w>
+<w POS="n">时分</w>
+<c POS="w">，</c>
+<w POS="d">还</w>
+<w POS="v">不见</w>
+<w POS="n">塔</w>
+<w POS="f">上</w>
+<w POS="n">工人</w>
+<w POS="v">下来</w>
+<w POS="v">休息</w>
+<c POS="ew">。</c>
+</s>
+<s n="0017">
+<w POS="r">这些</w>
+<w POS="v">无暇</w>
+<w POS="v">走</w>
+<w POS="n">亲</w>
+<w POS="v">访友</w>
+<w POS="u">的</w>
+<w POS="n">亚运会</w>
+<w POS="n">建设者</w>
+<c POS="w">，</c>
+<w POS="t">春节</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<w POS="d">曾经</w>
+<w POS="m">一个</w>
+<w POS="q">班</w>
+<w POS="v">干</w>
+<w POS="m">１２</w>
+<w POS="q">个</w>
+<w POS="n">小时</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="d">曾</w>
+<w POS="v">干</w>
+<w POS="m">６</w>
+<w POS="q">个</w>
+<w POS="n">小时</w>
+<w POS="v">歇</w>
+<w POS="m">６</w>
+<w POS="q">个</w>
+<w POS="n">小时</w>
+<c POS="w">，</c>
+<w POS="d">接着</w>
+<w POS="d">又</w>
+<w POS="v">干</w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+<c POS="ew">；</c>
+</s>
+<s n="0018">
+<w POS="t">如今</w>
+<w POS="n">人们</w>
+<w POS="d">都</w>
+<w POS="u">在</w>
+<w POS="v">欢度</w>
+<w POS="n">佳节</w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="d">却</w>
+<w POS="v">只能</w>
+<w POS="p">在</w>
+<w POS="r">这</w>
+<w POS="n">京城</w>
+<w POS="a">最高</w>
+<w POS="n">处</w>
+<c POS="w">，</c>
+<w POS="v">让</w>
+<w POS="v">掠过</w>
+<w POS="n">塔</w>
+<w POS="f">上</w>
+<w POS="u">的</w>
+<w POS="n">风</w>
+<w POS="p">向</w>
+<w POS="n">亲人</w>
+<w POS="k">们</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">捎</seg></w>
+<w POS="v">去</w>
+<w POS="m">一</w>
+<w POS="q">声</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="cont">问候</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+

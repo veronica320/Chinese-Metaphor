@@ -1,0 +1,394 @@
+﻿<p>
+<s n="0057">
+<w POS="m">６．</w>
+<w POS="n">人才</w>
+<w POS="n">政策</w>
+</s>
+</p>
+<p>
+<s n="0058">
+<c POS="w">（</c>
+<w POS="m">１</w>
+<c POS="w">）</c>
+<w POS="n">多层次</w>
+<c POS="w">、</c>
+<w POS="a">多</w>
+<w POS="n">途径</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="r">各类</w>
+<w POS="n">技术</w>
+<w POS="n">人才</w>
+</s>
+</p>
+<p>
+<s n="0059">
+<w POS="p">为了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">加快</seg></w>
+<w POS="n">我国</w>
+<w POS="n">微电子</w>
+<w POS="n">技术</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<c POS="w">，</c>
+<w POS="d">必须</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">分</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">层次</seg></w>
+<c POS="w">、</c>
+<w POS="d">多渠道</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">微电子</w>
+<w POS="n">技术</w>
+<w POS="n">人才</w>
+<c POS="ew">。</c>
+</s>
+<s n="0060">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">随着</seg></w>
+<w POS="n">微电子</w>
+<w POS="n">技术</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<c POS="w">，</c>
+<w POS="n">器件</w>
+<w POS="c">和</w>
+<w POS="n">系统</w>
+<w POS="d">越来越</w>
+<w POS="v">不可</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">分</seg></w>
+<c POS="w">，</c>
+<w POS="n">系统</w>
+<w POS="c">和</w>
+<w POS="vn">应用</w>
+<w POS="d">越来越</w>
+<w POS="v">不可</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">分</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0061">
+<w POS="c">因此</w>
+<c POS="w">，</c>
+<w POS="d">特别</w>
+<w POS="v">要</w>
+<w POS="v">注意</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="c">既</w>
+<w POS="v">懂</w>
+<w POS="n">器件</w>
+<c POS="w">，</c>
+<w POS="d">又</w>
+<w POS="v">懂</w>
+<w POS="n">系统</w>
+<c POS="w">，</c>
+<w POS="d">还</w>
+<w POS="v">懂</w>
+<w POS="vn">应用</w>
+<w POS="u">的</w>
+<w POS="vn">综合</w>
+<w POS="n">人才</w>
+<c POS="ew">；</c>
+</s>
+<s n="0062">
+<w POS="c">既</w>
+<w POS="v">懂</w>
+<w POS="n">硬件</w>
+<w POS="vn">设计</w>
+<w POS="vn">制造</w>
+<c POS="w">，</c>
+<w POS="d">又</w>
+<w POS="v">懂</w>
+<w POS="n">软件</w>
+<w POS="vn">设计</w>
+<w POS="u">的</w>
+<w POS="n">综合性</w>
+<w POS="n">人才</w>
+<c POS="ew">。</c>
+</s>
+<s n="0063">
+<w POS="n">人才</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">部门</w>
+<w POS="v">要</w>
+<w POS="vn">调整</w>
+<w POS="n">专业</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">结构</seg></w>
+<c POS="w">，</c>
+<w POS="v">增设</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="n">工程</w>
+<w POS="u">等</w>
+<w POS="n">方面</w>
+<w POS="u">的</w>
+<w POS="n">专业</w>
+<c POS="w">，</c>
+<w POS="v">注意</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">工业</w>
+<w POS="n">技术</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">开发</seg></w>
+<c POS="w">、</c>
+<w POS="n">工艺</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">开发</seg></w>
+<c POS="w">、</c>
+<w POS="n">产品</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">开发</seg></w>
+<w POS="n">人才</w>
+<c POS="w">，</c>
+<w POS="c">和</w>
+<w POS="n">软件</w>
+<w POS="n">人才</w>
+<c POS="ew">。</c>
+</s>
+<s n="0064">
+<w POS="c">并</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">提高</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="q">类</w>
+<w POS="n">科技</w>
+<w POS="n">人员</w>
+<w POS="u">的</w>
+<w POS="n">社会</w>
+<w POS="n">地位</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0065">
+<c POS="w">（</c>
+<w POS="m">２</w>
+<c POS="w">）</c>
+<w POS="d">大力</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">微电子</w>
+<w POS="n">产业</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<w POS="n">干部</w>
+<w POS="c">和</w>
+<w POS="n">企业家</w>
+</s>
+</p>
+<p>
+<s n="0066">
+<w POS="v">正如</w>
+<w POS="r">本文</w>
+<w POS="u">所</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">强调</seg></w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="n">微电子</w>
+<w POS="n">技术</w>
+<w POS="v">是</w>
+<w POS="n">世界性</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">战略</seg></w>
+<w POS="vn">竞争</w>
+<w POS="n">技术</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">要求</seg></w>
+<w POS="n">微电子</w>
+<w POS="vn">制造</w>
+<w POS="n">企业</w>
+<w POS="v">具有</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强烈</seg></w>
+<w POS="u">的</w>
+<w POS="vn">竞争</w>
+<w POS="n">意识</w>
+<c POS="w">，</c>
+<w POS="v">创新</w>
+<w POS="n">精神</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="vn">创新</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机制</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0067">
+<w POS="b">所有</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">一些</w>
+<w POS="d">都</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">离不开</seg></w>
+<w POS="n">企业</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<w POS="n">干部</w>
+<w POS="c">和</w>
+<w POS="n">企业家</w>
+<c POS="ew">。</c>
+</s>
+<s n="0068">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="v">有</w>
+<w POS="n">远见</w>
+<c POS="w">、</c>
+<w POS="v">有</w>
+<w POS="n">魄力</w>
+<c POS="w">、</c>
+<w POS="v">具有</w>
+<w POS="n">国际</w>
+<w POS="vn">竞争</w>
+<w POS="n">意识</w>
+<w POS="c">和</w>
+<w POS="vn">竞争</w>
+<w POS="n">能力</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<w POS="n">干部</w>
+<w POS="c">和</w>
+<w POS="n">企业家</w>
+<w POS="v">是</w>
+<w POS="m">一</w>
+<w POS="q">项</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">带有</seg></w>
+<w POS="n">战略性</w>
+<w POS="u">的</w>
+<w POS="n">工作</w>
+<c POS="ew">。</c>
+</s>
+<s n="0069">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w><seg function="mrw" type="indir" subtype="conv">
+<w POS="n">人才</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">可能</w>
+<w POS="p">比</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">技术</w>
+<w POS="n">人才</w>
+<w POS="d">更</w>
+<w POS="a">难</w>
+<c POS="ew">。</c>
+</s>
+<s n="0070">
+<w POS="c">但</w>
+<w POS="d">必须</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="t">现在</w>
+<w POS="v">做</w><seg function="mrw" type="indir" subtype="conv">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<c POS="w">，</c>
+<w POS="v">可以</w>
+<w POS="p">通过</w>
+<w POS="v">选派</w>
+<w POS="v">有</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="n">前途</w>
+<w POS="u">的</w>
+<w POS="t">中年</w>
+<w POS="n">科技</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">骨干</seg></w>
+<w POS="v">到</w>
+<w POS="s">国外</w>
+<w POS="v">学习</w>
+<c POS="ew">。</c>
+</s>
+<s n="0071">
+<w POS="c">或</w>
+<w POS="p">与</w>
+<w POS="s">国外</w>
+<w POS="v">合作</w>
+<w POS="v">办厂</w>
+<c POS="w">、</c>
+<w POS="vn">合作</w>
+<w POS="vn">营销</w>
+<w POS="u">等</w>
+<w POS="r">各种</w>
+<w POS="n">方式</w>
+<w POS="v">进行</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0072">
+<c POS="w">（</c>
+<w POS="m">３</w>
+<c POS="w">）</c>
+<w POS="ad">努力</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">提高</seg></w>
+<w POS="n">工人</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">素质</seg></w>
+</s>
+</p>
+<p>
+<s n="0073">
+<w POS="n">微电子</w>
+<w POS="n">产业</w>
+<w POS="v">是</w>
+<w POS="m">一</w>
+<w POS="q">项</w>
+<w POS="n">技术</w>
+<w POS="b">密集型</w>
+<w POS="n">产业</w>
+<c POS="w">，</c>
+<w POS="c">不仅</w>
+<w POS="v">要</w>
+<w POS="v">有</w>
+<w POS="m">一</w>
+<w POS="m">大批</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">高</seg></w>
+<w POS="n">水平</w>
+<w POS="u">的</w>
+<w POS="n">技术</w>
+<w POS="n">人才</w>
+<w POS="c">和</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<w POS="n">干部</w>
+<c POS="w">，</c>
+<w POS="d">还</w>
+<w POS="v">需</w>
+<w POS="v">有</w>
+<w POS="m">大批</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">素质</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">高</seg></w>
+<w POS="u">的</w>
+<w POS="n">工人</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">队伍</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0074">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="t">现在</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<w POS="d">就要</w>
+<w POS="v">有</w>
+<w POS="n">计划</w>
+<w POS="u">地</w>
+<w POS="v">建立</w>
+<w POS="b">中等</w>
+<w POS="n">技校</w>
+<c POS="w">、</c>
+<w POS="b">中等</w>
+<w POS="n">专业</w>
+<w POS="n">学校</w>
+<c POS="w">、</c>
+<w POS="v">挑选</w>
+<w POS="v">合格</w>
+<w POS="k">者</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">走</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="n">工作</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">岗位</seg></w>
+<c POS="w">，</c>
+<w POS="d">逐步</w>
+<w POS="v">取代</w>
+<w POS="t">目前</w>
+<w POS="u">的</w>
+<w POS="n">职工</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">队伍</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0075">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="d">同样</w>
+<w POS="v">是</w>
+<w POS="vn">发展</w>
+<w POS="n">我国</w>
+<w POS="n">微电子</w>
+<w POS="n">产业</w>
+<w POS="l">必不可少</w>
+<w POS="u">的</w>
+<w POS="n">条件</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

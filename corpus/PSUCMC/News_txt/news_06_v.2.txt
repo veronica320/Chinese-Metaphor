@@ -1,0 +1,737 @@
+﻿<p>
+<s n="0001">
+<w POS="m">百</w>
+<w POS="q">家</w>
+<c POS="w">＂</c>
+<w POS="j">三资</w>
+<c POS="w">＂</c>
+<w POS="n">企业</w>
+<w POS="vn">调查</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">表明</seg></w>
+<c POS="w">：</c>
+<w POS="p">在</w>
+<w POS="j">华</w>
+<w POS="v">投资</w>
+<w POS="i">大有可为</w>
+</s>
+</p>
+<p>
+<s n="0002">
+<w POS="nt">新华社</w>
+<w POS="ns">北京</w>
+<w POS="t">９月</w>
+<w POS="t">１４日</w>
+<w POS="n">电</w>
+<c POS="w">（</c>
+<w POS="n">记者</w>
+<w POS="nr">陆</w>
+<w POS="nr">国元</w>
+<c POS="w">、</c>
+<w POS="nr">张</w>
+<w POS="nr">伟弟</w>
+<c POS="w">、</c>
+<w POS="nr">周</w>
+<w POS="nr">正平</w>
+<c POS="w">）</c>
+<w POS="n">记者</w>
+<w POS="t">最近</w>
+<w POS="p">在</w>
+<w POS="ns">华东</w>
+<w POS="s">沿海</w>
+<w POS="p">对</w>
+<w POS="m">百</w>
+<w POS="q">家</w>
+<c POS="w">＂</c>
+<w POS="j">三资</w>
+<c POS="w">＂</c>
+<w POS="n">企业</w>
+<w POS="v">进行</w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="q">次</w>
+<w POS="vn">调查</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">表明</seg></w>
+<c POS="w">，</c>
+<w POS="c">尽管</w>
+<w POS="m">大多数</w>
+<w POS="n">外商</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">大陆</w>
+<c POS="w">＂</c>
+<w POS="a">单调</w>
+<c POS="w">＂</c>
+<c POS="w">、</c>
+<c POS="w">＂</c>
+<w POS="a">枯燥</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="b">业余</w>
+<w POS="n">生活</w>
+<w POS="v">有所</w>
+<w POS="v">抱怨</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="m">９０％</w>
+<w POS="f">以上</w>
+<w POS="u">的</w>
+<w POS="n">外方</w>
+<w POS="n">伙伴</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="p">在</w>
+<w POS="j">华</w>
+<w POS="v">投资</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">前景</seg></w>
+<w POS="v">表示</w>
+<w POS="an">乐观</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0003">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这项</seg></w>
+<w POS="vn">调查</w>
+<w POS="v">是</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="t">今年</w>
+<w POS="m">６</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">至</seg></w>
+<w POS="t">８月</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">间</seg></w>
+<w POS="v">进行</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="n">记者</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">就</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">企业</w>
+<w POS="u">的</w>
+<w POS="vn">盈利</w>
+<c POS="w">、</c>
+<w POS="n">自主权</w>
+<c POS="w">、</c>
+<w POS="s">当地</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="n">设施</w>
+<w POS="c">和</w>
+<w POS="a">优惠</w>
+<w POS="n">政策</w>
+<w POS="u">等</w>
+<w POS="m">１２</w>
+<w POS="q">个</w>
+<w POS="n">问题</w>
+<c POS="w">，</c>
+<w POS="d">随机</w>
+<w POS="v">选择</w>
+<w POS="u">了</w>
+<w POS="ns">福建</w>
+<c POS="w">、</c>
+<w POS="ns">浙江</w>
+<c POS="w">、</c>
+<w POS="ns">上海</w>
+<c POS="w">、</c>
+<w POS="ns">江苏</w>
+<w POS="c">和</w>
+<w POS="ns">山东</w>
+<w POS="m">５</w>
+<w POS="q">个</w>
+<w POS="n">省市</w>
+<w POS="u">的</w>
+<w POS="m">１００</w>
+<w POS="q">家</w>
+<w POS="l">中外合资</w>
+<c POS="w">、</c>
+<w POS="vn">合作</w>
+<w POS="c">和</w>
+<w POS="b">独资</w>
+<w POS="n">企业</w>
+<c POS="w">，</c>
+<w POS="p">逐</w>
+<w POS="q">家</w>
+<w POS="v">进行</w>
+<w POS="u">了</w>
+<w POS="vn">走访</w>
+<w POS="vn">调查</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0005">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">１００</w>
+<w POS="q">家</w>
+<w POS="n">外商</w>
+<w POS="vn">投资</w>
+<w POS="n">企业</w>
+<w POS="d">均</w>
+<w POS="d">已</w>
+<w POS="v">开业</w>
+<w POS="v">投产</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="widlii">其中</seg></w>
+<w POS="m">３９</w>
+<w POS="q">家</w>
+<w POS="d">已</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">原有</w>
+<w POS="vn">注册</w>
+<w POS="n">资本</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<w POS="v">追加</w>
+<w POS="u">了</w>
+<w POS="vn">投资</w>
+<c POS="w">，</c>
+<w POS="r">另</w>
+<w POS="v">有</w>
+<w POS="m">８</w>
+<w POS="q">家</w>
+<w POS="d">也</w>
+<w POS="v">表明</w>
+<w POS="d">将</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="t">近期</w>
+<w POS="v">追加</w>
+<w POS="vn">投资</w>
+<w POS="u">的</w>
+<w POS="n">意向</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0006">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接受</seg></w>
+<w POS="v">调查</w>
+<w POS="u">的</w>
+<w POS="m">百</w>
+<w POS="q">家</w>
+<w POS="n">企业</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="m">７７</w>
+<w POS="q">家</w>
+<w POS="d">已</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获得</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">可观</seg></w>
+<w POS="u">的</w>
+<w POS="n">利润</w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="d">尚未</w>
+<w POS="v">盈利</w>
+<w POS="u">的</w>
+<w POS="m">２３</w>
+<w POS="q">家</w>
+<w POS="n">企业</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="p">因</w>
+<w POS="l">经营不善</w>
+<w POS="c">而</w>
+<w POS="v">亏损</w>
+<w POS="u">的</w>
+<w POS="d">仅</w>
+<w POS="v">有</w>
+<w POS="m">８</w>
+<w POS="q">家</w>
+<c POS="w">，</c>
+<w POS="r">其余</w>
+<w POS="m">１５</w>
+<w POS="q">家</w>
+<w POS="d">则</w>
+<w POS="p">因</w>
+<w POS="a">快速</w>
+<w POS="vn">折旧</w>
+<c POS="w">、</c>
+<w POS="vn">还贷</w>
+<w POS="n">负担</w>
+<w POS="c">或</w>
+<w POS="d">刚刚</w>
+<w POS="v">投产</w>
+<w POS="u">等</w>
+<w POS="n">原因</w>
+<w POS="c">而</w>
+<w POS="v">未能</w>
+<w POS="v">获利</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="r">它们</w>
+<w POS="v">认为</w>
+<w POS="vn">盈利</w>
+<w POS="d">只是</w>
+<w POS="t">早晚</w>
+<w POS="u">的</w>
+<w POS="n">事</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0008">
+<w POS="j">日</w>
+<w POS="n">商</w>
+<w POS="b">独资</w>
+<w POS="u">的</w>
+<w POS="ns">厦门</w>
+<w POS="nz">浦田</w>
+<w POS="n">服装</w>
+<w POS="n">有限公司</w>
+<w POS="n">总经理</w>
+<w POS="nr">佐藤忠良</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接受</seg></w>
+<w POS="n">记者</w>
+<w POS="v">采访</w>
+<w POS="ng">时</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="ns">厦门</w>
+<w POS="n">地区</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="n">设施</w>
+<w POS="d">已</w>
+<w POS="d">相当</w>
+<w POS="a">完备</w>
+<c POS="w">，</c>
+<w POS="p">与</w>
+<w POS="s">海外</w>
+<w POS="l">相差无几</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0009">
+<w POS="r">另外</w>
+<w POS="m">９９</w>
+<w POS="q">家</w>
+<w POS="n">企业</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="s">当地</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基础</seg></w>
+<w POS="n">设施</w>
+<w POS="v">进行</w>
+<w POS="v">评价</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="v">回答</w>
+<c POS="w">＂</c>
+<w POS="d">较</w>
+<w POS="a">好</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="v">有</w>
+<w POS="m">５９</w>
+<w POS="q">家</w>
+<c POS="w">，</c>
+<w POS="v">回答</w>
+<c POS="w">＂</c>
+<w POS="a">一般</w>
+<c POS="w">＂</c>
+<w POS="c">和</w>
+<c POS="w">＂</c>
+<w POS="d">较</w>
+<w POS="a">差</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="d">分别</w>
+<w POS="v">为</w>
+<w POS="m">２２</w>
+<w POS="q">家</w>
+<w POS="c">和</w>
+<w POS="m">１８</w>
+<w POS="q">家</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0010">
+<w POS="m">５１</w>
+<w POS="q">岁</w>
+<w POS="u">的</w>
+<w POS="j">中</w>
+<w POS="j">美</w>
+<w POS="v">合资</w>
+<w POS="ns">无锡</w>
+<w POS="nz">华美</w>
+<w POS="n">糖果</w>
+<w POS="n">有限公司</w>
+<w POS="n">总经理</w>
+<w POS="nr">佛雷德·高尔文</w>
+<w POS="a">坦率</w>
+<w POS="u">地</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="p">与</w>
+<w POS="ns">东南亚</w>
+<w POS="m">一些</w>
+<w POS="n">国家</w>
+<w POS="v">相比</w>
+<c POS="w">，</c>
+<w POS="ns">中国</w>
+<w POS="vn">有关</w>
+<w POS="n">外资</w>
+<w POS="u">的</w>
+<w POS="n">法规</w>
+<w POS="c">和</w>
+<w POS="n">政策</w>
+<w POS="d">不够</w>
+<w POS="a">多</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="d">不</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">细</seg></w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="d"><seg function="mrw" type="indir" subtype="conv">从中</seg></w>
+<w POS="v">受益</w>
+<w POS="d">不</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0011">
+<w POS="d">将近</w>
+<w POS="m">２０</w>
+<w POS="q">家</w>
+<w POS="n">企业</w>
+<w POS="v">发表</w>
+<w POS="u">了</w>
+<w POS="p">与</w>
+<w POS="r">他</w>
+<w POS="a">相似</w>
+<w POS="u">的</w>
+<w POS="n">意见</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0012">
+<w POS="c">然而</w>
+<w POS="r">另外</w>
+<w POS="m">８０</w>
+<w POS="q">家</w>
+<w POS="n">企业</w>
+<w POS="d">则</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">持</seg></w>
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="n">看法</w>
+<c POS="w">，</c>
+<w POS="r">它们</w>
+<w POS="p">将</w>
+<w POS="r">各自</w>
+<w POS="u">的</w>
+<w POS="n">成绩</w>
+<w POS="v">归功</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="ns">中国</w>
+<w POS="u">的</w>
+<w POS="vn">优惠</w>
+<w POS="n">政策</w>
+<c POS="w">，</c>
+<w POS="c">尽管</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="widlii">其中</seg></w>
+<w POS="m">１８</w>
+<w POS="q">家</w>
+<w POS="v">认为</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">政策</w>
+<w POS="v">落实</w>
+<w POS="u">得</w>
+<w POS="d">还</w>
+<w POS="d">不够</w>
+<w POS="a">理想</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0013">
+<w POS="vn">调查</w>
+<w POS="n">结果</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">表明</seg></w>
+<c POS="w">，</c>
+<w POS="m">７６％</w>
+<w POS="u">的</w>
+<w POS="n">企业</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="ns">中国</w>
+<w POS="n">员工</w>
+<w POS="u">的</w>
+<w POS="n">素质</w>
+<w POS="v">表示</w>
+<w POS="v">满意</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="ns">上海</w>
+<w POS="nz">大众</w>
+<w POS="n">汽车</w>
+<w POS="n">有限公司</w>
+<w POS="n">董事</w>
+<w POS="nr">马钉波斯特</w>
+<w POS="n">博士</w>
+<w POS="v">评价</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="a">勤劳</w>
+<c POS="w">、</c>
+<w POS="n">智慧</w>
+<c POS="w">、</c>
+<w POS="a">积极</w>
+<w POS="c">和</w>
+<w POS="a">坦诚</w>
+<w POS="u">的</w>
+<w POS="n">中方</w>
+<w POS="n">合作者</w>
+<w POS="v">是</w>
+<w POS="ns">联邦德国</w>
+<w POS="n">技术</w>
+<w POS="v">得以</w>
+<w POS="v">发挥</w>
+<w POS="n">效益</w>
+<w POS="u">的</w>
+<w POS="a">重要</w>
+<w POS="n">保证</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0015">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这家</seg></w>
+<w POS="d">总</w>
+<w POS="v">投资</w>
+<w POS="d">近</w>
+<w POS="m">１０亿</w>
+<w POS="q">元</w>
+<w POS="u">的</w>
+<w POS="j">中</w>
+<w POS="j">德</w>
+<w POS="n">合资企业</w>
+<c POS="w">，</c>
+<w POS="d">迄今</w>
+<w POS="d">已</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">为</seg></w>
+<w POS="s">国内</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">市场</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="u">了</w>
+<w POS="m">６万</w>
+<w POS="q">辆</w>
+<w POS="nz">桑塔纳</w>
+<w POS="n">轿车</w>
+<c POS="w">，</c>
+<w POS="r">每年</w>
+<w POS="d">还</w>
+<w POS="v">出口</w>
+<w POS="m">８万</w>
+<w POS="q">台</w>
+<w POS="n">发动机</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0016">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">回答</w>
+<w POS="vn">调查</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="u">的</w>
+<w POS="r">其他</w>
+<w POS="n">问题</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="m">７４％</w>
+<w POS="u">的</w>
+<w POS="n">企业</w>
+<w POS="v">认为</w>
+<w POS="n">政府</w>
+<w POS="u">的</w>
+<w POS="vn">帮助</w>
+<w POS="v">是</w>
+<c POS="w">＂</c>
+<w POS="z">实实在在</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="n">外商</w>
+<w POS="v">投资</w>
+<w POS="n">企业</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">支柱</seg></w>
+<c POS="ew">；</c>
+</s>
+<s n="0017">
+<w POS="c">而</w>
+<w POS="m">１７％</w>
+<w POS="u">的</w>
+<w POS="n">企业</w>
+<w POS="d">则</w>
+<w POS="v">表示</w>
+<c POS="w">＂</c>
+<w POS="d">没有</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">得到</seg></w>
+<w POS="n">政府</w>
+<w POS="m">多</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="u">的</w>
+<w POS="vn">帮助</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0018">
+<w POS="m">８２％</w>
+<w POS="u">的</w>
+<w POS="n">企业</w>
+<w POS="v">认为</w>
+<w POS="r">他们</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">拥有</seg></w>
+<w POS="d">较</w>
+<w POS="a">充分</w>
+<w POS="u">的</w>
+<w POS="n">自主权</w>
+<c POS="w">，</c>
+<w POS="v">能够</w>
+<w POS="l">独立自主</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">管理</seg></w>
+<w POS="n">企业</w>
+<c POS="ew">；</c>
+</s>
+<s n="0019">
+<w POS="r">另外</w>
+<w POS="m">１８</w>
+<w POS="q">家</w>
+<w POS="d">则</w>
+<w POS="v">声称</w>
+<w POS="r">它们</w>
+<w POS="d">时常</w>
+<w POS="v">受到</w>
+<w POS="n">企业</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外部</seg></w>
+<w POS="d">主要</w>
+<w POS="v">是</w>
+<w POS="r">某些</w>
+<w POS="n">政府部门</w>
+<w POS="u">的</w>
+<w POS="vn">牵制</w>
+<w POS="c">和</w>
+<w POS="vn">干预</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0020">
+<w POS="m">大多数</w>
+<w POS="n">外商</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出于</seg></w>
+<w POS="v">追求</w>
+<w POS="n">事业</w>
+<w POS="u">的</w>
+<w POS="an">成功</w>
+<w POS="c">而</w>
+<w POS="v">选择</w>
+<w POS="v">来华</w>
+<w POS="v">工作</w>
+<w POS="d">并</w>
+<w POS="d">不</w>
+<w POS="v">后悔</w>
+<c POS="ew">。</c>
+</s>
+<s n="0021">
+<w POS="j">中</w>
+<w POS="j">日</w>
+<w POS="v">合资</w>
+<w POS="u">的</w>
+<w POS="nz">南通力王</w>
+<w POS="n">有限公司</w>
+<w POS="n">总经理</w>
+<w POS="nr">加藤纪生</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">企业</w>
+<w POS="v">成立</w>
+<w POS="d">便</w>
+<w POS="v">来华</w>
+<w POS="v">工作</w>
+<c POS="w">，</c>
+<w POS="d">至今</w>
+<w POS="d">已</w>
+<w POS="v">有</w>
+<w POS="m">７</w>
+<w POS="q">年</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0022">
+<w POS="r">他</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">操</seg></w>
+<w POS="u">着</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">口</seg></w>
+<w POS="a">流利</w>
+<w POS="u">的</w>
+<w POS="nz">汉语</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="nz">南通力王</w>
+<w POS="v">投产</w>
+<w POS="m">一</w>
+<w POS="q">年</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<c POS="w">，</c>
+<w POS="ns">日本</w>
+<w POS="nz">力王</w>
+<w POS="d">就</w>
+<w POS="d">先后</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">关闭</seg></w>
+<w POS="u">了</w>
+<w POS="r">它</w>
+<w POS="p">在</w>
+<w POS="ns">台湾</w>
+<w POS="c">和</w>
+<w POS="ns">南朝鲜</w>
+<w POS="u">的</w>
+<w POS="n">分厂</w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="p">将</w>
+<w POS="n">资金</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">转移</seg></w>
+<w POS="v">到</w>
+<w POS="ns">中国</w>
+<c POS="ew">。</c>
+</s>
+<s n="0023">
+<w POS="m">７</w>
+<w POS="q">年</w>
+<w POS="f">来</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这家</seg></w>
+<w POS="n">企业</w>
+<w POS="u">所</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获</seg></w>
+<w POS="n">利润</w>
+<c POS="w">，</c>
+<w POS="d">已</w>
+<w POS="v">达到</w>
+<w POS="vn">注册</w>
+<w POS="n">资本</w>
+<w POS="u">的</w>
+<w POS="m">６</w>
+<w POS="q">倍</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

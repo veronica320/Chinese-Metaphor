@@ -1,0 +1,450 @@
+﻿<p>
+<s n="0063">
+<w POS="tg">昨</w>
+<c POS="w">（</c>
+<w POS="m">２４</w>
+<c POS="w">）</c>
+<w POS="rg">日</w>
+<w POS="t">上午</w>
+<c POS="w">，</c>
+<w POS="ns">成都市</w>
+<w POS="l">人民政府</w>
+<w POS="n">办公厅</w>
+<w POS="v">举行</w>
+<w POS="a">紧急</w>
+<w POS="n">会议</w>
+<c POS="ew">。</c>
+</s>
+<s n="0064">
+<w POS="n">市政府</w>
+<w POS="u">的</w>
+<w POS="m">几</w>
+<w POS="q">位</w>
+<w POS="n">局长</w>
+<w POS="c">和</w>
+<w POS="b">副</w>
+<w POS="n">局长</w>
+<w POS="v">拿</w>
+<w POS="u">着</w>
+<w POS="a">紧急</w>
+<w POS="n">会议</w>
+<w POS="n">通知</w>
+<c POS="w">，</c>
+<w POS="d">纷纷</w>
+<w POS="v">打听</w>
+<w POS="v">开会</w>
+<w POS="n">内容</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="d">都</w>
+<w POS="m">一</w>
+<w POS="v">问</w>
+<w POS="m">三</w>
+<w POS="v">不知</w>
+<c POS="w">，</c>
+<w POS="v">到</w>
+<w POS="n">会场</w>
+<w POS="m">一</w>
+<w POS="v">看</w>
+<c POS="w">，</c>
+<w POS="d">才</w>
+<w POS="v">知道</w>
+<w POS="v">参加</w>
+<w POS="a">紧急</w>
+<w POS="n">会议</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="d">全</w>
+<w POS="v">是</w>
+<w POS="t">２３日</w>
+<w POS="t">下午</w>
+<w POS="n">市</w>
+<w POS="n">计划经济</w>
+<w POS="n">工作</w>
+<w POS="n">会议</w>
+<w POS="v">开会</w>
+<w POS="ng">时</w>
+<w POS="v">缺席</w>
+<w POS="u">的</w>
+<w POS="n">部门</w>
+<w POS="vn">领导</w>
+<w POS="n">同志</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0065">
+<w POS="t">２３日</w>
+<w POS="v">是</w>
+<w POS="t">星期天</w>
+<c POS="w">，</c>
+<w POS="ns">成都市</w>
+<w POS="n">计划经济</w>
+<w POS="n">工作</w>
+<w POS="n">会议</w>
+<w POS="t">上午</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">开幕</seg></w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="v">决定</w>
+<w POS="t">下午</w>
+<w POS="m">２</w>
+<w POS="t">点</w>
+<w POS="m">半</w>
+<w POS="v">继续</w>
+<w POS="v">开会</w>
+<c POS="ew">。</c>
+</s>
+<s n="0066">
+<w POS="n">时间</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="u">了</w>
+<c POS="w">，</c>
+<w POS="v">应该</w>
+<w POS="v">出席</w>
+<w POS="u">的</w>
+<w POS="m">４００</w>
+<w POS="n">人</w>
+<w POS="d">只</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">到</seg></w>
+<w POS="u">了</w>
+<w POS="m">一半</w>
+<c POS="ew">。</c>
+</s>
+<s n="0067">
+<w POS="m">２</w>
+<w POS="t">点</w>
+<w POS="t">４０分</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">人员</w>
+<w POS="d">没有</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">到</seg></w>
+<w POS="a">齐</w>
+<w POS="u">的</w>
+<w POS="n">情况</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<c POS="w">，</c>
+<w POS="nr">刁</w>
+<w POS="nr">金祥</w>
+<w POS="n">市长</w>
+<w POS="d">仍然</w>
+<w POS="v">决定</w>
+<w POS="v">开会</w>
+<c POS="ew">。</c>
+</s>
+<s n="0068">
+<w POS="m">３</w>
+<w POS="t">点</w>
+<w POS="t">２０分</w>
+<c POS="w">，</c>
+<w POS="nr">刁</w>
+<w POS="n">市长</w>
+<w POS="v">走</w>
+<w POS="v">到</w>
+<w POS="n">会场</w>
+<w POS="f">中</w>
+<w POS="v">去</w>
+<w POS="m">一个</w>
+<w POS="m">一个</w>
+<w POS="v">数</w>
+<w POS="n">人头</w>
+<c POS="w">，</c>
+<w POS="c">然后</w>
+<w POS="p">对</w>
+<w POS="n">大会</w>
+<w POS="n">工作</w>
+<w POS="n">人员</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<w POS="ad">实</w>
+<w POS="v">到</w>
+<w POS="m">３２１</w>
+<w POS="n">人</w>
+<c POS="ew">。</c>
+</s>
+<s n="0069">
+<w POS="n">大会</w>
+<w POS="d">又</w>
+<w POS="v">进行</w>
+<w POS="u">了</w>
+<w POS="m">一个</w>
+<w POS="m">多</w>
+<w POS="n">小时</w>
+<c POS="ew">。</c>
+</s>
+<s n="0070">
+<w POS="m">５</w>
+<w POS="t">点</w>
+<w POS="n">钟</w>
+<c POS="ew">。</c>
+</s>
+<s n="0071">
+<w POS="nr">刁</w>
+<w POS="n">市长</w>
+<w POS="v">见</w>
+<w POS="f">下面</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<w POS="d">又</w>
+<w POS="v">少</w>
+<w POS="u">了</w>
+<w POS="q">些</w>
+<c POS="w">，</c>
+<w POS="d">便</w>
+<w POS="v">请</w>
+<w POS="n">工作</w>
+<w POS="n">人员</w>
+<w POS="v">到</w>
+<w POS="n">会场</w>
+<w POS="v">去</w>
+<w POS="p">把</w>
+<w POS="v">在场</w>
+<w POS="u">的</w>
+<w POS="n">人员</w>
+<w POS="p">按</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">单位</seg></w>
+<c POS="w">、</c>
+<w POS="n">姓名</w>
+<w POS="d">逐一</w>
+<w POS="v">进行</w>
+<w POS="u">了</w>
+<w POS="vn">登记</w>
+<c POS="ew">。</c>
+</s>
+<s n="0072">
+<w POS="v">汇总</w>
+<w POS="u">的</w>
+<w POS="n">名单</w>
+<w POS="p">比</w>
+<w POS="r">他</w>
+<w POS="t">刚才</w>
+<w POS="m">数</w>
+<w POS="u">的</w>
+<w POS="d">又</w>
+<w POS="v">少</w>
+<w POS="u">了</w>
+<w POS="m">５０</w>
+<w POS="m">多</w>
+<w POS="n">人</w>
+<c POS="ew">。</c>
+</s>
+<s n="0073">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">就是</w>
+<w POS="n">办公厅</w>
+<w POS="v">召开</w>
+<w POS="v">发急</w>
+<w POS="n">会议</w>
+<w POS="u">的</w>
+<w POS="n">原因</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0074">
+<w POS="v">出席</w>
+<w POS="a">紧急</w>
+<w POS="n">会议</w>
+<w POS="u">的</w>
+<w POS="v">有</w>
+<w POS="t">２３日</w>
+<w POS="t">下午</w>
+<w POS="d">没</w>
+<w POS="v">到会</w>
+<w POS="u">的</w>
+<w POS="m">２０</w>
+<w POS="q">个</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">单位</seg></w>
+<w POS="u">的</w>
+<w POS="n">负责人</w>
+<c POS="w">，</c>
+<w POS="m">大部分</w>
+<w POS="v">是</w>
+<w POS="b">市级</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机关</seg></w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0075">
+<w POS="j">市府</w>
+<w POS="n">秘书长</w>
+<w POS="ad">简要</w>
+<w POS="v">讲</w>
+<w POS="u">了</w>
+<w POS="n">会议</w>
+<w POS="u">的</w>
+<w POS="n">议题</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<c POS="w">，</c>
+<w POS="nr">朱</w>
+<w POS="nr">永明</w>
+<w POS="b">副</w>
+<w POS="n">市长</w>
+<w POS="v">没有</w>
+<w POS="n">客套话</w>
+<c POS="w">，</c>
+<w POS="n">代表</w>
+<w POS="n">市政府</w>
+<w POS="v">宣布</w>
+<w POS="m">３</w>
+<w POS="q">条</w>
+<c POS="w">：</c>
+<w POS="m">一</w>
+<c POS="w">、</c>
+<w POS="n">市政府</w>
+<w POS="d">将</w>
+<w POS="d">无故</w>
+<w POS="d">不</w>
+<w POS="v">到会</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">单位</seg></w>
+<w POS="c">和</w>
+<w POS="n">个人</w>
+<w POS="n">姓名</w>
+<w POS="v">通报</w>
+<w POS="n">市政府</w>
+<w POS="r">各</w>
+<w POS="n">职能</w>
+<w POS="n">部门</w>
+<c POS="w">：</c>
+<w POS="m">二</w>
+<c POS="w">、</c>
+<w POS="p">作为</w>
+<w POS="n">市政府</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">目标</seg></w>
+<w POS="vn">考核</w>
+<w POS="u">的</w>
+<w POS="n">内容</w>
+<c POS="w">，</c>
+<w POS="v">扣除</w>
+<w POS="n">所在</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">单位</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">目标</seg></w>
+<w POS="n">奖</w>
+<c POS="ew">。</c>
+</s>
+<s n="0076">
+<w POS="v">扣除</w>
+<w POS="r">多少</w>
+<w POS="p">按</w>
+<w POS="v">缺席</w>
+<w POS="n">会议</w>
+<w POS="u">的</w>
+<w POS="n">领导</w>
+<w POS="c">和</w>
+<w POS="n">部门</w>
+<w POS="vn">报到</w>
+<w POS="n">人数</w>
+<w POS="c">而</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">定</seg></w>
+<c POS="w">，</c>
+<w POS="ad">具体</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="n">市政府</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">目标</seg></w>
+<w POS="n">办公室</w>
+<w POS="c">和</w>
+<w POS="n">市</w>
+<w POS="vn">查办</w>
+<w POS="n">处</w>
+<w POS="v">执行</w>
+<c POS="ew">；</c>
+</s>
+<s n="0077">
+<w POS="m">三</w>
+<c POS="w">、</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="t">下午</w>
+<w POS="u">的</w>
+<w POS="vn">缺席</w>
+<w POS="n">内容</w>
+<w POS="v">进行</w>
+<w POS="v">补课</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0078">
+<w POS="p">据</w>
+<w POS="v">了解</w>
+<c POS="w">，</c>
+<w POS="c">尽管</w>
+<w POS="t">２３日</w>
+<w POS="t">下午</w>
+<w POS="u">的</w>
+<w POS="n">会议</w>
+<c POS="w">，</c>
+<w POS="v">缺席</w>
+<c POS="w">、</c>
+<w POS="v">溜号</w>
+<w POS="k">者</w>
+<w POS="ag">众</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="t">晚上</w>
+<w POS="v">吃</w>
+<w POS="n">会议</w>
+<w POS="n">伙食</w>
+<w POS="c">和</w>
+<w POS="v">看</w>
+<w POS="n">电影</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<c POS="w">＂</c>
+<w POS="v">缺席</w>
+<w POS="k">者</w>
+<c POS="w">＂</c>
+<w POS="d">却</w>
+<w POS="p">比</w>
+<w POS="t">下午</w>
+<w POS="v">少</w>
+<w POS="u">得</w>
+<w POS="a">多</w>
+<c POS="ew">。</c>
+</s>
+<s n="0079">
+<w POS="nr">刁</w>
+<w POS="n">市长</w>
+<w POS="v">强调</w>
+<c POS="w">，</c>
+<w POS="v">开会</w>
+<w POS="d">就</w>
+<w POS="u">得</w>
+<w POS="v">逗</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">硬</seg></w>
+<c POS="w">，</c>
+<w POS="d">不</w>
+<w POS="v">搞</w>
+<w POS="i">下不为例</w>
+<c POS="w">，</c>
+<w POS="c">不然</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机关</seg></w>
+<w POS="n">作风</w>
+<w POS="v">没法</w>
+<w POS="v">转变</w>
+<c POS="ew">。</c>
+</s>
+<s n="0080">
+<w POS="v">散会</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<c POS="w">，</c>
+<w POS="m">几</w>
+<w POS="q">个</w>
+<w POS="n">负责人</w>
+<w POS="d">边</w>
+<w POS="v">走</w>
+<w POS="d">边</w>
+<w POS="v">议论</w>
+<w POS="n">说</w>
+<c POS="w">：</c>
+<w POS="nr">刁</w>
+<w POS="n">市长</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">动</seg></w>
+<w POS="n">真格</w>
+<w POS="y">啦</w>
+<c POS="ew">！</c>
+</s>
+</p>
+

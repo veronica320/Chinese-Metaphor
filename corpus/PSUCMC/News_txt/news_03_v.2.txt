@@ -1,0 +1,385 @@
+﻿<p>
+<s n="0071">
+<w POS="t">６月</w>
+<w POS="t">６日</w>
+<c POS="w">，</c>
+<w POS="n">天</w>
+<w POS="d">还</w>
+<w POS="d">未</w>
+<w POS="v">亮</w>
+<c POS="w">，</c>
+<w POS="ns">宁夏</w>
+<w POS="nz">回族</w>
+<w POS="n">自治区</w>
+<w POS="n">党委</w>
+<w POS="n">大院</w>
+<w POS="d">便</w>
+<w POS="a">热闹</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<c POS="w">，</c>
+<w POS="m">一</w>
+<w POS="q">辆</w>
+<w POS="a">别致</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="nz">东风</w>
+<c POS="w">＂</c>
+<w POS="v">加长</w>
+<w POS="a">大</w>
+<w POS="n">卡车</w>
+<w POS="v">满载</w>
+<w POS="n">道具</w>
+<w POS="v">开</w>
+<w POS="u">了</w>
+<w POS="v">进来</w>
+<c POS="ew">。</c>
+</s>
+<s n="0072">
+<w POS="n">车</w>
+<w POS="m">一</w>
+<w POS="v">停</w>
+<c POS="w">，</c>
+<w POS="s">车上</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<w POS="d">便</w>
+<w POS="v">跳</w>
+<w POS="v">下</w>
+<w POS="n">车</w>
+<c POS="w">，</c>
+<w POS="v">卸车</w>
+<c POS="w">、</c>
+<w POS="v">装</w>
+<w POS="n">台</w>
+<c POS="w">，</c>
+<w POS="r">一切</w>
+<w POS="d">都</w>
+<w POS="i">有条不紊</w>
+<c POS="w">、</c>
+<w POS="a">忙</w>
+<w POS="c">而</w>
+<w POS="d">不</w>
+<w POS="a">乱</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0073">
+<w POS="d">原来</w>
+<c POS="w">，</c>
+<w POS="ns">宁夏</w>
+<w POS="n">话剧团</w>
+<w POS="v">改装</w>
+<w POS="u">了</w>
+<w POS="m">一</w>
+<w POS="q">台</w>
+<w POS="n">大篷车</w>
+<c POS="w">，</c>
+<w POS="v">排演</w>
+<w POS="u">了</w>
+<w POS="n">话剧</w>
+<c POS="w">《</c>
+<w POS="nz">天下第一难</w>
+<c POS="w">》</c>
+<w POS="t">今天</w>
+<w POS="v">要</w>
+<w POS="v">登</w>
+<w POS="n">车</w>
+<w POS="v">试演</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0074">
+<w POS="r">这</w>
+<w POS="q">台</w>
+<c POS="w">＂</c>
+<w POS="nz">东风</w>
+<c POS="w">＂</c>
+<w POS="v">加长</w>
+<w POS="a">大</w>
+<w POS="n">卡车</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="n">自治区</w>
+<w POS="n">党委</w>
+<w POS="c">和</w>
+<w POS="l">人民政府</w>
+<w POS="p">为</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">支持</seg></w>
+<w POS="ns">宁夏</w>
+<w POS="n">话剧团</w>
+<w POS="v">坚持</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">送</seg></w>
+<w POS="n">戏</w>
+<w POS="v">下乡</w>
+<w POS="u">的</w>
+<w POS="a">正确</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">方向</seg></w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">拉</seg></w>
+<w POS="n">专款</w>
+<w POS="v">购置</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0075">
+<w POS="m">多年</w>
+<w POS="f">来</w>
+<c POS="w">，</c>
+<w POS="ns">宁夏</w>
+<w POS="n">话剧团</w>
+<w POS="p">为</w>
+<w POS="n">农民</w>
+<w POS="v">演戏</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">为</seg></w>
+<w POS="v">振兴</w>
+<w POS="n">话剧</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做出</seg></w>
+<w POS="u">了</w>
+<w POS="a">突出</w>
+<w POS="n">贡献</w>
+<c POS="w">，</c>
+<w POS="v">受到</w>
+<w POS="n">中央</w>
+<w POS="vn">有关</w>
+<w POS="j">部委</w>
+<w POS="c">和</w>
+<w POS="ns">宁夏</w>
+<w POS="j">党政</w>
+<w POS="n">部门</w>
+<w POS="u">的</w>
+<w POS="a">充分</w>
+<w POS="vn">肯定</w>
+<c POS="ew">。</c>
+</s>
+<s n="0076">
+<w POS="t">现在</w>
+<w POS="v">有</w>
+<w POS="u">了</w>
+<w POS="v">演出</w>
+<w POS="u">的</w>
+<w POS="a">大</w>
+<w POS="n">卡车</w>
+<c POS="w">，</c>
+<w POS="d">更是</w>
+<w POS="i">锦上添花</w>
+<c POS="ew">。</c>
+</s>
+<s n="0077">
+<w POS="ns">宁夏</w>
+<w POS="n">话剧团</w>
+<w POS="d">专门</w>
+<w POS="p">从</w>
+<w POS="ns">北京</w>
+<w POS="v">请来</w>
+<w POS="a">著名</w>
+<w POS="n">舞台</w>
+<w POS="n">设计师</w>
+<c POS="w">，</c>
+<w POS="p">对</w>
+<w POS="n">卡车</w>
+<w POS="v">进行</w>
+<w POS="vn">改装</w>
+<c POS="ew">。</c>
+</s>
+<s n="0078">
+<w POS="t">现在</w>
+<c POS="w">，</c>
+<w POS="n">卡车</w>
+<w POS="m">三</w>
+<w POS="q">面</w>
+<w POS="n">车</w>
+<w POS="ng">帮</w>
+<w POS="v">放</w>
+<w POS="a">平</w>
+<c POS="w">，</c>
+<w POS="n">台</w>
+<w POS="a">宽</w>
+<w POS="m">９</w>
+<w POS="q">米</w>
+<w POS="m">多</w>
+<c POS="w">、</c>
+<w POS="n">台</w>
+<w POS="a">深</w>
+<w POS="m">５</w>
+<w POS="q">米</w>
+<w POS="m">多</w>
+<c POS="w">、</c>
+<w POS="n">舞台</w>
+<w POS="n">面积</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">达</seg></w>
+<w POS="m">５０</w>
+<w POS="q">平方米</w>
+<c POS="w">，</c>
+<w POS="ad">完全</w>
+<w POS="v">可以</w>
+<w POS="v">演出</w>
+<w POS="b">大型</w>
+<w POS="n">戏剧</w>
+<c POS="ew">。</c>
+</s>
+<s n="0079">
+<w POS="d">难怪</w>
+<w POS="r">有人</w>
+<w POS="v">称</w>
+<w POS="r">它</w>
+<w POS="v">是</w>
+<c POS="w">＂</c>
+<w POS="ns">中国</w>
+<w POS="m">第一</w>
+<w POS="n">戏剧</w>
+<w POS="n">大篷车</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0080">
+<w POS="d">很快</w>
+<c POS="w">，</c>
+<w POS="v">搭台</w>
+<c POS="w">、</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">置</seg></w>
+<w POS="ng">景</w>
+<c POS="w">、</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">装</seg></w>
+<w POS="n">道具</w>
+<w POS="r">一切</w>
+<w POS="v">完毕</w>
+<c POS="ew">。</c>
+</s>
+<s n="0081">
+<w POS="d">总共</w>
+<w POS="v">用</w>
+<w POS="u">了</w>
+<w POS="m">１</w>
+<w POS="n">小时</w>
+<w POS="m">２０</w>
+<w POS="q">分钟</w>
+<c POS="ew">！</c>
+</s>
+</p>
+<p>
+<s n="0082">
+<w POS="m">９</w>
+<w POS="t">点</w>
+<w POS="n">钟</w>
+<c POS="w">，</c>
+<w POS="ns">宁夏</w>
+<w POS="n">方言</w>
+<w POS="n">话剧</w>
+<c POS="w">《</c>
+<w POS="nz">天下第一难</w>
+<c POS="w">》</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">具有</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">浓郁</seg></w>
+<w POS="n">地方</w>
+<w POS="n">特色</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="ns">宁夏</w>
+<w POS="n">花儿</w>
+<c POS="w">＂</c>
+<w POS="n">歌声</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v">开始</w>
+<c POS="ew">。</c>
+</s>
+<s n="0083">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这部</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">反映</seg></w>
+<w POS="n">农村</w>
+<w POS="l">计划生育</w>
+<w POS="n">工作</w>
+<w POS="u">的</w>
+<w POS="n">戏</w>
+<c POS="w">，</c>
+<w POS="v">宣传</w>
+<w POS="u">了</w>
+<w POS="a">基本</w>
+<w POS="n">国策</w>
+<c POS="w">，</c>
+<w POS="n">主题</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">鲜明</seg></w>
+<c POS="w">、</c>
+<w POS="v">切中</w>
+<w POS="n">时弊</w>
+<c POS="w">，</c>
+<w POS="n">语言</w>
+<w POS="a">诙谐</w>
+<c POS="w">、</c>
+<w POS="a">俏皮</w>
+<c POS="w">，</c>
+<w POS="d">不时</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">激起</seg></w>
+<w POS="s">台下</w>
+<w POS="n">机关干部</w>
+<w POS="k">们</w>
+<w POS="a">开心</w>
+<w POS="u">的</w>
+<w POS="n">笑声</w>
+<c POS="ew">。</c>
+</s>
+<s n="0084">
+<w POS="b">整个</w>
+<w POS="n">舞台</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="t">过去</w>
+<w POS="u">的</w>
+<w POS="b">封闭式</w>
+<w POS="v">变为</w>
+<w POS="b">开放式</w>
+<c POS="w">，</c>
+<w POS="n">演员</w>
+<w POS="p">从</w>
+<w POS="n">观众</w>
+<w POS="f">中</w>
+<w POS="v">上场</w>
+<c POS="w">，</c>
+<w POS="v">下场</w>
+<w POS="d">又</w>
+<w POS="v">坐</w>
+<w POS="v">到</w>
+<w POS="n">观众</w>
+<w POS="f">中</w>
+<c POS="w">，</c>
+<w POS="v">便于</w>
+<w POS="n">演员</w>
+<w POS="c">和</w>
+<w POS="n">观众</w>
+<w POS="u">的</w>
+<w POS="vn">交流</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">收到</seg></w>
+<w POS="u">了</w>
+<w POS="d">更</w>
+<w POS="a">好</w>
+<w POS="u">的</w>
+<w POS="vn">演出</w>
+<w POS="n">效果</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0085">
+<w POS="m">１１</w>
+<w POS="t">点</w>
+<w POS="n">钟</w>
+<c POS="w">，</c>
+<w POS="vn">演出</w>
+<w POS="v">结束</w>
+<c POS="w">，</c>
+<w POS="n">观众</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="vn">演出</w>
+<w POS="v">报以</w>
+<w POS="i">经久不息</w>
+<w POS="u">的</w>
+<w POS="n">掌声</w>
+<c POS="ew">。</c>
+</s>
+</p>

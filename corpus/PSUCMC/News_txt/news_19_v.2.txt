@@ -1,0 +1,403 @@
+﻿<p>
+<s n="0003">
+<c POS="w">＂</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">一个</w>
+<w POS="n">月</w>
+<w POS="f">来</w>
+<w POS="r">我们</w>
+<w POS="d">可</w>
+<w POS="d">够</w>
+<w POS="a">忙</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="t">明天</w>
+<w POS="d">就</w>
+<w POS="t">元宵节</w>
+<w POS="y">了</w>
+<c POS="w">，</c>
+<w POS="v">买</w>
+<w POS="n">咸菜</w>
+<w POS="u">的</w>
+<w POS="d">还</w>
+<w POS="v">不见</w>
+<w POS="a">少</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0004">
+<w POS="ns">天津</w>
+<w POS="ns">和平区</w>
+<w POS="n">一家</w>
+<w POS="n">副食</w>
+<w POS="n">商场</w>
+<w POS="n">酱菜</w>
+<w POS="n">组</w>
+<w POS="n">营业员</w>
+<w POS="v">指</w>
+<w POS="u">着</w>
+<w POS="n">柜台</w>
+<w POS="f">前</w>
+<w POS="u">的</w>
+<w POS="n">顾客</w>
+<w POS="p">对</w>
+<w POS="n">记者</w>
+<w POS="v">说</w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="d">的确</w>
+<c POS="w">，</c>
+<w POS="p">在</w>
+<w POS="i">熙熙攘攘</w>
+<w POS="u">的</w>
+<w POS="n">商场</w>
+<w POS="f">内</w>
+<w POS="v">转</w>
+<w POS="u">了</w>
+<w POS="m">一</w>
+<w POS="q">圈</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">支</seg></w>
+<w POS="d">不</w>
+<w POS="a">长</w>
+<w POS="u">的</w>
+<w POS="n">队伍</w>
+<w POS="v">引起</w>
+<w POS="u">了</w>
+<w POS="n">记者</w>
+<w POS="u">的</w>
+<w POS="vn">注意</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0006">
+<c POS="w">＂</c>
+<w POS="n">大鱼</w>
+<w POS="n">大肉</w>
+<w POS="v">腻</w>
+<w POS="u">了</w>
+<c POS="w">，</c>
+<w POS="v">换换</w>
+<w POS="n">口味</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0007">
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="n">大娘</w>
+<w POS="v">交</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">完</seg></w>
+<w POS="n">钱</w>
+<w POS="v">转</w>
+<w POS="v">过</w>
+<w POS="ng">身</w>
+<c POS="w">，</c>
+<w POS="v">晃</w>
+<w POS="u">了</w>
+<w POS="v">晃</w>
+<w POS="s">手中</w>
+<w POS="u">的</w>
+<w POS="m">几</w>
+<w POS="q">个</w>
+<w POS="n">塑料</w>
+<w POS="n">食品袋</w>
+<c POS="w">，</c>
+<w POS="n">绿色</w>
+<w POS="u">的</w>
+<w POS="n">黄瓜</w>
+<w POS="ng">条</w>
+<c POS="w">、</c>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">深</seg></w>
+<w POS="n">紫色</w>
+<w POS="u">的</w>
+<w POS="ng">芥</w>
+<w POS="n">丝</w>
+<c POS="w">、</c>
+<w POS="a">黄</w>
+<w POS="n">白色</w>
+<w POS="u">的</w>
+<w POS="n">萝卜条</w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+<w POS="v">有</w>
+<w POS="m">四五</w>
+<w POS="q">种</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0008">
+<w POS="m">一</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="n">家子</w>
+<c POS="w">，</c>
+<w POS="v">过年</w>
+<w POS="v">吃</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">动</seg></w>
+<w POS="n">荤腥</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="r">这个</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="u">得</w>
+<w POS="a">快</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0009">
+<w POS="r">她</w>
+<w POS="v">说</w>
+<w POS="u">着</w>
+<w POS="p">将</w>
+<w POS="n">酱菜</w>
+<w POS="v">放</w>
+<w POS="v">入</w>
+<w POS="vn">购物</w>
+<w POS="ng">袋</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="n">记者</w>
+<w POS="v">看到</w>
+<c POS="w">，</c>
+<w POS="q">袋</w>
+<w POS="f">内</w>
+<w POS="v">有</w>
+<w POS="m">几</w>
+<w POS="q">条</w>
+<w POS="n">鱼</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0011">
+<w POS="f">后面</w>
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="n">小伙子</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">插</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">上来</seg></w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="r">我们</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">单位</seg></w>
+<w POS="n">年轻人</w>
+<w POS="v">聚</w>
+<w POS="m">两</w>
+<w POS="q">次</w>
+<w POS="y">了</w>
+<c POS="w">，</c>
+<w POS="r">每次</w>
+<w POS="d">都</w>
+<w POS="u">得</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">来</seg></w>
+<w POS="m">几</w>
+<w POS="q">种</w>
+<w POS="n">小菜</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0012">
+<w POS="n">柜台</w>
+<w POS="f">内</w>
+<c POS="w">，</c>
+<w POS="m">一盆盆</w>
+<w POS="a">辣</w>
+<w POS="n">萝卜条</w>
+<c POS="w">、</c>
+<w POS="n">酱黄瓜</w>
+<c POS="w">、</c>
+<w POS="ng">芥</w>
+<w POS="n">丝</w>
+<c POS="w">、</c>
+<w POS="n">地</w>
+<w POS="ng">螺</w>
+<c POS="w">、</c>
+<w POS="n">酱</w>
+<w POS="m">八</w>
+<w POS="n">宝</w>
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="m">十几</w>
+<w POS="q">种</w>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="v">看上去</w>
+<w POS="n">酱</w>
+<w POS="ng">汁</w>
+<w POS="a">饱满</w>
+<c POS="w">、</c>
+<w POS="n">辣椒</w>
+<w POS="ng">末</w>
+<w POS="c">和</w>
+<w POS="n">芝麻</w>
+<w POS="u">似的</w>
+<w POS="n">配料</w>
+<w POS="a">新鲜</w>
+<w POS="a">诱人</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="n">营业员</w>
+<w POS="vd">抽空</w>
+<w POS="v">回答</w>
+<w POS="n">记者</w>
+<w POS="u">的</w>
+<w POS="n">问题</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="d">不</w>
+<w POS="v">像</w>
+<w POS="t">过去</w>
+<w POS="y">了</w>
+<c POS="w">，</c>
+<w POS="n">大头</w>
+<w POS="n">萝卜</w>
+<w POS="l">老三样</w>
+<w POS="d">不</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">那个</seg></w>
+<w POS="a">咸</w>
+<w POS="dg"><seg function="mrw" type="indir" subtype="cont">劲</seg></w>
+<w POS="v">是</w>
+<w POS="p">为了</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">就</seg></w>
+<w POS="n">窝头</w>
+<w POS="v">下饭</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="t">现在</w>
+<w POS="r">这些</w>
+<w POS="v">是</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">低</seg></w>
+<w POS="n">盐</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="c">或</w>
+<w POS="a">甜</w>
+<w POS="a">麻辣</w>
+<w POS="a">咸</w>
+<w POS="a">酸</w>
+<c POS="w">，</c>
+<w POS="c">或</w>
+<w POS="i">兼而有之</w>
+<c POS="w">，</c>
+<w POS="n">风味</w>
+<w POS="a">不同</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0016">
+<w POS="c">尽管</w>
+<w POS="t">元宵节</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<w POS="u">的</w>
+<w POS="ns">天津</w>
+<w POS="n">副食品</w>
+<w POS="n">市场</w>
+<w POS="d">依然</w>
+<w POS="v">保持</w>
+<w POS="u">着</w>
+<w POS="t">腊月</w>
+<w POS="f">以来</w>
+<w POS="u">的</w>
+<w POS="an">兴旺</w>
+<c POS="w">，</c>
+<w POS="r">各</w>
+<w POS="n">副食</w>
+<w POS="n">商场</w>
+<w POS="n">鸡</w>
+<w POS="n">虾</w>
+<w POS="n">鱼肉</w>
+<c POS="w">、</c>
+<w POS="n">蔬菜</w>
+<w POS="n">水果</w>
+<w POS="n">货源</w>
+<w POS="a">足</w>
+<c POS="w">，</c>
+<w POS="vn">购买</w>
+<w POS="a">方便</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="d">仍</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出现</seg></w>
+<w POS="u">了</w>
+<w POS="l"><seg function="mrw" type="indir" subtype="conv">不大不小</seg></w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n">咸菜</w>
+<w POS="k"><seg function="mrw" type="indir" subtype="conv">热</seg></w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0017">
+<w POS="p">据</w>
+<w POS="v">了解</w>
+<c POS="w">，</c>
+<w POS="t">春节</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前后</seg></w>
+<w POS="u">的</w>
+<w POS="m">一个</w>
+<w POS="n">月</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">内</seg></w>
+<c POS="w">，</c>
+<w POS="r">该市</w>
+<w POS="a">小</w>
+<w POS="n">包装</w>
+<w POS="n">酱菜</w>
+<w POS="v">买</w>
+<w POS="u">了</w>
+<w POS="m">７０万</w>
+<w POS="q">袋</w>
+<c POS="w">，</c>
+<w POS="p">比</w>
+<w POS="t">去年</w>
+<w POS="f">同期</w>
+<w POS="v">增加</w>
+<w POS="m">２３％</w>
+<c POS="w">，</c>
+<w POS="b">散装</w>
+<w POS="u">的</w>
+<w POS="v">销</w>
+<w POS="u">了</w>
+<w POS="m">６０</w>
+<w POS="m">多</w>
+<w POS="m">万</w>
+<w POS="q">斤</w>
+<c POS="w">，</c>
+<w POS="v">增</w>
+<w POS="m">１１％</w>
+<c POS="w">，</c>
+<w POS="ad">多</w>
+<w POS="v">是</w>
+<w POS="ns">天津市</w>
+<w POS="n">副食</w>
+<w POS="n">调料</w>
+<w POS="n">公司</w>
+<w POS="u">的</w>
+<w POS="n">新品种</w>
+<c POS="w">，</c>
+<w POS="v">还有</w>
+<w POS="m">大量</w>
+<w POS="u">的</w>
+<w POS="v">销</w>
+<w POS="p">往</w>
+<w POS="r">各地</w>
+<w POS="c">并</w>
+<w POS="v">出口</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

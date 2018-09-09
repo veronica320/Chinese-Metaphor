@@ -1,0 +1,397 @@
+﻿<p>
+<s n="0002">
+<w POS="v">影响</w>
+<w POS="n">消费者</w>
+<w POS="n">行为</w>
+<w POS="u">的</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外部</seg></w>
+<w POS="n">因素</w>
+<c POS="w">，</c>
+<w POS="p">除了</w>
+<w POS="r">我们</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前面</seg></w>
+<w POS="v">论述</w>
+<w POS="u">的</w>
+<w POS="n">社会</w>
+<w POS="n">文化</w>
+<c POS="w">、</c>
+<w POS="n">社会</w>
+<w POS="n">阶层</w>
+<w POS="c">及</w>
+<w POS="vn">参考</w>
+<w POS="n">群体</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之外</seg></w>
+<c POS="w">，</c>
+<w POS="v">还有</w>
+<w POS="m">一个</w>
+<w POS="d">最</w>
+<w POS="a">直接</w>
+<c POS="w">、</c>
+<w POS="d">最</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强烈</seg></w>
+<c POS="w">、</c>
+<w POS="d">最</w>
+<w POS="v">有</w>
+<w POS="n">说服力</w>
+<w POS="u">的</w>
+<w POS="vn">影响</w>
+<w POS="n">因素</w>
+<c POS="w">－－</c>
+<w POS="n">家庭</w>
+<c POS="ew">。</c>
+</s>
+<s n="0003">
+<w POS="n">家庭</w>
+<w POS="c">由于</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">规模</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">小</seg></w>
+<c POS="w">、</c>
+<w POS="n">成员</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">间</seg></w>
+<w POS="n">利益</w>
+<w POS="a">一致</w>
+<c POS="w">，</c>
+<w POS="v">联系</w>
+<w POS="a">紧密</w>
+<c POS="w">，</c>
+<w POS="c">而且</w>
+<w POS="v">具有</w>
+<w POS="d">比较</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">相近</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="n">观念</w>
+<c POS="w">、</c>
+<w POS="n">社会</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">态度</seg></w>
+<w POS="c">和</w>
+<w POS="n">行为</w>
+<w POS="n">准则</w>
+<c POS="w">，</c>
+<w POS="d">实际上</w>
+<w POS="d">也</w>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="a">典型</w>
+<w POS="u">的</w>
+<w POS="vn">参考</w>
+<w POS="n">群体</w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="n">消费者</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对于</seg></w>
+<w POS="vn">花钱</w>
+<w POS="c">和</w>
+<w POS="n">积蓄</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">态度</seg></w>
+<c POS="w">、</c>
+<w POS="d">甚至</w>
+<w POS="v">购买</w>
+<w POS="r">什么</w>
+<w POS="n">产品</w>
+<c POS="w">、</c>
+<w POS="r">哪</w>
+<w POS="q">种</w>
+<w POS="n">牌号</w>
+<w POS="d">都</w>
+<w POS="d">经常</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">打</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">上</seg></w>
+<w POS="n">家庭</w>
+<w POS="vn">影响</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">烙印</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="l">不仅如此</w>
+<c POS="w">，</c>
+<w POS="n">家庭</w>
+<w POS="d">还是</w>
+<w POS="m">一个</w>
+<w POS="n">收入</w>
+<w POS="c">或</w>
+<w POS="n">财产</w>
+<w POS="u">的</w>
+<w POS="a">基本</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">单位</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0006">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">家庭</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="n">成员</w>
+<w POS="u">的</w>
+<w POS="n">需求</w>
+<w POS="l"><seg function="mrw" type="indir" subtype="cont">多种多样</seg></w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="v">受</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">有限</seg></w>
+<w POS="n">收入</w>
+<w POS="u">的</w>
+<w POS="vn">约束</w>
+<c POS="w">，</c>
+<w POS="d">不</w>
+<w POS="v">可能</w>
+<w POS="d">都</w>
+<w POS="v">能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">得到</seg></w>
+<w POS="vn">满足</w>
+<c POS="w">，</c>
+<w POS="c">因此</w>
+<c POS="w">，</c>
+<w POS="m">许多</w>
+<w POS="v">购买</w>
+<w POS="c">和</w>
+<w POS="v">消费</w>
+<w POS="u">的</w>
+<w POS="n">决策</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="n">集体</w>
+<w POS="v">作出</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">即</w>
+<w POS="n">家庭</w>
+<w POS="n">成员</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="r">如何</w>
+<w POS="v">利用</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">有限</seg></w>
+<w POS="u">的</w>
+<w POS="n">资财</w>
+<w POS="v">满足</w>
+<w POS="m"><seg function="mrw" type="indir" subtype="cont">众多</seg></w>
+<w POS="u">的</w>
+<w POS="n">需要</w>
+<w POS="d">必须</w>
+<w POS="d">经常</w>
+<w POS="v">进行</w>
+<w POS="vn">协商</w>
+<w POS="c">和</w>
+<w POS="vn">折衷</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="d">就</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">决定</seg></w>
+<w POS="n">家庭</w>
+<w POS="c">不仅</w>
+<w POS="v">是</w>
+<w POS="v">购买</w>
+<w POS="n">倾向</w>
+<w POS="u">的</w>
+<w POS="vn">参考</w>
+<w POS="n">群体</w>
+<c POS="w">，</c>
+<w POS="d">还是</w>
+<w POS="v">购买</w>
+<w POS="c">和</w>
+<w POS="v">消费</w>
+<w POS="u">的</w>
+<w POS="a">基本</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">单位</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="c">因此</w>
+<c POS="w">，</c>
+<w POS="vn">营销</w>
+<w POS="n">人员</w>
+<w POS="ad">完全</w>
+<w POS="v">有</w>
+<w POS="an">必要</w>
+<w POS="v">懂得</w>
+<w POS="n">家庭</w>
+<w POS="p">对</w>
+<w POS="r">其</w>
+<w POS="n">成员</w>
+<w POS="u">的</w>
+<w POS="vn">购买</w>
+<w POS="n">方式</w>
+<w POS="c">和</w>
+<w POS="vn">消费</w>
+<w POS="n">方式</w>
+<w POS="u">的</w>
+<w POS="vn">熏陶</w>
+<c POS="w">、</c>
+<w POS="vn"><seg function="mrw" type="indir" subtype="pers">诱导</seg></w>
+<w POS="n">作用</w>
+<c POS="w">，</c>
+<w POS="v">了解</w>
+<w POS="n">家庭</w>
+<w POS="n">成员</w>
+<w POS="v">进行</w>
+<w POS="vn">消费</w>
+<w POS="n">决策</w>
+<w POS="u">的</w>
+<w POS="n">程序</w>
+<w POS="c">以及</w>
+<w POS="n">家庭</w>
+<w POS="u">的</w>
+<w POS="vn">消费</w>
+<w POS="n">行为</w>
+<c POS="w">，</c>
+<w POS="d">才</w>
+<w POS="v">能够</w>
+<w POS="d">更</w>
+<w POS="a">好</w>
+<w POS="u">地</w>
+<w POS="v">制定</w>
+<w POS="a">有效</w>
+<w POS="u">的</w>
+<w POS="vn">营销</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">策略</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0008">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">现实</w>
+<w POS="u">的</w>
+<w POS="vn">营销</w>
+<w POS="n">活动</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="m">一些</w>
+<w POS="n">企业</w>
+<w POS="d">已经</w>
+<w POS="d">很</w>
+<w POS="a">好</w>
+<w POS="u">地</w>
+<w POS="v">利用</w>
+<w POS="n">家庭</w>
+<w POS="u">的</w>
+<w POS="a">特殊</w>
+<w POS="vn">影响</w>
+<w POS="v">进行</w>
+<w POS="n">产品</w>
+<w POS="vn">宣传</w>
+<w POS="c">并</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获得</seg></w>
+<w POS="an">成功</w>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">此</seg></w>
+<w POS="d">先</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">举</seg></w>
+<w POS="m">两</w>
+<w POS="q">个</w>
+<w POS="n">例子</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0010">
+<w POS="n">例</w>
+<w POS="m">１</w>
+<c POS="w">，</c>
+<w POS="p">以</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="n">胶卷</w>
+<c POS="w">、</c>
+<w POS="v">照相</w>
+<w POS="n">器材</w>
+<w POS="c">及</w>
+<w POS="vn">有关</w>
+<w POS="n">产品</w>
+<w POS="v">闻名</w>
+<w POS="u">的</w>
+<w POS="ns">美国</w>
+<w POS="nz">柯达</w>
+<w POS="n">公司</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">推销</w>
+<w POS="n">胶卷</w>
+<w POS="u">的</w>
+<w POS="n">广告</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">强调</seg></w>
+<w POS="u">了</w>
+<c POS="w">＂</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">捕捉</seg></w>
+<w POS="t">瞬间</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="n">主题</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">围绕</seg></w>
+<w POS="n">家庭</w>
+<w POS="vn">生活</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="m">一些</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">值得</seg></w>
+<w POS="v">纪念</w>
+<w POS="u">的</w>
+<w POS="n">活动</w>
+<w POS="c">如</w>
+<w POS="n">婚礼</w>
+<c POS="w">、</c>
+<w POS="v">毕业</w>
+<w POS="n">典礼</w>
+<c POS="w">、</c>
+<w POS="n">孩子</w>
+<w POS="vn">嬉闹</w>
+<w POS="u">等</w>
+<c POS="w">，</c>
+<w POS="v">展现</w>
+<w POS="m">一幅幅</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">反映</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">良宵</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">美景</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">图画</seg></w>
+<c POS="w">，</c>
+<w POS="v">提示</w>
+<w POS="v">利用</w>
+<w POS="nz">柯达</w>
+<w POS="n">胶卷</w>
+<w POS="d">定</w>
+<w POS="v">能</w>
+<w POS="v">满意</w>
+<w POS="u">地</w>
+<w POS="v">记录</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">珍贵</seg></w>
+<w POS="n">镜头</w>
+<c POS="ew">。</c>
+</s>
+<s n="0011">
+<w POS="n">广告</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">焦点</seg></w>
+<w POS="d">始终</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">注意</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">突出</seg></w>
+<w POS="n">家庭</w>
+<w POS="u">的</w>
+<w POS="an"><seg function="mrw" type="indir" subtype="conv">温馨</seg></w>
+<w POS="c">与</w>
+<w POS="a">亲密</w>
+<c POS="w">，</c>
+<w POS="c">以</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">激起</seg></w>
+<w POS="n">家庭</w>
+<w POS="u">的</w>
+<w POS="vn">购买</w>
+<w POS="n">欲望</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">取得</seg></w>
+<w POS="d">很</w>
+<w POS="a">好</w>
+<w POS="u">的</w>
+<w POS="n">效果</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

@@ -1,0 +1,454 @@
+﻿<p>
+<s n="0022">
+<w POS="m">几</w>
+<w POS="q">天</w>
+<w POS="f">来</w>
+<c POS="w">，</c>
+<w POS="v">饱受</w>
+<w POS="m">７</w>
+<w POS="q">个</w>
+<w POS="n">月</w>
+<w POS="n">战乱</w>
+<w POS="u">之</w>
+<w POS="n">苦</w>
+<w POS="u">的</w>
+<w POS="ns">科威特</w>
+<w POS="n">人</w>
+<c POS="w">，</c>
+<w POS="d">纷纷</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">涌</seg></w>
+<w POS="p">向</w>
+<w POS="v">作为</w>
+<w POS="ns">科威特</w>
+<w POS="n">象征</w>
+<w POS="u">的</w>
+<w POS="a">大</w>
+<w POS="n">塔</w>
+<w POS="f">附近</w>
+<w POS="u">的</w>
+<w POS="n">海湾</w>
+<w POS="n">大道</w>
+<c POS="w">，</c>
+<w POS="i">男女老少</w>
+<w POS="v">打</w>
+<w POS="u">着</w>
+<w POS="n">国旗</w>
+<c POS="w">，</c>
+<w POS="v">高呼</w>
+<w POS="n">口号</w>
+<c POS="w">，</c>
+<w POS="i">载歌载舞</w>
+<c POS="w">，</c>
+<w POS="v">欢庆</w>
+<w POS="v">收复</w>
+<w POS="n">国土</w>
+<c POS="w">，</c>
+<w POS="c">同时</w>
+<w POS="v">诉说</w>
+<w POS="n">战争</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">带来</seg></w>
+<w POS="u">的</w>
+<w POS="vn">破坏</w>
+<w POS="c">与</w>
+<w POS="an">不幸</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0023">
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="v">名叫</w>
+<w POS="nr">艾哈迈德</w>
+<w POS="u">的</w>
+<w POS="n">青年</w>
+<w POS="p">对</w>
+<w POS="n">记者</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v">赶走</w>
+<w POS="u">了</w>
+<w POS="n">侵略者</w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="d">太</w>
+<w POS="a">高兴</w>
+<w POS="y">啦</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+<s n="0024">
+<w POS="ns">科威特</w>
+<w POS="n">内阁</w>
+<w POS="n">事务</w>
+<w POS="n">大臣</w>
+<w POS="nr">阿瓦迪</w>
+<w POS="t">今天</w>
+<w POS="p">在</w>
+<w POS="n">首都</w>
+<w POS="m">首</w>
+<w POS="q">次</w>
+<w POS="v">举行</w>
+<w POS="n">记者</w>
+<w POS="n">招待会</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">介绍</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="widlii">这个</seg></w>
+<w POS="n">国家</w>
+<w POS="v">遭</w>
+<w POS="v">破坏</w>
+<w POS="u">的</w>
+<w POS="n">情况</w>
+<c POS="ew">。</c>
+</s>
+<s n="0025">
+<w POS="r">他</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="m">７</w>
+<w POS="q">个</w>
+<w POS="n">月</w>
+<w POS="u">的</w>
+<w POS="n">战乱</w>
+<w POS="d">至少</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="widlii">给</seg></w>
+<w POS="ns">科威特</w>
+<w POS="v">造成</w>
+<w POS="m">５００</w>
+<w POS="m">亿</w>
+<w POS="q">美元</w>
+<w POS="u">的</w>
+<w POS="n">经济</w>
+<w POS="n">损失</w>
+<c POS="w">，</c>
+<w POS="vn">死伤</w>
+<w POS="n">人数</w>
+<w POS="d">迄今</w>
+<w POS="v">不详</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0026">
+<w POS="n">记者</w>
+<w POS="p">在</w>
+<w POS="ns">科威特城</w>
+<w POS="u">的</w>
+<w POS="m">几</w>
+<w POS="q">条</w>
+<w POS="b">主要</w>
+<w POS="n">街道</w>
+<w POS="v">看到</w>
+<c POS="w">，</c>
+<w POS="m">大部分</w>
+<w POS="n">建筑物</w>
+<w POS="d">都</w>
+<w POS="v">遭到</w>
+<w POS="a">不同</w>
+<w POS="n">程度</w>
+<w POS="u">的</w>
+<w POS="vn">破坏</w>
+<c POS="w">，</c>
+<w POS="d">几乎</w>
+<w POS="b">所有</w>
+<w POS="u">的</w>
+<w POS="n">大楼</w>
+<c POS="w">、</c>
+<w POS="n">银行</w>
+<c POS="w">、</c>
+<w POS="n">商店</w>
+<c POS="w">、</c>
+<w POS="n">学校</w>
+<w POS="d">都</w>
+<w POS="p">被</w>
+<w POS="v">洗劫</w>
+<w POS="c">或</w>
+<w POS="v">遭</w>
+<w POS="v">火烧</w>
+<c POS="w">，</c>
+<w POS="m">一辆辆</w>
+<w POS="p">被</w>
+<w POS="v">打</w>
+<w POS="a">坏</w>
+<w POS="u">的</w>
+<w POS="n">汽车</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">残骸</seg></w>
+<w POS="v">散落</w>
+<w POS="p">在</w>
+<w POS="s">路旁</w>
+<c POS="ew">。</c>
+</s>
+<s n="0027">
+<w POS="v">位于</w>
+<w POS="s">市中心</w>
+<w POS="u">的</w>
+<w POS="b">五星级</w>
+<w POS="ns">子午线</w>
+<w POS="n">饭店</w>
+<w POS="v">遭到</w>
+<w POS="v">破坏</w>
+<w POS="d">尤为</w>
+<w POS="a">严重</w>
+<c POS="w">，</c>
+<w POS="f">下面</w>
+<w POS="m">两</w>
+<w POS="q">层</w>
+<w POS="a">多</w>
+<w POS="n">处</w>
+<w POS="p">被</w>
+<w POS="v">炸</w>
+<w POS="a">坏</w>
+<c POS="w">，</c>
+<w POS="f">上面</w>
+<w POS="m">十几</w>
+<w POS="q">层</w>
+<w POS="d">也</w>
+<w POS="v">是</w>
+<w POS="n">弹痕</w>
+<w POS="z">累累</w>
+<c POS="w">，</c>
+<w POS="i">千疮百孔</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0028">
+<w POS="a">大</w>
+<w POS="n">塔</w>
+<w POS="f">前</w>
+<w POS="u">的</w>
+<w POS="ns">埃米尔宫</w>
+<w POS="m">四</w>
+<w POS="n">门</w>
+<w POS="v">洞开</w>
+<c POS="w">，</c>
+<w POS="f">宫内</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">片</seg></w>
+<w POS="z">狼藉</w>
+<c POS="ew">。</c>
+</s>
+<s n="0029">
+<w POS="m">几</w>
+<w POS="q">幢</w>
+<w POS="n">楼</w>
+<w POS="p">被</w>
+<w POS="n">炮火</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">熏</seg></w>
+<w POS="a">黑</w>
+<c POS="w">，</c>
+<w POS="i">面目全非</w>
+<c POS="ew">。</c>
+</s>
+<s n="0030">
+<w POS="n">记者</w>
+<w POS="v">进入</w>
+<w POS="nr">埃米尔</w>
+<w POS="n">儿子</w>
+<w POS="v">住</w>
+<w POS="u">的</w>
+<w POS="m">３</w>
+<w POS="q">层</w>
+<w POS="n">楼</w>
+<w POS="n">别墅</w>
+<w POS="v">观察</w>
+<c POS="w">，</c>
+<w POS="d">竟</w>
+<w POS="d">没有</w>
+<w POS="v">发现</w>
+<w POS="m">一</w>
+<w POS="q">件</w>
+<w POS="a">完整</w>
+<w POS="u">的</w>
+<w POS="n">物品</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0031">
+<w POS="t">眼下</w>
+<c POS="w">，</c>
+<w POS="j">科</w>
+<w POS="n">全国</w>
+<w POS="v">只有</w>
+<w POS="m">６</w>
+<w POS="q">个</w>
+<w POS="n">加油站</w>
+<w POS="vd">定时</w>
+<c POS="w">、</c>
+<w POS="vd">定量</w>
+<w POS="v">供应</w>
+<w POS="n">汽油</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">等待</seg></w>
+<w POS="v">加油</w>
+<w POS="u">的</w>
+<w POS="n">车辆</w>
+<w POS="v">排</w>
+<w POS="v">成</w>
+<w POS="m">一</w>
+<c POS="w">、</c>
+<w POS="m">两</w>
+<w POS="q">公里</w>
+<w POS="u">的</w>
+<w POS="a">长</w>
+<w POS="n">队</w>
+<c POS="ew">。</c>
+</s>
+<s n="0032">
+<w POS="m">一</w>
+<w POS="q">位</w>
+<w POS="m">５０</w>
+<w POS="m">多</w>
+<w POS="q">岁</w>
+<w POS="u">的</w>
+<w POS="n">老人</w>
+<w POS="v">告诉</w>
+<w POS="r">我们</w>
+<c POS="w">，</c>
+<w POS="r">他</w>
+<w POS="v">是</w>
+<w POS="t">早上</w>
+<w POS="m">７</w>
+<w POS="t">点</w>
+<w POS="n">钟</w>
+<w POS="v">来</w>
+<w POS="v">排队</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="t">下午</w>
+<w POS="m">４</w>
+<w POS="t">点</w>
+<w POS="d">还</w>
+<w POS="d">没</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">加</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="n">油</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="r">他</w>
+<w POS="a">气愤</w>
+<w POS="u">地</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="r">我们</w>
+<w POS="l">有的是</w>
+<w POS="n">石油</w>
+<c POS="w">，</c>
+<w POS="t">现在</w>
+<w POS="d">却</w>
+<w POS="v">有</w>
+<w POS="n">油</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">加</seg></w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="p">在</w>
+<w POS="ns">科威特</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">自</seg></w>
+<w POS="v">发现</w>
+<w POS="n">石油</w>
+<w POS="f">以来</w>
+<w POS="d">还是</w>
+<w POS="m">第一</w>
+<w POS="q">次</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0034">
+<w POS="ns">科威特城</w>
+<w POS="n">水电</w>
+<w POS="d">尚未</w>
+<w POS="v">恢复</w>
+<c POS="w">，</c>
+<w POS="b">所有</w>
+<w POS="n">商店</w>
+<w POS="v">无法</w>
+<w POS="v">营业</w>
+<c POS="ew">。</c>
+</s>
+<s n="0035">
+<w POS="t">昨天</w>
+<w POS="p">从</w>
+<w POS="ns">沙特</w>
+<w POS="v">返回</w>
+<w POS="u">的</w>
+<w POS="m">９</w>
+<w POS="q">名</w>
+<w POS="n">内阁</w>
+<w POS="n">成员</w>
+<w POS="d">已</w>
+<w POS="v">着手</w>
+<w POS="vn">工作</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">抓紧</seg></w>
+<w POS="b">日常</w>
+<w POS="n">生活</w>
+<w POS="u">的</w>
+<w POS="vn">恢复</w>
+<w POS="n">工作</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0036">
+<w POS="v">入夜</w>
+<c POS="w">，</c>
+<w POS="ns">科威特城</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">片</seg></w>
+<w POS="z">漆黑</w>
+<c POS="w">，</c>
+<w POS="v">只有</w>
+<w POS="s">郊外</w>
+<w POS="z">熊熊</w>
+<w POS="v">燃烧</w>
+<w POS="u">的</w>
+<w POS="n">油田</w>
+<w POS="n">大火</w>
+<w POS="v">映</w>
+<w POS="a">红</w>
+<w POS="n">半边</w>
+<w POS="n">天际</w>
+<c POS="ew">。</c>
+</s>
+<s n="0037">
+<w POS="n">海湾</w>
+<w POS="n">大道</w>
+<w POS="d">仍然</w>
+<w POS="v">是</w>
+<w POS="v">望</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="n">首尾</w>
+<w POS="u">的</w>
+<w POS="n">车</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">龙</seg></w>
+<w POS="c">和</w>
+<w POS="n">人流</w>
+<c POS="w">，</c>
+<w POS="n">人们</w>
+<w POS="u">的</w>
+<w POS="n">口号</w>
+<w POS="ng">声</w>
+<c POS="w">、</c>
+<w POS="n">欢呼声</w>
+<w POS="c">和</w>
+<w POS="p">朝</w>
+<w POS="n">天</w>
+<w POS="v">鸣放</w>
+<w POS="u">的</w>
+<w POS="vn">喜庆</w>
+<w POS="n">枪声</w>
+<w POS="l">不绝于耳</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

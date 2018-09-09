@@ -1,0 +1,412 @@
+﻿<p>
+<s n="0033">
+<w POS="c">如果</w>
+<w POS="v">可以</w>
+<w POS="p">把</w>
+<w POS="n">历史</w>
+<w POS="v">区分</w>
+<w POS="v">成</w>
+<w POS="f">以下</w>
+<w POS="m">三</w>
+<w POS="q">个</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">层次</seg></w>
+<c POS="w">，</c>
+<w POS="n">历史</w>
+<w POS="m">Ⅰ</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">指</seg></w>
+<w POS="t">过去</w>
+<w POS="u">的</w>
+<w POS="z"><seg function="mrw" type="indir" subtype="widlii">活生生</seg></w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<c POS="ew">；</c>
+</s>
+<s n="0034">
+<w POS="n">历史</w>
+<w POS="m">Ⅱ</w>
+<w POS="m">Ⅲ</w>
+<c POS="w">，</c>
+<w POS="n">历代</w>
+<w POS="v">保存</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下来</seg></w>
+<w POS="u">的</w>
+<w POS="n">史料</w>
+<w POS="c">和</w>
+<w POS="v">有</w>
+<w POS="n">史料</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<c POS="w">、</c>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">认识</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="u">的</w>
+<w POS="n">史籍</w>
+<c POS="ew">；</c>
+</s>
+<s n="0035">
+<w POS="n">历史</w>
+<w POS="m">Ⅲ</w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="v">致力</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="v">研究</w>
+<w POS="v">撰写</w>
+<w POS="u">的</w>
+<w POS="v">具有</w>
+<w POS="d">尽可能</w>
+<w POS="a">多</w>
+<w POS="n">真理性</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="n">论著</w>
+<c POS="w">，</c>
+<w POS="n">终极</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">目标</seg></w>
+<w POS="v">是</w>
+<w POS="i">尽善尽美</w>
+<w POS="u">地</w>
+<w POS="v">描述</w>
+<w POS="t">过去</w>
+<w POS="n">历史</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">全貌</seg></w>
+<c POS="w">，</c>
+<w POS="c">并</w>
+<w POS="v">说明</w>
+<w POS="t">以往</w>
+<w POS="n">历史</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">运动</seg></w>
+<w POS="u">的</w>
+<w POS="n">本质</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">揭示</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">其中</seg></w>
+<w POS="n">人类</w>
+<w POS="n">精神</w>
+<w POS="u">的</w>
+<w POS="b">内在</w>
+<w POS="n">积极性</w>
+<c POS="w">，</c>
+<w POS="p">给</w>
+<w POS="n">人</w>
+<w POS="p">以</w>
+<w POS="i">鉴古知来</w>
+<w POS="u">的</w>
+<w POS="r">某些</w>
+<w POS="vn">启示</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">具有</w>
+<w POS="l">绝对真理</w>
+<w POS="n">性质</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">认识</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<c POS="w">，</c>
+<w POS="v">要</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">人类</w>
+<w POS="z">无穷尽</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">认识</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">长河</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="d">方</w>
+<w POS="v">得以</w>
+<w POS="ad">完全</w>
+<w POS="v">实现</w>
+<c POS="ew">。</c>
+</s>
+<s n="0036">
+<w POS="c">换言之</w>
+<c POS="w">，</c>
+<w POS="r">任何</w>
+<w POS="n">一代</w>
+<w POS="u">的</w>
+<w POS="n">史学</w>
+<w POS="n">著作</w>
+<c POS="w">，</c>
+<w POS="v">只能</w>
+<w POS="v">具有</w>
+<w POS="b">相对</w>
+<w POS="u">的</w>
+<w POS="n">真理性</w>
+<c POS="w">，</c>
+<w POS="v">只能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接近</seg></w>
+<w POS="c">而</w>
+<w POS="v">不能</w>
+<w POS="v">达到</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">那个</seg></w>
+<w POS="v">可望</w>
+<w POS="v">不可</w>
+<w POS="vg">及</w>
+<w POS="u">的</w>
+<w POS="n">终极</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">目标</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0037">
+<w POS="r">其</w>
+<w POS="n">原因</w>
+<w POS="v">有</w>
+<w POS="m">二</w>
+<c POS="w">：</c>
+</s>
+</p>
+<p>
+<s n="0038">
+<w POS="m">一</w>
+<c POS="w">、</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">主观</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="v">没有</w>
+<w POS="m">一个</w>
+<w POS="n">历史学家</w>
+<w POS="v">能够</w>
+<w POS="v">掌握</w>
+<w POS="d">迄今</w>
+<w POS="v">积累</w>
+<w POS="u">的</w>
+<w POS="m">全部</w>
+<w POS="n">史料</w>
+<c POS="w">，</c>
+<w POS="v">能</w>
+<w POS="i">融会贯通</w>
+<w POS="r">各门</w>
+<w POS="v">相关</w>
+<w POS="n">学科</w>
+<w POS="u">的</w>
+<w POS="a">必要</w>
+<w POS="n">知识</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">历史</w>
+<w POS="v">进行</w>
+<w POS="a">充分</w>
+<w POS="u">的</w>
+<w POS="vn">研究</w>
+<c POS="ew">。</c>
+</s>
+<s n="0039">
+<w POS="d">更</w>
+<w POS="d">不要</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="d">实际上</w>
+<w POS="r">每个</w>
+<w POS="n">时代</w>
+<w POS="d">都</w>
+<w POS="u">在</w>
+<w POS="p">为</w>
+<w POS="r">自身</w>
+<w POS="u">的</w>
+<w POS="n">需要</w>
+<c POS="w">，</c>
+<w POS="u">在</w>
+<w POS="d">重新</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">塑造</seg></w>
+<w POS="n">历史</w>
+<c POS="w">，</c>
+<w POS="v">改写</w>
+<w POS="n">历史</w>
+<c POS="w">，</c>
+<w POS="c">或者</w>
+<w POS="v">说</w>
+<w POS="u">在</w>
+<w POS="d">重新</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">认识</seg></w>
+<w POS="n">历史</w>
+<c POS="ew">。</c>
+</s>
+<s n="0040">
+<w POS="c">无论</w>
+<w POS="r">怎样</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<c POS="w">＂</c>
+<w POS="n">历史</w>
+<w POS="d">总</w>
+<w POS="v">该</w>
+<w POS="v">是</w>
+<w POS="p">为</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接近</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="an">真实</w>
+<w POS="c">而</w>
+<w POS="v">作出</w>
+<w POS="u">的</w>
+<w POS="d">最</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">严肃</seg></w>
+<c POS="w">、</c>
+<w POS="d">最</w>
+<w POS="v">有</w>
+<w POS="n">步骤</w>
+<w POS="u">的</w>
+<w POS="an">努力</w>
+<w POS="u">的</w>
+<w POS="n">结果</w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+<s n="0041">
+<w POS="m">众多</w>
+<w POS="n">史学家</w>
+<w POS="u">的</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="a">真诚</w>
+<w POS="n">愿望</w>
+<c POS="w">，</c>
+<w POS="n">结果</w>
+<w POS="d">总是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">打</seg></w>
+<w POS="u">了</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">折扣</seg></w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="p">被</w>
+<w POS="v">无法</w>
+<w POS="v">摆脱</w>
+<w POS="u">的</w>
+<w POS="r">种种</w>
+<w POS="n">时代</w>
+<w POS="u">的</w>
+<w POS="c">和</w>
+<w POS="n">社会</w>
+<w POS="u">的</w>
+<w POS="n">因素</w>
+<w POS="vn">影响</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="u">的</w>
+<w POS="n">历史观</w>
+<w POS="c">和</w>
+<w POS="n">方法论</w>
+<w POS="u">所</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">左右</seg></w>
+<c POS="w">，</c>
+<w POS="i">不由自主</w>
+<w POS="u">地</w>
+<w POS="d">或多或少</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">背离</seg></w>
+<w POS="u">着</w>
+<w POS="a">纯</w>
+<w POS="a">客观</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="an">公正</w>
+<c POS="w">＂</c>
+<w POS="c">和</w>
+<c POS="w">＂</c>
+<w POS="n">信史</w>
+<c POS="w">＂</c>
+<w POS="u">的</w>
+<w POS="n">原则</w>
+<c POS="ew">。</c>
+</s>
+<s n="0042">
+<w POS="c">因此</w>
+<w POS="r">我们</w>
+<w POS="d">更</w>
+<w POS="v">可以</w>
+<w POS="v">期待</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="m">许多</w>
+<w POS="n">场合</w>
+<w POS="d">也</w>
+<w POS="d">只得</w>
+<w POS="v">期待</w>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="n">时代</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">获得</seg></w>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="a">自由</w>
+<w POS="u">的</w>
+<w POS="n">历史学家</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="n">理论</w>
+<w POS="n">观念</w>
+<c POS="w">，</c>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="n">方法</w>
+<w POS="n">手段</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">站</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="cont">在</seg></w>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">高度</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">角度</seg></w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">历史</w>
+<w POS="vn">研究</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">老</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">题目</seg></w>
+<w POS="v">提出</w>
+<w POS="a">新</w>
+<w POS="n">见解</w>
+<c POS="ew">。</c>
+</s>
+<s n="0043">
+<w POS="r">我们</w>
+<w POS="v">相信</w>
+<c POS="w">，</c>
+<w POS="t">后来</w>
+<w POS="u">的</w>
+<w POS="n">历史家</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="t">以往</w>
+<w POS="n">历史</w>
+<w POS="u">的</w>
+<w POS="vn">研究</w>
+<c POS="w">，</c>
+<w POS="v">会</w>
+<w POS="v">提出</w>
+<w POS="v">超越</w>
+<w POS="n">前人</w>
+<w POS="u">的</w>
+<w POS="a">新</w>
+<w POS="n">成果</w>
+<c POS="ew">。</c>
+</s>
+<s n="0044">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="d">不断</w>
+<w POS="v">更新</w>
+<w POS="i">永无止境</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">认识</seg></w>
+<w POS="n">过程</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">就是</w>
+<w POS="r">我们</w>
+<w POS="v">说</w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="n">课题</w>
+<w POS="vn">研究</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">价值</seg></w>
+<w POS="u">的</w>
+<w POS="n">永恒性</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

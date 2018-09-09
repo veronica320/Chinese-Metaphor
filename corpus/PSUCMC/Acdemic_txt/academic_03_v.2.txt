@@ -1,0 +1,450 @@
+﻿<p>
+<s n="0048">
+<w POS="r">我</w>
+<w POS="v">以为</w>
+<w POS="nr">丁</w>
+<w POS="nr">方</w>
+<w POS="n">英雄主义</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">悲剧</seg></w>
+<w POS="n">风格</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="v">有</w>
+<w POS="m">四</w>
+<w POS="q">个</w>
+<w POS="n">原因</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0049">
+<w POS="m">第一</w>
+<w POS="v">是</w>
+<w POS="n">个性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0050">
+<w POS="nr">丁</w>
+<w POS="nr">方</w>
+<w POS="a">突出</w>
+<w POS="u">的</w>
+<w POS="n">性格</w>
+<w POS="v">是</w>
+<w POS="n">意志</w>
+<w POS="a">坚强</w>
+<c POS="w">、</c>
+<w POS="a">内向</w>
+<c POS="w">、</c>
+<w POS="n">忍耐力</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强</seg></w>
+<c POS="w">，</c>
+<w POS="v">强调</w>
+<w POS="n">道德</w>
+<w POS="u">的</w>
+<w POS="r">自我</w>
+<w POS="vn">约束</w>
+<c POS="w">，</c>
+<w POS="v">极富</w>
+<w POS="n">男性</w>
+<w POS="n">气概</w>
+<c POS="ew">。</c>
+</s>
+<s n="0051">
+<w POS="c">因此</w>
+<c POS="w">，</c>
+<w POS="s">西北</w>
+<w POS="n">高原</w>
+<w POS="d">才</w>
+<w POS="v">能够</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="m">一</w>
+<w POS="v">开始</w>
+<w POS="d">就</w>
+<w POS="r">如此</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">震撼</seg></w>
+<w POS="r">他</w>
+<c POS="w">，</c>
+<w POS="c">并且</w>
+<w POS="v">促使</w>
+<w POS="r">他</w>
+<w POS="d">立即</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<c POS="w">＂</c>
+<w POS="a"><seg function="mrw" type="indir" subtype="widlii">坚实</seg></w>
+<w POS="ng">感</w>
+<c POS="w">＂</c>
+<w POS="v">作为</w>
+<w POS="r">自己</w>
+<w POS="n">风格</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">基石</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0052">
+<w POS="r">他</w>
+<w POS="t">当时</w>
+<w POS="u">的</w>
+<w POS="n">笔记</w>
+<c POS="w">，</c>
+<w POS="d"><seg function="mrw" type="indir" subtype="conv">大量</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">谈</seg></w>
+<c POS="w">＂</c>
+<w POS="v">夯实</w>
+<w POS="u">的</w>
+<w POS="n">土</w>
+<c POS="w">＂</c>
+<c POS="w">、</c>
+<c POS="w">＂</c>
+<w POS="n">人</w>
+<w POS="d">也</w>
+<w POS="v"><seg function="mflag">像</seg></w>
+<w POS="v"><seg function="mrw" type="dir">夯实</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="dir">土地</seg></w>
+<w POS="u"><seg function="mflag">一样</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">结实</seg></w>
+<c POS="w">＂</c>
+<c POS="w">、</c>
+<c POS="w">＂</c>
+<w POS="r">他们</w>
+<w POS="u">的</w>
+<w POS="n">脊背</w>
+<w POS="c">与</w>
+<w POS="s">远处</w>
+<w POS="n">丘壑</w>
+<w POS="v">起伏</w>
+<w POS="u">的</w>
+<w POS="n">山体</w>
+<w POS="d">非常</w>
+<w POS="a">相似</w>
+<c POS="w">＂</c>
+<w POS="u">等等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0053">
+<w POS="d"><seg function="mrw" type="indir" subtype="conv">就此</seg></w>
+<w POS="v">而言</w>
+<c POS="w">，</c>
+<w POS="v">所谓</w>
+<c POS="w">＂</c>
+<w POS="l">仁者乐山</w>
+<c POS="w">＂</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="nr">丁</w>
+<w POS="nr">方</w>
+<w POS="u">的</w>
+<w POS="n">艺术</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">得到</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">应验</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0054">
+<w POS="r">他</w>
+<w POS="v">不善</w>
+<w POS="an">机巧</w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="v">强调</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">信仰</w>
+<w POS="u">的</w>
+<w POS="r">自我</w>
+<w POS="vn">约束</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v">体现</w>
+<w POS="n">意志</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">力量</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0055">
+<w POS="c">因此</w>
+<w POS="d">也</w>
+<w POS="d">便</w>
+<w POS="p">在</w>
+<w POS="a">坚实</w>
+<w POS="u">的</w>
+<w POS="ns">黄土高原</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">发现</seg></w>
+<w POS="u">了</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="widlii">自己</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0056">
+<w POS="m">第二</w>
+<w POS="v">是</w>
+<w POS="n">个人</w>
+<w POS="n">经历</w>
+<c POS="ew">。</c>
+</s>
+<s n="0057">
+<w POS="t">幼年</w>
+<w POS="u">的</w>
+<w POS="vn">影响</w>
+<w POS="d">往往</w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">考察</seg></w>
+<w POS="n">人</w>
+<w POS="n">一生</w>
+<w POS="u">的</w>
+<w POS="a">重要</w>
+<w POS="n">线索</w>
+<c POS="ew">。</c>
+</s>
+<s n="0058">
+<w POS="nr">丁</w>
+<w POS="nr">方</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="m">许多</w>
+<w POS="q">年</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<w POS="v">重返</w>
+<w POS="ns">黄土高原</w>
+<c POS="w">，</c>
+<w POS="d">立即</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">唤醒</seg></w>
+<w POS="u">了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">蛰伏</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="r">他</w>
+<w POS="t">儿时</w>
+<w POS="n">记忆</w>
+<w POS="u">的</w>
+<w POS="ns">陕西</w>
+<w POS="n">生活</w>
+<c POS="ew">。</c>
+</s>
+<s n="0059">
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">伴随</seg></w>
+<w POS="r">他</w>
+<w POS="n">作品</w>
+<w POS="d">尤其</w>
+<w POS="t">早期</w>
+<w POS="n">素描</w>
+<w POS="c">和</w>
+<w POS="n">油画</w>
+<w POS="f">中</w>
+<w POS="v">有</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="cont">部</seg></w>
+<w POS="n">童贞</w>
+<w POS="c">和</w>
+<w POS="n">爱</w>
+<w POS="u">的</w>
+<w POS="n">题材</w>
+<c POS="w">，</c>
+<w POS="n">画面</w>
+<w POS="a">纯真</w>
+<c POS="w">、</c>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">恬静</seg></w>
+<c POS="w">，</c>
+<w POS="c">与</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">悲剧</seg></w>
+<w POS="n">气氛</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">格局</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0060">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">构成</seg></w>
+<w POS="nr">丁</w>
+<w POS="nr">方</w>
+<w POS="u">的</w>
+<w POS="r">另</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">一面</seg></w>
+<c POS="w">，</c>
+<w POS="d">尤其</w>
+<w POS="v">是</w>
+<w POS="m">少数</w>
+<w POS="n">爱</w>
+<w POS="u">的</w>
+<w POS="n">题材</w>
+<w POS="u">的</w>
+<w POS="n">作品</w>
+<w POS="d">仿佛</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">自</seg></w>
+<w POS="an">纯真</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">进入</seg></w>
+<w POS="a">类似</w>
+<w POS="n">宗教</w>
+<w POS="ng">圣</w>
+<w POS="n">爱</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">恬静</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">境界</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0061">
+<w POS="c">而</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">悲剧</seg></w>
+<w POS="ng">感</w>
+<w POS="u">的</w>
+<w POS="n">原初</w>
+<w POS="n">意识</w>
+<c POS="w">，</c>
+<w POS="p">与</w>
+<w POS="nr">丁</w>
+<w POS="nr">方</w>
+<w POS="n">少年</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="n">父亲</w>
+<w POS="d">曾</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<c POS="w">＂</c>
+<w POS="nz">文化大革命</w>
+<c POS="w">＂</c>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="p">被</w>
+<w POS="vd">强制</w>
+<w POS="v">隔离</w>
+<w POS="v">审查</w>
+<c POS="w">，</c>
+<w POS="r">他</w>
+<w POS="u">所</w>
+<w POS="v">遭受</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="pers">社会</seg></w>
+<w POS="u">的</w>
+<w POS="vn">欺凌</w>
+<w POS="v">有关</w>
+<c POS="ew">。</c>
+</s>
+<s n="0062">
+<w POS="r">那时</w>
+<w POS="r">他</w>
+<w POS="r">每天</w>
+<w POS="v">要</w>
+<w POS="p">给</w>
+<w POS="v">关</w>
+<w POS="p">在</w>
+<w POS="n">牛棚</w>
+<w POS="f">里</w>
+<w POS="u">的</w>
+<w POS="n">父亲</w>
+<w POS="v">送</w>
+<w POS="n">饭</w>
+<c POS="w">，</c>
+<w POS="r">每次</w>
+<w POS="d">就要</w>
+<w POS="v">受到</w>
+<w POS="r">其他</w>
+<w POS="n">孩子</w>
+<w POS="c">乃至</w>
+<w POS="vn">革命</w>
+<w POS="n">造反派</w>
+<w POS="u">的</w>
+<w POS="v">叱责</w>
+<c POS="w">、</c>
+<w POS="v">唾骂</w>
+<c POS="w">，</c>
+<w POS="d">甚至</w>
+<w POS="v">殴打</w>
+<c POS="ew">；</c>
+</s>
+<s n="0063">
+<w POS="m">21</w>
+<w POS="q">岁</w>
+<w POS="ng">时</w>
+<w POS="d">又</w>
+<w POS="v">有</w>
+<w POS="u">过</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="widlii">场</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">悲剧</seg></w>
+<w POS="u">的</w>
+<w POS="n">经历</w>
+<c POS="w">－－</c>
+<w POS="r">那年</w>
+<w POS="nr">丁</w>
+<w POS="nr">方</w>
+<w POS="l">亲眼目睹</w>
+<w POS="u">了</w>
+<w POS="p">与</w>
+<w POS="r">自己</w>
+<w POS="n">感情</w>
+<w POS="z">甚笃</w>
+<w POS="u">的</w>
+<w POS="n">胞姐</w>
+<w POS="v">惨死</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="n">车祸</w>
+<w POS="u">的</w>
+<w POS="n">情景</w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="u">正在</w>
+<w POS="v">热恋</w>
+<w POS="c">并</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">准备</seg></w>
+<w POS="v">结婚</w>
+<w POS="u">的</w>
+<w POS="n">姐姐</w>
+<w POS="t">当时</w>
+<w POS="d">才</w>
+<w POS="m">25</w>
+<w POS="q">岁</w>
+<c POS="ew">。</c>
+</s>
+<s n="0064">
+<w POS="d">本来</w>
+<w POS="a">坚强</w>
+<c POS="w">、</c>
+<w POS="a">内向</w>
+<w POS="u">的</w>
+<w POS="nr">丁</w>
+<w POS="nr">方</w>
+<w POS="n">性格</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">增加</seg></w>
+<w POS="u">了</w>
+<w POS="v">忍耐</w>
+<w POS="an">痛苦</w>
+<w POS="u">的</w>
+<w POS="n">情感</w>
+<w POS="n">因素</w>
+<c POS="ew">。</c>
+</s>
+<s n="0065">
+<w POS="t">此后</w>
+<w POS="r">他</w>
+<w POS="m">大多数</w>
+<w POS="n">作品</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">悲剧</seg></w>
+<w POS="ng">感</w>
+<w POS="c">及其</w>
+<w POS="p">对</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">带</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">悲剧</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">色彩</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">大师</seg></w>
+<w POS="u">的</w>
+<w POS="vn">向往</w>
+<c POS="w">，</c>
+<w POS="c">以及</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">悲剧</seg></w>
+<w POS="u">的</w>
+<w POS="a">特殊</w>
+<w POS="n">兴趣</w>
+<w POS="c">和</w>
+<w POS="an"><seg function="mrw" type="indir" subtype="conv">敏感</seg></w>
+<c POS="w">，</c>
+<w POS="v">不能</w>
+<w POS="v">说</w>
+<w POS="d">不</w>
+<w POS="p">与</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">此</seg></w>
+<w POS="v">无关</w>
+<c POS="ew">。</c>
+</s>
+</p>
+ 

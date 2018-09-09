@@ -1,0 +1,793 @@
+﻿<p>
+<s n="0020">
+<w POS="m">许多</w>
+<w POS="n">人</w>
+<w POS="d">都</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="d">最</w>
+<w POS="v">怕</w>
+<w POS="v">去</w>
+<w POS="ns">广州</w>
+<w POS="n">火车站</w>
+<w POS="v">买</w>
+<w POS="n">票</w>
+<c POS="w">，</c>
+<w POS="v">去</w>
+<w POS="m">一</w>
+<w POS="q">次</w>
+<w POS="v">怕</w>
+<w POS="m">一</w>
+<w POS="q">次</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0021">
+<w POS="t">９月</w>
+<w POS="t">８日</w>
+<w POS="t">上午</w>
+<w POS="t">８时</w>
+<c POS="w">，</c>
+<w POS="r">我</w>
+<w POS="v">赶</w>
+<w POS="v">去</w>
+<w POS="n">火车站</w>
+<c POS="w">，</c>
+<w POS="v">想</w>
+<w POS="v">买</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<w POS="t">９日</w>
+<w POS="p">往</w>
+<w POS="ns">韶关</w>
+<w POS="u">的</w>
+<w POS="m">６４</w>
+<w POS="q">次</w>
+<w POS="n">火车票</w>
+<c POS="w">，</c>
+<w POS="v">到</w>
+<w POS="n">火车站</w>
+<w POS="ng">时</w>
+<w POS="d">才</w>
+<w POS="t">８时</w>
+<w POS="t">１５分</w>
+<c POS="w">，</c>
+<w POS="d">专</w>
+<w POS="v">售</w>
+<w POS="m">６４</w>
+<w POS="q">次</w>
+<w POS="n">车票</w>
+<w POS="u">的</w>
+<w POS="s">窗口</w>
+<w POS="f">前</w>
+<c POS="w">，</c>
+<w POS="d">已</w>
+<w POS="v">排</w>
+<w POS="u">了</w>
+<w POS="m">１０</w>
+<w POS="n">人</w>
+<c POS="ew">。</c>
+</s>
+<s n="0022">
+<w POS="vn">售票</w>
+<w POS="ng">窗</w>
+<w POS="f">前</w>
+<w POS="v">写</w>
+<w POS="u">着</w>
+<w POS="t">８时</w>
+<w POS="t">１５分</w>
+<w POS="v">开始</w>
+<w POS="v">售票</w>
+<c POS="w">，</c>
+<w POS="v">等到</w>
+<w POS="t">９时</w>
+<w POS="d">还</w>
+<w POS="v">不见</w>
+<w POS="v">开</w>
+<w POS="ng">窗</w>
+<c POS="w">，</c>
+<w POS="r">我</w>
+<w POS="v">上前</w>
+<w POS="v">看</w>
+<w POS="q">个</w>
+<w POS="n">究竟</w>
+<c POS="w">，</c>
+<w POS="v">只见</w>
+<w POS="vn">售票</w>
+<w POS="ng">窗</w>
+<w POS="f">上</w>
+<w POS="v">贴</w>
+<w POS="u">着</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<w POS="a">小</w>
+<w POS="n">纸条</w>
+<c POS="w">：</c>
+<w POS="v">开会</w>
+<w POS="v">请</w>
+<w POS="v">稍候</w>
+<c POS="w">，</c>
+<w POS="t">９时</w>
+<w POS="t">５０分</w>
+<w POS="v">售票</w>
+<c POS="ew">。</c>
+</s>
+<s n="0023">
+<w POS="v">不知</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">开</seg></w>
+<w POS="r">什么</w>
+<w POS="n">会</w>
+<w POS="r">如此</w>
+<w POS="a">重要</w>
+<c POS="w">，</c>
+<w POS="d">非</w>
+<w POS="v">要</w>
+<w POS="m">数十</w>
+<w POS="q">名</w>
+<w POS="d">早早</w>
+<w POS="v">赶来</w>
+<w POS="u">的</w>
+<w POS="n">旅客</w>
+<w POS="a">多</w>
+<w POS="v">等</w>
+<w POS="m">一</w>
+<w POS="n">小时</w>
+<c POS="ew">！</c>
+</s>
+</p>
+<p>
+<s n="0024">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">离</seg></w>
+<w POS="t">９时</w>
+<w POS="t">５０分</w>
+<w POS="v">还有</w>
+<w POS="m">半</w>
+<w POS="n">小时</w>
+<c POS="w">，</c>
+<w POS="v">只见</w>
+<w POS="m">六七</w>
+<w POS="q">个</w>
+<w POS="n">外省</w>
+<w POS="n">青年</w>
+<w POS="s">手里</w>
+<w POS="r">各</w>
+<w POS="v">拿</w>
+<w POS="u">着</w>
+<w POS="m">二三百</w>
+<w POS="q">元</w>
+<w POS="d">直</w>
+<w POS="p">往</w>
+<w POS="vn">售票</w>
+<w POS="ng">窗</w>
+<w POS="f">前</w>
+<w POS="v">挤</w>
+<c POS="ew">。</c>
+</s>
+<s n="0025">
+<w POS="m">一个</w>
+<w POS="v">穿</w>
+<w POS="n">绿色</w>
+<w POS="n">Ｔ恤</w>
+<w POS="u">的</w>
+<w POS="n">矮个子</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">插</seg></w>
+<w POS="v">到</w>
+<w POS="f">前面</w>
+<w POS="u">了</w>
+<c POS="w">，</c>
+<w POS="r">其余</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<w POS="v">挤</w>
+<w POS="p">在</w>
+<w POS="r">他</w>
+<w POS="f">周围</w>
+<c POS="ew">。</c>
+</s>
+<s n="0026">
+<w POS="m">一</w>
+<w POS="v">看</w>
+<w POS="n">阵势</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="v">知道</w>
+<w POS="r">他们</w>
+<w POS="v">是</w>
+<w POS="m">一</w>
+<w POS="q">伙</w>
+<w POS="n">票贩</w>
+<c POS="ew">。</c>
+</s>
+<s n="0027">
+<w POS="r">这时</w>
+<w POS="v">走</w>
+<w POS="v">来</w>
+<w POS="m">一</w>
+<w POS="q">名</w>
+<w POS="n">保安员</w>
+<c POS="w">，</c>
+<w POS="r">他</w>
+<w POS="d">正要</w>
+<w POS="v">维持</w>
+<w POS="n">秩序</w>
+<c POS="w">，</c>
+<w POS="m">一个</w>
+<w POS="q">站</w>
+<w POS="p">在</w>
+<w POS="vn">售票</w>
+<w POS="ng">窗</w>
+<w POS="f">旁</w>
+<w POS="u">的</w>
+<w POS="v">穿</w>
+<w POS="n">绿色</w>
+<w POS="n">Ｔ恤</w>
+<w POS="u">的</w>
+<w POS="n">高个子</w>
+<w POS="p">跟</w>
+<w POS="r">他</w>
+<w POS="v">打</w>
+<w POS="u">了</w>
+<w POS="q">个</w>
+<w POS="n">招呼</w>
+<c POS="w">，</c>
+<w POS="n">保安员</w>
+<w POS="d">便</w>
+<w POS="v">走开</w>
+<w POS="u">了</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0028">
+<w POS="r">你</w>
+<w POS="v">认识</w>
+<w POS="r">他</w>
+<c POS="ew">？</c>
+<c POS="w">＂</c>
+</s>
+<s n="0029">
+<w POS="r">那</w>
+<w POS="q">伙</w>
+<w POS="n">人</w>
+<w POS="f">中</w>
+<w POS="u">的</w>
+<w POS="m">一个</w>
+<w POS="v">问</w>
+<w POS="n">高个子</w>
+<c POS="w">，</c>
+<w POS="n">高个子</w>
+<w POS="a">神气</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">点</seg></w>
+<w POS="u">了</w>
+<w POS="v">点头</w>
+<c POS="w">，</c>
+<w POS="c">然后</w>
+<w POS="v">跟上</w>
+<w POS="r">那</w>
+<w POS="n">保安员</w>
+<c POS="w">，</c>
+<w POS="v">递给</w>
+<w POS="r">他</w>
+<w POS="m">一</w>
+<w POS="q">根</w>
+<w POS="n">外国</w>
+<w POS="n">香烟</w>
+<c POS="ew">。</c>
+</s>
+<s n="0030">
+<w POS="t">此后</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="d">再也</w>
+<w POS="v">不见</w>
+<w POS="r">这</w>
+<w POS="q">位</w>
+<w POS="n">保安员</w>
+<w POS="v">露面</w>
+<w POS="y">了</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0031">
+<w POS="r">那</w>
+<w POS="q">伙</w>
+<c POS="w">＂</c>
+<w POS="n">倒爷</w>
+<c POS="w">＂</c>
+<w POS="n">胆子</w>
+<w POS="d">更</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">壮</seg></w>
+<w POS="y">了</w>
+<c POS="w">，</c>
+<w POS="d">全都</w>
+<w POS="v">挤</w>
+<w POS="v">进</w>
+<w POS="u">了</w>
+<w POS="n">队伍</w>
+<w POS="u">的</w>
+<w POS="f">前面</w>
+<c POS="w">，</c>
+<w POS="d">顿时</w>
+<w POS="n">队伍</w>
+<w POS="n">秩序</w>
+<w POS="d">大</w>
+<w POS="a">乱</w>
+<c POS="ew">。</c>
+</s>
+<s n="0032">
+<w POS="v">排</w>
+<w POS="p">在</w>
+<w POS="r">我</w>
+<w POS="f">面前</w>
+<w POS="u">的</w>
+<w POS="m">一个</w>
+<w POS="n">人</w>
+<w POS="d">大声</w>
+<w POS="v">喊</w>
+<w POS="n">民警</w>
+<w POS="v">来</w>
+<w POS="v">维持</w>
+<w POS="n">秩序</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="v">没</w>
+<w POS="n">人</w>
+<w POS="v">来</w>
+<c POS="ew">。</c>
+</s>
+<s n="0033">
+<w POS="vn">售票</w>
+<w POS="ng">窗</w>
+<w POS="u">的</w>
+<w POS="n">门</w>
+<w POS="v">打开</w>
+<w POS="u">了</w>
+<c POS="w">，</c>
+<w POS="v">穿</w>
+<w POS="n">绿色</w>
+<w POS="n">Ｔ恤</w>
+<w POS="u">的</w>
+<w POS="n">矮个子</w>
+<w POS="v">买</w>
+<w POS="u">了</w>
+<w POS="m">五六</w>
+<w POS="q">张</w>
+<w POS="n">票</w>
+<w POS="v">走</w>
+<w POS="v">出来</w>
+<c POS="w">，</c>
+<w POS="d">接着</w>
+<w POS="d">又</w>
+<w POS="v">有</w>
+<w POS="m">两三</w>
+<w POS="q">个</w>
+<c POS="w">＂</c>
+<w POS="n">倒爷</w>
+<c POS="w">＂</c>
+<w POS="v">手持</w>
+<w POS="m">五六</w>
+<w POS="q">张</w>
+<w POS="n">票</w>
+<w POS="v">出来</w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+<w POS="r">这时</w>
+<c POS="w">，</c>
+<w POS="n">队伍</w>
+<w POS="f">前面</w>
+<w POS="r">有人</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="m">６４</w>
+<w POS="q">次</w>
+<w POS="v">没</w>
+<w POS="n">票</w>
+<w POS="y">了</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+<s n="0034">
+<w POS="d">刚</w>
+<w POS="v">卖出</w>
+<w POS="m">二三十</w>
+<w POS="q">张</w>
+<w POS="n">票</w>
+<c POS="w">，</c>
+<w POS="r">怎么</w>
+<w POS="d">就</w>
+<w POS="v">没</w>
+<w POS="y">了</w>
+<c POS="ew">？</c>
+</s>
+<s n="0035">
+<w POS="r">我</w>
+<w POS="d">不</w>
+<w POS="v">信</w>
+<c POS="w">，</c>
+<w POS="v">坚持</w>
+<w POS="v">等</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0036">
+<w POS="t">１０时</w>
+<w POS="m">零</w>
+<w POS="t">７分</w>
+<c POS="w">，</c>
+<w POS="v">等</w>
+<w POS="u">了</w>
+<w POS="vd">将近</w>
+<w POS="m">两</w>
+<w POS="n">小时</w>
+<c POS="w">，</c>
+<w POS="d">终于</w>
+<w POS="v">轮</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="r">我</w>
+<w POS="u">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0037">
+<w POS="r">我</w>
+<w POS="v">拿出</w>
+<w POS="n">记者证</w>
+<w POS="v">递</w>
+<w POS="v">进去</w>
+<c POS="w">，</c>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v">买</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<w POS="m">６４</w>
+<w POS="q">次</w>
+<w POS="n">车票</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0038">
+<w POS="n">话</w>
+<w POS="d">未</w>
+<w POS="v">说</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">完</seg></w>
+<c POS="w">，</c>
+<w POS="n">记者证</w>
+<w POS="c">和</w>
+<w POS="n">钱</w>
+<w POS="p">被</w>
+<w POS="n">售票员</w>
+<w POS="v">推</w>
+<w POS="u">了</w>
+<w POS="v">出来</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v">没</w>
+<w POS="n">票</w>
+<w POS="y">啦</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+<s n="0039">
+<w POS="r">我</w>
+<w POS="v">问</w>
+<w POS="n">售票员</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="t">今天</w>
+<w POS="r">你</w>
+<w POS="r">这</w>
+<w POS="s">窗口</w>
+<w POS="v">卖出</w>
+<w POS="r">多少</w>
+<w POS="q">张</w>
+<w POS="n">票</w>
+<c POS="ew">？</c>
+<c POS="w">＂</c>
+</s>
+<s n="0040">
+<c POS="w">＂</c>
+<w POS="m">１６０</w>
+<w POS="q">张</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+<s n="0041">
+<w POS="n">售票员</w>
+<w POS="i">理直气壮</w>
+<w POS="u">地</w>
+<w POS="v">说</w>
+<c POS="ew">。</c>
+</s>
+<s n="0042">
+<w POS="v">站</w>
+<w POS="p">在</w>
+<w POS="r">我</w>
+<w POS="f">后面</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<w POS="v">听</w>
+<w POS="u">了</w>
+<w POS="n">售票员</w>
+<w POS="u">的</w>
+<w POS="vn">回答</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">起哄</w>
+<w POS="u">了</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v">骗人</w>
+<c POS="ew">！</c>
+</s>
+<s n="0043">
+<w POS="d">只</w>
+<w POS="v">卖</w>
+<w POS="v">给</w>
+<w POS="u">了</w>
+<w POS="m">几</w>
+<w POS="q">个</w>
+<w POS="n">人</w>
+<c POS="w">，</c>
+<w POS="r">哪</w>
+<w POS="v">有</w>
+<w POS="m">１６０</w>
+<w POS="q">张</w>
+<w POS="n">票</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+<s n="0044">
+<w POS="r">我</w>
+<w POS="d">又</w>
+<w POS="v">问</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="d">真的</w>
+<w POS="v">卖</w>
+<w POS="u">了</w>
+<w POS="m">１６０</w>
+<w POS="q">张</w>
+<c POS="ew">？</c>
+<c POS="w">＂</c>
+</s>
+<s n="0045">
+<w POS="v">就是</w>
+<w POS="m">１６０</w>
+<w POS="q">张</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+<s n="0046">
+<w POS="n">售票员</w>
+<w POS="v">壮</w>
+<w POS="u">着</w>
+<w POS="n">胆</w>
+<w POS="v">说</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0047">
+<w POS="r">那</w>
+<w POS="a">好</w>
+<c POS="ew">。</c>
+</s>
+<s n="0048">
+<w POS="r">我</w>
+<w POS="p">把</w>
+<w POS="t">今天</w>
+<w POS="u">的</w>
+<w POS="n">事</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">登</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="widlii">在</seg></w>
+<w POS="n">报纸</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="widlii">上</seg></w>
+<c POS="w">，</c>
+<w POS="v">让</w>
+<w POS="r">大家</w>
+<w POS="v">评评理</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+<s n="0049">
+<w POS="r">我</w>
+<w POS="v">说</w>
+<c POS="ew">。</c>
+</s>
+<s n="0050">
+<w POS="n">队伍</w>
+<w POS="f">里</w>
+<w POS="n">群情</w>
+<w POS="a">激愤</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">登</seg></w>
+<w POS="n">报纸</w>
+<c POS="w">，</c>
+<w POS="r">他们</w>
+<w POS="v">做</w>
+<w POS="u">得</w>
+<w POS="d">太</w>
+<w POS="a">过分</w>
+<w POS="y">了</w>
+<c POS="ew">！</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0051">
+<w POS="v">离开</w>
+<w POS="vn">售票</w>
+<w POS="ng">窗</w>
+<c POS="w">，</c>
+<w POS="r">我</w>
+<w POS="p">在</w>
+<w POS="n">广场</w>
+<w POS="v">找到</w>
+<w POS="u">了</w>
+<w POS="v">穿</w>
+<w POS="n">绿色</w>
+<w POS="n">Ｔ恤</w>
+<w POS="u">的</w>
+<w POS="n">矮个子</w>
+<c POS="w">，</c>
+<w POS="v">问</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v">有</w>
+<w POS="m">６４</w>
+<w POS="q">次</w>
+<w POS="ns">韶关</w>
+<w POS="n">车票</w>
+<w POS="y">吗</w>
+<c POS="ew">？</c>
+<c POS="w">＂</c>
+</s>
+<s n="0052">
+<c POS="w">＂</c>
+<w POS="v">有</w>
+<c POS="ew">。</c>
+</s>
+<s n="0053">
+<w POS="n">软卧</w>
+<w POS="m">４５</w>
+<w POS="q">元</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<c POS="w">，</c>
+<w POS="n">硬座</w>
+<w POS="m">３０</w>
+<w POS="q">元</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0054">
+<w POS="r">他</w>
+<w POS="v">回答</w>
+<w POS="v">说</w>
+<c POS="ew">。</c>
+</s>
+<s n="0055">
+<w POS="r">这</w>
+<w POS="n">家伙</w>
+<w POS="d">真</w>
+<w POS="a">狠</w>
+<c POS="w">，</c>
+<w POS="vn">售票</w>
+<w POS="ng">窗</w>
+<w POS="v">卖</w>
+<w POS="u">的</w>
+<w POS="ns">韶关</w>
+<w POS="n">票</w>
+<w POS="n">软座</w>
+<w POS="m">２３</w>
+<w POS="q">元</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<c POS="w">，</c>
+<w POS="n">硬座</w>
+<w POS="m">１４</w>
+<w POS="q">元</w>
+<w POS="m">一</w>
+<w POS="q">张</w>
+<c POS="w">，</c>
+<w POS="r">他</w>
+<w POS="d">居然</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">抬高</seg></w>
+<w POS="u">了</w>
+<w POS="m">一</w>
+<w POS="q">倍</w>
+<w POS="m">多</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0056">
+<w POS="ns">广州</w>
+<w POS="n">火车站</w>
+<w POS="v">是</w>
+<w POS="n">大站</w>
+<c POS="w">，</c>
+<w POS="r">为什么</w>
+<w POS="r">我</w>
+<w POS="v">买</w>
+<w POS="n">票</w>
+<w POS="u">的</w>
+<w POS="r">那个</w>
+<w POS="s">窗口</w>
+<w POS="m">一</w>
+<w POS="n">天</w>
+<w POS="d">才</w>
+<w POS="v">拿出</w>
+<w POS="m">１６０</w>
+<w POS="q">张</w>
+<w POS="n">票</w>
+<w POS="ad">公开</w>
+<w POS="v">出售</w>
+<c POS="ew">？</c>
+</s>
+<s n="0057">
+<w POS="p">除了</w>
+<c POS="w">＂</c>
+<w POS="n">倒爷</w>
+<c POS="w">＂</c>
+<w POS="v">买</w>
+<w POS="v">去</w>
+<w POS="u">的</w>
+<w POS="m">二三十</w>
+<w POS="q">张</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外</seg></w>
+<c POS="w">，</c>
+<w POS="v">剩下</w>
+<w POS="u">的</w>
+<w POS="n">票</w>
+<w POS="d">都</w>
+<w POS="v">到</w>
+<w POS="r">哪里</w>
+<w POS="v">去</w>
+<w POS="y">了</w>
+<c POS="ew">？</c>
+</s>
+</p>
+<p>
+<s n="0058">
+<w POS="v">辛苦</w>
+<w POS="u">了</w>
+<w POS="m">两</w>
+<w POS="q">个</w>
+<w POS="n">小时</w>
+<c POS="w">，</c>
+<w POS="n">票</w>
+<w POS="d">没</w>
+<w POS="v">买</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<c POS="w">，</c>
+<w POS="d">却</w>
+<w POS="v">受</w>
+<w POS="u">了</w>
+<w POS="m">一</w>
+<w POS="q">肚子</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">气</seg></w>
+<c POS="ew">！</c>
+</s>
+<s n="0059">
+<w POS="d">怪不得</w>
+<w POS="n">人们</w>
+<w POS="d">都</w>
+<w POS="v">说</w>
+<w POS="v">怕</w>
+<w POS="v">去</w>
+<w POS="ns">广州</w>
+<w POS="n">火车站</w>
+<w POS="v">买</w>
+<w POS="n">票</w>
+<c POS="ew">！</c>
+</s>
+</p>
+

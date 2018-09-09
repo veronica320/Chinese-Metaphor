@@ -1,0 +1,450 @@
+﻿<p>
+<s n="0003">
+<w POS="m">多数</w>
+<w POS="n">人</w>
+<w POS="d">都</w>
+<w POS="v">有</w>
+<w POS="m">很多</w>
+<w POS="n">应激</w>
+<w POS="r">自身</w>
+<w POS="n">体验</w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="v">如</w>
+<w POS="p">在</w>
+<w POS="n">交通</w>
+<w POS="n">路口</w>
+<w POS="v">闯</w>
+<w POS="n">红灯</w>
+<c POS="w">,</c>
+<w POS="v">参加</w>
+<w POS="d">没有</w>
+<w POS="v">准备</w>
+<w POS="u">的</w>
+<w POS="vn">考试</w>
+<c POS="w">，</c>
+<w POS="v">研究</w>
+<w POS="m">一</w>
+<w POS="q">项</w>
+<w POS="a">重大</w>
+<w POS="u">的</w>
+<w POS="n">科研</w>
+<w POS="n">课题</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">雨天</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">里</seg></w>
+<w POS="v">携带</w>
+<w POS="a">贵重</w>
+<w POS="n">物品</w>
+<w POS="c">而</w>
+<w POS="v">错过</w>
+<w POS="u">了</w>
+<w POS="n">交通车</w>
+<c POS="w">...</c>
+<c POS="w">...</c>
+</s>
+</p>
+<p>
+<s n="0005">
+<w POS="c">尽管</w>
+<w POS="n">应激</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">人们</w>
+<w POS="u">的</w>
+<w POS="vn">体验</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="v">存在</w>
+<w POS="u">着</w>
+<w POS="n">共性</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">东西</seg></w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">给</seg></w>
+<w POS="n">应激</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="q">个</w>
+<w POS="i">恰如其分</w>
+<w POS="u">的</w>
+<w POS="n">定义</w>
+<w POS="c">或</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="r">其</w>
+<w POS="v">进行</w>
+<w POS="ad">深入</w>
+<w POS="v">研究</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="d">十分</w>
+<w POS="a">困难</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0006">
+<w POS="c">因此</w>
+<c POS="w">，</c>
+<w POS="r">有人</w>
+<w POS="v">试图</w>
+<w POS="p">把</w>
+<w POS="v">研究</w>
+<w POS="u">的</w>
+<w POS="n">重点</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">放在</seg></w>
+<w POS="n">应激</w>
+<w POS="ng">性</w>
+<w POS="n">生理</w>
+<w POS="vn">变化</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="c">但是</w>
+<c POS="w">，</c>
+<w POS="r">大家</w>
+<w POS="d">都</w>
+<w POS="v">知道</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="q">类</w>
+<w POS="n">实验</w>
+<w POS="a">深奥</w>
+<c POS="ew">。</c>
+</s>
+<s n="0008">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="n">人体</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">进入</seg></w>
+<w POS="d">高度</w>
+<w POS="v">激励</w>
+<w POS="n">状态</w>
+<w POS="ng">时</w>
+<w POS="v">会</w>
+<w POS="v">出现</w>
+<w POS="n">口</w>
+<w POS="a">干</w>
+<c POS="w">、</c>
+<w POS="v">心跳</w>
+<c POS="w">、</c>
+<w POS="n">手</w>
+<w POS="v">颤</w>
+<w POS="c">及</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="n">汗</w>
+<w POS="u">等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w><seg function="mrw" type="indir" subtype="conv">
+<w POS="n">感知</w>
+<c POS="w">，</c>
+<w POS="v">好像</w>
+<w POS="v">不能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">告诉</seg></w>
+<w POS="n">人们</w>
+<w POS="n">应激</w>
+<w POS="v">是</w>
+<w POS="r">什么</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">搞</w>
+<w POS="d">不</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">清</seg></w>
+<w POS="n">应激</w>
+<w POS="v">是</w>
+<w POS="p">因</w>
+<w POS="r">何</w>
+<w POS="c">而</w>
+<w POS="v">引起</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="r">另</w>
+<w POS="m">一些</w>
+<w POS="n">研究者</w>
+<w POS="p">把</w>
+<w POS="vn">研究</w>
+<w POS="n">重点</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">放在</seg></w>
+<w POS="n">应激</w>
+<w POS="n">事件</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<c POS="w">，</c>
+<w POS="v">即</w>
+<w POS="ad">努力</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">寻找</seg></w>
+<w POS="n">应激</w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="conv">源</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0011">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">应激</w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="conv">源</seg></w>
+<w POS="v">可能</w>
+<w POS="v">包括</w>
+<c POS="w">：</c>
+<w POS="n">噪音</w>
+<c POS="w">、</c>
+<w POS="vn">失业</w>
+<w POS="c">和</w>
+<w POS="vn">拥挤</w>
+<w POS="u">等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0012">
+<w POS="n">应激</w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="conv">源</seg></w>
+<w POS="u">的</w>
+<w POS="vn">研究</w>
+<c POS="w">，</c>
+<w POS="v">能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">帮助</seg></w>
+<w POS="n">人们</w>
+<w POS="v">辨别</w>
+<w POS="r">某些</w>
+<w POS="v">引起</w>
+<w POS="n">应激</w>
+<w POS="u">的</w>
+<w POS="n">事件</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">事件</w>
+<w POS="d">毕竟</w>
+<w POS="v">不能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">解释</seg></w>
+<w POS="n">应激</w>
+<w POS="vn">体验</w>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="l">也就是说</w>
+<c POS="w">，</c>
+<w POS="v">所谓</w>
+<w POS="n">应激</w>
+<w POS="n">事件</w>
+<c POS="w">，</c>
+<w POS="p">对</w>
+<w POS="m">一部分</w>
+<w POS="n">人</w>
+<w POS="v">可以</w>
+<w POS="v">引起</w>
+<w POS="n">应激</w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="p">对</w>
+<w POS="r">另</w>
+<w POS="m">一部分</w>
+<w POS="n">人</w>
+<w POS="d">就</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="n">应激</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="v">例如</w>
+<c POS="w">，</c>
+<w POS="n">收音机</w>
+<w POS="u">的</w>
+<w POS="n">噪音</w>
+<c POS="w">，</c>
+<w POS="c">无论</w>
+<w POS="v">距离</w>
+<w POS="r">你</w>
+<w POS="d">多么</w>
+<w POS="a">近</w>
+<c POS="w">，</c>
+<w POS="d">也</w>
+<w POS="v">不会</w>
+<w POS="v">引起</w>
+<w POS="n">应激</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="d">再</w>
+<w POS="v">如</w>
+<c POS="w">，</c>
+<w POS="r">某些</w>
+<w POS="n">人</w>
+<w POS="v">认为</w>
+<w POS="vn">失业</w>
+<w POS="v">具有</w>
+<w POS="d">很</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="u">的</w>
+<w POS="n">应激</w>
+<w POS="ng">性</w>
+<c POS="w">，</c>
+<w POS="c">而</w>
+<w POS="r">另</w>
+<w POS="m">一些</w>
+<w POS="n">人</w>
+<w POS="d">却</w>
+<w POS="p">把</w>
+<w POS="vn">失业</w>
+<w POS="v">看作</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">寻找</seg></w>
+<w POS="a">新</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">天地</seg></w>
+<w POS="u">的</w>
+<w POS="a">好</w>
+<w POS="n">机会</w>
+<c POS="ew">。</c>
+</s>
+<s n="0016">
+<w POS="n">应激</w>
+<w POS="d">比较</w>
+<w POS="v">盛行</w>
+<w POS="u">的</w>
+<w POS="n">定义</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">强调</seg></w>
+<w POS="n">个体</w>
+<w POS="c">与</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">环境</seg></w>
+<w POS="u">的</w>
+<w POS="n">关系</w>
+<c POS="ew">。</c>
+</s>
+<s n="0017">
+<w POS="n">应激</w>
+<w POS="v">是</w>
+<w POS="n">人们</w>
+<w POS="n">思维</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">加工</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<w POS="u">的</w>
+<w POS="a">抽象</w>
+<w POS="n">概念</w>
+<c POS="ew">。</c>
+</s>
+<s n="0018">
+<w POS="v">引起</w>
+<w POS="n">应激</w>
+<c POS="w">，</c>
+<w POS="c">既</w>
+<w POS="v">有</w>
+<w POS="n">环境</w>
+<w POS="n">因素</w>
+<c POS="w">，</c>
+<w POS="d">又</w>
+<w POS="v">有</w>
+<w POS="n">个体</w>
+<w POS="vn">适应</w>
+<w POS="n">能力</w>
+<w POS="n">因素</w>
+<c POS="ew">。</c>
+</s>
+<s n="0019">
+<w POS="n">个性</w>
+<w POS="n">条件</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">大于</seg></w>
+<w POS="an">困难</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="d">几乎</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="n">应激</w>
+<c POS="w">，</c>
+<w POS="n">个性</w>
+<w POS="n">条件</w>
+<w POS="v">可以</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">战胜</seg></w>
+<w POS="an">困难</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="v">需要</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">付出</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">巨大</seg></w>
+<w POS="an">努力</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="v">会</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="d">较</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">小</seg></w>
+<w POS="u">的</w>
+<w POS="n">应激</w>
+<c POS="w">，</c>
+<w POS="n">个性</w>
+<w POS="n">条件</w>
+<w POS="v">不能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">战胜</seg></w>
+<w POS="an">困难</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="v">会</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="d">很</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="u">的</w>
+<w POS="n">应激</w>
+<c POS="ew">。</c>
+</s>
+<s n="0020">
+<w POS="c">因此</w>
+<c POS="w">，</c>
+<w POS="v">应</w>
+<w POS="p">把</w>
+<w POS="n">应激</w>
+<w POS="v">看作</w>
+<w POS="v">是</w>
+<w POS="n">个体</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">认识</seg></w>
+<w POS="n">应激</w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="conv">源</seg></w>
+<c POS="w">（</c>
+<w POS="a">有害</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="vn">威胁</w>
+<w POS="ng">性</w>
+<w POS="u">的</w>
+<w POS="c">或</w>
+<w POS="n">挑战性</w>
+<w POS="u">的</w>
+<w POS="u">等等</w>
+<c POS="w">）</c>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对</seg></w>
+<w POS="n">应激</w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="conv">源</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做出</seg></w>
+<w POS="vd">相应</w>
+<w POS="v">反应</w>
+<w POS="u">的</w>
+<w POS="n">过程</w>
+<c POS="ew">。</c>
+</s>
+<s n="0021">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">一</w>
+<w POS="vn">反应</w>
+<w POS="n">过程</w>
+<c POS="w">，</c>
+<w POS="v">可能</w>
+<w POS="v">包括</w>
+<w POS="n">生理</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="n">情绪</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="v">认知</w>
+<w POS="u">的</w>
+<w POS="c">和</w>
+<w POS="n">行为</w>
+<w POS="u">的</w>
+<w POS="vn">变化</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

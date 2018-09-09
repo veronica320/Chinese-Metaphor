@@ -1,0 +1,414 @@
+﻿<p>
+<s n="0001">
+<w POS="m">第一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">节</seg></w>
+<w POS="a">肥胖</w>
+<w POS="u">的</w>
+<w POS="n">病因</w>
+<w POS="c">及</w>
+<w POS="vn">发病</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机理</seg></w>
+</s>
+</p>
+<p>
+<s n="0002">
+<w POS="n">人类</w>
+<w POS="a">肥胖</w>
+<w POS="u">的</w>
+<w POS="n">病因</w>
+<w POS="d">迄今</w>
+<w POS="d">尚未</w>
+<w POS="v">阐明</w> 
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="r">若干</w>
+<w POS="n">因素</w>
+<w POS="v">需要</w>
+<w POS="v">考虑</w>
+<c POS="w">，</c>
+<w POS="v">如</w>
+<w POS="vn">遗传</w>
+<c POS="w">、</c>
+<w POS="l">神经系统</w>
+<c POS="w">、</c>
+<w POS="n">饮食</w>
+<w POS="n">生活</w>
+<w POS="n">习惯</w>
+<c POS="w">、</c>
+<w POS="v">代谢</w>
+<w POS="an">紊乱</w>
+<c POS="ew">。</c>
+</s>
+<s n="0003">
+<w POS="d">特别</w>
+<w POS="v">是</w>
+<w POS="n">能量</w>
+<w POS="n">供需</w>
+<w POS="vn">失调</w>
+<c POS="w">，</c>
+<w POS="c">以及</w>
+<w POS="n">内分泌</w>
+<w POS="vn">调节</w>
+<w POS="n">功能</w>
+<w POS="a">失常</w>
+<w POS="u">等</w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="a">具体</w>
+<w POS="vn">发病</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机制</seg></w>
+<w POS="v">是</w>
+<w POS="a">一致</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="v">即</w>
+<w POS="n">饮食</w>
+<w POS="n">能量</w>
+<w POS="v">入</w>
+<w POS="n">量</w>
+<w POS="v">多于</w>
+<w POS="n">机体</w>
+<w POS="n">消耗量</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="vn">过剩</w>
+<c POS="w">，</c>
+<w POS="v">过剩</w>
+<w POS="u">的</w>
+<w POS="n">能量</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<w POS="n">脂肪</w>
+<w POS="n">形式</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">储存</seg></w>
+<w POS="p">于</w>
+<w POS="n">机体</w>
+<c POS="w">，</c>
+<w POS="n">脂肪</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">组织</seg></w>
+<w POS="v">增多</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="an">肥胖</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0005">
+<w POS="m">一</w>
+<c POS="w">、</c>
+<w POS="vn">遗传</w>
+<w POS="n">因素</w>
+</s>
+</p>
+<p>
+<s n="0006">
+<w POS="an">肥胖</w>
+<w POS="d">常</w>
+<w POS="p">与</w>
+<w POS="vn">遗传</w>
+<w POS="v">有关</w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="p">据</w>
+<w POS="vn">统计</w>
+<c POS="w">，</c>
+<w POS="n">双亲</w>
+<w POS="n">体重</w>
+<w POS="a">正常</w>
+<w POS="r">其</w>
+<w POS="n">子女</w>
+<w POS="an">肥胖</w>
+<w POS="n">发生率</w>
+<w POS="v">为</w>
+<w POS="m">１０％</w>
+<c POS="ew">；</c>
+</s>
+<s n="0008">
+<w POS="n">双亲</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="m">一</w>
+<w POS="n">人</w>
+<w POS="a">肥胖</w>
+<c POS="w">，</c>
+<w POS="n">子女</w>
+<w POS="an">肥胖</w>
+<w POS="n">发病率</w>
+<w POS="v">为</w>
+<w POS="m">５０％</w>
+<c POS="ew">；</c>
+</s>
+</p>
+<p>
+<s n="0009">
+<w POS="n">双亲</w>
+<w POS="d">均</w>
+<w POS="a">肥胖</w>
+<c POS="w">，</c>
+<w POS="n">子女</w>
+<w POS="an">肥胖</w>
+<w POS="n">发病率</w>
+<w POS="ad"><seg function="mrw" type="indir" subtype="conv">高</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">达</seg></w>
+<w POS="m">７０％</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="a">同</w>
+<w POS="n">卵</w>
+<w POS="b">孪生</w>
+<w POS="k">儿</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="b">同一</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">环境</seg></w>
+<w POS="v">成长</w>
+<c POS="w">，</c>
+<w POS="r">其</w>
+<w POS="n">体重</w>
+<w POS="a">近似</w>
+<c POS="ew">；</c>
+</s>
+<s n="0011">
+<w POS="c">即使</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="a">不同</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">环境</seg></w>
+<w POS="v">成长</w>
+<c POS="w">，</c>
+<w POS="r">其</w>
+<w POS="n">体重</w>
+<w POS="n">差别</w>
+<w POS="d">也</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">小于</seg></w>
+<w POS="ag">异</w>
+<w POS="n">卵</w>
+<w POS="n">孪生子</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之间</seg></w>
+<w POS="u">的</w>
+<w POS="n">差别</w>
+<c POS="ew">。</c>
+</s>
+<s n="0012">
+<w POS="a">肥胖</w>
+<w POS="n">患者</w>
+<w POS="c">不但</w>
+<w POS="an">肥胖</w>
+<w POS="v">具有</w>
+<w POS="n">遗传性</w>
+<c POS="w">，</c>
+<w POS="c">而且</w>
+<w POS="n">脂肪</w>
+<w POS="v">分布</w>
+<w POS="u">的</w>
+<w POS="n">部位</w>
+<w POS="c">及</w>
+<w POS="n">骨骼</w>
+<w POS="n">状态</w>
+<w POS="d">也</w>
+<w POS="v">有</w>
+<w POS="n">遗传性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="a">肥胖</w>
+<w POS="u">的</w>
+<w POS="vn">遗传</w>
+<w POS="n">倾向</w>
+<w POS="d">还</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">表现</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">脂肪</w>
+<w POS="n">细胞</w>
+<w POS="n">数目</w>
+<w POS="c">和</w>
+<c POS="w">（</c>
+<w POS="c">或</w>
+<c POS="w">）</c>
+<w POS="n">细胞</w>
+<w POS="n">体积</w>
+<w POS="v">增大</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0014">
+<w POS="m">二</w>
+<c POS="w">、</c>
+<w POS="n">饮食</w>
+<c POS="w">、</c>
+<w POS="n">生活</w>
+<w POS="n">习惯</w>
+<w POS="c">及</w>
+<w POS="n">社会</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">环境</seg></w>
+<w POS="n">因素</w>
+</s>
+</p>
+<p>
+<s n="0015">
+<w POS="a">肥胖</w>
+<w POS="k">者</w>
+<w POS="d">往往</w>
+<w POS="v">有</w>
+<w POS="n">饮食</w>
+<w POS="vn">增多</w>
+<w POS="ng">史</w>
+<c POS="w">，</c>
+<w POS="n">食量</w>
+<w POS="d">较</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<c POS="w">，</c>
+<w POS="v">喜</w>
+<w POS="v">食</w>
+<w POS="n">甜食</w>
+<w POS="c">或</w>
+<w POS="r">每</w>
+<w POS="ng">餐</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中间</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="widlii">加</seg></w>
+<w POS="v">食</w>
+<w POS="v">引起</w>
+<w POS="n">能量</w>
+<w POS="v">过剩</w>
+<c POS="ew">。</c>
+</s>
+<s n="0016">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="b">同等</w>
+<w POS="n">热量</w>
+<w POS="n">情况</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<c POS="w">，</c>
+<w POS="v">有</w>
+<w POS="v">睡</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<w POS="v">进食</w>
+<w POS="c">及</w>
+<w POS="n">晚餐</w>
+<w POS="ad">多</w>
+<w POS="v">食</w>
+<w POS="u">的</w>
+<w POS="n">习惯</w>
+<c POS="ew">。</c>
+</s>
+<s n="0017">
+<w POS="n">体力</w>
+<w POS="vn">活动</w>
+<w POS="d">过</w>
+<w POS="a">少</w>
+<w POS="c">或</w>
+<w POS="p">因</w>
+<w POS="v">骨折</w>
+<c POS="w">、</c>
+<w POS="n">结核</w>
+<c POS="w">、</c>
+<w POS="n">肝炎</w>
+<w POS="c">或</w>
+<w POS="r">其他</w>
+<w POS="n">原因</w>
+<w POS="c">而</w>
+<w POS="v">卧床</w>
+<w POS="v">休息</w>
+<c POS="w">，</c>
+<w POS="n">热量</w>
+<w POS="v">消耗</w>
+<w POS="a">少</w>
+<w POS="c">而</w>
+<w POS="v">引起</w>
+<w POS="an">肥胖</w>
+<c POS="ew">。</c>
+</s>
+<s n="0018">
+<w POS="d">尤其</w>
+<w POS="n">人</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="t">中年</w>
+<w POS="f">以后</w>
+<c POS="w">，</c>
+<w POS="n">体力</w>
+<w POS="n">劳动量</w>
+<w POS="d">逐渐</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下降</seg></w>
+<c POS="w">，</c>
+<w POS="d">常常</w>
+<w POS="n">脂肪</w>
+<w POS="ag">臃</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">存</seg></w>
+<w POS="p">在</w>
+<w POS="n">腹部</w>
+<w POS="c">与</w>
+<w POS="n">臀部</w>
+<c POS="ew">。</c>
+</s>
+<s n="0019">
+<w POS="m">大部分</w>
+<w POS="n">人</w>
+<w POS="v">停止</w>
+<w POS="v">有</w>
+<w POS="n">规律</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="widlii">运动</seg></w>
+<w POS="f">以后</w>
+<w POS="d">即</w>
+<w POS="v">发展</w>
+<w POS="v">成</w>
+<w POS="an">肥胖</w>
+<c POS="ew">。</c>
+</s>
+<s n="0020">
+<w POS="c">此外</w>
+<w POS="a">肥胖</w>
+<w POS="k">者</w>
+<w POS="u">之</w>
+<w POS="n">能量</w>
+<w POS="vn">消耗</w>
+<w POS="p">与</w>
+<w POS="n">正常人</w>
+<w POS="v">有</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">明显</seg></w>
+<w POS="n">差别</w>
+<c POS="w">，</c>
+<w POS="v">休息</w>
+<w POS="c">及</w>
+<w POS="ad">轻微</w>
+<w POS="v">活动</w>
+<w POS="ng">时</w>
+<w POS="v">动用</w>
+<w POS="n">能量</w>
+<w POS="d">较</w>
+<w POS="n">正常人</w>
+<w POS="a">少</w>
+<c POS="ew">；</c>
+</s>
+<s n="0021">
+<w POS="b">同样</w>
+<w POS="n">饮食</w>
+<w POS="n">情况</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">下</seg></w>
+<w POS="v">合成</w>
+<w POS="vn">代谢</w>
+<w POS="d">较</w>
+<w POS="n">正常人</w>
+<w POS="v">亢进</w>
+<c POS="ew">；</c>
+</s>
+<s n="0022">
+<w POS="l">基础代谢</w>
+<w POS="k">率</w>
+<w POS="b">相对</w>
+<w POS="d">较</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">低</seg></w>
+<c POS="w">，</c>
+<w POS="v">造成</w>
+<w POS="n">能量</w>
+<w POS="v">消耗</w>
+<w POS="d">较</w>
+<w POS="a">少</w>
+<c POS="w">，</c>
+<w POS="v">引起</w>
+<w POS="an">肥胖</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

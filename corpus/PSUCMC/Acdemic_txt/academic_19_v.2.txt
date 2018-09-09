@@ -1,0 +1,423 @@
+﻿<p>
+<s n="0002">
+<w POS="m">１．</w>
+<w POS="vn">印刷</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<w POS="n">阶段</w>
+<w POS="v">是</w>
+<w POS="n">宗教</w>
+<w POS="vn">信仰</w>
+<w POS="u">的</w>
+<w POS="n">民众</w>
+<w POS="v">化</w>
+<w POS="n">时代</w>
+</s>
+</p>
+<p>
+<s n="0003">
+<w POS="ns">中国</w>
+<w POS="d">最</w>
+<w POS="ad">早</w>
+<w POS="v">发明</w>
+<w POS="l">活字印刷</w>
+<c POS="w">，</c>
+<w POS="c">但</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">经过</seg></w>
+<w POS="v">改进</w>
+<c POS="w">，</c>
+<w POS="ns">欧洲</w>
+<w POS="d">率先</w>
+<w POS="v">采用</w>
+<w POS="n">金属</w>
+<w POS="n">活字</w>
+<w POS="c">并</w>
+<w POS="m"><seg function="mrw" type="indir" subtype="conv">大量</seg></w>
+<w POS="v">用</w>
+<w POS="u">之</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<w POS="n">宗教</w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="n">公元</w>
+<w POS="t">１４５０年</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前后</seg></w>
+<c POS="w">，</c>
+<w POS="ns">德国</w>
+<w POS="n">人</w>
+<w POS="nr">美因兹·古登堡</w>
+<w POS="v">发明</w>
+<w POS="u">了</w>
+<w POS="n">金属</w>
+<w POS="l">活字印刷</w>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="v">使</w>
+<w POS="n">人类</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">进入</seg></w>
+<w POS="vn">印刷</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<w POS="n">时代</w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="nr">古登堡</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">用</seg></w>
+<w POS="n">金属</w>
+<w POS="n">活字</w>
+<w POS="n">印刷术</w>
+<w POS="v">印制</w>
+<w POS="u">的</w>
+<w POS="m">第一</w>
+<w POS="q">批</w>
+<w POS="n">书</w>
+<w POS="v">是</w>
+<w POS="m">２００</w>
+<w POS="q">本</w>
+<c POS="w">《</c>
+<w POS="n">圣经</w>
+<c POS="w">》</c>
+<c POS="ew">。</c>
+</s>
+<s n="0006">
+<w POS="ns">欧洲</w>
+<w POS="n">宗教</w>
+<w POS="vn">信仰</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">源头</seg></w>
+<c POS="w">《</c>
+<w POS="n">圣经</w>
+<c POS="w">》</c>
+<w POS="p">被</w>
+<w POS="d">批量</w>
+<w POS="u">地</w>
+<w POS="v">印刷</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出来</seg></w>
+<c POS="w">，</c>
+<w POS="v">成为</w>
+<w POS="s">街头</w>
+<w POS="n">市民</w>
+<w POS="s">手中</w>
+<w POS="u">的</w>
+<w POS="n">读物</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">依靠</seg></w>
+<w POS="r">每个</w>
+<w POS="n">人</w>
+<w POS="r">自己</w>
+<w POS="u">的</w>
+<w POS="n">能力</w>
+<w POS="c">和</w>
+<w POS="n">头脑</w>
+<w POS="v">去</w>
+<w POS="v">阅读</w>
+<c POS="w">、</c>
+<w POS="v">思考</w>
+<w POS="c">和</w>
+<w POS="v">判断</w>
+<w POS="d">才</w>
+<w POS="d">逐渐</w>
+<w POS="v">变成</w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="n">习惯</w>
+<w POS="c">和</w>
+<w POS="n">权利</w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="d">不可不</w>
+<w POS="p">被</w>
+<w POS="v">看作</w>
+<w POS="m">１６</w>
+<w POS="n">世纪</w>
+<w POS="n">宗教</w>
+<w POS="vn">改革</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">运动</seg></w>
+<w POS="u">的</w>
+<w POS="n">前提</w>
+<w POS="n">条件</w>
+<w POS="r">之一</w>
+<c POS="ew">。</c>
+</s>
+<s n="0008">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">件</seg></w>
+<w POS="v">影响</w>
+<w POS="n">世界</w>
+<w POS="n">历史</w>
+<w POS="n">进程</w>
+<w POS="u">的</w>
+<w POS="n">大事</w>
+<w POS="u">的</w>
+<w POS="b">主要</w>
+<w POS="n">内容</w>
+<w POS="v">就是</w>
+<c POS="w">＂</c>
+<w POS="p">因</w>
+<w POS="n">信</w>
+<w POS="v">称</w>
+<w POS="ng">义</w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="d">即</w>
+<w POS="v">要</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<c POS="w">《</c>
+<w POS="n">圣经</w>
+<c POS="w">》</c>
+<w POS="p">为</w>
+<w POS="n">信仰</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">最高</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">准绳</seg></w>
+<c POS="w">，</c>
+<w POS="v">摒弃</w>
+<w POS="l">神职人员</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">中介</seg></w>
+<w POS="ad">直接</w>
+<w POS="p">与</w>
+<w POS="n">上帝</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">相通</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="c">如果</w>
+<w POS="v">没有</w>
+<w POS="n">经书</w>
+<w POS="u">的</w>
+<w POS="d">大量</w>
+<w POS="v">印行</w>
+<c POS="w">，</c>
+<w POS="d">没有</w>
+<w POS="vn">印刷</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w><seg function="mrw" type="indir" subtype="conv">
+<w POS="q">种</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">形式</seg></w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<c POS="w">，</c>
+<w POS="v">要</w>
+<w POS="v">让</w>
+<w POS="u">连</w>
+<c POS="w">《</c>
+<w POS="n">圣经</w>
+<c POS="w">》</c>
+<w POS="d">都</w>
+<w POS="v">得不到</w>
+<w POS="u">的</w>
+<w POS="n">平民</w>
+<w POS="n">百姓</w>
+<w POS="v">去</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">以</seg></w>
+<c POS="w">《</c>
+<w POS="n">圣经</w>
+<c POS="w">》</c>
+<w POS="p">为</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">准绳</seg></w>
+<c POS="w">，</c>
+<w POS="p">因</w>
+<w POS="n">信</w>
+<w POS="c">而</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">得</seg></w>
+<w POS="ng">义</w>
+<c POS="w">，</c>
+<w POS="ad">显然</w>
+<w POS="v">是</w>
+<w POS="v">不可</w>
+<w POS="v">想像</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0010">
+<w POS="n">宗教</w>
+<w POS="u">的</w>
+<w POS="vn">印刷</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">经过</seg></w>
+<w POS="u">了</w>
+<w POS="m">５</w>
+<w POS="q">个</w>
+<w POS="m">多</w>
+<w POS="n">世纪</w>
+<w POS="u">的</w>
+<w POS="vn">发展</w>
+<c POS="w">，</c>
+<w POS="v">证明</w>
+<w POS="u">了</w>
+<w POS="r">其</w>
+<w POS="n">影响力</w>
+<w POS="u">的</w>
+<w POS="an">持久</w>
+<w POS="c">和</w>
+<w POS="an">深远</w>
+<c POS="ew">。</c>
+</s>
+<s n="0011">
+<w POS="c">即使</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="t">今天</w>
+<c POS="w">，</c>
+<w POS="vn">印刷</w>
+<w POS="n">读物</w>
+<w POS="d">依然</w>
+<w POS="v">是</w>
+<w POS="a">基本</w>
+<w POS="u">的</w>
+<w POS="n">宗教</w>
+<w POS="vn">宣传</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">工具</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0012">
+<w POS="r">它</w>
+<w POS="v">有</w>
+<w POS="vn">表意</w>
+<w POS="a">准确</w>
+<c POS="w">、</c>
+<w POS="d">反复</w>
+<w POS="v">使用</w>
+<c POS="w">、</c>
+<w POS="v">检索</w>
+<w POS="a">方便</w>
+<c POS="w">、</c>
+<w POS="n">造价</w>
+<w POS="a">低廉</w>
+<c POS="w">、</c>
+<w POS="vg">易</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="v">保存</w>
+<c POS="w">、</c>
+<w POS="d">批量</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">生产</seg></w>
+<w POS="u">等</w>
+<w POS="n">优点</w>
+<c POS="w">，</c>
+<w POS="c">因此</w>
+<w POS="v">具有</w>
+<w POS="v">不可</w>
+<w POS="vn">替代</w>
+<w POS="ng">性</w>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="c">但</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">时效性</w>
+<w POS="n">方面</w>
+<c POS="w">，</c>
+<w POS="d">不</w>
+<w POS="v">具有</w>
+<w POS="d">太</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">多</seg></w>
+<w POS="u">的</w>
+<w POS="n">优势</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="n">书报</w>
+<w POS="n">杂志</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="n">编辑</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="v">发行</w>
+<w POS="v">到</w>
+<w POS="b">一定</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">范围</seg></w>
+<w POS="u">的</w>
+<w POS="n">读者</w>
+<w POS="s">手中</w>
+<c POS="w">，</c>
+<w POS="c">无论</w>
+<w POS="d">多么</w>
+<w POS="a">快</w>
+<c POS="w">，</c>
+<w POS="d">都</w>
+<w POS="v">需要</w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">段</seg></w>
+<w POS="n">时间</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="r">它</w>
+<w POS="v">不能</w>
+<w POS="p">把</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">传播</seg></w>
+<w POS="k">者</w>
+<c POS="w">（</c>
+<w POS="d">通常</w>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="n">宗教</w>
+<w POS="n">群体</w>
+<w POS="u">的</w>
+<w POS="n">精神</w>
+<w POS="n">领袖</w>
+<c POS="w">）</c>
+<w POS="p">通过</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">形象</seg></w>
+<c POS="w">、</c>
+<w POS="n">语言</w>
+<w POS="v">表现</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出来</seg></w>
+<w POS="u">的</w>
+<w POS="n">动态</w>
+<w POS="u">的</w>
+<c POS="w">、</c>
+<w POS="a">生动</w>
+<w POS="u">的</w>
+<w POS="n">人格</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">力量</seg></w>
+<w POS="v">传达</w>
+<w POS="p">给</w>
+<w POS="n">受众</w>
+<c POS="w">（</c>
+<w POS="ng">教</w>
+<w POS="ng">民</w>
+<c POS="w">）</c>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">失去</seg></w>
+<w POS="u">了</w>
+<w POS="n">情景</w>
+<w POS="n">效应</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">带</seg></w>
+<w POS="p">给</w>
+<w POS="n">受众</w>
+<w POS="u">的</w>
+<w POS="a">特殊</w>
+<w POS="n">宗教</w>
+<w POS="vn">体验</w>
+<c POS="ew">。</c>
+</s>
+<s n="0016">
+<w POS="r">它</w>
+<w POS="d">还</w>
+<w POS="v">受到</w>
+<w POS="n">受众</w>
+<w POS="v">阅读</w>
+<w POS="n">能力</w>
+<c POS="w">，</c>
+<w POS="c">以及</w>
+<w POS="r">种种</w>
+<w POS="b">人为</w>
+<w POS="u">的</w>
+<w POS="c">或</w>
+<w POS="n">自然</w>
+<w POS="u">的</w>
+<w POS="n">空间</w>
+<w POS="n">障碍</w>
+<w POS="u">的</w>
+<w POS="vn">限制</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

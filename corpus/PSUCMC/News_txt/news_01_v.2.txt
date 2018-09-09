@@ -1,0 +1,431 @@
+﻿<p>
+<s n="0003">
+<w POS="t">７月</w>
+<w POS="t">２０日</w>
+<w POS="t">下午</w>
+<c POS="w">，</c>
+<w POS="m">第３１</w>
+<w POS="q">届</w>
+<w POS="n">国际</w>
+<w POS="n">数学</w>
+<w POS="nz">奥林匹克</w>
+<w POS="n">金牌</w>
+<w POS="n">得主</w>
+<c POS="w">、</c>
+<w POS="m">１７</w>
+<w POS="q">岁</w>
+<w POS="u">的</w>
+<w POS="nr">周</w>
+<w POS="nr">彤</w>
+<w POS="v">载誉</w>
+<w POS="v">返回</w>
+<w POS="j">武钢</w>
+<w POS="j">三中</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="s">手里</w>
+<w POS="v">握</w>
+<w POS="u">着</w>
+<w POS="m">一</w>
+<w POS="q">束</w>
+<w POS="n">鲜花</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0004">
+<w POS="r">这</w>
+<w POS="q">束</w>
+<w POS="n">鲜花</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="nr">周</w>
+<w POS="nr">彤</w>
+<w POS="t">中午</w>
+<w POS="d">刚</w>
+<w POS="p">从</w>
+<w POS="v">来自</w>
+<w POS="ns">北京</w>
+<w POS="u">的</w>
+<w POS="n">列车</w>
+<w POS="f">上</w>
+<w POS="v">下来</w>
+<w POS="v">踏上</w>
+<w POS="ns">武昌</w>
+<w POS="ns">南站</w>
+<w POS="n">月台</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="j">省人大</w>
+<w POS="b">副</w>
+<w POS="n">主任</w>
+<w POS="nr">梁</w>
+<w POS="nr">淑芬</w>
+<c POS="w">、</c>
+<w POS="b">副</w>
+<w POS="n">省长</w>
+<w POS="nr">张</w>
+<w POS="nr">怀念</w>
+<w POS="c">及</w>
+<w POS="n">少先队员</w>
+<w POS="k">们</w>
+<w POS="v">欢迎</w>
+<w POS="r">他</w>
+<w POS="ng">时</w>
+<w POS="v">送给</w>
+<w POS="r">他</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="t">现在</w>
+<c POS="w">，</c>
+<w POS="nr">周</w>
+<w POS="nr">彤</w>
+<w POS="v">出现</w>
+<w POS="p">在</w>
+<w POS="n">母校</w>
+<w POS="n">会议室</w>
+<w POS="s">门口</w>
+<c POS="w">，</c>
+<w POS="p">在</w>
+<w POS="r">这里</w>
+<w POS="v">坐等</w>
+<w POS="n">儿子</w>
+<w POS="i">凯旋归来</w>
+<w POS="u">的</w>
+<w POS="n">爸爸</w>
+<w POS="nr">周</w>
+<w POS="nr">进元</w>
+<w POS="c">和</w>
+<w POS="n">妈妈</w>
+<w POS="nr">魏</w>
+<w POS="nr">连英</w>
+<w POS="d">立时</w>
+<w POS="a">兴奋</w>
+<w POS="u">地</w>
+<w POS="n">站</w>
+<w POS="v">起来</w>
+<c POS="ew">。</c>
+</s>
+<s n="0006">
+<w POS="r">他俩</w>
+<w POS="d">都</w>
+<w POS="v">是</w>
+<w POS="j">武钢</w>
+<w POS="vn">烧结</w>
+<w POS="n">厂</w>
+<w POS="n">职工</w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="n">教学</w>
+<w POS="b">副</w>
+<w POS="n">校长</w>
+<w POS="nr">陈</w>
+<w POS="nr">泰坤</w>
+<w POS="v">见</w>
+<w POS="nr">周</w>
+<w POS="nr">彤</w>
+<w POS="v">执</w>
+<w POS="n">花</w>
+<w POS="p">向</w>
+<w POS="n">校领导</w>
+<w POS="v">奔</w>
+<w POS="v">来</w>
+<c POS="w">，</c>
+<w POS="d">赶紧</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="d">快</w>
+<w POS="p">把</w>
+<w POS="n">鲜花</w>
+<w POS="p">给</w>
+<w POS="n">妈妈</w>
+<w POS="y">呀</w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="r">你</w>
+<w POS="o">呀呀</w>
+<w POS="v">学</w>
+<w POS="ng">语</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<c POS="w">，</c>
+<w POS="n">妈妈</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">乘车</w>
+<w POS="v">走路</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">空</seg></w>
+<w POS="d">都</w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">放过</seg></w>
+<c POS="w">，</c>
+<w POS="i">见缝插针</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">编</seg></w>
+<w POS="n">儿歌</w>
+<w POS="v">教</w>
+<w POS="r">你</w>
+<c POS="w">、</c>
+<w POS="n">鲜花</w>
+<w POS="v">应</w>
+<w POS="v">属于</w>
+<w POS="r">你</w>
+<w POS="n">妈妈</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0008">
+<w POS="n">妈妈</w>
+<w POS="m">一</w>
+<w POS="l">使眼色</w>
+<c POS="w">，</c>
+<w POS="v">指</w>
+<w POS="u">着</w>
+<w POS="j">三中</w>
+<w POS="b">特级</w>
+<w POS="n">教师</w>
+<w POS="nr">钱</w>
+<w POS="nr">展望</w>
+<w POS="p">对</w>
+<w POS="n">儿子</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="nr">彤彤</w>
+<c POS="w">，</c>
+<w POS="nr">钱</w>
+<w POS="n">老师</w>
+<w POS="m">一</w>
+<w POS="q">周</w>
+<w POS="m">几</w>
+<w POS="q">个</w>
+<w POS="t">晚上</w>
+<w POS="p">为</w>
+<w POS="r">你</w>
+<w POS="v">辅导</w>
+<c POS="w">，</c>
+<w POS="u">连</w>
+<w POS="n">寒暑假</w>
+<w POS="u">的</w>
+<w POS="vn">学习</w>
+<w POS="d">都</w>
+<w POS="p">替</w>
+<w POS="r">你</w>
+<w POS="v">安排</w>
+<c POS="ew">。</c>
+</s>
+<s n="0009">
+<w POS="d">还</w>
+<w POS="d">到处</w>
+<w POS="v">跑</w>
+<w POS="n">书店</w>
+<w POS="p">为</w>
+<w POS="r">你</w>
+<w POS="v">买</w>
+<w POS="n">书</w>
+<c POS="w">，</c>
+<w POS="n">鲜花</w>
+<w POS="v">应</w>
+<w POS="v">属于</w>
+<w POS="d">苦心</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">培养</seg></w>
+<w POS="r">你</w>
+<w POS="u">的</w>
+<w POS="n">老师</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0010">
+<w POS="nr">钱</w>
+<w POS="n">老师</w>
+<w POS="d">连连</w>
+<w POS="v">摆手</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="p">论</w>
+<w POS="n">苦心</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="v">是</w>
+<w POS="nr">周</w>
+<w POS="nr">彤</w>
+<c POS="w">，</c>
+<w POS="p">为</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">迎接</seg></w>
+<w POS="vn">竞赛</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做</seg></w>
+<w POS="n">题</w>
+<w POS="m">三千</w>
+<w POS="m">多</w>
+<w POS="q">道</w>
+<c POS="w">，</c>
+<w POS="n">草稿</w>
+<w POS="n">纸</w>
+<w POS="v">堆</w>
+<w POS="v">起来</w>
+<w POS="d">只怕</w>
+<w POS="p">比</w>
+<w POS="r">他</w>
+<w POS="n">人</w>
+<w POS="d">还</w>
+<w POS="a">高</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0011">
+<w POS="u">正在</w>
+<w POS="v">推让</w>
+<w POS="f">之际</w>
+<c POS="w">，</c>
+<w POS="j">武钢</w>
+<w POS="b">副</w>
+<w POS="n">经理</w>
+<w POS="nr">赵</w>
+<w POS="nr">文源</w>
+<w POS="c">和</w>
+<w POS="nr">李</w>
+<w POS="nr">运茂</w>
+<w POS="v">赶来</w>
+<w POS="u">了</w>
+<c POS="w">，</c>
+<w POS="r">他俩</w>
+<w POS="d">齐</w>
+<w POS="p">向</w>
+<w POS="nr">周</w>
+<w POS="nr">彤</w>
+<w POS="v">道贺</w>
+<c POS="w">，</c>
+<w POS="d">又</w>
+<w POS="v">勉励</w>
+<w POS="r">他</w>
+<w POS="f">以后</w>
+<w POS="v">要</w>
+<w POS="d">加倍</w>
+<w POS="v">努力</w>
+<c POS="w">，</c>
+<w POS="v">报效</w>
+<w POS="n">祖国</w>
+<c POS="ew">。</c>
+</s>
+<s n="0012">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">此</seg></w>
+<w POS="ng">语</w>
+<w POS="v">使</w>
+<w POS="nr">周</w>
+<w POS="nr">彤</w>
+<w POS="z">默然</w>
+<w POS="v">想起</w>
+<w POS="t">中午</w>
+<w POS="n">省</w>
+<w POS="j">科委</w>
+<w POS="n">领导</w>
+<w POS="v">说</w>
+<w POS="u">的</w>
+<w POS="n">话</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="n">时刻</w>
+<c POS="w">，</c>
+<w POS="r">你们</w>
+<w POS="v">要</w>
+<w POS="v">想到</w>
+<w POS="r">自己</w>
+<w POS="u">的</w>
+<w POS="n">母亲</w>
+<c POS="w">，</c>
+<w POS="d">更</w>
+<w POS="v">要</w>
+<w POS="v">想到</w>
+<w POS="n">祖国</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">母亲</seg></w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0013">
+<w POS="c">那么</w>
+<c POS="w">，</c>
+<w POS="n">鲜花</w>
+<w POS="v">该</w>
+<w POS="v">送给</w>
+<w POS="r">谁</w>
+<w POS="y">呢</w>
+<c POS="ew">？</c>
+</s>
+<s n="0014">
+<w POS="d">没</w>
+<w POS="p">被</w>
+<w POS="n">国际</w>
+<w POS="vn">竞赛</w>
+<w POS="u">的</w>
+<w POS="n">数学</w>
+<w POS="n">难题</w>
+<w POS="v">难倒</w>
+<w POS="u">的</w>
+<w POS="n">数学</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">王子</seg></w>
+<w POS="d">竟</w>
+<w POS="p">被</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">眼前</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="q">道</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">题</seg></w>
+<w POS="a">难</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">住</seg></w>
+<w POS="u">了</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="d">还是</w>
+<w POS="n">校长</w>
+<w POS="nr">王</w>
+<w POS="nr">锦农</w>
+<w POS="l">巧点迷津</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="v">来</w>
+<c POS="w">，</c>
+<w POS="nr">周</w>
+<w POS="nr">彤</w>
+<w POS="v">拿</w>
+<w POS="u">着</w>
+<w POS="n">鲜花</w>
+<w POS="v">站</w>
+<w POS="f">当中</w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="d">一起</w>
+<w POS="v">照</w>
+<w POS="q">幅</w>
+<w POS="n">像</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+<p>
+<s n="0016">
+<w POS="o">喀嚓</w>
+<w POS="m">一</w>
+<w POS="q">声</w>
+<c POS="w">，</c>
+<w POS="n">银光</w>
+<w POS="m">一</w>
+<w POS="v">闪</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">一</w>
+<w POS="n">历史</w>
+<w POS="t">瞬间</w>
+<w POS="d">永远</w>
+<w POS="vg"><seg function="mrw" type="indir" subtype="cont">凝</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">住</seg></w>
+<w POS="u">了</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

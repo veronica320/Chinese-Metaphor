@@ -1,0 +1,621 @@
+﻿<p>
+<s n="0068">
+<w POS="r">她</w>
+<w POS="v">站</w>
+<w POS="p">在</w>
+<w POS="n">家门</w>
+<w POS="f">前</w>
+<c POS="w">，</c>
+<w POS="p">由</w>
+<w POS="n">校服</w>
+<w POS="ng">裙</w>
+<w POS="ng">袋</w>
+<w POS="f">中</w>
+<w POS="v">抽出</w>
+<w POS="n">锁</w>
+<w POS="ng">匙</w>
+<c POS="w">，</c>
+<w POS="v">发出</w>
+<w POS="m">一阵</w>
+<w POS="n">金属</w>
+<w POS="u">的</w>
+<w POS="vn">碰撞</w>
+<w POS="ng">声</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0069">
+<w POS="n">家门</w>
+<w POS="u">的</w>
+<w POS="r">另</w>
+<w POS="n">一边</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">传出</seg></w>
+<w POS="v">转动</w>
+<w POS="n">门锁</w>
+<w POS="u">的</w>
+<w POS="n">声音</w>
+<c POS="w">，</c>
+<w POS="n">木门</w>
+<w POS="p">被</w>
+<w POS="v">打开</w>
+<c POS="w">，</c>
+<w POS="r">她</w>
+<w POS="n">父亲</w>
+<w POS="ad">突然</w>
+<w POS="p">在</w>
+<w POS="n">门</w>
+<w POS="f">后</w>
+<w POS="v">出现</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0070">
+<w POS="v">隔</w>
+<w POS="u">着</w>
+<w POS="m">一道</w>
+<w POS="n">铁</w>
+<w POS="n">闸</w>
+<c POS="w">，</c>
+<w POS="r">她</w>
+<w POS="d">尽量</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">收藏</seg></w>
+<w POS="u">着</w>
+<w POS="a">惊愕</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">于</seg></w>
+<w POS="r">他</w>
+<w POS="t">今天</w>
+<w POS="r">如此</w>
+<w POS="ad">早</w>
+<w POS="v">归</w>
+<w POS="u">的</w>
+<w POS="n">表情</w>
+<c POS="ew">。</c>
+</s>
+<s n="0071">
+<w POS="a">平静</w>
+<w POS="v"><seg function="mflag">如</seg></w>
+<w POS="n"><seg function="mrw" type="dir">湖水</seg></w>
+<w POS="u">的</w>
+<w POS="n">脸孔</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="r">她</w>
+<w POS="n">父亲</w>
+<w POS="s"><seg function="mrw" type="indir" subtype="conv">眼中</seg></w>
+<w POS="d">却</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">相等</seg></w>
+<w POS="v">如</w>
+<w POS="i">冷若冰霜</w>
+<c POS="w">，</c>
+<w POS="v">令</w>
+<w POS="r">他</w>
+<w POS="u">的</w>
+<w POS="n">体温</w>
+<w POS="d">骤然</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">下降</seg></w>
+<c POS="w">，</c>
+<w POS="f">两边</w>
+<w POS="n">脸颊</w>
+<w POS="d">仍</w>
+<w POS="v">是</w>
+<w POS="z">滚烫</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0072">
+<w POS="r">你</w>
+<w POS="v">到</w>
+<w POS="r">哪里</w>
+<w POS="v">逛</w>
+<w POS="u">了</w>
+<c POS="ew">？</c>
+</s>
+<s n="0073">
+<w POS="r">他</w>
+<w POS="a">严肃</w>
+<w POS="u">地</w>
+<w POS="v">问</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0074">
+<w POS="r">她</w>
+<w POS="v">见</w>
+<w POS="r">他</w>
+<w POS="d">并</w>
+<w POS="v">没有</w>
+<w POS="n">意思</w>
+<w POS="u">的</w>
+<w POS="d">马上</w>
+<w POS="v">打开</w>
+<w POS="n">铁</w>
+<w POS="n">闸</w>
+<c POS="w">，</c>
+<w POS="d">便</w>
+<w POS="v">知道</w>
+<w POS="r">他</w>
+<w POS="d">又</w>
+<w POS="v">要</w>
+<w POS="p">向</w>
+<w POS="r">自己</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">展开</seg></w>
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">场</seg></w>
+<w POS="n">父女</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之间</seg></w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="cont">对峙</seg></w>
+<c POS="w">，</c>
+<w POS="d">一旦</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">退缩</seg></w>
+<c POS="w">，</c>
+<w POS="r">他</w>
+<w POS="d">就</w>
+<w POS="d">必定</w>
+<w POS="v">有</w>
+<w POS="r">自己</w>
+<w POS="u">的</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">痛</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">脚</seg></w>
+<w POS="v">可</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">践踏</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0075">
+<w POS="c">于是</w>
+<w POS="r">她</w>
+<w POS="a">直直</w>
+<w POS="u">的</w>
+<w POS="v">瞪</w>
+<w POS="u">着</w>
+<w POS="r">他</w>
+<w POS="n">双眼</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0076">
+<w POS="p">到</w>
+<w POS="s">街上</w>
+<w POS="v">逛</w>
+<c POS="ew">。</c>
+</s>
+<s n="0077">
+<w POS="r">她</w>
+<w POS="v">算是</w>
+<w POS="v">回答</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0078">
+<w POS="r">他</w>
+<w POS="d">马上</w>
+<w POS="v">感到</w>
+<w POS="p">被</w>
+<w POS="n">女儿</w>
+<w POS="v">轻视</w>
+<w POS="c">和</w>
+<w POS="v">侮辱</w>
+<w POS="u">了</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这个</seg></w>
+<w POS="n">答案</w>
+<c POS="w">，</c>
+<w POS="d">究竟</w>
+<w POS="v">算是</w>
+<w POS="n">答案</w>
+<w POS="y">吗</w>
+<c POS="w">，</c>
+<w POS="c">和</w>
+<w POS="v">没有</w>
+<w POS="n">答案</w>
+<w POS="v">有</w>
+<w POS="r">甚么</w>
+<w POS="n">分别</w>
+<c POS="ew">？</c>
+</s>
+</p>
+<p>
+<s n="0079">
+<w POS="r">你</w>
+<w POS="p">和</w>
+<w POS="r">谁</w>
+<w POS="s">一起</w>
+<c POS="ew">？</c>
+</s>
+<s n="0080">
+<w POS="r">他</w>
+<w POS="d">始终</w>
+<w POS="v">不肯</w>
+<w POS="v">打开</w>
+<w POS="n">门</w>
+<c POS="w">，</c>
+<w POS="c">因为</w>
+<w POS="d">太</w>
+<w POS="v">清楚</w>
+<w POS="r">她</w>
+<w POS="d">只</w>
+<w POS="v">会</w>
+<w POS="p">在</w>
+<w POS="r">自己</w>
+<w POS="f">面前</w>
+<w POS="d">直</w>
+<w POS="v">行</w>
+<w POS="d">直</w>
+<w POS="v">过</w>
+<c POS="w">，</c>
+<w POS="v">进</w>
+<w POS="n">房</w>
+<c POS="w">，</c>
+<w POS="v">锁门</w>
+<c POS="ew">。</c>
+</s>
+<s n="0081">
+<w POS="d">或许</w>
+<w POS="c">只有</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">此</seg></w>
+<w POS="n">情</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">此</seg></w>
+<w POS="ng">境</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之下</seg></w>
+<w POS="v">才能</w>
+<w POS="v">容许</w>
+<w POS="n">双方</w>
+<w POS="v">交谈</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0082">
+<w POS="r">自己</w>
+<w POS="m">一个</w>
+<c POS="ew">。</c>
+</s>
+<s n="0083">
+<w POS="r">她</w>
+<w POS="u">的</w>
+<w POS="n">心</w>
+<w POS="d">其实</w>
+<w POS="u">在</w>
+<w POS="dg">剧</w>
+<w POS="v">跳</w>
+<c POS="w">，</c>
+<w POS="v">凝视</w>
+<w POS="u">着</w>
+<w POS="n">铁</w>
+<w POS="n">闸</w>
+<w POS="u">的</w>
+<w POS="n">锁</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mflag">像</seg></w>
+<w POS="v">是</w>
+<w POS="u">在</w>
+<w POS="v"><seg function="mrw" type="dir">做</seg></w>
+<w POS="u">着</w>
+<w POS="m">一</w>
+<w POS="q">条</w>
+<w POS="n"><seg function="mrw" type="dir">选择题</seg></w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="dir">猜中</seg></w>
+<w POS="n">他</w>
+<w POS="n">心目</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="dir">答案</seg></w>
+<c POS="w">，</c>
+<w POS="v">锁</w>
+<w POS="d">便</w>
+<w POS="v">能</w>
+<w POS="d">自动</w>
+<w POS="v">开启</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0084">
+<w POS="r">你</w>
+<w POS="v">说谎</w>
+<c POS="ew">！</c>
+</s>
+<s n="0085">
+<w POS="m">一个</w>
+<w POS="n">人</w>
+<w POS="v">可以</w>
+<w POS="d">独自</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v">放学</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<w POS="v">逛</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="m">四</w>
+<w POS="n">小时</w>
+<c POS="ew">？</c>
+</s>
+<s n="0086">
+<w POS="r">他</w>
+<w POS="u">的</w>
+<w POS="n">表现</w>
+<w POS="v"><seg function="mflag">像</seg></w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="dir">要</seg></w>
+<w POS="v"><seg function="mrw" type="dir">判定</seg></w>
+<w POS="a"><seg function="mrw" type="dir">对</seg></w>
+<w POS="a"><seg function="mrw" type="dir">错</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="dir">双方</seg></w>
+<w POS="n"><seg function="mrw" type="dir">代表</seg></w>
+<w POS="n"><seg function="mrw" type="dir">律师</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0087">
+<w POS="r">她</w>
+<w POS="v">笑</w>
+<w POS="u">了</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起来</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0088">
+<w POS="v">明知</w>
+<w POS="m">一</w>
+<w POS="v">哭</w>
+<w POS="d">便</w>
+<w POS="v">会</w>
+<w POS="v">令</w>
+<w POS="r">他</w>
+<w POS="i">如愿得偿</w>
+<c POS="w">、</c>
+<w POS="i">洋洋自得</w>
+<w POS="u">的</w>
+<w POS="v">成为</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">胜利者</seg></w>
+<c POS="w">，</c>
+<w POS="m">一个</w>
+<w POS="i">从容不迫</w>
+<w POS="u">的</w>
+<w POS="n">笑容</w>
+<w POS="d">却</w>
+<w POS="v">可以</w>
+<w POS="v">使</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">局势</seg></w>
+<w POS="m"><seg function="mrw" type="indir" subtype="cont">一百八十</seg></w>
+<w POS="q"><seg function="mrw" type="indir" subtype="cont">度</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">扭转</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0089">
+<w POS="r">她</w>
+<w POS="d">很</w>
+<w POS="i">不以为然</w>
+<w POS="u">地</w>
+<w POS="v">说</w>
+<c POS="w">：</c>
+<w POS="r">我</w>
+<w POS="v">自问</w>
+<w POS="v">没有</w>
+<w POS="n">证人</w>
+<c POS="w">，</c>
+<w POS="v">信</w>
+<w POS="d">不</w>
+<w POS="v">信</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">由</seg></w>
+<w POS="r">你</w>
+<c POS="ew">。</c>
+</s>
+<s n="0090">
+<w POS="r">她</w>
+<w POS="d">微</w>
+<w POS="v">昂</w>
+<w POS="n">头</w>
+<c POS="w">，</c>
+<w POS="r">这</w>
+<w POS="d">一道</w>
+<w POS="n">铁</w>
+<w POS="n">闸</w>
+<w POS="r">你</w>
+<w POS="v">要</w>
+<w POS="v">打开</w>
+<w POS="r">它</w>
+<w POS="y">吗</w>
+<c POS="ew">？</c>
+</s>
+</p>
+<p>
+<s n="0091">
+<w POS="r">他</w>
+<w POS="v">看</w>
+<w POS="u">着</w>
+<w POS="r">她</w>
+<c POS="w">，</c>
+<w POS="v">像</w>
+<w POS="v">看</w>
+<w POS="u">着</w>
+<w POS="m">一个</w>
+<w POS="a">陌生</w>
+<w POS="c">而</w>
+<w POS="a">恐怖</w>
+<w POS="u">的</w>
+<w POS="n">脸孔</w>
+<c POS="w">，</c>
+<w POS="r">他</w>
+<w POS="v">知道</w>
+<w POS="r">自己</w>
+<w POS="d">绝对</w>
+<w POS="v">不能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">放下</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">做</seg></w>
+<w POS="n">父亲</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">规条</seg></w>
+<c POS="w">，</c>
+<w POS="s"><seg function="mrw" type="indir" subtype="conv">心里</seg></w>
+<w POS="d">却</w>
+<w POS="z">隐隐约约</w>
+<w POS="u">的</w>
+<w POS="v">感受</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="v">害怕</w>
+<c POS="w">、</c>
+<w POS="v">猜疑</w>
+<w POS="u">着</w>
+<w POS="r">这个</w>
+<w POS="p">跟</w>
+<w POS="r">自己</w>
+<w POS="v">流</w>
+<w POS="u">着</w>
+<w POS="b">同样</w>
+<w POS="n">血液</w>
+<w POS="u">的</w>
+<w POS="n">人</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0092">
+<w POS="m"><seg function="mrw" type="indir" subtype="conv">一阵</seg></w>
+<w POS="an">沉默</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0093">
+<w POS="d">终于</w>
+<c POS="w">，</c>
+<w POS="r">他</w>
+<w POS="v">别</w>
+<w POS="v">过</w>
+<w POS="n">眼</w>
+<c POS="w">，</c>
+<w POS="v">转身</w>
+<w POS="v">走</w>
+<w POS="v">回</w>
+<w POS="n">电视机</w>
+<w POS="f">前</w>
+<c POS="w">，</c>
+<w POS="v">躲避</w>
+<w POS="v">到</w>
+<w POS="v">可以</w>
+<w POS="v">依靠</w>
+<w POS="c">和</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">减轻</seg></w>
+<w POS="r">他</w>
+<w POS="n">头</w>
+<w POS="v">抖</w>
+<w POS="u">的</w>
+<w POS="n">梳化</w>
+<w POS="ng">椅</w>
+<w POS="f">上</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0094">
+<w POS="r">他</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">心</seg></w>
+<w POS="d">却</w>
+<w POS="v">无法</w>
+<w POS="v">平伏</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0095">
+<w POS="r">她</w>
+<w POS="v">取出</w>
+<w POS="n">锁</w>
+<w POS="ng">匙</w>
+<c POS="w">，</c>
+<w POS="v">打开</w>
+<w POS="u">了</w>
+<w POS="n">铁</w>
+<w POS="n">闸</w>
+<c POS="w">，</c>
+<w POS="v">关上</w>
+<w POS="n">门</w>
+<c POS="w">，</c>
+<w POS="p">在</w>
+<w POS="r">他</w>
+<w POS="f">面前</w>
+<w POS="d">直</w>
+<w POS="v">行</w>
+<w POS="d">直</w>
+<w POS="v">过</w>
+<c POS="w">，</c>
+<w POS="v">进</w>
+<w POS="n">房</w>
+<c POS="w">，</c>
+<w POS="v">锁门</w>
+<c POS="ew">。</c>
+</s>
+<s n="0096">
+<w POS="r">她</w>
+<w POS="d">大大</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">松</seg></w>
+<w POS="u">了</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">口</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">气</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0097">
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">前</seg></w>
+<w POS="t">一刻</w>
+<w POS="d">还</w>
+<w POS="u">在</w>
+<w POS="v">支持</w>
+<w POS="r">自己</w>
+<c POS="w">，</c>
+<w POS="c">如果</w>
+<w POS="n">铁</w>
+<w POS="n">闸</w>
+<w POS="d">始终</w>
+<w POS="v">打</w>
+<w POS="d">不</w>
+<w POS="v">开来</w>
+<c POS="w">，</c>
+<w POS="v">离家</w>
+<w POS="v">出走</w>
+<w POS="d">也</w>
+<w POS="v">没有</w>
+<w POS="r">甚么</w>
+<w POS="a">大不了</w>
+<w POS="u">的</w>
+<c POS="w">，</c>
+<w POS="r">甚么</w>
+<w POS="d">也</w>
+<w POS="v">有</w>
+<w POS="m">第一</w>
+<w POS="q">次</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0098">
+<w POS="d">幸好</w>
+<w POS="v">无</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">风</seg></w>
+<w POS="v">无</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">浪</seg></w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0099">
+<w POS="m">一</w>
+<w POS="q"><seg function="mrw" type="indir" subtype="conv">段</seg></w>
+<w POS="n">父女</w>
+<w POS="n">对话</w>
+<w POS="v">结束</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

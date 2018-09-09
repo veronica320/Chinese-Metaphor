@@ -1,0 +1,435 @@
+﻿<p>
+<s n="0002">
+<w POS="r">我们</w>
+<w POS="d">已经</w>
+<w POS="v">指出</w>
+<w POS="n">科学</w>
+<w POS="n">问题</w>
+<w POS="u">的</w>
+<w POS="a">主要</w>
+<w POS="n">功能</w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">指示</seg></w>
+<w POS="n">认识</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">目标</seg></w>
+<c POS="w">，</c>
+<w POS="d">进一步</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="n">科学</w>
+<w POS="n">问题</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="u">的</w>
+<w POS="n">作用</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">表现</seg></w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="f">以下</w>
+<w POS="m">几</w>
+<w POS="q">个</w>
+<w POS="n">方面</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0003">
+<w POS="m">一</w>
+<c POS="w">、</c>
+<w POS="n">科学</w>
+<w POS="n">问题</w>
+<w POS="u">的</w>
+<w POS="vn">存在</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">决定</seg></w>
+<w POS="u">了</w>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="n">活动</w>
+<w POS="u">的</w>
+<w POS="n">必要性</w>
+</s>
+</p>
+<p>
+<s n="0004">
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="n">活动</w>
+<w POS="u">的</w>
+<w POS="n">动因</w>
+<w POS="v">是</w>
+<w POS="n">科学</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">内部</seg></w>
+<w POS="c">和</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外部</seg></w>
+<w POS="u">的</w>
+<w POS="an">矛盾</w>
+<c POS="ew">。</c>
+</s>
+<s n="0005">
+<w POS="n">科学</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外部</seg></w>
+<w POS="u">的</w>
+<w POS="an">矛盾</w>
+<w POS="v">是</w>
+<w POS="a">既有</w>
+<w POS="u">的</w>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="c">和</w>
+<w POS="n">人类</w>
+<w POS="vn">实践</w>
+<w POS="n">需要</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之间</seg></w>
+<w POS="u">的</w>
+<w POS="an">矛盾</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">推动</seg></w>
+<w POS="n">科学</w>
+<w POS="vn">发展</w>
+<w POS="u">的</w>
+<w POS="a">基本</w>
+<w POS="n">动因</w>
+<c POS="ew">。</c>
+</s>
+<s n="0006">
+<w POS="n">科学</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">内部</seg></w>
+<w POS="u">的</w>
+<w POS="an">矛盾</w>
+<c POS="w">，</c>
+<w POS="v">包括</w>
+<w POS="n">科学</w>
+<w POS="n">理论</w>
+<w POS="n">认识</w>
+<w POS="n">成果</w>
+<w POS="c">和</w>
+<w POS="n">经验</w>
+<w POS="n">认识</w>
+<w POS="n">成果</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">间</seg></w>
+<w POS="u">的</w>
+<w POS="an">矛盾</w>
+<c POS="w">，</c>
+<w POS="a">不同</w>
+<w POS="n">理论</w>
+<w POS="n">认识</w>
+<w POS="n">成果</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之间</seg></w>
+<w POS="u">的</w>
+<w POS="an">矛盾</w>
+<c POS="w">，</c>
+<w POS="c">以及</w>
+<w POS="r">某</w>
+<w POS="m">一</w>
+<w POS="n">科学</w>
+<w POS="n">理论</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">内部</seg></w>
+<w POS="u">的</w>
+<w POS="an">矛盾</w>
+<w POS="u">等等</w>
+<c POS="w">，</c>
+<w POS="r">它们</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">构成</seg></w>
+<w POS="n">基础科学</w>
+<w POS="vn">发展</w>
+<w POS="u">的</w>
+<w POS="a">直接</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">背景</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0007">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="an">矛盾</w>
+<w POS="u">的</w>
+<w POS="vn">存在</w>
+<w POS="v">是</w>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="n">活动</w>
+<w POS="v">发生</w>
+<w POS="c">和</w>
+<w POS="v">发展</w>
+<w POS="u">的</w>
+<w POS="n">根据</w>
+<w POS="c">和</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">动力</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0008">
+<w POS="c">但是</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="an">矛盾</w>
+<w POS="r">如何</w>
+<w POS="v">成为</w>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="u">的</w>
+<w POS="n">动因</w>
+<w POS="y">呢</w>
+<c POS="ew">？</c>
+</s>
+<s n="0009">
+<w POS="v">需要</w>
+<w POS="p">通过</w>
+<w POS="n">科学</w>
+<w POS="n">问题</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="m">一</w>
+<w POS="a">具体</w>
+<w POS="n">形式</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="c">因为</w>
+<w POS="c">只有</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="b">上述</w>
+<w POS="an">矛盾</w>
+<w POS="p">被</w>
+<w POS="n">研究者</w>
+<w POS="u">所</w>
+<w POS="v">认识</w>
+<c POS="w">、</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">把握</seg></w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">形成</seg></w>
+<w POS="n">科学</w>
+<w POS="n">问题</w>
+<c POS="w">，</c>
+<w POS="v">作为</w>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="n">活动</w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">目标</seg></w>
+<w POS="v">提出</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="v">才能</w>
+<w POS="v">促使</w>
+<w POS="n">人们</w>
+<w POS="v">进行</w>
+<w POS="v">探求</w>
+<c POS="w">，</c>
+<w POS="v">才能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">推动</seg></w>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="u">的</w>
+<w POS="vn">发生</w>
+<w POS="c">和</w>
+<w POS="vn">发展</w>
+<c POS="ew">。</c>
+</s>
+<s n="0011">
+<w POS="c">如果</w>
+<w POS="d">不</w>
+<w POS="v">存在</w>
+<w POS="r">这样</w>
+<w POS="m">一些</w>
+<w POS="n">问题</w>
+<c POS="w">，</c>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="n">活动</w>
+<w POS="d">就</w>
+<w POS="v">没有</w>
+<w POS="an">必要</w>
+<w POS="v">进行</w>
+<c POS="w">，</c>
+<w POS="n">科学</w>
+<w POS="n">知识</w>
+<w POS="d">也</w>
+<w POS="d">就</w>
+<w POS="d">不</w>
+<w POS="v">需要</w>
+<w POS="d">再</w>
+<w POS="v">发展</w>
+<c POS="ew">。</c>
+</s>
+<s n="0012">
+<w POS="c">所以</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="b">一定</w>
+<w POS="n">意义</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="v">可以</w>
+<w POS="v">说</w>
+<c POS="w">，</c>
+<w POS="v">正是</w>
+<w POS="n">科学</w>
+<w POS="n">问题</w>
+<w POS="u">的</w>
+<w POS="vn">存在</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">决定</seg></w>
+<w POS="u">了</w>
+<w POS="n">科学</w>
+<w POS="n">认识</w>
+<w POS="u">的</w>
+<w POS="vn">发生</w>
+<w POS="c">和</w>
+<w POS="vn">发展</w>
+<w POS="u">的</w>
+<w POS="n">必要性</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0013">
+<w POS="c">如果</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="r">某</w>
+<w POS="m">一</w>
+<w POS="n">学科</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">领域</seg></w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">里</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="u">了</w>
+<w POS="m">许多</w>
+<w POS="n">问题</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="d">并</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<w POS="r">什么</w>
+<w POS="n">坏事</w>
+<c POS="w">，</c>
+<w POS="d">恰恰</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">表明</seg></w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="q">门</w>
+<w POS="n">学科</w>
+<w POS="v">具有</w>
+<w POS="vn">存在</w>
+<w POS="u">的</w>
+<w POS="n">依据</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">表明</seg></w>
+<w POS="r">它</w>
+<w POS="v">有</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">广阔</seg></w>
+<w POS="u">的</w>
+<w POS="n">发展前途</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="ns">德国</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="n">数学家</w>
+<w POS="nr">希尔伯特</w>
+<c POS="w">（</c>
+<w POS="nx">D．Hilbert</w>
+<c POS="w">，</c>
+<w POS="m">１８６２</w>
+<c POS="w">-</c>
+<w POS="m">１９４３</w>
+<c POS="w">）</c>
+<w POS="d">曾</w>
+<w POS="v">指出</w>
+<c POS="w">＂</c>
+<w POS="r">某</w>
+<w POS="q">类</w>
+<w POS="n">问题</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">对于</seg></w>
+<w POS="a">一般</w>
+<w POS="n">数学</w>
+<w POS="vn">进展</w>
+<w POS="u">的</w>
+<w POS="a">深远</w>
+<w POS="n">意义</w>
+<w POS="c">以及</w>
+<w POS="r">它们</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n">研究者</w>
+<w POS="n">个人</w>
+<w POS="u">的</w>
+<w POS="n">工作</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="u">所</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">起</seg></w>
+<w POS="u">的</w>
+<w POS="a">重要</w>
+<w POS="n">作用</w>
+<w POS="v">是</w>
+<w POS="v">不可</w>
+<w POS="v">否认</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="c">只要</w>
+<w POS="m">一</w>
+<w POS="q">门</w>
+<w POS="n">科学</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">分支</seg></w>
+<w POS="v">能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">提出</seg></w>
+<w POS="m">大量</w>
+<w POS="u">的</w>
+<w POS="n">问题</w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="imp">它</seg></w>
+<w POS="d">就</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">充满</seg></w>
+<w POS="u">着</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">生命力</seg></w>
+<c POS="ew">；</c>
+</s>
+<s n="0016">
+<w POS="c">而</w>
+<w POS="n">问题</w>
+<w POS="vn">缺乏</w>
+<w POS="d">则</w>
+<w POS="v">预示</w>
+<w POS="u">着</w>
+<w POS="a">独立</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="widlii">衰亡</seg></w>
+<w POS="c">或</w>
+<w POS="vn">中止</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+<s n="0017">
+<w POS="nr">岩崎允胤</w>
+<w POS="c">和</w>
+<w POS="nr">宫原将平</w>
+<w POS="d">也</w>
+<w POS="v">指出</w>
+<c POS="w">：</c>
+<c POS="w">＂</c>
+<w POS="n">科学</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">探索</seg></w>
+<w POS="d">总是</w>
+<w POS="p">与</w>
+<w POS="a">具体</w>
+<w POS="n">问题</w>
+<w POS="c">及其</w>
+<w POS="v">解决</w>
+<w POS="v">有关</w>
+<w POS="u">的</w>
+<c POS="ew">。</c>
+</s>
+<s n="0018">
+<w POS="n">问题</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">消失</seg></w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="n">科学</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">探索</seg></w>
+<w POS="d">将</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">失去</seg></w>
+<w POS="r">一切</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">生机</seg></w>
+<w POS="c">而</w>
+<w POS="l">不复存在</w>
+<c POS="ew">。</c>
+<c POS="w">＂</c>
+</s>
+</p>
+

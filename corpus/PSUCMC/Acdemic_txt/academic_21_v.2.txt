@@ -1,0 +1,440 @@
+﻿<p>
+<s n="0043">
+<w POS="n">摘要</w>
+<c POS="w">：</c>
+<w POS="n">社会主义</w>
+<w POS="n">市场经济</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">向</seg></w>
+<w POS="j">高校</w>
+<w POS="n">思想</w>
+<w POS="n">政治</w>
+<w POS="vn">教育</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">提出</seg></w>
+<w POS="u">了</w>
+<w POS="a">新</w>
+<w POS="vn">挑战</w>
+<c POS="ew">。</c>
+</s>
+<s n="0044">
+<w POS="r">我们</w>
+<w POS="d">必须</w>
+<w POS="v">注重</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="vn">实践</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<w POS="ad">努力</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">探索</seg></w>
+<c POS="w">，</c>
+<w POS="v">改进</w>
+<w POS="c">和</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">加强</seg></w>
+<w POS="j">高校</w>
+<w POS="n">思想</w>
+<w POS="n">政治</w>
+<w POS="vn">教育</w>
+<w POS="u">的</w>
+<w POS="a">新</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">走向</seg></w>
+<w POS="c">和</w>
+<w POS="n">全方位</w>
+<w POS="v">育人</w>
+<w POS="u">的</w>
+<w POS="a">新</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">格局</seg></w>
+<c POS="w">，</c>
+<w POS="v">才能</w>
+<w POS="ad">主动</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">迎接</seg></w>
+<w POS="vn">挑战</w>
+<c POS="w">，</c>
+<w POS="v">适应</w>
+<w POS="n">市场经济</w>
+<w POS="u">的</w>
+<w POS="n">需要</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0045">
+<w POS="j">高校</w>
+<w POS="d">不</w>
+<w POS="v">是</w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">市</seg></w>
+<c POS="w">＂</c>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">外</seg></w>
+<w POS="ns">桃源</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0046">
+<w POS="j">高校</w>
+<w POS="v">无</w>
+<w POS="n">例外</w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">接受</seg></w>
+<w POS="n">市场经济</w>
+<w POS="u">的</w>
+<w POS="n">导向</w>
+<w POS="c">和</w>
+<w POS="vn">调控</w>
+<c POS="ew">。</c>
+</s>
+<s n="0047">
+<w POS="vn">教育</w>
+<w POS="d">必须</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">为</seg></w>
+<w POS="n">社会主义</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">建设</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">服务</seg></w>
+<c POS="w">，</c>
+<w POS="n">社会主义</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">建设</seg></w>
+<w POS="d">必须</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">依靠</seg></w>
+<w POS="vn">教育</w>
+<c POS="ew">。</c>
+</s>
+<s n="0048">
+<w POS="l">高等教育</w>
+<w POS="v">适应</w>
+<w POS="n">市场经济</w>
+<w POS="v">是</w>
+<w POS="m">一个</w>
+<w POS="b">长期</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="pers">互动</seg></w>
+<w POS="u">的</w>
+<w POS="n">历史</w>
+<w POS="n">过程</w>
+<c POS="w">，</c>
+<w POS="d">最</w>
+<w POS="a">困难</w>
+<w POS="u">的</w>
+<w POS="v">是</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">接轨</seg></w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">起步</seg></w>
+<w POS="n">阶段</w>
+<c POS="ew">。</c>
+</s>
+<s n="0049">
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">当</seg></w>
+<w POS="n">市场经济</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">向</seg></w>
+<w POS="l">高等教育</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">发起</seg></w>
+<w POS="vn">挑战</w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="l">高等教育</w>
+<w POS="d">已</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">感受</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">巨大</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">压力</seg></w>
+<c POS="w">，</c>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">作出</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="pers">积极</seg></w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="pers">反应</seg></w>
+<w POS="ng">时</w>
+<c POS="w">，</c>
+<w POS="n">校园</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="widlii">里</seg></w>
+<w POS="d">便</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="u">了</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">强烈</seg></w>
+<w POS="u">的</w>
+<w POS="n">思想</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">冲击波</seg></w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这</seg></w>
+<w POS="d">就</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">给</seg></w>
+<w POS="j">高校</w>
+<w POS="n">思想</w>
+<w POS="n">政治</w>
+<w POS="vn">教育</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">带来</seg></w>
+<w POS="u">了</w>
+<w POS="a">新</w>
+<w POS="u">的</w>
+<w POS="vn">挑战</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0050">
+<w POS="j">高校</w>
+<w POS="v">是</w>
+<w POS="n">社会</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">晴雨表</seg></w>
+<c POS="w">＂</c>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="n">社会</w>
+<w POS="u">的</w>
+<w POS="m">一</w>
+<w POS="q">面</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">镜子</seg></w>
+<c POS="w">，</c>
+<w POS="r"><seg function="mrw" type="imp">它</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="cont">灵敏</seg></w>
+<w POS="u">地</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">反映</seg></w>
+<w POS="u">着</w>
+<w POS="n">社会</w>
+<c POS="ew">。</c>
+</s>
+<s n="0051">
+<w POS="n">市场经济</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">建立</seg></w>
+<c POS="w">，</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">市场</seg></w>
+<w POS="n">观念</w>
+<c POS="w">、</c>
+<w POS="n">价值</w>
+<w POS="n">观念</w>
+<c POS="w">、</c>
+<w POS="vn">竞争</w>
+<w POS="n">意识</w>
+<w POS="d">随之</w>
+<w POS="v">强化</w>
+<c POS="ew">。</c>
+</s>
+<s n="0052">
+<w POS="r">它</w>
+<w POS="v">使</w>
+<w POS="n">人们</w>
+<w POS="n">思想</w>
+<w POS="v">感受</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="l">强有力</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">冲击</seg></w>
+<c POS="w">，</c>
+<w POS="r">它</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">给</seg></w>
+<w POS="n">传统</w>
+<w POS="u">的</w>
+<w POS="n">德</w>
+<w POS="n">才</w>
+<w POS="ng"><seg function="mrw" type="indir" subtype="conv">观</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">提出</seg></w>
+<w POS="u">了</w>
+<w POS="vn">挑战</w>
+<c POS="w">，</c>
+<w POS="d">更</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">看重</seg></w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">征服</seg></w>
+<w POS="c">和</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">驾驭</seg></w>
+<w POS="n">世界</w>
+<w POS="u">的</w>
+<w POS="n">能力</w>
+<c POS="ew">。</c>
+</s>
+<s n="0053">
+<w POS="c">因而</w>
+<w POS="r">有的</w>
+<w POS="v">认为</w>
+<w POS="v">学</w>
+<w POS="j">马列</w>
+<w POS="v">是</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">形式</seg></w>
+<c POS="w">，</c>
+<w POS="d">不</w>
+<w POS="v">会</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">长</seg></w>
+<w POS="n">才干</w>
+<w POS="c">而</w>
+<w POS="v">忽视</w>
+<w POS="n">政治</w>
+<w POS="n">教育课</w>
+<c POS="ew">；</c>
+</s>
+<s n="0054">
+<w POS="r">有的</w>
+<w POS="v">认为</w>
+<w POS="v">学</w>
+<w POS="n">中医药</w>
+<w POS="u">的</w>
+<w POS="v">不如</w>
+<w POS="v">学</w>
+<w POS="n">西药</w>
+<w POS="u">的</w>
+<w POS="vn">竞争</w>
+<w POS="n">实力</w>
+<c POS="w">，</c>
+<w POS="v">担心</w>
+<w POS="v">毕业</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">后</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">找</seg></w>
+<w POS="d">不</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">到</seg></w>
+<w POS="m">一</w>
+<w POS="q">席</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">位置</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0055">
+<w POS="r">有的</w>
+<w POS="n">思想</w>
+<w POS="n">教育工作者</w>
+<w POS="d">也</w>
+<w POS="v">思虑</w>
+<w POS="m">万千</w>
+<c POS="ew">。</c>
+</s>
+<s n="0056">
+<w POS="v">有</w>
+<w POS="v">认为</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">靠</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">市场</seg></w>
+<w POS="v">调节</w>
+<w POS="y">了</w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="cont">晴雨伞</seg></w>
+<c POS="w">＂</c>
+<w POS="v">没用</w>
+<w POS="y">了</w>
+<c POS="w">，</c>
+<w POS="v">担心</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">机构</seg></w>
+<w POS="vn">调整</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">中</seg></w>
+<c POS="w">，</c>
+<w POS="d">首先</w>
+<w POS="p">被</w>
+<w POS="v">精简</w>
+<c POS="ew">；</c>
+</s>
+<s n="0057">
+<w POS="r">有的</w>
+<w POS="v">认为</w>
+<w POS="n">思想</w>
+<w POS="vn">教育</w>
+<c POS="w">＂</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">跳</seg></w>
+<w POS="a"><seg function="mrw" type="indir" subtype="pers">独</seg></w>
+<w POS="n"><seg function="mrw" type="indir" subtype="pers">脚</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">舞</seg></w>
+<c POS="w">＂</c>
+<c POS="w">、</c>
+<c POS="w">＂</c>
+<w POS="i"><seg function="mrw" type="indir" subtype="pers">孤军作战</seg></w>
+<c POS="w">＂</c>
+<w POS="u">等</w>
+<w POS="n">问题</w>
+<w POS="v">无望</w>
+<w POS="v">解决</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">产生</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">转轨</seg></w>
+<w POS="v">改行</w>
+<w POS="u">的</w>
+<w POS="n">念头</w>
+<c POS="ew">。</c>
+</s>
+<s n="0058">
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="d">都</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">给</seg></w>
+<w POS="j">高校</w>
+<w POS="n">思想</w>
+<w POS="n">政治</w>
+<w POS="vn">教育</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">带来</seg></w>
+<w POS="u">了</w>
+<w POS="d">更</w>
+<w POS="a"><seg function="mrw" type="indir" subtype="conv">大</seg></w>
+<w POS="u">的</w>
+<w POS="n">难度</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0059">
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">面对</seg></w>
+<w POS="n">市场经济</w>
+<w POS="u">的</w>
+<w POS="vn">挑战</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">面对</seg></w>
+<w POS="r">各种</w>
+<w POS="n">思想</w>
+<w POS="n">问题</w>
+<c POS="w">，</c>
+<w POS="r">我们</w>
+<w POS="v">认为</w>
+<c POS="w">，</c>
+<w POS="j">高校</w>
+<w POS="n">思想</w>
+<w POS="n">政治</w>
+<w POS="vn">教育</w>
+<w POS="v">只能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">加强</seg></w>
+<c POS="w">，</c>
+<w POS="v">不能</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">削弱</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0060">
+<w POS="v">要</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">转换</seg></w>
+<w POS="n">观念</w>
+<c POS="w">，</c>
+<w POS="v">注重</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="vn">实践</w>
+<w POS="n">课</w>
+<w POS="u">的</w>
+<w POS="vn"><seg function="mrw" type="indir" subtype="conv">探索</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0061">
+<w POS="r">如何</w>
+<w POS="v">才能</w>
+<w POS="ad">主动</w>
+<w POS="v">适应</w>
+<w POS="n">市场经济</w>
+<w POS="u">的</w>
+<w POS="n">需要</w>
+<c POS="w">，</c>
+<w POS="d">就</w>
+<w POS="v">成为</w>
+<w POS="r">我们</w>
+<w POS="vn">研究</w>
+<w POS="c">和</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">探索</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">中心</seg></w>
+<w POS="n">课题</w>
+<c POS="ew">。</c>
+</s>
+<s n="0062">
+<w POS="tg">现</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">从</seg></w>
+<w POS="m">三</w>
+<w POS="n">方面</w>
+<w POS="v">谈谈</w>
+<w POS="n">笔者</w>
+<w POS="u">的</w>
+<w POS="n">认识</w>
+<c POS="ew">。</c>
+</s>
+</p>
+

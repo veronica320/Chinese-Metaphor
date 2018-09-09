@@ -1,0 +1,381 @@
+﻿<p>
+<s n="0002">
+<w POS="n">基因</w>
+<w POS="v">是</w>
+<w POS="n">脱氧核糖酸</w>
+<c POS="w">（</c>
+<w POS="nx">DNA</w>
+<c POS="w">）</c>
+<w POS="n">分子</w>
+<w POS="f">上</w>
+<w POS="u">的</w>
+<w POS="m">一个</w>
+<w POS="b">特定</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">片段</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0003">
+<w POS="a">不同</w>
+<w POS="n">基因</w>
+<w POS="u">的</w>
+<w POS="vn">遗传</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">信息</seg></w>
+<c POS="w">，</c>
+<w POS="v">存在</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="widlii">于</seg></w>
+<w POS="r">各自</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="widlii">片段</seg></w>
+<w POS="f">上</w>
+<w POS="u">的</w>
+<w POS="n">硷基</w>
+<w POS="vn">排列</w>
+<w POS="n">顺序</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="widlii">之中</seg></w>
+<c POS="ew">。</c>
+</s>
+<s n="0004">
+<w POS="n">基因</w>
+<w POS="u">的</w>
+<w POS="a">精确</w>
+<w POS="vn">复制</w>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">保证</seg></w>
+<w POS="u">了</w>
+<w POS="vn">遗传</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">信息</seg></w>
+<w POS="u">的</w>
+<w POS="l">代代相传</w>
+<c POS="ew">；</c>
+</s>
+<s n="0005">
+<w POS="n">基因</w>
+<w POS="p">通过</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="cont">转录</seg></w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出</seg></w>
+<w POS="u">的</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="pers">信使</seg></w>
+<w POS="n">核糖核酸</w>
+<c POS="w">（</c>
+<w POS="nx">mRNA</w>
+<c POS="w">）</c>
+<c POS="w">，</c>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">指导</seg></w>
+<w POS="v">合成</w>
+<w POS="b">特定</w>
+<w POS="u">的</w>
+<w POS="n">蛋白质</w>
+<c POS="w">，</c>
+<w POS="v">使</w>
+<w POS="n">基因</w>
+<w POS="v">得以</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">表达</seg></w>
+<c POS="w">，</c>
+<w POS="v">去</w>
+<w POS="v">完成</w>
+<w POS="b">特定</w>
+<w POS="u">的</w>
+<w POS="n">生命</w>
+<w POS="vn">活动</w>
+<c POS="ew">。</c>
+</s>
+<s n="0006">
+<w POS="c">所以</w>
+<c POS="w">，</c>
+<w POS="n">基因</w>
+<w POS="v">是</w>
+<w POS="vn">遗传</w>
+<w POS="u">之</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">本</seg></w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="v">控制</w>
+<w POS="n">生命</w>
+<w POS="vn">活动</w>
+<w POS="u">的</w>
+<c POS="w">＂</c>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">蓝图</seg></w>
+<c POS="w">＂</c>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0007">
+<w POS="v">利用</w>
+<w POS="n">微生物</w>
+<w POS="v">能</w>
+<w POS="v">产生</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出</seg></w>
+<w POS="p">对</w>
+<w POS="n">人类</w>
+<w POS="a">有用</w>
+<w POS="u">的</w>
+<w POS="n">抗生素</w>
+<c POS="w">、</c>
+<w POS="n">氨基酸</w>
+<c POS="w">、</c>
+<w POS="n">核酸</w>
+<w POS="c">和</w>
+<w POS="n">制剂</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="c">因为</w>
+<w POS="n">微生物</w>
+<w POS="f">中</w>
+<w POS="v">含有</w>
+<w POS="v">合成</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这些</seg></w>
+<w POS="n">物质</w>
+<w POS="u">的</w>
+<w POS="n">基因</w>
+<c POS="ew">；</c>
+</s>
+<s n="0008">
+<w POS="n">家蚕</w>
+<w POS="v">能</w>
+<w POS="v">吐</w>
+<w POS="v">出</w>
+<w POS="n">蚕丝</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="c">因为</w>
+<w POS="n">家蚕</w>
+<w POS="v">含有</w>
+<w POS="n">丝素蛋白</w>
+<w POS="n">基因</w>
+<c POS="ew">；</c>
+</s>
+<s n="0009">
+<w POS="n">豆科</w>
+<w POS="n">植物</w>
+<w POS="v">能</w>
+<w POS="v">固定</w>
+<w POS="n">空气</w>
+<w POS="f">中</w>
+<w POS="u">的</w>
+<w POS="n">氯</w>
+<c POS="w">，</c>
+<w POS="c">因而</w>
+<w POS="v">可</w>
+<w POS="p">在</w>
+<w POS="n">肥料</w>
+<w POS="d">不</w>
+<w POS="a">多</w>
+<w POS="u">的</w>
+<w POS="n">土壤</w>
+<w POS="f">里</w>
+<w POS="ad">茁壮</w>
+<w POS="v">生长</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="c">因为</w>
+<w POS="n">豆科</w>
+<w POS="n">植物</w>
+<w POS="u">的</w>
+<w POS="n">根部</w>
+<w POS="v">共生</w>
+<w POS="u">的</w>
+<w POS="n">微生物</w>
+<w POS="f">中</w>
+<w POS="v">含有</w>
+<w POS="n">固氮</w>
+<w POS="n">基因</w>
+<c POS="ew">。</c>
+</s>
+<s n="0010">
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="n">生物</w>
+<w POS="n">种类</w>
+<w POS="d">都</w>
+<w POS="v">具有</w>
+<w POS="r">自己</w>
+<w POS="a">独特</w>
+<w POS="u">的</w>
+<w POS="m">一些</w>
+<w POS="n">基因</w>
+<c POS="w">，</c>
+<w POS="c">从而</w>
+<w POS="v">使</w>
+<w POS="r">这些</w>
+<w POS="n">生物</w>
+<w POS="i">各得其所</w>
+<c POS="w">，</c>
+<w POS="i">各有千秋</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0011">
+<w POS="c">但是</w>
+<c POS="w">，</c>
+<w POS="n">微生物</w>
+<w POS="v">不能</w>
+<w POS="v">产生</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出</seg></w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="n">胰岛素</w>
+<w POS="c">和</w>
+<w POS="n">干扰素</w>
+<w POS="r">这些</w>
+<w POS="n">医学</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">上</seg></w>
+<w POS="d">极其</w>
+<w POS="a">珍贵</w>
+<w POS="u">的</w>
+<w POS="n">药物</w>
+<c POS="w">，</c>
+<w POS="c">因为</w>
+<w POS="r">这些</w>
+<w POS="n">微生物</w>
+<w POS="v">没有</w>
+<w POS="n">人</w>
+<w POS="u">的</w>
+<w POS="r">这些</w>
+<w POS="n">基因</w>
+<c POS="ew">；</c>
+</s>
+<s n="0012">
+<w POS="n">禾本科</w>
+<w POS="u">的</w>
+<w POS="n">植物</w>
+<w POS="v">不能</w>
+<w POS="n">固氮</w>
+<c POS="w">，</c>
+<w POS="v">是</w>
+<w POS="c">因为</w>
+<w POS="r">这些</w>
+<w POS="n">植物</w>
+<w POS="u">的</w>
+<w POS="s">体内</w>
+<w POS="v">没有</w>
+<w POS="n">固氮</w>
+<w POS="n">基因</w>
+<c POS="ew">。</c>
+</s>
+<s n="0013">
+<w POS="r">多少</w>
+<w POS="n">世纪</w>
+<w POS="f">以来</w>
+<c POS="w">，</c>
+<w POS="n">人类</w>
+<w POS="p">通过</w>
+<w POS="b">人工</w>
+<w POS="vn">选择</w>
+<c POS="w">、</c>
+<w POS="l">杂交育种</w>
+<w POS="u">等</w>
+<w POS="n">方法</w>
+<c POS="w">，</c>
+<w POS="v">培育</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="conv">出</seg></w>
+<w POS="m">许许多多</w>
+<w POS="v">集</w>
+<w POS="n">父母</w>
+<w POS="n"><seg function="mrw" type="indir" subtype="conv">本</seg></w>
+<w POS="u">的</w>
+<w POS="a">优良</w>
+<w POS="n">性状</w>
+<w POS="p">于</w>
+<w POS="n">一身</w>
+<w POS="u">的</w>
+<w POS="n">生物</w>
+<w POS="n">新品种</w>
+<c POS="ew">。</c>
+</s>
+<s n="0014">
+<w POS="c">但</w>
+<w POS="r"><seg function="mrw" type="indir" subtype="conv">这种</seg></w>
+<w POS="a">常规</w>
+<w POS="u">的</w>
+<w POS="vn">育种</w>
+<w POS="n">方法</w>
+<w POS="v">不能</w>
+<w POS="p">按照</w>
+<w POS="n">人们</w>
+<w POS="vn">预定</w>
+<w POS="u">的</w>
+<w POS="n">目的</w>
+<w POS="b">定向</w>
+<w POS="u">地</w>
+<w POS="v">改变</w>
+<w POS="n">生物</w>
+<w POS="u">的</w>
+<w POS="vn">遗传</w>
+<w POS="n">特征</w>
+<c POS="w">，</c>
+<w POS="d">特别</w>
+<w POS="v">是</w>
+<w POS="l">杂交育种</w>
+<w POS="p"><seg function="mrw" type="indir" subtype="conv">在</seg></w>
+<w POS="a">不同</w>
+<w POS="n">物种</w>
+<w POS="f"><seg function="mrw" type="indir" subtype="conv">之间</seg></w>
+<w POS="d">还</w>
+<w POS="v">存在</w>
+<w POS="u">着</w>
+<w POS="i">不可逾越</w>
+<w POS="u">的</w>
+<w POS="n">鸿沟</w>
+<c POS="ew">。</c>
+</s>
+<s n="0015">
+<w POS="n">人们</w>
+<w POS="d">一直</w>
+<w POS="v">渴望</w>
+<w POS="u">着</w>
+<w POS="m">一</w>
+<w POS="q">种</w>
+<w POS="v">能</w>
+<w POS="l">定向培育</w>
+<w POS="n">生物</w>
+<w POS="n">新品种</w>
+<w POS="u">的</w>
+<w POS="n">方法</w>
+<c POS="ew">。</c>
+</s>
+</p>
+<p>
+<s n="0016">
+<w POS="t">１９７３年</w>
+<c POS="w">，</c>
+<w POS="ns">美国</w>
+<w POS="n">科学家</w>
+<w POS="nr">科恩</w>
+<w POS="u">等</w>
+<w POS="n">人</w>
+<w POS="m">第一</w>
+<w POS="q">次</w>
+<w POS="d">将</w>
+<w POS="m">两</w>
+<w POS="q">种</w>
+<w POS="a">不同</w>
+<w POS="u">的</w>
+<w POS="nx">DNA</w>
+<w POS="n">分子</w>
+<w POS="v">进行</w>
+<w POS="ng">体</w>
+<w POS="f">外</w>
+<w POS="v">重组</w>
+<c POS="w">，</c>
+<w POS="c">并且</w>
+<w POS="p">在</w>
+<w POS="l">大肠杆菌</w>
+<w POS="f">中</w>
+<w POS="v"><seg function="mrw" type="indir" subtype="pers">表达</seg></w>
+<c POS="w">，</c>
+<w POS="v">创立</w>
+<w POS="u">了</w>
+<w POS="ad">定向</w>
+<w POS="v">改造</w>
+<w POS="n">生物</w>
+<w POS="u">的</w>
+<w POS="a">新</w>
+<w POS="n">科学</w>
+<c POS="w">－－</c>
+<w POS="n">基因</w>
+<w POS="n">工程</w>
+<c POS="ew">。</c>
+</s>
+</p>
+
