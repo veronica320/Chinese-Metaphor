@@ -20,18 +20,18 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 * /src：代码
 
 # Code Structure
-*核心代码：
-    * conf.py: 设置各种参数
-    * multi_cgru_keras.py: 模型结构
-    * train.py: 在90%的训练数据上训练模型
-    * eva_model.py：在10%的训练数据上评测模型表现
-    * generate_test_labels.py: 在测试集上预测标签
-*辅助代码:
-    * split_data.py: 把训练集分成90%（用于训练）和10%（用于评测模型表现）
-    * back_translate.py: 用Google Translate API来增加训练数据
-    * convert_data.py: 把数据从xml转换成txt，把数字标签转换为易理解的文字标签
-    * data_provider.py: 读取数据，为训练做准备
-    * filter_wordemb.py: 基于train和test data过滤预训练词向量，只保留data中出现的词（目前的wiki词向量已过滤好）
+1. 核心代码：
+      1. conf.py: 设置各种参数
+      2. multi_cgru_keras.py: 模型结构
+      3. train.py: 在90%的训练数据上训练模型
+      4. eva_model.py：在10%的训练数据上评测模型表现
+      5. generate_test_labels.py: 在测试集上预测标签
+2. 辅助代码:
+      1. split_data.py: 把训练集分成90%（用于训练）和10%（用于评测模型表现）
+      2. back_translate.py: 用Google Translate API来增加训练数据
+      3. convert_data.py: 把数据从xml转换成txt，把数字标签转换为易理解的文字标签
+      4. data_provider.py: 读取数据，为训练做准备
+      5. filter_wordemb.py: 基于train和test data过滤预训练词向量，只保留data中出现的词（目前的wiki词向量已过滤好）
 
 # How to run code
 1. 在conf.py中设置相关参数
