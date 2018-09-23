@@ -118,7 +118,7 @@ patience = 5
 monitor = 'val_loss'
 
 #  smooth factor for category weight; see function get_class_weights in train.py
-smooth_factor = 0.01
+smooth_factor = 0.001
 
 # model name
 model_name = '{}_{}_{}_{}_{}_{}_{}_{}_{}'.format(key, mode, 'w2v' if w2v else 'rand', split, w2vname, smooth_factor, l2, cnn_dropout, extended)
