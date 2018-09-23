@@ -71,7 +71,7 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
     3. 动词、名词的subcategory
     4. Dependency relation
     5. 通过观察数据，考察虚词在两个子任务中起到的作用，再决定将虚词的哪些信息加入模型。虚词：什么样的信息有帮助？
-    6. ...
+    6. 增加训练语料：用其他英文语料翻译回来，补充训练语料
 2. 尝试其他模型结构：
     1. 直接使用Embedding作为分类特征（参考'Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms'一文）
     2. 使用Transformer最为sentence encoder（参见'Attention Is All You Need'一文)
