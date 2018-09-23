@@ -49,8 +49,11 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 2. 基于NN Bseline，尝试以下feature：
     1. 优化Embedding层
         1. 用pre-trained embedding替代模型自己学习的embedding，task2最好表现约50%
+        2. 字词向量拼接：配合减小smooth参数，task2 macro f - 39.6%
     2. Back Translation
         1. Google Translate 6种语言，实验了几种过滤方法，task2最好表现约53%
+    3. 其他模型结构
+        1. LSTM+fully connected：task2 macro f - 40%
 3. 一点Error analysis：
     1. 观察到overfitting严重，故尝试调整l2(↑), dropout(↑), smooth(↓)，但并未发现大的改变；同时发现同一模型表现不稳定（task2多次运行差距可达10%）
     2. Bad case其中有一部分是有转折的句子（e.g. 包含“怎么可能没”“无法”“既然”等词语）
@@ -61,9 +64,8 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 ## Todolist
 1. 基于NN baseline尝试更多feature:
     1. 继续优化Embedding层
-        1. 字词向量拼接
-        2. 使用其他pre-trained embedding: e.g. 基于Penn State隐喻语料库训练的embedding, ELMo Embedding等
-        3. Universal Language Model Fine-tuning for Text Classification
+        1. 使用其他pre-trained embedding: e.g. 基于Penn State隐喻语料库训练的embedding, ELMo Embedding等
+        2. Universal Language Model Fine-tuning for Text Classification
     2. 将情感词库加入nn:
         1. 问题：如何将情感词汇对应的label信息加入进来？对label做embedding
     3. 动词、名词的subcategory
@@ -77,7 +79,6 @@ CCL 2018 Shared Task - 中文隐喻识别与情感分析
 3. Error analysis: 总结错误中的pattern, 分析模型误判的可能原因、各类隐喻的分布及语言学特征
 4. task1/2分别调参
 5. 整理数据中的标注错误，联系组委询问
-6. 拉其他成员？
 
 ## Resources
 1. Penn State中文隐喻语料库(http://www.personal.psu.edu/xxl13/download.html)
