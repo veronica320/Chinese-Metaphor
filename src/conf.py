@@ -8,9 +8,13 @@ key = ['verb', 'emo'][1]
 extended = ['', '_extended'][1]
 
 # use 90% tranining data to train
-trainfile = '../data/{}_train_0.9{}.txt'.format(key, extended)
+trainfile = '../data/tokenized_data/{}_train_0.9{}_tokenized.txt'.format(key, extended)
+trainsplitfile = '../data/tokenized_data/{}_train_0.1_tokenized.txt'.format(key)
 valfile = None
-testfile = '../data/{}_test.txt'.format(key)
+testfile = '../data/tokenized_data/{}_test_tokenized.txt'.format(key)
+
+# path to lexicon
+lexicon = '../lexicon/lexicon.txt'
 
 #  number of filters for CNN kernels
 nb_filter = [128, 256, 128]
@@ -43,7 +47,7 @@ w2vdim = 300
 w2vname = ['wiki', 'baidu', 'lit'][0]
 
 # character-based or word-based
-mode = ['char', 'word', 'char_word'][0]
+mode = ['char', 'word', 'charword'][2]
 
 # True if input is already segmented
 # segged = [True, False][1]
@@ -61,30 +65,30 @@ if mode == 'char':
         c2idic = json.load(f)
     cvsize = len(c2idic)
     if w2v:
-        with open('../pretrained_emb/' + w2vname + '.json') as f:
+        with open('../pretrained_emb/' + w2vname + '_char.json') as f:
             ci2v = json.load(f)
 elif mode == 'word':
     wi2v = None
-    with open('../dicts/yingxiao_mix_w2i.json', 'r') as f:
+    with open('../dicts/vocab_word.json', 'r') as f:
         w2idic = json.load(f)
     wvsize = len(w2idic)
     if w2v:
-        with open('../pretrained_emb/yingxiao_mix.json', 'r') as f:
+        with open('../pretrained_emb/' + w2vname + '_word.json', 'r') as f:
             wi2v = json.load(f)
-elif mode == 'char_word':
+elif mode == 'charword':
     ci2v = None
     with open('../dicts/vocab_char.json', 'r') as f:
         c2idic = json.load(f)
     cvsize = len(c2idic)
     if w2v:
-        with open('../pretrained_emb/yx_char.json', 'r') as f:
+        with open('../pretrained_emb/' + w2vname + '_char.json') as f:
             ci2v = json.load(f)
     wi2v = None
-    with open('../dicts/vocab_char.json', 'r') as f:
+    with open('../dicts/vocab_word.json', 'r') as f:
         w2idic = json.load(f)
     wvsize = len(w2idic)
     if w2v:
-        with open('../pretrained_emb/yingxiao_mix.json', 'r') as f:
+        with open('../pretrained_emb/' + w2vname + '_word.json', 'r') as f:
             wi2v = json.load(f)
 
 # property json file; format: {property: index}
@@ -114,10 +118,10 @@ patience = 5
 monitor = 'val_loss'
 
 #  smooth factor for category weight; see function get_class_weights in train.py
-smooth_factor = 0.1
+smooth_factor = 0.01
 
 # model name
-model_name = '{}_{}_{}_{}_{}_{}_{}_{}'.format(key, mode, 'w2v' if w2v else 'rand', split, w2vname, smooth_factor, l2, cnn_dropout)
+model_name = '{}_{}_{}_{}_{}_{}_{}_{}_{}'.format(key, mode, 'w2v' if w2v else 'rand', split, w2vname, smooth_factor, l2, cnn_dropout, extended)
 
 # model path
 model_path = '../models/' + model_name.split('_')[0] + '/' + '_'.join(model_name.split('_')[1:])

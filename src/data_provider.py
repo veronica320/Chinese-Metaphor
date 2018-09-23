@@ -7,14 +7,12 @@ import operator
 import copy
 
 # tokenize a sentence with space
-def tokenize(string, mode='word'):
+def tokenize(string, mode='char'):
 	if mode == 'char':
 		return re.sub('\s+', ' ', ' '.join(list(string)))  # 'a b c .'
-	else:
-		return string
 
 # get sentence list and label list from data file
-def read_csv(datafile, mode, input_num, rel_dic, train=True):
+def read_csv(datafile, mode, input_num, rel_dic, train=True, lexicon=None):
 	lines = list(open(datafile, "r").readlines())
 
 	sent_lists = {}
@@ -27,7 +25,10 @@ def read_csv(datafile, mode, input_num, rel_dic, train=True):
 			line = line.strip('\n').split('\t')[1:]
 			if line:
 				for i in range(input_num):
-					sent = tokenize(line[i], mode)
+					if mode == 'char':
+						sent = tokenize(line[i], mode)
+					else:
+						sent = line[i]
 					sent_lists['{}'.format(i)].append(sent)
 				if train:
 					lab = line[-1]
@@ -82,9 +83,9 @@ def build_w2v(i2v, w2idic, dim):
 				pass
 	return embedding_matrix
 
-def load_data(datafile, maxlen, nb_class, rel_dic, mode, input_num, shuffle, w2v, ci2v, wi2v, w2vdim, w2idic, c2idic, info=False, train=True):
+def load_data(datafile, maxlen, nb_class, rel_dic, mode, input_num, shuffle, w2v, ci2v, wi2v, w2vdim, w2idic, c2idic, info=False, train=True, lexicon=None):
 	print('Loading training data...')
-	q, label = read_csv(datafile, mode, input_num, rel_dic, train)  # q = {'1': ['a b', 'x y'], '2': [q3, q4]}
+	q, label = read_csv(datafile, mode, input_num, rel_dic, train, lexicon)  # q = {'1': ['a b', 'x y'], '2': [q3, q4]}
 	nb_class_train = len(set(label))
 	nb_train = [(i, Counter(label)[i]) if i in Counter(label) else (i, 0) for i in range(nb_class)]
 	nb_train = sorted(nb_train, key=operator.itemgetter(1), reverse=True)
@@ -112,10 +113,10 @@ def load_data(datafile, maxlen, nb_class, rel_dic, mode, input_num, shuffle, w2v
 		if mode == "char":
 			x_k = w2i(q[k], maxlen, c2idic)
 			x.append(x_k)
-		if mode == "word":
+		elif mode == "word":
 			x_k = w2i(q[k], maxlen, w2idic)
 			x.append(x_k)
-		if mode == "char_word":
+		else:
 			x_k, x_w_k = cw2i(q[k], maxlen, c2idic, w2idic)
 			x.append(x_k)
 			x_w.append(x_w_k)
@@ -131,10 +132,10 @@ def load_data(datafile, maxlen, nb_class, rel_dic, mode, input_num, shuffle, w2v
 		if mode == 'char':
 			char_mat = build_w2v(ci2v, c2idic, w2vdim)
 			word_mat = 0
-		if mode == 'word':
+		elif mode == 'word':
 			char_mat = 0
 			word_mat = build_w2v(wi2v, w2idic, w2vdim)
-		if mode == 'char_word':
+		else:
 			char_mat = build_w2v(ci2v, c2idic, w2vdim)
 			word_mat = build_w2v(wi2v, w2idic, w2vdim)
 		print('w2v weights done!')
